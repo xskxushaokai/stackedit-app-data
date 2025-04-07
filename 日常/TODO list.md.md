@@ -56,7 +56,7 @@
 周四（0403）15、23班 -> 班主任安排
 
 
-==【第9周待办】== （清明请假）
+==【第9周待办】== 
 - 将编程课堂教学讲义发布到洛谷专栏
 	- [ ] 尝试在讲课前发布，学生可以预习，上课可以参考
 - 准备第10周公开课
@@ -73,6 +73,6 @@
 	- [ ] 验证AutoDL平台qwq-32B环境
 	- [ ] 收集学生评价、评语数据
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA5NTc1OTAsMTUyMzgzNzEyNywtMT
-YyMDIzNTYyMl19
+eyJoaXN0b3J5IjpbMTUyMTY3Nzg1OCwxNTIzODM3MTI3LC0xNj
+IwMjM1NjIyXX0=
 -->
