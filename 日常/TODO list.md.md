@@ -63,6 +63,10 @@
 - 将编程课堂教学讲义发布到洛谷专栏
 	- [ ] 尝试在讲课前发布，学生可以预习，上课可以参考
 - 准备第10周公开课
+
+- 数字化校园统计
+	- [x] 修改学生请假统计程序，增加事假和病假统计
+
 -  雨校发票下载应用交付
 	- [ ] 拿到学生身份证号，完成发票数据上传
 	- [ ] 生产环境发布应用，校内测试
@@ -96,6 +100,6 @@
 	- [ ] 验证AutoDL平台qwq-32B环境
 	- [ ] 收集学生评价、评语数据
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1MTI0NzcxLDE1MjM4MzcxMjcsLTE2Mj
-AyMzU2MjJdfQ==
+eyJoaXN0b3J5IjpbLTM0MzYyOTI3NCwxNTIzODM3MTI3LC0xNj
+IwMjM1NjIyXX0=
 -->
