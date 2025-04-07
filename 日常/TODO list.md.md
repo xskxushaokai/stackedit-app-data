@@ -99,11 +99,11 @@
 	- [ ] 完成 ==【洛谷题单021】==
 	- [ ] ==【指针了解+sort排序函数】== 备课
 - 智能体设计比赛，设计教学活动并实施，课堂实录
-- 论文定稿h
+- 论文定稿和提交
 - 教学评价大模型微调
 	- [ ] 验证AutoDL平台qwq-32B环境
 	- [ ] 收集学生评价、评语数据
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTAwMzI4NzgsMTUyMzgzNzEyNywtMT
+eyJoaXN0b3J5IjpbLTE4NDc4Nzg3MTAsMTUyMzgzNzEyNywtMT
 YyMDIzNTYyMl19
 -->
