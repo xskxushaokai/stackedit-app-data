@@ -84,8 +84,10 @@
 - 将编程课堂教学讲义发布到洛谷专栏
 	- [ ] 尝试在讲课前发布，学生可以预习，上课可以参考
 - 准备第10周公开课
-- 优化统计程序
-- 最强大脑，姿态估计应用
+- 数字化校园统计
+	- [ ] 校本课统计程序，按课程统计未评价课程
+- 最强大脑
+	- [ ] 姿态估计应用
 
 -  雨校发票下载应用交付
 	- [ ] 拿到学生身份证号，完成发票数据上传
@@ -100,6 +102,6 @@
 	- [ ] 验证AutoDL平台qwq-32B环境
 	- [ ] 收集学生评价、评语数据
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzYyOTI3NCwxNTIzODM3MTI3LC0xNj
+eyJoaXN0b3J5IjpbMTIxNTA0MDc1MiwxNTIzODM3MTI3LC0xNj
 IwMjM1NjIyXX0=
 -->
