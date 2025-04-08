@@ -61,7 +61,7 @@
 #### 第8周总结与第9周计划
 ==【第8周已完成】== （清明请假）
 - 将编程课堂教学讲义发布到洛谷专栏
-	- [ ] 尝试在讲课前发布，学生可以预习，上课可以参考
+	- [x] 尝试在讲课前发布，学生可以预习，上课可以参考
 - 准备第10周公开课
 
 - 数字化校园统计
@@ -104,6 +104,6 @@
 	- [ ] 验证AutoDL平台qwq-32B环境
 	- [ ] 收集学生评价、评语数据
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc4Nzg3MTAsMTUyMzgzNzEyNywtMT
-YyMDIzNTYyMl19
+eyJoaXN0b3J5IjpbLTE3ODY0MjY3NjYsLTE4NDc4Nzg3MTAsMT
+UyMzgzNzEyNywtMTYyMDIzNTYyMl19
 -->
