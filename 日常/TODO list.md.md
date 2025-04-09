@@ -103,9 +103,9 @@
 	- [ ] 生产环境发布应用，校内测试
 
 ---
-经过三轮烧脑比拼，大家累不累？
+经过三轮烧脑比拼，大家累不累？（台下互动）别急，老师准备了双重惊喜！接下来，我们共同来体验基于计算机视觉
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzIwOTEwNzEsMTk2ODc5NzkyMCwtND
-UzODQzNDA4LC0xODQ3ODc4NzEwLDE1MjM4MzcxMjcsLTE2MjAy
-MzU2MjJdfQ==
+eyJoaXN0b3J5IjpbMTc3Njk3NTcyMSwtMjEzMjA5MTA3MSwxOT
+Y4Nzk3OTIwLC00NTM4NDM0MDgsLTE4NDc4Nzg3MTAsMTUyMzgz
+NzEyNywtMTYyMDIzNTYyMl19
 -->
