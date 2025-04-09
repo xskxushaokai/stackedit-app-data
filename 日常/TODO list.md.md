@@ -83,10 +83,10 @@
 ==【第9周待办】== 
 - 准备第10周公开课
 - 数字化校园统计
-	- [ ] 校本课统计程序，按课程统计未评价课程
+	- [x] 校本课统计程序，按课程统计未评价课程
 - 最强大脑
 	- [ ] 姿态估计应用程序
-	- [ ] 会场摄像头布置
+	- [x] 会场摄像头布置
 - ==【课题申报书】== 撰写
 - 尝试构建信奥赛学习的团队知识库(ima平台)
 - C++编程教学
@@ -102,6 +102,6 @@
 	- [ ] 拿到学生身份证号，完成发票数据上传
 	- [ ] 生产环境发布应用，校内测试
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mzg0MzQwOCwtMTg0Nzg3ODcxMCwxNT
-IzODM3MTI3LC0xNjIwMjM1NjIyXX0=
+eyJoaXN0b3J5IjpbMTk2ODc5NzkyMCwtNDUzODQzNDA4LC0xOD
+Q3ODc4NzEwLDE1MjM4MzcxMjcsLTE2MjAyMzU2MjJdfQ==
 -->
