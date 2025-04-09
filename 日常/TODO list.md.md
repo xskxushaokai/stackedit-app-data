@@ -103,9 +103,10 @@
 	- [ ] 生产环境发布应用，校内测试
 
 ---
-经过三轮烧脑比拼，大家累不累？（台下互动）别急，老师准备了双重惊喜！听说很多同学最近都有在努力练习仰卧起坐，接下来，我们就共同体验基于计算机视觉
+经过三轮烧脑比拼，大家累不累？（台下互动）别急，老师准备了双重惊喜！听说很多同学最近都有在努力练习仰卧起坐，老师今天为大家带来了一个AI裁判，它可以基于视觉人体姿态估计算法，来实时
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjQyMjI4LDE3NzY5NzU3MjEsLTIxMz
-IwOTEwNzEsMTk2ODc5NzkyMCwtNDUzODQzNDA4LC0xODQ3ODc4
-NzEwLDE1MjM4MzcxMjcsLTE2MjAyMzU2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE1MDA2NDkzOTAsMjA4NjQyMjI4LDE3Nz
+Y5NzU3MjEsLTIxMzIwOTEwNzEsMTk2ODc5NzkyMCwtNDUzODQz
+NDA4LC0xODQ3ODc4NzEwLDE1MjM4MzcxMjcsLTE2MjAyMzU2Mj
+JdfQ==
 -->
