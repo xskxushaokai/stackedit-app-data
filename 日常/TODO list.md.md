@@ -103,10 +103,10 @@
 	- [ ] 生产环境发布应用，校内测试
 
 ---
-经过三轮烧脑比拼，大家累不累？（台下互动）别急，老师准备了双重惊喜！听说很多同学最近都有在努力练习仰卧起坐，老师今天为大家带来了一个AI裁判，它可以基于视觉人体姿态估计算法，来实时评判同学们仰卧起坐动作是否标准，同时实时统计完成数量。有没有同学想来体验？
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDczNDk0Miw4OTgwNzI1NjQsMjA4Nj
-QyMjI4LDE3NzY5NzU3MjEsLTIxMzIwOTEwNzEsMTk2ODc5Nzky
-MCwtNDUzODQzNDA4LC0xODQ3ODc4NzEwLDE1MjM4MzcxMjcsLT
-E2MjAyMzU2MjJdfQ==
+eyJoaXN0b3J5IjpbLTUxMTQ0NDA3MSwxNzk0NzM0OTQyLDg5OD
+A3MjU2NCwyMDg2NDIyMjgsMTc3Njk3NTcyMSwtMjEzMjA5MTA3
+MSwxOTY4Nzk3OTIwLC00NTM4NDM0MDgsLTE4NDc4Nzg3MTAsMT
+UyMzgzNzEyNywtMTYyMDIzNTYyMl19
 -->
