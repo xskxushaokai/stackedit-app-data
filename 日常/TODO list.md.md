@@ -101,7 +101,11 @@
 -  雨校发票下载应用交付【暂缓】
 	- [ ] 拿到学生身份证号，完成发票数据上传
 	- [ ] 生产环境发布应用，校内测试
+
+---
+经过三轮烧脑比拼，大家累不累？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODc5NzkyMCwtNDUzODQzNDA4LC0xOD
-Q3ODc4NzEwLDE1MjM4MzcxMjcsLTE2MjAyMzU2MjJdfQ==
+eyJoaXN0b3J5IjpbLTIxMzIwOTEwNzEsMTk2ODc5NzkyMCwtND
+UzODQzNDA4LC0xODQ3ODc4NzEwLDE1MjM4MzcxMjcsLTE2MjAy
+MzU2MjJdfQ==
 -->
