@@ -161,6 +161,7 @@
 	- [x] ==【冒泡排序】== 备课
 - [ ] 智能体设计比赛，设计教学活动并实施，课堂实录
 - [ ] 论文定稿和提交
+- [ ] 姿态估计应用程序完善，作为科创比赛作品
 - 尝试构建信奥赛学习的团队知识库(ima平台)
 - 教学评价大模型微调
 	- [ ] 验证AutoDL平台qwq-32B环境
@@ -171,9 +172,9 @@
 	- [ ] 生产环境发布应用，校内测试
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2NDc0NzA2LC0xMDk3MDg0OTM5LC0xMj
-Q2NzMxOTM0LC01MTE0NDQwNzEsMTc5NDczNDk0Miw4OTgwNzI1
-NjQsMjA4NjQyMjI4LDE3NzY5NzU3MjEsLTIxMzIwOTEwNzEsMT
-k2ODc5NzkyMCwtNDUzODQzNDA4LC0xODQ3ODc4NzEwLDE1MjM4
-MzcxMjcsLTE2MjAyMzU2MjJdfQ==
+eyJoaXN0b3J5IjpbODQzOTYxODUyLDI2NjQ3NDcwNiwtMTA5Nz
+A4NDkzOSwtMTI0NjczMTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5
+NDIsODk4MDcyNTY0LDIwODY0MjIyOCwxNzc2OTc1NzIxLC0yMT
+MyMDkxMDcxLDE5Njg3OTc5MjAsLTQ1Mzg0MzQwOCwtMTg0Nzg3
+ODcxMCwxNTIzODM3MTI3LC0xNjIwMjM1NjIyXX0=
 -->
