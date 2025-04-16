@@ -114,8 +114,8 @@
 - [ ] ==【课题申报书】== 撰写【进行中】
 - 尝试构建信奥赛学习的团队知识库(ima平台)
 - C++编程教学
-	- [x] 完成 ==【洛谷题单021】递归==
-	- [ ] ==【指针了解+sort排序函数】== 备课
+	- [x] 完成 ==【洛谷题单024】递归==
+	- [x] 递归讲题
 - 智能体设计比赛，设计教学活动并实施，课堂实录
 - 论文定稿和提交
 - 教学评价大模型微调
@@ -151,9 +151,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4OTExMDAsLTEwOTcwODQ5MzksLTEyND
-Y3MzE5MzQsLTUxMTQ0NDA3MSwxNzk0NzM0OTQyLDg5ODA3MjU2
-NCwyMDg2NDIyMjgsMTc3Njk3NTcyMSwtMjEzMjA5MTA3MSwxOT
-Y4Nzk3OTIwLC00NTM4NDM0MDgsLTE4NDc4Nzg3MTAsMTUyMzgz
-NzEyNywtMTYyMDIzNTYyMl19
+eyJoaXN0b3J5IjpbMTMwNjE4MjYxMCwtMTA5NzA4NDkzOSwtMT
+I0NjczMTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsODk4MDcy
+NTY0LDIwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkxMDcxLD
+E5Njg3OTc5MjAsLTQ1Mzg0MzQwOCwtMTg0Nzg3ODcxMCwxNTIz
+ODM3MTI3LC0xNjIwMjM1NjIyXX0=
 -->
