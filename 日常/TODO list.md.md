@@ -152,13 +152,13 @@
 ==【第10周已完成】== 
 - [x] 科组公开课：《移动互联新发展》
 - [ ] 数字化校园统计
-- 最强大脑
+- [x] 最强大脑 T部活动
 	- [x] 姿态估计应用程序
 - [ ] ==【课题申报书】== 撰写
 
-- C++编程教学
-	- [ ]  ==【洛谷题单025 排序】==
-	- [ ] ==【冒泡排序】== 备课
+- [ ] C++编程教学
+	- [x]  ==【洛谷题单025 排序】==
+	- [x] ==【冒泡排序】== 备课
 - 智能体设计比赛，设计教学活动并实施，课堂实录
 - 论文定稿和提交
 - 尝试构建信奥赛学习的团队知识库(ima平台)
@@ -171,7 +171,7 @@
 	- [ ] 生产环境发布应用，校内测试
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODY4Mzc4NywtMTA5NzA4NDkzOSwtMT
+eyJoaXN0b3J5IjpbLTg0MTUyOTE5MCwtMTA5NzA4NDkzOSwtMT
 I0NjczMTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsODk4MDcy
 NTY0LDIwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkxMDcxLD
 E5Njg3OTc5MjAsLTQ1Mzg0MzQwOCwtMTg0Nzg3ODcxMCwxNTIz
