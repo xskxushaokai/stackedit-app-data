@@ -147,12 +147,33 @@
 	- [ ] 拿到学生身份证号，完成发票数据上传
 	- [ ] 生产环境发布应用，校内测试
 
+---
+#### 第10周总结与第11周计划
+==【第10周已完成】== 
+- [x] 科组公开课：《移动互联新发展》
+- [ ] 数字化校园统计
+- 最强大脑
+	- [x] 姿态估计应用程序
+- [ ] ==【课题申报书】== 撰写
 
+- C++编程教学
+	- [ ]  ==【洛谷题单025 排序】==
+	- [ ] ==【冒泡排序】== 备课
+- 智能体设计比赛，设计教学活动并实施，课堂实录
+- 论文定稿和提交
+- 尝试构建信奥赛学习的团队知识库(ima平台)
+- 教学评价大模型微调
+	- [ ] 验证AutoDL平台qwq-32B环境
+	- [ ] 收集学生评价、评语数据
+
+-  雨校发票下载应用交付【暂缓】
+	- [ ] 拿到学生身份证号，完成发票数据上传
+	- [ ] 生产环境发布应用，校内测试
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MTA2NDM2LC0xMDk3MDg0OTM5LC0xMj
-Q2NzMxOTM0LC01MTE0NDQwNzEsMTc5NDczNDk0Miw4OTgwNzI1
-NjQsMjA4NjQyMjI4LDE3NzY5NzU3MjEsLTIxMzIwOTEwNzEsMT
-k2ODc5NzkyMCwtNDUzODQzNDA4LC0xODQ3ODc4NzEwLDE1MjM4
-MzcxMjcsLTE2MjAyMzU2MjJdfQ==
+eyJoaXN0b3J5IjpbMTY2ODY4Mzc4NywtMTA5NzA4NDkzOSwtMT
+I0NjczMTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsODk4MDcy
+NTY0LDIwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkxMDcxLD
+E5Njg3OTc5MjAsLTQ1Mzg0MzQwOCwtMTg0Nzg3ODcxMCwxNTIz
+ODM3MTI3LC0xNjIwMjM1NjIyXX0=
 -->
