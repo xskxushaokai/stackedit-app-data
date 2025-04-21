@@ -151,7 +151,7 @@
 #### 第10周总结与第11周计划
 ### ==【第10周已完成】== 
 - [x] 科组公开课：《移动互联新发展》
-- [ ] 数字化校园统计
+- [x] 数字化校园统计
 - [x] 最强大脑 T部活动
 	- [x] 姿态估计应用程序
 - [ ] ==【课题申报书】== 撰写
@@ -173,12 +173,27 @@
 
 
 ### ==【第11周待办】== 
+- [ ] ==【课题申报书】== 撰写
 
+- [ ] C++编程教学
+	- [ ]  ==【洛谷题单025 排序】==
+	- [ ] ==【冒泡排序】== 做ppt
+- [ ] 论文定稿和提交
+- [ ] 智能体设计比赛，设计教学活动并实施，课堂实录
+- [ ] 姿态估计应用程序完善，作为科创比赛作品
+- 尝试构建信奥赛学习的团队知识库(ima平台)
+- 教学评价大模型微调
+	-  验证AutoDL平台qwq-32B环境
+	- [ 收集学生评价、评语数据
+
+-  雨校发票下载应用交付【暂缓】
+	- [ ] 拿到学生身份证号，完成发票数据上传
+	- [ ] 生产环境发布应用，校内测试
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTYzOTYzMiw4NDM5NjE4NTIsMjY2ND
-c0NzA2LC0xMDk3MDg0OTM5LC0xMjQ2NzMxOTM0LC01MTE0NDQw
-NzEsMTc5NDczNDk0Miw4OTgwNzI1NjQsMjA4NjQyMjI4LDE3Nz
-Y5NzU3MjEsLTIxMzIwOTEwNzEsMTk2ODc5NzkyMCwtNDUzODQz
-NDA4LC0xODQ3ODc4NzEwLDE1MjM4MzcxMjcsLTE2MjAyMzU2Mj
-JdfQ==
+eyJoaXN0b3J5IjpbMTU1MDkxMjMxLDg0Mzk2MTg1MiwyNjY0Nz
+Q3MDYsLTEwOTcwODQ5MzksLTEyNDY3MzE5MzQsLTUxMTQ0NDA3
+MSwxNzk0NzM0OTQyLDg5ODA3MjU2NCwyMDg2NDIyMjgsMTc3Nj
+k3NTcyMSwtMjEzMjA5MTA3MSwxOTY4Nzk3OTIwLC00NTM4NDM0
+MDgsLTE4NDc4Nzg3MTAsMTUyMzgzNzEyNywtMTYyMDIzNTYyMl
+19
 -->
