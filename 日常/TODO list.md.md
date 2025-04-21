@@ -149,7 +149,7 @@
 
 ---
 #### 第10周总结与第11周计划
-==【第10周已完成】== 
+### ==【第10周已完成】== 
 - [x] 科组公开课：《移动互联新发展》
 - [ ] 数字化校园统计
 - [x] 最强大脑 T部活动
@@ -171,10 +171,14 @@
 	- [ ] 拿到学生身份证号，完成发票数据上传
 	- [ ] 生产环境发布应用，校内测试
 
+
+### ==【第11周待办】== 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzOTYxODUyLDI2NjQ3NDcwNiwtMTA5Nz
-A4NDkzOSwtMTI0NjczMTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5
-NDIsODk4MDcyNTY0LDIwODY0MjIyOCwxNzc2OTc1NzIxLC0yMT
-MyMDkxMDcxLDE5Njg3OTc5MjAsLTQ1Mzg0MzQwOCwtMTg0Nzg3
-ODcxMCwxNTIzODM3MTI3LC0xNjIwMjM1NjIyXX0=
+eyJoaXN0b3J5IjpbMjA2MTYzOTYzMiw4NDM5NjE4NTIsMjY2ND
+c0NzA2LC0xMDk3MDg0OTM5LC0xMjQ2NzMxOTM0LC01MTE0NDQw
+NzEsMTc5NDczNDk0Miw4OTgwNzI1NjQsMjA4NjQyMjI4LDE3Nz
+Y5NzU3MjEsLTIxMzIwOTEwNzEsMTk2ODc5NzkyMCwtNDUzODQz
+NDA4LC0xODQ3ODc4NzEwLDE1MjM4MzcxMjcsLTE2MjAyMzU2Mj
+JdfQ==
 -->
