@@ -174,7 +174,7 @@
 
 ### ==【第11周待办】== 
 - [ ] ==【课题申报书】== 撰写
-- [ ] ==粤港澳竞赛报名== 
+- [ ] ==大湾区竞赛报名== 
 - [ ] C++编程教学
 	- [ ]  ==【洛谷题单025 排序】==
 	- [ ] ==【冒泡排序】== 做ppt
@@ -190,7 +190,7 @@
 	- 拿到学生身份证号，完成发票数据上传
 	- 生产环境发布应用，校内测试
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODc0ODY5NCw4NDM5NjE4NTIsMjY2ND
+eyJoaXN0b3J5IjpbMTk3ODc0MjEyOSw4NDM5NjE4NTIsMjY2ND
 c0NzA2LC0xMDk3MDg0OTM5LC0xMjQ2NzMxOTM0LC01MTE0NDQw
 NzEsMTc5NDczNDk0Miw4OTgwNzI1NjQsMjA4NjQyMjI4LDE3Nz
 Y5NzU3MjEsLTIxMzIwOTEwNzEsMTk2ODc5NzkyMCwtNDUzODQz
