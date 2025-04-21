@@ -1,6 +1,6 @@
 
 ---
-#### 20250324 第7周计划
+## 20250324 第7周计划
 ==【待办事项】==
 - 编程课堂教学讲义发布到洛谷专栏
 - 雨校发票下载应用交付
@@ -14,7 +14,7 @@
 
 ---
 
-#### 第7周总结与第8周计划
+## 第7周总结与第8周计划
 ==【第7周已完成】==
 - 将编程课堂教学讲义发布到洛谷专栏
 	- [x] 已发布字符数组与字符串，继续跟踪学生的使用情况
@@ -58,7 +58,7 @@
 
 ---
 
-#### 第8周总结与第9周计划
+## 第8周总结与第9周计划
 ==【第8周已完成】== （清明请假）
 - 将编程课堂教学讲义发布到洛谷专栏
 	- [x] 尝试在讲课前发布，学生可以预习，上课可以参考
@@ -103,7 +103,7 @@
 	- [ ] 生产环境发布应用，校内测试
 
 ---
-#### 第9周总结与第10周计划
+## 第9周总结与第10周计划
 ==【第9周已完成】== 
 - [x] 准备第10周公开课
 - 数字化校园统计
@@ -148,7 +148,7 @@
 	- [ ] 生产环境发布应用，校内测试
 
 ---
-#### 第10周总结与第11周计划
+## 第10周总结与第11周计划
 ### ==【第10周已完成】== 
 - [x] 科组公开课：《移动互联新发展》
 - [x] 数字化校园统计
@@ -193,7 +193,7 @@
 
 
 ---
-#### 第10周总结与第11周计划
+## 第11周总结与第12周计划
 ### ==【第11周已完成】== 
 - [ ] ==【课题申报书】== 撰写
 - [ ] ==大湾区竞赛报名== 
@@ -212,10 +212,10 @@
 	- 拿到学生身份证号，完成发票数据上传
 	- 生产环境发布应用，校内测试
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1ODQ1NjA1LDg0Mzk2MTg1MiwyNjY0Nz
-Q3MDYsLTEwOTcwODQ5MzksLTEyNDY3MzE5MzQsLTUxMTQ0NDA3
-MSwxNzk0NzM0OTQyLDg5ODA3MjU2NCwyMDg2NDIyMjgsMTc3Nj
-k3NTcyMSwtMjEzMjA5MTA3MSwxOTY4Nzk3OTIwLC00NTM4NDM0
-MDgsLTE4NDc4Nzg3MTAsMTUyMzgzNzEyNywtMTYyMDIzNTYyMl
-19
+eyJoaXN0b3J5IjpbLTE5OTkwMDQ5MjMsODQzOTYxODUyLDI2Nj
+Q3NDcwNiwtMTA5NzA4NDkzOSwtMTI0NjczMTkzNCwtNTExNDQ0
+MDcxLDE3OTQ3MzQ5NDIsODk4MDcyNTY0LDIwODY0MjIyOCwxNz
+c2OTc1NzIxLC0yMTMyMDkxMDcxLDE5Njg3OTc5MjAsLTQ1Mzg0
+MzQwOCwtMTg0Nzg3ODcxMCwxNTIzODM3MTI3LC0xNjIwMjM1Nj
+IyXX0=
 -->
