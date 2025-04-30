@@ -43,8 +43,8 @@ int main() {
 }
 ```
 
-这里，`memset(numbers, 0, sizeof(numbers))` 将整个 `numbers` 数组的**每个字节**都设为 `0`，因此所有整数都被初始化为 `0`。注意，如果你尝试将非零值（例如 `-1`）通过这种方式赋给整数数组，则需要小心，因为这实际上会将每个字节设置为你指定的值，可能不会得到你预期的结果(`int`类型是32位，ye)。
+这里，`memset(numbers, 0, sizeof(numbers))` 将整个 `numbers` 数组的**每个字节**都设为 `0`，因此所有整数都被初始化为 `0`。注意，如果你尝试将非零值（例如 `-1`）通过这种方式赋给整数数组，则需要小心，因为这实际上会将每个字节设置为你指定的值，可能不会得到你预期的结果(`int`类型是32位，也就是4字节，每个字节都设置为-1后，得到的32位二进制数并不是-1对应的而二进制数)。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzExNzAzNCwxNTYxMTQzMjQ4XX0=
+eyJoaXN0b3J5IjpbLTIwNDYyNTEzODcsMTU2MTE0MzI0OF19
 -->
