@@ -7,7 +7,7 @@
 void *memset(void *str, int c, size_t n);
 ```
 
-**使用示例**
+#### 使用示例
 **初始化数组**
 ```cpp
 #include <stdio.h> 
@@ -23,8 +23,14 @@ int main() {
 ```
 此代码段将 `str` 数组的前10个字节设置为字符 `'A'`，然后手动添加一个空字符 `\0` 来结束字符串，最后打印结果。
 
+#### 初始化整型数组
 
+需要注意的是，当使用 `memset` 对整型数组进行初始化时，由于每个字节都会被设置为目标值，所以如果目标是将整型数组的所有元素设置为某个特定的数值（如0或-1），可以这样做：
+
+```cpp
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTQxMTA3MCwxNTYxMTQzMjQ4XX0=
+eyJoaXN0b3J5IjpbMTUwNTEyMjk5MywxNTYxMTQzMjQ4XX0=
 -->
