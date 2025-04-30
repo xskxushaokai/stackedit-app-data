@@ -8,7 +8,7 @@ void *memset(void *str, int c, size_t n);
 ```
 
 #### 使用示例
-**初始化数组**
+**初始化字符数组**
 ```cpp
 #include <stdio.h> 
 #include <string.h> 
@@ -52,6 +52,6 @@ int main() {
 -   `memset` 只能用于按字节设置内存内容，这意味着对于非字符数据类型（如整数、浮点数等），若想将其全部初始化为除0以外的值，需谨慎处理。
 -   当对较大的内存区域使用 `memset` 时，应该考虑性能影响。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTA3NTY4MSwtMTQ4NDA1NDIzNywxNT
-YxMTQzMjQ4XX0=
+eyJoaXN0b3J5IjpbLTEzNjcxMTgzMjAsMTQxMTA3NTY4MSwtMT
+Q4NDA1NDIzNywxNTYxMTQzMjQ4XX0=
 -->
