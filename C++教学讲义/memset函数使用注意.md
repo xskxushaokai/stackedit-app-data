@@ -25,12 +25,24 @@ int main() {
 
 #### 初始化整型数组
 
-需要注意的是，当使用 `memset` 对整型数组进行初始化时，由于每个字节都会被设置为目标值，所以如果目标是将整型数组的所有元素设置为某个特定的数值（如0或-1），可以这样做：
+需要注意的是，当使用 `memset` 对整型数组进行初始化时，由于每个字节都会被设置为目标值，所以如果目标是将整型数组的所有元素设置为0，可以这样做：
 
 ```cpp
-
+#include <stdio.h> 
+#include <string.h> 
+int main() { 
+	int numbers[5]; // 将numbers数组所有元素设置为0 
+	memset(numbers, 0, sizeof(numbers)); 
+	
+	for(int i = 0; i < 5; ++i) { 
+		printf("%d ", numbers[i]); 
+	} 
+	
+	printf("\n"); 
+	return 0; 
+}
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTEyMjk5MywxNTYxMTQzMjQ4XX0=
+eyJoaXN0b3J5IjpbMTg1MjQ1OTI3OCwxNTYxMTQzMjQ4XX0=
 -->
