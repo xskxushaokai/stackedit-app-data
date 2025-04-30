@@ -21,6 +21,10 @@ int main() {
 	return 0; 
 }
 ```
+此代码段将 `str` 数组的前10个字节设置为字符 `'A'`，然后手动添加一个空字符 `\0` 来结束字符串，最后打印结果。
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2NDg3ODk2LDE1NjExNDMyNDhdfQ==
+eyJoaXN0b3J5IjpbMjAwMTQxMTA3MCwxNTYxMTQzMjQ4XX0=
 -->
