@@ -7,6 +7,8 @@
 void *memset(void *str, int c, size_t n);
 ```
 
+**使用示例**
+**初始化数组**
 ```cpp
 #include <stdio.h> 
 #include <string.h> 
@@ -20,5 +22,5 @@ int main() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTE0MzI0OF19
+eyJoaXN0b3J5IjpbOTI2NDg3ODk2LDE1NjExNDMyNDhdfQ==
 -->
