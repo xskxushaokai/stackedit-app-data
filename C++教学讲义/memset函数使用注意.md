@@ -3,9 +3,22 @@
 
 `memset` 是一个C/C++标准库函数，用于将一块内存区域的内容设置为指定的值。它通常用于初始化数组或结构体等数据结构。以下是 `memset` 的基本用法及其参数说明：
 
-```c
+```cpp
 void *memset(void *str, int c, size_t n);
 ```
+
+```cpp
+#include <stdio.h> 
+#include <string.h> 
+
+int main() { 
+	char str[50]; // 将str前10个字节设置为字符'A' 
+	memset(str, 'A', 10); 
+	str[10] = '\0'; // 确保字符串以null结尾 
+	printf("String after memset: %s\n", str); 
+	return 0; 
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTExOTA0MDddfQ==
+eyJoaXN0b3J5IjpbMTU2MTE0MzI0OF19
 -->
