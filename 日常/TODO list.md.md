@@ -220,8 +220,9 @@
 - [ ] C++编程教学
 	- [ ]  【洛谷题单 023递推】
 	- [ ] 【贪心算法讲义】
-- [ ] ==双融双创== 论文定稿、查重、盖章、提交 （0523）
-- [ ] 智能体设计比赛，设计教学活动并实施，课堂实录
+- [ ] ==双融双创== 论文定稿、查重、盖章、提交 （0523前）
+- [ ] 广东省人工zhi
+
 - [ ] 姿态估计应用程序完善，作为科创比赛作品
 - 尝试构建信奥赛学习的团队知识库(ima平台)
 - 教学评价大模型微调
@@ -232,15 +233,17 @@
 	- 拿到学生身份证号，完成发票数据上传
 	- 生产环境发布应用，校内测试
 
+- [ ] ~~智能体设计比赛，设计教学活动并实施，课堂实录~~
+
 **【本学期已完成】**
 - [x] 课题申报
 - [x] 《东华论教》论文征集提交
 - [x] 青少年活动中心暑期集训3名入选
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNDUxMDM4LC0xOTk5MDA0OTIzLDg0Mz
-k2MTg1MiwyNjY0NzQ3MDYsLTEwOTcwODQ5MzksLTEyNDY3MzE5
-MzQsLTUxMTQ0NDA3MSwxNzk0NzM0OTQyLDg5ODA3MjU2NCwyMD
-g2NDIyMjgsMTc3Njk3NTcyMSwtMjEzMjA5MTA3MSwxOTY4Nzk3
-OTIwLC00NTM4NDM0MDgsLTE4NDc4Nzg3MTAsMTUyMzgzNzEyNy
-wtMTYyMDIzNTYyMl19
+eyJoaXN0b3J5IjpbLTIwMDA0NTA1NzQsLTE5OTkwMDQ5MjMsOD
+QzOTYxODUyLDI2NjQ3NDcwNiwtMTA5NzA4NDkzOSwtMTI0Njcz
+MTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsODk4MDcyNTY0LD
+IwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkxMDcxLDE5Njg3
+OTc5MjAsLTQ1Mzg0MzQwOCwtMTg0Nzg3ODcxMCwxNTIzODM3MT
+I3LC0xNjIwMjM1NjIyXX0=
 -->
