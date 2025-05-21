@@ -218,9 +218,9 @@
 ## 第15周总结
 ### ==【第15周已完成】== 
 - [ ] C++编程教学
-	- [ ]  【洛谷题单递推】
+	- [ ]  【洛谷题单 023递推】
 	- [ ] 【贪心算法讲义】
-- [ ] ==论文定稿和提交==
+- [ ] ==双融双创== 论文定稿、查重、盖章、提交 （0523）
 - [ ] 智能体设计比赛，设计教学活动并实施，课堂实录
 - [ ] 姿态估计应用程序完善，作为科创比赛作品
 - 尝试构建信奥赛学习的团队知识库(ima平台)
@@ -237,10 +237,10 @@
 - [x] 《东华论教》论文征集提交
 - [x] 青少年活动中心暑期集训3名入选
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA2MTk0NzEsLTE5OTkwMDQ5MjMsOD
-QzOTYxODUyLDI2NjQ3NDcwNiwtMTA5NzA4NDkzOSwtMTI0Njcz
-MTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsODk4MDcyNTY0LD
-IwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkxMDcxLDE5Njg3
-OTc5MjAsLTQ1Mzg0MzQwOCwtMTg0Nzg3ODcxMCwxNTIzODM3MT
-I3LC0xNjIwMjM1NjIyXX0=
+eyJoaXN0b3J5IjpbMjIzNDUxMDM4LC0xOTk5MDA0OTIzLDg0Mz
+k2MTg1MiwyNjY0NzQ3MDYsLTEwOTcwODQ5MzksLTEyNDY3MzE5
+MzQsLTUxMTQ0NDA3MSwxNzk0NzM0OTQyLDg5ODA3MjU2NCwyMD
+g2NDIyMjgsMTc3Njk3NTcyMSwtMjEzMjA5MTA3MSwxOTY4Nzk3
+OTIwLC00NTM4NDM0MDgsLTE4NDc4Nzg3MTAsMTUyMzgzNzEyNy
+wtMTYyMDIzNTYyMl19
 -->
