@@ -217,11 +217,9 @@
 ---
 ## 第15周总结
 ### ==【第15周已完成】== 
-
-- [ ] ==大湾区竞赛报名== 
 - [ ] C++编程教学
-	- [ ]  ==【洛谷题单025 排序】==
-	- [ ] ==【冒泡排序】== 做ppt
+	- [ ]  【洛谷题单递推】
+	- [ ] 【贪心算法讲义】
 - [ ] ==论文定稿和提交==
 - [ ] 智能体设计比赛，设计教学活动并实施，课堂实录
 - [ ] 姿态估计应用程序完善，作为科创比赛作品
@@ -237,12 +235,12 @@
 **【本学期已完成】**
 - [x] 课题申报
 - [x] 《东华论教》论文征集提交
-- [x] 
+- [x] 青少年活动中心暑期集训3名入选
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTgxMDcxOSwtMTk5OTAwNDkyMyw4ND
-M5NjE4NTIsMjY2NDc0NzA2LC0xMDk3MDg0OTM5LC0xMjQ2NzMx
-OTM0LC01MTE0NDQwNzEsMTc5NDczNDk0Miw4OTgwNzI1NjQsMj
-A4NjQyMjI4LDE3NzY5NzU3MjEsLTIxMzIwOTEwNzEsMTk2ODc5
-NzkyMCwtNDUzODQzNDA4LC0xODQ3ODc4NzEwLDE1MjM4MzcxMj
-csLTE2MjAyMzU2MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTA2MTk0NzEsLTE5OTkwMDQ5MjMsOD
+QzOTYxODUyLDI2NjQ3NDcwNiwtMTA5NzA4NDkzOSwtMTI0Njcz
+MTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsODk4MDcyNTY0LD
+IwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkxMDcxLDE5Njg3
+OTc5MjAsLTQ1Mzg0MzQwOCwtMTg0Nzg3ODcxMCwxNTIzODM3MT
+I3LC0xNjIwMjM1NjIyXX0=
 -->
