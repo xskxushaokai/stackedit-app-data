@@ -234,9 +234,12 @@
 	- 拿到学生身份证号，完成发票数据上传
 	- 生产环境发布应用，校内测试
 
-
+**【本学期已完成】**
+- [x] 课题申报
+- [x] 《东华论教》论文征集提交
+- [x] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDY5NjY0MCwtMTk5OTAwNDkyMyw4ND
+eyJoaXN0b3J5IjpbMTA4OTgxMDcxOSwtMTk5OTAwNDkyMyw4ND
 M5NjE4NTIsMjY2NDc0NzA2LC0xMDk3MDg0OTM5LC0xMjQ2NzMx
 OTM0LC01MTE0NDQwNzEsMTc5NDczNDk0Miw4OTgwNzI1NjQsMj
 A4NjQyMjI4LDE3NzY5NzU3MjEsLTIxMzIwOTEwNzEsMTk2ODc5
