@@ -247,9 +247,9 @@
 
 第二点，跟大家聊一下信奥赛获奖对升学的帮助到底有多大。
 CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分孩子都可以拿到复赛的奖项，根据往年情况来看，拿到CSP-S二等奖以上的同学在东莞市各大高中的科技特长生录取通道中拥有很大的优势。这一条目标是相对容易达成的。
-如果初中阶段能够拿到CSP-S复赛奖项，高一
+如果初中阶段能够拿到CSP-S复赛奖项，且中考后经过集训，高一入学后参加NOIP获奖的概率也相对较大，成绩在二等奖以上，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjAyMDA1MDksLTE2NDE2NjAxNzgsMT
+eyJoaXN0b3J5IjpbLTE3NjMwNzYwOTgsLTE2NDE2NjAxNzgsMT
 Y4NDUwOTk5NiwtODYyMTUwMjE0LDQ4NzAzMjYxOCwtMTk5OTAw
 NDkyMyw4NDM5NjE4NTIsMjY2NDc0NzA2LC0xMDk3MDg0OTM5LC
 0xMjQ2NzMxOTM0LC01MTE0NDQwNzEsMTc5NDczNDk0Miw4OTgw
