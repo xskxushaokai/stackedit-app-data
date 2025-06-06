@@ -251,9 +251,9 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 进一步的，高中阶段想要进入省队参加NOI国赛需要天赋+勤奋+合理的时间规划缺一不可。在高中繁重的学业压力下，能够进入到NOI国赛的难度可以说是相当大的。若在NOI国赛中拿到奖项，同时保证文化课成绩，则进入清北、C9等名校的概率会大幅增加。
 关于升学，最后有一点是必须要明确的，那就是不论信奥赛能走到哪一阶段，都必须要以保证文化课成绩作为基础，通过信奥赛的成绩冲击更高的升学可能。
 
-第三点，想跟大家分享的是抛去升学，信奥赛到底能为孩子带来什么收益。收益大致可分为两类，一类是自身品质的收益，一类是外部发展的收益。自身品质方面的收益主要表现在专注力、自驱力、抗挫能力、思维
+第三点，想跟大家分享的是抛去升学，信奥赛到底能为孩子带来什么收益。收益大致可分为两类，一类是自身品质的收益，一类是外部发展的收益。自身品质方面的收益主要表现在专注力、自驱力、抗挫能力、思维能力、以及对其他学科成绩的促进作用。关于外部发展的收益，主要表现在信奥
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDY1MzExNCwtMTY0MTY2MDE3OCwxNj
+eyJoaXN0b3J5IjpbLTE1NDkzOTAyNCwtMTY0MTY2MDE3OCwxNj
 g0NTA5OTk2LC04NjIxNTAyMTQsNDg3MDMyNjE4LC0xOTk5MDA0
 OTIzLDg0Mzk2MTg1MiwyNjY0NzQ3MDYsLTEwOTcwODQ5MzksLT
 EyNDY3MzE5MzQsLTUxMTQ0NDA3MSwxNzk0NzM0OTQyLDg5ODA3
