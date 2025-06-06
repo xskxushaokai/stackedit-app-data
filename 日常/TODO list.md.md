@@ -242,9 +242,9 @@
 
 
 各位家长，下午好，今天想跟大家聊聊关于为什么要让孩子学习编程、参加信奥赛的问题。
-大家也许听说过信奥赛获奖可以上名校的说法，没错，确实可以，但客观的说，难度很大。还有很多家长，首先，我想跟大家
+大家也许听说过信奥赛获奖可以上名校的说法，没错，确实可以，但客观的说，难度很大。还有很多家长可能目前尚未对信奥赛做过太多了解，只是孩子对编程感兴趣，就让孩子先开始学了。所以首先，我想跟大家聊一下信奥赛的几个
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgzODExMDAsNDg3MDMyNjE4LC0xOT
+eyJoaXN0b3J5IjpbLTIwOTc4NzgzNDgsNDg3MDMyNjE4LC0xOT
 k5MDA0OTIzLDg0Mzk2MTg1MiwyNjY0NzQ3MDYsLTEwOTcwODQ5
 MzksLTEyNDY3MzE5MzQsLTUxMTQ0NDA3MSwxNzk0NzM0OTQyLD
 g5ODA3MjU2NCwyMDg2NDIyMjgsMTc3Njk3NTcyMSwtMjEzMjA5
