@@ -242,10 +242,11 @@
 
 
 各位家长，下午好，今天想跟大家聊聊关于为什么要让孩子学习编程、参加信奥赛的问题。
-大家也许听说过信奥赛获奖可以上名校的说法，没错，确实可以，但客观的说，难度很大。
+
+
 还有很多家长可能目前尚未对信奥赛做过太多了解，只是孩子对编程感兴趣，就让孩子先开始学了。所以首先，我想跟大家聊一下信奥赛的组成结构。我们常说的信息学奥赛主要包括了CSP-J/S、NOIP、NOI、IOI等不同级别的赛事，组织者为CCF(中国计算机学会)。CSP-J/S面向初中和小学生，CSP-J为普及组比赛，难度较低，CSP-S为提高组比赛，难度高于普及组，CSP-J/S均有两轮比赛——初赛和复赛；NOIP全称“信息学奥林匹克省级联赛”，面向高中生，在CSP-S复赛中拿到靠前的名次即获得NOIP的参赛资格；NOI为信息学奥林匹克竞赛国赛，只有在NOIP中拿到较高等次奖项，并入选省队集训，才有资格参加NOI国赛，通常各省参赛人数为5人；IOI，国际信息学奥林匹克竞赛，在NOI国赛中拿到较高等次，并入选国家集训队后，便有机会代表国家参加IOI比赛。此外，还有一些CCF官方组织的信奥赛夏、冬令营，大家可以搜索NOI去到官网具体了解。有关各级别获奖对于升学的帮助，下图中已经逐一列出。
 
-第二点，跟大家聊一下信奥赛获奖对升学的帮助到底有多大。
+第二点，跟大家聊一下信奥赛获奖对升学的帮助到底有多大。大家也许听说过通过信奥赛获奖可以上名校的说法，没错，确实可以，但客观的说，难度很大。
 CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分孩子都可以拿到复赛的奖项，根据往年情况来看，拿到CSP-S二等奖以上的同学在东莞市各大高中的科技特长生录取通道中拥有很大的优势。这一条目标是相对容易达成的。
 如果初中阶段能够拿到CSP-S复赛奖项，且中考后经过集训，高一入学后参加NOIP获奖的概率也相对较大，成绩在二等奖以上，高考时可以参加很多高校的综合评价招生。但需要各位家长明确的是，综合评价招生对于高考升学的作用主要是锦上添花，实现小幅度逆袭，如普通一本分数经过综合评价招生进入211本科，211分数经过综合评价招生冲击985。
 进一步的，高中阶段想要进入省队参加NOI国赛需要天赋+勤奋+合理的时间规划缺一不可。在高中繁重的学业压力下，能够进入到NOI国赛的难度可以说是相当大的。若在NOI国赛中拿到奖项，同时保证文化课成绩，则进入清北、C9等名校的概率会大幅增加。
@@ -253,11 +254,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 第三点，想跟大家分享的是抛去升学，信奥赛到底能为孩子带来什么收益。收益大致可分为两类，一类是自身品质的收益，一类是外部发展的收益。自身品质方面的收益主要表现在专注力、自驱力、抗挫能力、思维能力、以及对其他学科成绩的促进作用。关于外部发展的收益，主要表现在：1.信奥学习和参赛过程中的圈子收益，信奥圈子的绝大多数都是各方面品质非常优秀的孩子，良好的圈子不仅能促进孩子自身不断向优秀者靠拢，更是日后科研、事业发展的强大保障。2.中学信奥经历对本科、出国、工作的巨大促进作用，参加信奥赛的孩子不一定都能取得很高的成绩，但中学的竞赛经历和算法基础在本硕阶段可以帮助孩子以远超同龄人的速度上手科研和竞赛，从而在出国、找工作时拥有更强的竞争力。关于孩子学习信奥的收益总结，以下两篇文章总结的较为全面，推荐各位家长阅读。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjA2MTY5NSwtMTY0MTY2MDE3OCwxNj
-g0NTA5OTk2LC04NjIxNTAyMTQsNDg3MDMyNjE4LC0xOTk5MDA0
-OTIzLDg0Mzk2MTg1MiwyNjY0NzQ3MDYsLTEwOTcwODQ5MzksLT
-EyNDY3MzE5MzQsLTUxMTQ0NDA3MSwxNzk0NzM0OTQyLDg5ODA3
-MjU2NCwyMDg2NDIyMjgsMTc3Njk3NTcyMSwtMjEzMjA5MTA3MS
-wxOTY4Nzk3OTIwLC00NTM4NDM0MDgsLTE4NDc4Nzg3MTAsMTUy
-MzgzNzEyN119
+eyJoaXN0b3J5IjpbMzUxMjYzMDAyLC0zNjYwNjE2OTUsLTE2ND
+E2NjAxNzgsMTY4NDUwOTk5NiwtODYyMTUwMjE0LDQ4NzAzMjYx
+OCwtMTk5OTAwNDkyMyw4NDM5NjE4NTIsMjY2NDc0NzA2LC0xMD
+k3MDg0OTM5LC0xMjQ2NzMxOTM0LC01MTE0NDQwNzEsMTc5NDcz
+NDk0Miw4OTgwNzI1NjQsMjA4NjQyMjI4LDE3NzY5NzU3MjEsLT
+IxMzIwOTEwNzEsMTk2ODc5NzkyMCwtNDUzODQzNDA4LC0xODQ3
+ODc4NzEwXX0=
 -->
