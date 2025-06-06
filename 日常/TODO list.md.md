@@ -242,9 +242,9 @@
 
 
 各位家长，下午好，今天想跟大家聊聊关于为什么要让孩子学习编程、参加信奥赛的问题。
-大家也许听说过信奥赛获奖可以上名校的说法，没错，确实可以，但客观的说，难度很大。还有很多家长可能目前尚未对信奥赛做过太多了解，只是孩子对编程感兴趣，就让孩子先开始学了。所以首先，我想跟大家聊一下信奥赛的组成结构。我们常说的信息学奥赛主要包括了CSP-J/S、NOIP、NOI、IOI等不同级别的赛事。CSP-J/S面向初中和小学生；NOIP全称“信息学奥林匹克省级联赛”，面向高中生
+大家也许听说过信奥赛获奖可以上名校的说法，没错，确实可以，但客观的说，难度很大。还有很多家长可能目前尚未对信奥赛做过太多了解，只是孩子对编程感兴趣，就让孩子先开始学了。所以首先，我想跟大家聊一下信奥赛的组成结构。我们常说的信息学奥赛主要包括了CSP-J/S、NOIP、NOI、IOI等不同级别的赛事。CSP-J/S面向初中和小学生，CSP-J为普及组比赛，难度较低，CSP-S为提高组比赛，难度高于普及组；NOIP全称“信息学奥林匹克省级联赛”，面向高中生，在z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjkyOTEyNCw0ODcwMzI2MTgsLTE5OT
+eyJoaXN0b3J5IjpbMTE0ODk1MDA1Niw0ODcwMzI2MTgsLTE5OT
 kwMDQ5MjMsODQzOTYxODUyLDI2NjQ3NDcwNiwtMTA5NzA4NDkz
 OSwtMTI0NjczMTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsOD
 k4MDcyNTY0LDIwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkx
