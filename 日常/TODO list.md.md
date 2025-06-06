@@ -246,13 +246,13 @@
 还有很多家长可能目前尚未对信奥赛做过太多了解，只是孩子对编程感兴趣，就让孩子先开始学了。所以首先，我想跟大家聊一下信奥赛的组成结构。我们常说的信息学奥赛主要包括了CSP-J/S、NOIP、NOI、IOI等不同级别的赛事，组织者为CCF(中国计算机学会)。CSP-J/S面向初中和小学生，CSP-J为普及组比赛，难度较低，CSP-S为提高组比赛，难度高于普及组，CSP-J/S均有两轮比赛——初赛和复赛；NOIP全称“信息学奥林匹克省级联赛”，面向高中生，在CSP-S复赛中拿到靠前的名次即获得NOIP的参赛资格；NOI为信息学奥林匹克竞赛国赛，只有在NOIP中拿到较高等次奖项，并入选省队集训，才有资格参加NOI国赛，通常各省参赛人数为5人；IOI，国际信息学奥林匹克竞赛，在NOI国赛中拿到较高等次，并入选国家集训队后，便有机会代表国家参加IOI比赛。此外，还有一些CCF官方组织的信奥赛夏、冬令营，大家可以搜索NOI去到官网具体了解。有关各级别获奖对于升学的帮助，下图中已经逐一列出。
 
 第二点，跟大家聊一下信奥赛获奖对升学的帮助到底有多大。
-CSP-J/S获奖难度相对较低，经过1-2年的认真培训，大多数
+CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分孩子都可以拿到复赛的奖项，根据往年拿到CSP-S二等奖以上
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTEyNDk4NCwtODYyMTUwMjE0LDQ4Nz
-AzMjYxOCwtMTk5OTAwNDkyMyw4NDM5NjE4NTIsMjY2NDc0NzA2
-LC0xMDk3MDg0OTM5LC0xMjQ2NzMxOTM0LC01MTE0NDQwNzEsMT
-c5NDczNDk0Miw4OTgwNzI1NjQsMjA4NjQyMjI4LDE3NzY5NzU3
-MjEsLTIxMzIwOTEwNzEsMTk2ODc5NzkyMCwtNDUzODQzNDA4LC
-0xODQ3ODc4NzEwLDE1MjM4MzcxMjcsLTE2MjAyMzU2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2Njc4ODQ2MTAsLTg2MjE1MDIxNCw0OD
+cwMzI2MTgsLTE5OTkwMDQ5MjMsODQzOTYxODUyLDI2NjQ3NDcw
+NiwtMTA5NzA4NDkzOSwtMTI0NjczMTkzNCwtNTExNDQ0MDcxLD
+E3OTQ3MzQ5NDIsODk4MDcyNTY0LDIwODY0MjIyOCwxNzc2OTc1
+NzIxLC0yMTMyMDkxMDcxLDE5Njg3OTc5MjAsLTQ1Mzg0MzQwOC
+wtMTg0Nzg3ODcxMCwxNTIzODM3MTI3LC0xNjIwMjM1NjIyXX0=
 
 -->
