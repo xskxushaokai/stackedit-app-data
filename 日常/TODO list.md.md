@@ -253,12 +253,39 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 关于升学，最后有一点是必须要明确的，那就是不论信奥赛能走到哪一阶段，都必须要以保证文化课成绩作为基础，通过信奥赛的成绩冲击更高的升学可能。
 
 第三点，想跟大家分享的是抛去升学，信奥赛到底能为孩子带来什么收益。收益大致可分为两类，一类是自身品质的收益，一类是外部发展的收益。自身品质方面的收益主要表现在专注力、自驱力、抗挫能力、思维能力、以及对其他学科成绩的促进作用。关于外部发展的收益，主要表现在：1.信奥学习和参赛过程中的圈子收益，信奥圈子的绝大多数都是各方面品质非常优秀的孩子，良好的圈子不仅能促进孩子自身不断向优秀者靠拢，更是日后科研、事业发展的强大保障。2.中学信奥经历对本科、出国、工作的巨大促进作用，参加信奥赛的孩子不一定都能取得很高的成绩，但中学的竞赛经历和算法基础在本硕阶段可以帮助孩子以远超同龄人的速度上手科研和竞赛，从而在出国、找工作时拥有更强的竞争力。关于孩子学习信奥的收益总结，以下两篇文章总结的较为全面，推荐各位家长阅读。
+
+
+---
+## 第17周总结
+### ==【第15周已完成】== 
+- [ ] C++编程教学
+	- [ ]  【洛谷题单 023递推】
+	- [ ] 【贪心算法讲义】
+- [ ] ==双融双创== 论文定稿、查重、盖章、提交 （0523前）
+- [ ] ==广东省人工智能资源征集==——《校园健康管理助手》
+
+- [ ] 姿态估计应用程序完善，作为科创比赛作品
+- 尝试构建信奥赛学习的团队知识库(ima平台)
+- 教学评价大模型微调
+	-  验证AutoDL平台qwq-32B环境
+	- 收集学生评价、评语数据
+
+-  雨校发票下载应用交付【暂缓】
+	- 拿到学生身份证号，完成发票数据上传
+	- 生产环境发布应用，校内测试
+
+- ~~智能体设计比赛，设计教学活动并实施，课堂实录~~
+
+**【本学期已完成主要工作】**
+- [x] 课题申报
+- [x] 《东华论教》论文征集提交
+- [x] 青少年活动中心暑期集训3名入选
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzMyODIyMCw3MTM0MTkyMTksLTM2Nj
-A2MTY5NSwtMTY0MTY2MDE3OCwxNjg0NTA5OTk2LC04NjIxNTAy
-MTQsNDg3MDMyNjE4LC0xOTk5MDA0OTIzLDg0Mzk2MTg1MiwyNj
-Y0NzQ3MDYsLTEwOTcwODQ5MzksLTEyNDY3MzE5MzQsLTUxMTQ0
-NDA3MSwxNzk0NzM0OTQyLDg5ODA3MjU2NCwyMDg2NDIyMjgsMT
-c3Njk3NTcyMSwtMjEzMjA5MTA3MSwxOTY4Nzk3OTIwLC00NTM4
-NDM0MDhdfQ==
+eyJoaXN0b3J5IjpbMjA4MTE3MzMzLDcxMzQxOTIxOSwtMzY2MD
+YxNjk1LC0xNjQxNjYwMTc4LDE2ODQ1MDk5OTYsLTg2MjE1MDIx
+NCw0ODcwMzI2MTgsLTE5OTkwMDQ5MjMsODQzOTYxODUyLDI2Nj
+Q3NDcwNiwtMTA5NzA4NDkzOSwtMTI0NjczMTkzNCwtNTExNDQ0
+MDcxLDE3OTQ3MzQ5NDIsODk4MDcyNTY0LDIwODY0MjIyOCwxNz
+c2OTc1NzIxLC0yMTMyMDkxMDcxLDE5Njg3OTc5MjAsLTQ1Mzg0
+MzQwOF19
 -->
