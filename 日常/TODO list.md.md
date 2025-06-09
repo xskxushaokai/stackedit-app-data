@@ -257,11 +257,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ---
 ## 第17周总结
-### ==【第15周已完成】== 
+### ==【第17周已完成】== 
 - [ ] C++编程教学
 	- [ ]  【洛谷题单 026贪心】
 	- [ ] 【贪心、队列、栈算法讲义】
-- [ ] ==双融双创== 论文定稿、查重、盖章、提交 （0523前）
+- [x] ==双融双创== 论文定稿、查重、盖章、提交 （0523前）
 - [ ] ==广东省人工智能资源征集==——《校园健康管理助手》
 
 - [ ] 姿态估计应用程序完善，作为科创比赛作品
@@ -281,11 +281,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] 《东华论教》论文征集提交
 - [x] 青少年活动中心暑期集训3名入选
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYzMTI4NTEsMjA4MTE3MzMzLDcxMz
-QxOTIxOSwtMzY2MDYxNjk1LC0xNjQxNjYwMTc4LDE2ODQ1MDk5
-OTYsLTg2MjE1MDIxNCw0ODcwMzI2MTgsLTE5OTkwMDQ5MjMsOD
-QzOTYxODUyLDI2NjQ3NDcwNiwtMTA5NzA4NDkzOSwtMTI0Njcz
-MTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsODk4MDcyNTY0LD
-IwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkxMDcxLDE5Njg3
-OTc5MjBdfQ==
+eyJoaXN0b3J5IjpbMjE1MzQ2MDcxLDIwODExNzMzMyw3MTM0MT
+kyMTksLTM2NjA2MTY5NSwtMTY0MTY2MDE3OCwxNjg0NTA5OTk2
+LC04NjIxNTAyMTQsNDg3MDMyNjE4LC0xOTk5MDA0OTIzLDg0Mz
+k2MTg1MiwyNjY0NzQ3MDYsLTEwOTcwODQ5MzksLTEyNDY3MzE5
+MzQsLTUxMTQ0NDA3MSwxNzk0NzM0OTQyLDg5ODA3MjU2NCwyMD
+g2NDIyMjgsMTc3Njk3NTcyMSwtMjEzMjA5MTA3MSwxOTY4Nzk3
+OTIwXX0=
 -->
