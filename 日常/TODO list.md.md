@@ -281,12 +281,39 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] 课题申报
 - [x] 《东华论教》论文征集提交
 - [x] 青少年活动中心暑期集训3名入选
+
+---
+## 第18周总结
+### ==【第18周已完成】== 
+- [ ] C++编程教学
+	- [x] 【队列和广搜算法视频教学】，广搜掌握qing'k
+	- [ ] 【洛谷题单 026贪心】
+	- [ ] 【贪心、队列、栈算法讲义】
+- [x] ==双融双创== 论文定稿、查重、盖章、提交 （0523前）
+- [ ] ==广东省人工智能资源征集==——《校园健康管理助手》
+
+- [ ] 姿态估计应用程序完善，作为科创比赛作品
+- 尝试构建信奥赛学习的团队知识库(ima平台)
+- 教学评价大模型微调
+	-  验证AutoDL平台qwq-32B环境
+	- 收集学生评价、评语数据
+
+-  雨校发票下载应用交付【暂缓】
+	- 拿到学生身份证号，完成发票数据上传
+	- 生产环境发布应用，校内测试
+
+- ~~智能体设计比赛，设计教学活动并实施，课堂实录~~
+
+**【本学期已完成主要工作】**
+- [x] 课题申报
+- [x] 《东华论教》论文征集提交
+- [x] 青少年活动中心暑期集训3名入选
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjgyNTcyNiwyMTUzNDYwNzEsMjA4MT
-E3MzMzLDcxMzQxOTIxOSwtMzY2MDYxNjk1LC0xNjQxNjYwMTc4
-LDE2ODQ1MDk5OTYsLTg2MjE1MDIxNCw0ODcwMzI2MTgsLTE5OT
-kwMDQ5MjMsODQzOTYxODUyLDI2NjQ3NDcwNiwtMTA5NzA4NDkz
-OSwtMTI0NjczMTkzNCwtNTExNDQ0MDcxLDE3OTQ3MzQ5NDIsOD
-k4MDcyNTY0LDIwODY0MjIyOCwxNzc2OTc1NzIxLC0yMTMyMDkx
-MDcxXX0=
+eyJoaXN0b3J5IjpbLTE4MjIzNDk5NTksMTA0MjgyNTcyNiwyMT
+UzNDYwNzEsMjA4MTE3MzMzLDcxMzQxOTIxOSwtMzY2MDYxNjk1
+LC0xNjQxNjYwMTc4LDE2ODQ1MDk5OTYsLTg2MjE1MDIxNCw0OD
+cwMzI2MTgsLTE5OTkwMDQ5MjMsODQzOTYxODUyLDI2NjQ3NDcw
+NiwtMTA5NzA4NDkzOSwtMTI0NjczMTkzNCwtNTExNDQ0MDcxLD
+E3OTQ3MzQ5NDIsODk4MDcyNTY0LDIwODY0MjIyOCwxNzc2OTc1
+NzIxXX0=
 -->
