@@ -286,7 +286,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ## 第18周总结
 ### ==【第18周已完成】== 
 - [ ] C++编程教学
-	- [x] 【队列和广搜算法视频教学】，广搜掌握qing'k
+	- [x] 【队列和广搜算法视频教学】，广搜掌握情况较差
 	- [ ] 【洛谷题单 026贪心】
 	- [ ] 【贪心、队列、栈算法讲义】
 - [x] ==双融双创== 论文定稿、查重、盖章、提交 （0523前）
@@ -309,11 +309,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] 《东华论教》论文征集提交
 - [x] 青少年活动中心暑期集训3名入选
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIzNDk5NTksMTA0MjgyNTcyNiwyMT
-UzNDYwNzEsMjA4MTE3MzMzLDcxMzQxOTIxOSwtMzY2MDYxNjk1
-LC0xNjQxNjYwMTc4LDE2ODQ1MDk5OTYsLTg2MjE1MDIxNCw0OD
-cwMzI2MTgsLTE5OTkwMDQ5MjMsODQzOTYxODUyLDI2NjQ3NDcw
-NiwtMTA5NzA4NDkzOSwtMTI0NjczMTkzNCwtNTExNDQ0MDcxLD
-E3OTQ3MzQ5NDIsODk4MDcyNTY0LDIwODY0MjIyOCwxNzc2OTc1
-NzIxXX0=
+eyJoaXN0b3J5IjpbLTY4MDEwMjA5LDEwNDI4MjU3MjYsMjE1Mz
+Q2MDcxLDIwODExNzMzMyw3MTM0MTkyMTksLTM2NjA2MTY5NSwt
+MTY0MTY2MDE3OCwxNjg0NTA5OTk2LC04NjIxNTAyMTQsNDg3MD
+MyNjE4LC0xOTk5MDA0OTIzLDg0Mzk2MTg1MiwyNjY0NzQ3MDYs
+LTEwOTcwODQ5MzksLTEyNDY3MzE5MzQsLTUxMTQ0NDA3MSwxNz
+k0NzM0OTQyLDg5ODA3MjU2NCwyMDg2NDIyMjgsMTc3Njk3NTcy
+MV19
 -->
