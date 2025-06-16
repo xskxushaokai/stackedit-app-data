@@ -289,6 +289,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [x] 【队列和广搜算法视频教学】，广搜掌握情况较差
 	- [ ] 【洛谷题单 队列和广搜】
 	- [ ] 【贪心、队列、栈算法讲义】
+	- [ ] 学生暑期集训报名
 - [x] 东莞市论文定稿、查重、盖章、提交 （0615前）
 - [ ] ==广东省人工智能资源征集==——《校园健康管理助手》
 
@@ -309,7 +310,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] 《东华论教》论文征集提交
 - [x] 青少年活动中心暑期集训3名入选
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDg2NTIwOSwtMTY0ODY3NDg4NSwxMD
+eyJoaXN0b3J5IjpbMTc3NjkyNjk4OCwtMTY0ODY3NDg4NSwxMD
 QyODI1NzI2LDIxNTM0NjA3MSwyMDgxMTczMzMsNzEzNDE5MjE5
 LC0zNjYwNjE2OTUsLTE2NDE2NjAxNzgsMTY4NDUwOTk5NiwtOD
 YyMTUwMjE0LDQ4NzAzMjYxOCwtMTk5OTAwNDkyMyw4NDM5NjE4
