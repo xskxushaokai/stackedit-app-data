@@ -285,6 +285,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ---
 ## 第18周总结
 ### ==【第18周已完成】== 
+- [ ] 跟学成绩分析
 - [ ] C++编程教学
 	- [x] 【队列和广搜算法视频教学】，广搜掌握情况较差
 	- [ ] 【洛谷题单 队列和广搜】
@@ -315,11 +316,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - 周四23班，上午第三节 -> 下午第六节
 - 周五14班，上午第二节 -> 周三上午第二节
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg0MzM2NTAsOTk3NzI5MzY0LC0zMT
-Y4NjgzMjksMTc3NjkyNjk4OCwtMTY0ODY3NDg4NSwxMDQyODI1
-NzI2LDIxNTM0NjA3MSwyMDgxMTczMzMsNzEzNDE5MjE5LC0zNj
-YwNjE2OTUsLTE2NDE2NjAxNzgsMTY4NDUwOTk5NiwtODYyMTUw
-MjE0LDQ4NzAzMjYxOCwtMTk5OTAwNDkyMyw4NDM5NjE4NTIsMj
-Y2NDc0NzA2LC0xMDk3MDg0OTM5LC0xMjQ2NzMxOTM0LC01MTE0
-NDQwNzFdfQ==
+eyJoaXN0b3J5IjpbLTg4OTM0MDYwMywtMTU3ODQzMzY1MCw5OT
+c3MjkzNjQsLTMxNjg2ODMyOSwxNzc2OTI2OTg4LC0xNjQ4Njc0
+ODg1LDEwNDI4MjU3MjYsMjE1MzQ2MDcxLDIwODExNzMzMyw3MT
+M0MTkyMTksLTM2NjA2MTY5NSwtMTY0MTY2MDE3OCwxNjg0NTA5
+OTk2LC04NjIxNTAyMTQsNDg3MDMyNjE4LC0xOTk5MDA0OTIzLD
+g0Mzk2MTg1MiwyNjY0NzQ3MDYsLTEwOTcwODQ5MzksLTEyNDY3
+MzE5MzRdfQ==
 -->
