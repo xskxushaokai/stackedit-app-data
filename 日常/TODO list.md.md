@@ -330,16 +330,16 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 #### 解决思路
 - 分角色：班主任、语数英科任、道史生地科任、音体美信科任
 - 登记行为限制：如限制一段时间内相同指标、相同被评价人的重复登记次数
-- 设计登记行为量化规则：分析特定时间节点（如周五放学、周六日），分析教师个人的登记时间分布均匀性（某个时间突击大量登记，还是按照上课节奏及时登记）
+- 设计登记行为量化规则：分析特定时间节点（如周五放学、周六日），分析教师个人的登记时间分布均匀性（某个时间突击大量登记，还是按照上课节奏及时登记），分析教师个人任教的班级之间的登记分布平衡性（某教师所任教的几个班级中登记数量书否均衡，是否有集中某个班级登记的行为），
 
 ### 平台问题
 - 数据查询加载速度极慢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzk3MTc1MCwtMTE2ODU0MDk0MywtMT
-E0MzQ1MzAwMSwtMTE1Njc0NjA0MCwyMzA3MzM0MTMsLTE2NzEy
-OTY0NjgsLTYxOTQ0MzI1NCwtODg5MzQwNjAzLC0xNTc4NDMzNj
-UwLDk5NzcyOTM2NCwtMzE2ODY4MzI5LDE3NzY5MjY5ODgsLTE2
-NDg2NzQ4ODUsMTA0MjgyNTcyNiwyMTUzNDYwNzEsMjA4MTE3Mz
-MzLDcxMzQxOTIxOSwtMzY2MDYxNjk1LC0xNjQxNjYwMTc4LDE2
-ODQ1MDk5OTZdfQ==
+eyJoaXN0b3J5IjpbOTA4NDcwODI2LC0xMTY4NTQwOTQzLC0xMT
+QzNDUzMDAxLC0xMTU2NzQ2MDQwLDIzMDczMzQxMywtMTY3MTI5
+NjQ2OCwtNjE5NDQzMjU0LC04ODkzNDA2MDMsLTE1Nzg0MzM2NT
+AsOTk3NzI5MzY0LC0zMTY4NjgzMjksMTc3NjkyNjk4OCwtMTY0
+ODY3NDg4NSwxMDQyODI1NzI2LDIxNTM0NjA3MSwyMDgxMTczMz
+MsNzEzNDE5MjE5LC0zNjYwNjE2OTUsLTE2NDE2NjAxNzgsMTY4
+NDUwOTk5Nl19
 -->
