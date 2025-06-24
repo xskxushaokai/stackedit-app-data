@@ -320,15 +320,18 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - 注意代码格式规范，养成良好的编程习惯
 - B站、CSDN上的讲解视频、题解可以多看
 
-
+## 数字化校园平台问题
 ### 教师评价登记问题
 - 周五放学节点批量登记，周中极少登记
 - 所教班级登记不平衡，有的班大量登记，有的班极少登记
 - 同一天同一时间多次重复批量等级某个指标
 - 
 - 每个老师登记习惯不同，有的喜欢给大多数表现良好的加分，有的喜欢给个别表现差的扣分，有的老师为了增加自己课堂的分数权重会多次重复登记。这样下来，学生的总积分就只在班级内部具有参照性，跨班级由于老师不同，不具有可比性。同时教师之间的登记次数、分数也就不具有可比性，
+
+### 平台问题
+- 数据查询加载速度极慢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE3NzMyNzEsLTExNTY3NDYwNDAsMj
+eyJoaXN0b3J5IjpbLTEwNDUwOTA4NTAsLTExNTY3NDYwNDAsMj
 MwNzMzNDEzLC0xNjcxMjk2NDY4LC02MTk0NDMyNTQsLTg4OTM0
 MDYwMywtMTU3ODQzMzY1MCw5OTc3MjkzNjQsLTMxNjg2ODMyOS
 wxNzc2OTI2OTg4LC0xNjQ4Njc0ODg1LDEwNDI4MjU3MjYsMjE1
