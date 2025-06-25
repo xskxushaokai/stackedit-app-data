@@ -322,7 +322,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ### 暑期集训备忘
 - 参加第一期集训的学生，5号放学将行李放在信息办公室，6号上午9点前返校
-- 参加第二期集训的学生，
+- 只参加第二期集训的学生，5号行李拿回去，8月20号早上带行李返校，集训结束后，行李不需要带回
 
 ## 数字化校园平台问题
 ### 教师评价登记问题
@@ -339,11 +339,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ### 平台问题
 - 数据查询加载速度极慢
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDIyNDQ4MCwtOTA1MzE5OTQ4LDkwOD
-Q3MDgyNiwtMTE2ODU0MDk0MywtMTE0MzQ1MzAwMSwtMTE1Njc0
-NjA0MCwyMzA3MzM0MTMsLTE2NzEyOTY0NjgsLTYxOTQ0MzI1NC
-wtODg5MzQwNjAzLC0xNTc4NDMzNjUwLDk5NzcyOTM2NCwtMzE2
-ODY4MzI5LDE3NzY5MjY5ODgsLTE2NDg2NzQ4ODUsMTA0MjgyNT
-cyNiwyMTUzNDYwNzEsMjA4MTE3MzMzLDcxMzQxOTIxOSwtMzY2
-MDYxNjk1XX0=
+eyJoaXN0b3J5IjpbODE5NTE2NDU2LC05MDUzMTk5NDgsOTA4ND
+cwODI2LC0xMTY4NTQwOTQzLC0xMTQzNDUzMDAxLC0xMTU2NzQ2
+MDQwLDIzMDczMzQxMywtMTY3MTI5NjQ2OCwtNjE5NDQzMjU0LC
+04ODkzNDA2MDMsLTE1Nzg0MzM2NTAsOTk3NzI5MzY0LC0zMTY4
+NjgzMjksMTc3NjkyNjk4OCwtMTY0ODY3NDg4NSwxMDQyODI1Nz
+I2LDIxNTM0NjA3MSwyMDgxMTczMzMsNzEzNDE5MjE5LC0zNjYw
+NjE2OTVdfQ==
 -->
