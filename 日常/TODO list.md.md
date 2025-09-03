@@ -349,9 +349,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 10月份之前完成开题报告和ppt
 - [ ] 正听反说程序开发
 - [ ] C++编程
+	- [ ] CSP报名和缴费
 	- [ ] CSP初赛模拟题备课
+- [ ] 校本课选课
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjQ4MjM3MSw4MTk1MTY0NTYsLTkwNT
+eyJoaXN0b3J5IjpbLTQ4NTc2NTA0Niw4MTk1MTY0NTYsLTkwNT
 MxOTk0OCw5MDg0NzA4MjYsLTExNjg1NDA5NDMsLTExNDM0NTMw
 MDEsLTExNTY3NDYwNDAsMjMwNzMzNDEzLC0xNjcxMjk2NDY4LC
 02MTk0NDMyNTQsLTg4OTM0MDYwMywtMTU3ODQzMzY1MCw5OTc3
