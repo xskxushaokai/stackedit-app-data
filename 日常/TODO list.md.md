@@ -321,8 +321,10 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - B站、CSDN上的讲解视频、题解可以多看
 
 ### 暑期集训备忘
+- 7.6 9:00-7.12 16:30家长来接
 - 参加第一期集训的学生，5号放学将行李放在信息办公室，6号上午9点前返校
 - 只参加第二期集训的学生，5号行李拿回去，8月20号早上带行李返校，集训结束后，行李不需要带回
+- 一本通的账号密码
 
 ## 数字化校园平台问题
 ### 教师评价登记问题
@@ -354,11 +356,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ] CSP初赛模拟题备课
 - [x] 校本课选课
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjg3MzU5NSwtMzAzMzUzNDYsLTc5OT
-gyNjY5NCwtNDg1NzY1MDQ2LDgxOTUxNjQ1NiwtOTA1MzE5OTQ4
-LDkwODQ3MDgyNiwtMTE2ODU0MDk0MywtMTE0MzQ1MzAwMSwtMT
-E1Njc0NjA0MCwyMzA3MzM0MTMsLTE2NzEyOTY0NjgsLTYxOTQ0
-MzI1NCwtODg5MzQwNjAzLC0xNTc4NDMzNjUwLDk5NzcyOTM2NC
-wtMzE2ODY4MzI5LDE3NzY5MjY5ODgsLTE2NDg2NzQ4ODUsMTA0
-MjgyNTcyNl19
+eyJoaXN0b3J5IjpbLTYzMDMwNzE0MywxNDIyODczNTk1LC0zMD
+MzNTM0NiwtNzk5ODI2Njk0LC00ODU3NjUwNDYsODE5NTE2NDU2
+LC05MDUzMTk5NDgsOTA4NDcwODI2LC0xMTY4NTQwOTQzLC0xMT
+QzNDUzMDAxLC0xMTU2NzQ2MDQwLDIzMDczMzQxMywtMTY3MTI5
+NjQ2OCwtNjE5NDQzMjU0LC04ODkzNDA2MDMsLTE1Nzg0MzM2NT
+AsOTk3NzI5MzY0LC0zMTY4NjgzMjksMTc3NjkyNjk4OCwtMTY0
+ODY3NDg4NV19
 -->
