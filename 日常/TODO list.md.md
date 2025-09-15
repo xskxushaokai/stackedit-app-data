@@ -361,6 +361,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ### ==【第2周已完成】== 
 - [ ] 尝试成绩分析
 - [ ] 10月份之前完成开题报告和ppt
+	- [x] 信奥智题助手试用
 - [x] 正听反说程序开发
 - [ ] C++编程
 	- [x]  24年真题全讲
@@ -377,11 +378,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ] 阅读程序
 	- [ ] 程序填空
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDQxMDU5LC02MzAzMDcxNDMsMTQyMj
-g3MzU5NSwtMzAzMzUzNDYsLTc5OTgyNjY5NCwtNDg1NzY1MDQ2
-LDgxOTUxNjQ1NiwtOTA1MzE5OTQ4LDkwODQ3MDgyNiwtMTE2OD
-U0MDk0MywtMTE0MzQ1MzAwMSwtMTE1Njc0NjA0MCwyMzA3MzM0
-MTMsLTE2NzEyOTY0NjgsLTYxOTQ0MzI1NCwtODg5MzQwNjAzLC
-0xNTc4NDMzNjUwLDk5NzcyOTM2NCwtMzE2ODY4MzI5LDE3NzY5
-MjY5ODhdfQ==
+eyJoaXN0b3J5IjpbMzkwMDExNjEsLTYyMDQxMDU5LC02MzAzMD
+cxNDMsMTQyMjg3MzU5NSwtMzAzMzUzNDYsLTc5OTgyNjY5NCwt
+NDg1NzY1MDQ2LDgxOTUxNjQ1NiwtOTA1MzE5OTQ4LDkwODQ3MD
+gyNiwtMTE2ODU0MDk0MywtMTE0MzQ1MzAwMSwtMTE1Njc0NjA0
+MCwyMzA3MzM0MTMsLTE2NzEyOTY0NjgsLTYxOTQ0MzI1NCwtOD
+g5MzQwNjAzLC0xNTc4NDMzNjUwLDk5NzcyOTM2NCwtMzE2ODY4
+MzI5XX0=
 -->
