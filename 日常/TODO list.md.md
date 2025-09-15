@@ -355,12 +355,24 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ]  学生做真题和模拟题
 	- [ ] CSP初赛模拟题备课
 - [x] 校本课选课
+
+
+## 第2周
+### ==【第2周已完成】== 
+- [ ] 尝试成绩分析
+- [ ] 10月份之前完成开题报告和ppt
+- [ ] 正听反说程序开发
+- [ ] C++编程
+	- [x] CSP报名和缴费
+	- [ ]  学生做真题和模拟题
+	- [ ] CSP初赛模拟题备课
+- [x] 校本课选课
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDMwNzE0MywxNDIyODczNTk1LC0zMD
-MzNTM0NiwtNzk5ODI2Njk0LC00ODU3NjUwNDYsODE5NTE2NDU2
-LC05MDUzMTk5NDgsOTA4NDcwODI2LC0xMTY4NTQwOTQzLC0xMT
-QzNDUzMDAxLC0xMTU2NzQ2MDQwLDIzMDczMzQxMywtMTY3MTI5
-NjQ2OCwtNjE5NDQzMjU0LC04ODkzNDA2MDMsLTE1Nzg0MzM2NT
-AsOTk3NzI5MzY0LC0zMTY4NjgzMjksMTc3NjkyNjk4OCwtMTY0
-ODY3NDg4NV19
+eyJoaXN0b3J5IjpbMjQ3OTI5MTE2LC02MzAzMDcxNDMsMTQyMj
+g3MzU5NSwtMzAzMzUzNDYsLTc5OTgyNjY5NCwtNDg1NzY1MDQ2
+LDgxOTUxNjQ1NiwtOTA1MzE5OTQ4LDkwODQ3MDgyNiwtMTE2OD
+U0MDk0MywtMTE0MzQ1MzAwMSwtMTE1Njc0NjA0MCwyMzA3MzM0
+MTMsLTE2NzEyOTY0NjgsLTYxOTQ0MzI1NCwtODg5MzQwNjAzLC
+0xNTc4NDMzNjUwLDk5NzcyOTM2NCwtMzE2ODY4MzI5LDE3NzY5
+MjY5ODhdfQ==
 -->
