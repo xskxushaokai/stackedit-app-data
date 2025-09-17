@@ -376,14 +376,14 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] 正听反说程序完善
 - [ ] C++编程
 	- [ ]  讲解模拟卷2
-	- [ ] 阅读程序
-	- [ ] 程序填空
+	- [x] 阅读程序
+	- [x] 程序填空
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjgxNzI5MSw1OTExMzkzMjAsNjE3ND
-g5MzEyLC02MjA0MTA1OSwtNjMwMzA3MTQzLDE0MjI4NzM1OTUs
-LTMwMzM1MzQ2LC03OTk4MjY2OTQsLTQ4NTc2NTA0Niw4MTk1MT
-Y0NTYsLTkwNTMxOTk0OCw5MDg0NzA4MjYsLTExNjg1NDA5NDMs
-LTExNDM0NTMwMDEsLTExNTY3NDYwNDAsMjMwNzMzNDEzLC0xNj
-cxMjk2NDY4LC02MTk0NDMyNTQsLTg4OTM0MDYwMywtMTU3ODQz
-MzY1MF19
+eyJoaXN0b3J5IjpbLTE4MTE2MTgzNDEsNTkxMTM5MzIwLDYxNz
+Q4OTMxMiwtNjIwNDEwNTksLTYzMDMwNzE0MywxNDIyODczNTk1
+LC0zMDMzNTM0NiwtNzk5ODI2Njk0LC00ODU3NjUwNDYsODE5NT
+E2NDU2LC05MDUzMTk5NDgsOTA4NDcwODI2LC0xMTY4NTQwOTQz
+LC0xMTQzNDUzMDAxLC0xMTU2NzQ2MDQwLDIzMDczMzQxMywtMT
+Y3MTI5NjQ2OCwtNjE5NDQzMjU0LC04ODkzNDA2MDMsLTE1Nzg0
+MzM2NTBdfQ==
 -->
