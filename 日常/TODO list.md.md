@@ -384,7 +384,10 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ## 各文件作用：
 
 #### 成绩汇总(初一下)-期中.xlsx
-学生本次考试的原始成绩、之前考试的原始成绩
+学生本次考试的原始成绩、之前考试的原始成绩、补缺考之后的成绩
+
+#### 成绩分析源程序(NEW) - 总 .xlsx
+将学生补缺考后的程序复制到cjpm
 
 
 不补成绩：
@@ -392,11 +395,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzkxNTU0MywtMTkwNDM2Mjk5NywxMz
-g0MzM1NDExLC0xODExNjE4MzQxLDU5MTEzOTMyMCw2MTc0ODkz
-MTIsLTYyMDQxMDU5LC02MzAzMDcxNDMsMTQyMjg3MzU5NSwtMz
-AzMzUzNDYsLTc5OTgyNjY5NCwtNDg1NzY1MDQ2LDgxOTUxNjQ1
-NiwtOTA1MzE5OTQ4LDkwODQ3MDgyNiwtMTE2ODU0MDk0MywtMT
-E0MzQ1MzAwMSwtMTE1Njc0NjA0MCwyMzA3MzM0MTMsLTE2NzEy
-OTY0NjhdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQwOTE3NzMsLTE5MDQzNjI5OTcsMT
+M4NDMzNTQxMSwtMTgxMTYxODM0MSw1OTExMzkzMjAsNjE3NDg5
+MzEyLC02MjA0MTA1OSwtNjMwMzA3MTQzLDE0MjI4NzM1OTUsLT
+MwMzM1MzQ2LC03OTk4MjY2OTQsLTQ4NTc2NTA0Niw4MTk1MTY0
+NTYsLTkwNTMxOTk0OCw5MDg0NzA4MjYsLTExNjg1NDA5NDMsLT
+ExNDM0NTMwMDEsLTExNTY3NDYwNDAsMjMwNzMzNDEzLC0xNjcx
+Mjk2NDY4XX0=
 -->
