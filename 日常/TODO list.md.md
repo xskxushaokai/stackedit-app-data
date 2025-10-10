@@ -389,7 +389,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 #### 成绩分析源程序(NEW) - 总 .xlsx
 将学生补缺考后的程序复制到cjpm中，得到本次考试的班级分析、各学科分析、双轨评价分析。
 
-起始成绩计算方法：在新键的表格中将每位学生之前各次考试的各科成绩按比例加权得到学生的起始成绩
+双轨评价起始成绩计算方法：在新键的表格中将每位学生之前各次考试的各科成绩按比例加权得到学生的起始成绩；将学生起始成绩放入“成绩分析源程序(NEW) - 总 .xlsx”中，即可在双轨评价表中得到“本次测试成绩”，此成绩作为ben'ci
 
 
 不补成绩：
@@ -397,7 +397,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTE2MDc3OCwtMTkwNDM2Mjk5NywxMz
+eyJoaXN0b3J5IjpbMTk1MTI0ODUzNywtMTkwNDM2Mjk5NywxMz
 g0MzM1NDExLC0xODExNjE4MzQxLDU5MTEzOTMyMCw2MTc0ODkz
 MTIsLTYyMDQxMDU5LC02MzAzMDcxNDMsMTQyMjg3MzU5NSwtMz
 AzMzUzNDYsLTc5OTgyNjY5NCwtNDg1NzY1MDQ2LDgxOTUxNjQ1
