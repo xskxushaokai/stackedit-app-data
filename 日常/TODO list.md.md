@@ -389,7 +389,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 #### 成绩分析源程序(NEW) - 总 .xlsx
 将学生补缺考后的程序复制到cjpm中，得到本次考试的班级分析、各学科分析、双轨评价分析。
 
-起始成绩
+起始成绩计算方法：在新键的表格中将每位学生之前各次考试的各科成绩按比例加权得到学生的起始成绩
 
 
 不补成绩：
@@ -397,11 +397,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4OTgyMTc1LC0xOTA0MzYyOTk3LDEzOD
-QzMzU0MTEsLTE4MTE2MTgzNDEsNTkxMTM5MzIwLDYxNzQ4OTMx
-MiwtNjIwNDEwNTksLTYzMDMwNzE0MywxNDIyODczNTk1LC0zMD
-MzNTM0NiwtNzk5ODI2Njk0LC00ODU3NjUwNDYsODE5NTE2NDU2
-LC05MDUzMTk5NDgsOTA4NDcwODI2LC0xMTY4NTQwOTQzLC0xMT
-QzNDUzMDAxLC0xMTU2NzQ2MDQwLDIzMDczMzQxMywtMTY3MTI5
-NjQ2OF19
+eyJoaXN0b3J5IjpbMTM3MTE2MDc3OCwtMTkwNDM2Mjk5NywxMz
+g0MzM1NDExLC0xODExNjE4MzQxLDU5MTEzOTMyMCw2MTc0ODkz
+MTIsLTYyMDQxMDU5LC02MzAzMDcxNDMsMTQyMjg3MzU5NSwtMz
+AzMzUzNDYsLTc5OTgyNjY5NCwtNDg1NzY1MDQ2LDgxOTUxNjQ1
+NiwtOTA1MzE5OTQ4LDkwODQ3MDgyNiwtMTE2ODU0MDk0MywtMT
+E0MzQ1MzAwMSwtMTE1Njc0NjA0MCwyMzA3MzM0MTMsLTE2NzEy
+OTY0NjhdfQ==
 -->
