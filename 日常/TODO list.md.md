@@ -380,6 +380,16 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [x] 程序填空
 
 
+## 第7周重点工作
+- [ ] 成绩分析
+- [ ] 课题开题
+	- [x] 开题报告
+	- [ ] 收集开题资料：练习图片资料、AI信奥能力论文、开源OJ系统
+	- [ ] 开题ppt
+- [ ] C++编程
+	- [ ]  19年入门真题讲解
+
+
 
 ## 成绩分析各文件作用：
 
@@ -399,11 +409,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNTYzNzIyLDE2MDc5NjA3NDMsODE4OT
-M2ODM2LC0xOTA0MzYyOTk3LDEzODQzMzU0MTEsLTE4MTE2MTgz
-NDEsNTkxMTM5MzIwLDYxNzQ4OTMxMiwtNjIwNDEwNTksLTYzMD
-MwNzE0MywxNDIyODczNTk1LC0zMDMzNTM0NiwtNzk5ODI2Njk0
-LC00ODU3NjUwNDYsODE5NTE2NDU2LC05MDUzMTk5NDgsOTA4ND
-cwODI2LC0xMTY4NTQwOTQzLC0xMTQzNDUzMDAxLC0xMTU2NzQ2
-MDQwXX0=
+eyJoaXN0b3J5IjpbNDQ0NTQ3MjI2LDU4MzU2MzcyMiwxNjA3OT
+YwNzQzLDgxODkzNjgzNiwtMTkwNDM2Mjk5NywxMzg0MzM1NDEx
+LC0xODExNjE4MzQxLDU5MTEzOTMyMCw2MTc0ODkzMTIsLTYyMD
+QxMDU5LC02MzAzMDcxNDMsMTQyMjg3MzU5NSwtMzAzMzUzNDYs
+LTc5OTgyNjY5NCwtNDg1NzY1MDQ2LDgxOTUxNjQ1NiwtOTA1Mz
+E5OTQ4LDkwODQ3MDgyNiwtMTE2ODU0MDk0MywtMTE0MzQ1MzAw
+MV19
 -->
