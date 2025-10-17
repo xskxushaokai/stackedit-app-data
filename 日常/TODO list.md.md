@@ -392,15 +392,18 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ## 达人材料
 #### 201饶哲轩 编程达人
-2025年CSP信息学竞赛市一等奖
+2025年CSP信息学竞赛入门组市一等奖
+2025年CSP信息学竞赛提高组市一等奖
 2025年粤港澳青少年信息学创新大赛市二等奖
+简介：xu
 
 #### 241刘辰宇  编程达人
 2025年CSP信息学竞赛市一等奖
-2025年粤港澳青少年信息学创新大赛市三等奖
 
 #### 241李倍乐  编程达人
 2025年粤港澳青少年信息学创新大赛省一等奖
+2025年CSP信息学竞赛入门组市二等奖
+2025年CSP信息学竞赛提高组市二等奖
 
 ---
 
@@ -422,11 +425,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODQ5Nzc0OSwtOTEzNjcwODU0LDQ0ND
-U0NzIyNiw1ODM1NjM3MjIsMTYwNzk2MDc0Myw4MTg5MzY4MzYs
-LTE5MDQzNjI5OTcsMTM4NDMzNTQxMSwtMTgxMTYxODM0MSw1OT
-ExMzkzMjAsNjE3NDg5MzEyLC02MjA0MTA1OSwtNjMwMzA3MTQz
-LDE0MjI4NzM1OTUsLTMwMzM1MzQ2LC03OTk4MjY2OTQsLTQ4NT
-c2NTA0Niw4MTk1MTY0NTYsLTkwNTMxOTk0OCw5MDg0NzA4MjZd
-fQ==
+eyJoaXN0b3J5IjpbLTE3OTU3OTY4OTksMTU5ODQ5Nzc0OSwtOT
+EzNjcwODU0LDQ0NDU0NzIyNiw1ODM1NjM3MjIsMTYwNzk2MDc0
+Myw4MTg5MzY4MzYsLTE5MDQzNjI5OTcsMTM4NDMzNTQxMSwtMT
+gxMTYxODM0MSw1OTExMzkzMjAsNjE3NDg5MzEyLC02MjA0MTA1
+OSwtNjMwMzA3MTQzLDE0MjI4NzM1OTUsLTMwMzM1MzQ2LC03OT
+k4MjY2OTQsLTQ4NTc2NTA0Niw4MTk1MTY0NTYsLTkwNTMxOTk0
+OF19
 -->
