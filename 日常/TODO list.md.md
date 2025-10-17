@@ -395,10 +395,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 2025年CSP信息学竞赛入门组市一等奖
 2025年CSP信息学竞赛提高组市一等奖
 2025年粤港澳青少年信息学创新大赛市二等奖
-简介：学习编程时间不到一年，首次参赛就同时斩获CSP入门组和提高组复赛，
+简介：学习编程时间不到一年，首次参赛就同时高分斩获CSP入门组和提高组市一等奖 并 闯入复赛。
 
 #### 241刘辰宇  编程达人
 2025年CSP信息学竞赛市一等奖
+简介：稳扎稳打，刻苦训练，
 
 #### 241李倍乐  编程达人
 2025年粤港澳青少年信息学创新大赛省一等奖
@@ -425,11 +426,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTgzNTcxMiwxNTk4NDk3NzQ5LC05MT
-M2NzA4NTQsNDQ0NTQ3MjI2LDU4MzU2MzcyMiwxNjA3OTYwNzQz
-LDgxODkzNjgzNiwtMTkwNDM2Mjk5NywxMzg0MzM1NDExLC0xOD
-ExNjE4MzQxLDU5MTEzOTMyMCw2MTc0ODkzMTIsLTYyMDQxMDU5
-LC02MzAzMDcxNDMsMTQyMjg3MzU5NSwtMzAzMzUzNDYsLTc5OT
-gyNjY5NCwtNDg1NzY1MDQ2LDgxOTUxNjQ1NiwtOTA1MzE5OTQ4
-XX0=
+eyJoaXN0b3J5IjpbLTEyNzU4MTY3NzIsMTc2NTgzNTcxMiwxNT
+k4NDk3NzQ5LC05MTM2NzA4NTQsNDQ0NTQ3MjI2LDU4MzU2Mzcy
+MiwxNjA3OTYwNzQzLDgxODkzNjgzNiwtMTkwNDM2Mjk5NywxMz
+g0MzM1NDExLC0xODExNjE4MzQxLDU5MTEzOTMyMCw2MTc0ODkz
+MTIsLTYyMDQxMDU5LC02MzAzMDcxNDMsMTQyMjg3MzU5NSwtMz
+AzMzUzNDYsLTc5OTgyNjY5NCwtNDg1NzY1MDQ2LDgxOTUxNjQ1
+Nl19
 -->
