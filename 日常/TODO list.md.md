@@ -392,7 +392,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ## 第9周
 - [ ] 开题材料完善和提交
-- [ ] 课题讨论？确定后续实施计划。理论研究，主要查找资料和论述与编程能力、学习效果相关的一些因素，汇总整合成具体的评价指标，和评价方法。开发，首先尝试搭建OJ系统
+- [ ] 课题讨论？确定后续实施计划。理论研究，主要查找资料和论述与编程能力、学习效果相关的一些因素，汇总整合成具体的评价指标，和评价方法。开发，课题成员试用奥赛智题助手，体验AI评估和总结的效果，，首先尝试搭建OJ系统
 - [ ] 公开课
 - [ ] 阅读分享《古建奇谈》
 - [ ] 编程备课 深搜广搜题目，数据结构备课
@@ -439,7 +439,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc4Njc5MzYsLTY0MTUwMjc2LC0xMj
+eyJoaXN0b3J5IjpbLTExMjM2MzE4OTQsLTY0MTUwMjc2LC0xMj
 kzNjM3MTQ5LDU3NzA4MjQzOCwtMTI3NTgxNjc3MiwxNzY1ODM1
 NzEyLDE1OTg0OTc3NDksLTkxMzY3MDg1NCw0NDQ1NDcyMjYsNT
 gzNTYzNzIyLDE2MDc5NjA3NDMsODE4OTM2ODM2LC0xOTA0MzYy
