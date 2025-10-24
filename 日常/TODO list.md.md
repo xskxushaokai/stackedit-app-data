@@ -392,7 +392,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ## 第9周
 - [ ] 开题材料完善和提交
-- [ ] 课题讨论？确定后续实施计划
+- [ ] 课题讨论？确定后续实施计划。理论
 - [ ] 公开课
 - [ ] 阅读分享《古建奇谈》
 - [ ] 编程备课 深搜广搜题目，数据结构备课
@@ -439,11 +439,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1Mzg3ODY5LC02NDE1MDI3NiwtMTI5Mz
-YzNzE0OSw1NzcwODI0MzgsLTEyNzU4MTY3NzIsMTc2NTgzNTcx
-MiwxNTk4NDk3NzQ5LC05MTM2NzA4NTQsNDQ0NTQ3MjI2LDU4Mz
-U2MzcyMiwxNjA3OTYwNzQzLDgxODkzNjgzNiwtMTkwNDM2Mjk5
-NywxMzg0MzM1NDExLC0xODExNjE4MzQxLDU5MTEzOTMyMCw2MT
-c0ODkzMTIsLTYyMDQxMDU5LC02MzAzMDcxNDMsMTQyMjg3MzU5
-NV19
+eyJoaXN0b3J5IjpbMTkyMDgxNDAwNSwtNjQxNTAyNzYsLTEyOT
+M2MzcxNDksNTc3MDgyNDM4LC0xMjc1ODE2NzcyLDE3NjU4MzU3
+MTIsMTU5ODQ5Nzc0OSwtOTEzNjcwODU0LDQ0NDU0NzIyNiw1OD
+M1NjM3MjIsMTYwNzk2MDc0Myw4MTg5MzY4MzYsLTE5MDQzNjI5
+OTcsMTM4NDMzNTQxMSwtMTgxMTYxODM0MSw1OTExMzkzMjAsNj
+E3NDg5MzEyLC02MjA0MTA1OSwtNjMwMzA3MTQzLDE0MjI4NzM1
+OTVdfQ==
 -->
