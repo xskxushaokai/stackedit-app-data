@@ -393,8 +393,8 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ## 第9周
 - [ ] 开题材料完善和提交
 - [ ] 课题讨论？确定后续实施计划。
-**1.理论研究**，主要查找相关资料(编程评价、通用的学习效果评价、计算思维培养和评价方式)、设计学生问卷(影响编程和学习的主要因素调查、计算思维能力测评等)，论证与编程能力、学习效果相关的一些因素(练习数量、时间、专注度等)、编程学习对于计算思维培养的重要性等，总结实践成论文，后续共同讨论汇总整合具体的评价指标(过程评价：练习数量、时间、练习时间点分布均衡度，练习总结等、过程专注度等；结果评价：代码规范、程序思路诊断、调试效率)，确定评价方法。
-**2.开发**，课题成员试用信奥智题助手，做题、整理和积累题库，体验AI评估和总结的效果，汇总使用感受和后续建议；同时，xsk尝试搭建OJ系统，其他成员可了解其他学校或朋友有无此项经验，提供交流和学习机会。后续共同完善和维护OJ系统的题库以及优化。
+**1.理论研究**，主要查找相关资料(编程评价、通用的学习效果评价、计算思维培养和评价方式)、设计学生问卷(影响编程和学习的主要因素调查、计算思维能力测评等)，论证与编程能力、学习效果相关的一些因素(练习数量、时间、专注度等)、编程学习对于计算思维培养的重要性等，实践成论文，后续共同讨论汇总整合具体的评价指标(过程评价：练习数量、时间、练习时间点分布均衡度，练习总结等、过程专注度等；结果评价：代码规范、程序思路诊断、调试效率)，确定评价方法。
+**2.开发**，课题成员试用信奥智题助手，**做题、整理和积累题库**，体验AI评估和总结的效果，汇总使用感受和后续建议；同时，xsk尝试搭建OJ系统，其他成员可了解其他学校或朋友有无此项经验，提供交流和学习机会。后续共同完善和维护OJ系统的题库以及优化。
 - [ ] 公开课
 - [ ] 阅读分享《古建奇谈》
 - [ ] 编程备课 深搜广搜题目，数据结构备课
@@ -441,11 +441,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTExNzM3MiwtNjc5ODMwMTk2LC0xMD
-g4NTIzMzEwLDIwNjM4NzY3NTQsMzkwOTI5NzU3LC02NDE1MDI3
-NiwtMTI5MzYzNzE0OSw1NzcwODI0MzgsLTEyNzU4MTY3NzIsMT
-c2NTgzNTcxMiwxNTk4NDk3NzQ5LC05MTM2NzA4NTQsNDQ0NTQ3
-MjI2LDU4MzU2MzcyMiwxNjA3OTYwNzQzLDgxODkzNjgzNiwtMT
-kwNDM2Mjk5NywxMzg0MzM1NDExLC0xODExNjE4MzQxLDU5MTEz
-OTMyMF19
+eyJoaXN0b3J5IjpbMTMwNDAxMzU3MiwxMzM1MTE3MzcyLC02Nz
+k4MzAxOTYsLTEwODg1MjMzMTAsMjA2Mzg3Njc1NCwzOTA5Mjk3
+NTcsLTY0MTUwMjc2LC0xMjkzNjM3MTQ5LDU3NzA4MjQzOCwtMT
+I3NTgxNjc3MiwxNzY1ODM1NzEyLDE1OTg0OTc3NDksLTkxMzY3
+MDg1NCw0NDQ1NDcyMjYsNTgzNTYzNzIyLDE2MDc5NjA3NDMsOD
+E4OTM2ODM2LC0xOTA0MzYyOTk3LDEzODQzMzU0MTEsLTE4MTE2
+MTgzNDFdfQ==
 -->
