@@ -396,7 +396,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 **1.理论研究**，主要查找相关资料(编程评价、通用的学习效果评价、计算思维培养和评价方式)、设计学生问卷(影响编程和学习的主要因素调查、计算思维能力测评等)，论证与编程能力、学习效果相关的一些因素(练习数量、时间、专注度等)、编程学习对于计算思维培养的重要性等，实践总结成论文，后续共同讨论汇总整合具体的评价指标(过程评价：练习数量、时间、练习时间点分布均衡度，练习总结等、过程专注度等；结果评价：代码规范、程序思路诊断、调试效率)，确定评价方法。
 **2.开发**，课题成员试用信奥智题助手，**做题、整理和积累题库**，体验AI评估和总结的效果，汇总使用感受和后续建议；同时，xsk尝试搭建OJ系统，其他成员可了解其他学校或朋友有无此项经验，提供交流和学习机会。后续共同完善和维护OJ系统的题库以及优化。
 
-- [ ] 教师资格注册
+- [ ] 教师资格资注册
 - [ ] 信奥智题助手相关资料发群
 - [x] 公开课
 - [ ] 阅读分享《古建奇谈》
@@ -444,8 +444,8 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAzOTYzMTIsLTQ5NTE5ODEwNCwtNz
-A3MjQwOTQ0LC0xNzM4MDE5Mjg1LDEyMzk4MTU1ODgsLTE5Nzcw
+eyJoaXN0b3J5IjpbLTQwMDQ5Nzg1OCwtMTg5MDM5NjMxMiwtND
+k1MTk4MTA0LC03MDcyNDA5NDQsLTE3MzgwMTkyODUsLTE5Nzcw
 MzExNzIsMTMzNTExNzM3MiwtNjc5ODMwMTk2LC0xMDg4NTIzMz
 EwLDIwNjM4NzY3NTQsMzkwOTI5NzU3LC02NDE1MDI3NiwtMTI5
 MzYzNzE0OSw1NzcwODI0MzgsLTEyNzU4MTY3NzIsMTc2NTgzNT
