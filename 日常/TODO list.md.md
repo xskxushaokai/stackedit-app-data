@@ -397,7 +397,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 **2.开发**，课题成员试用信奥智题助手，**做题、整理和积累题库**，体验AI评估和总结的效果，汇总使用感受和后续建议；同时，xsk尝试搭建OJ系统，其他成员可了解其他学校或朋友有无此项经验，提供交流和学习机会。后续共同完善和维护OJ系统的题库以及优化。
 
 - [x] 教师资格资注册，材料放共享
-- [ ] 学校论文比赛
+- [x] 学校论文比赛
 - [ ] 信奥智题助手相关资料发群
 - [x] 公开课
 - [ ] 编程备课 深搜广搜题目，数据结构备课
@@ -444,11 +444,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDQ0ODI1MSwtMTAwNDg4Njk5NSwtMT
-g5MDM5NjMxMiwtNDk1MTk4MTA0LC03MDcyNDA5NDQsLTE3Mzgw
-MTkyODUsLTE5NzcwMzExNzIsMTMzNTExNzM3MiwtNjc5ODMwMT
-k2LC0xMDg4NTIzMzEwLDIwNjM4NzY3NTQsMzkwOTI5NzU3LC02
-NDE1MDI3NiwtMTI5MzYzNzE0OSw1NzcwODI0MzgsLTEyNzU4MT
-Y3NzIsMTc2NTgzNTcxMiwxNTk4NDk3NzQ5LC05MTM2NzA4NTQs
-NDQ0NTQ3MjI2XX0=
+eyJoaXN0b3J5IjpbLTUxNDI1MzUyMywtNjc0NDQ4MjUxLC0xMD
+A0ODg2OTk1LC0xODkwMzk2MzEyLC00OTUxOTgxMDQsLTcwNzI0
+MDk0NCwtMTczODAxOTI4NSwtMTk3NzAzMTE3MiwxMzM1MTE3Mz
+cyLC02Nzk4MzAxOTYsLTEwODg1MjMzMTAsMjA2Mzg3Njc1NCwz
+OTA5Mjk3NTcsLTY0MTUwMjc2LC0xMjkzNjM3MTQ5LDU3NzA4Mj
+QzOCwtMTI3NTgxNjc3MiwxNzY1ODM1NzEyLDE1OTg0OTc3NDks
+LTkxMzY3MDg1NF19
 -->
