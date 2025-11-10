@@ -424,13 +424,12 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 
 ## 第12周
-- [x] 开题材料完善和提交，分工确定好后发群
 
-- [x] 教师资格资注册，材料放共享
-- [x] 学校论文比赛
+
+- [ ] 教师资格资注册，现场交材料
 - [ ] 信奥智题助手相关资料发群
-- [x] 公开课
-- [ ] 编程备课 深搜广搜题目，数据结构备课
+- [ ] 课题
+- [ ] 编程备课 深搜ti'm
 - [ ] 正看反说 win7语音版
 - [ ] OJ系统了解和搭建
 
@@ -456,11 +455,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE2MDY0MDEsLTUxNDI1MzUyMywtNj
-c0NDQ4MjUxLC0xMDA0ODg2OTk1LC0xODkwMzk2MzEyLC00OTUx
-OTgxMDQsLTcwNzI0MDk0NCwtMTczODAxOTI4NSwtMTk3NzAzMT
-E3MiwxMzM1MTE3MzcyLC02Nzk4MzAxOTYsLTEwODg1MjMzMTAs
-MjA2Mzg3Njc1NCwzOTA5Mjk3NTcsLTY0MTUwMjc2LC0xMjkzNj
-M3MTQ5LDU3NzA4MjQzOCwtMTI3NTgxNjc3MiwxNzY1ODM1NzEy
-LDE1OTg0OTc3NDldfQ==
+eyJoaXN0b3J5IjpbMTc2MDg4NzQ2NiwtNTE0MjUzNTIzLC02Nz
+Q0NDgyNTEsLTEwMDQ4ODY5OTUsLTE4OTAzOTYzMTIsLTQ5NTE5
+ODEwNCwtNzA3MjQwOTQ0LC0xNzM4MDE5Mjg1LC0xOTc3MDMxMT
+cyLDEzMzUxMTczNzIsLTY3OTgzMDE5NiwtMTA4ODUyMzMxMCwy
+MDYzODc2NzU0LDM5MDkyOTc1NywtNjQxNTAyNzYsLTEyOTM2Mz
+cxNDksNTc3MDgyNDM4LC0xMjc1ODE2NzcyLDE3NjU4MzU3MTIs
+MTU5ODQ5Nzc0OV19
 -->
