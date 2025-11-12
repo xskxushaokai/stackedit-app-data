@@ -428,6 +428,9 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] 教师资格资注册，现场交材料
 - [ ] 信奥智题助手相关资料发群
 - [ ] 编程备课：STL常用知识、分治、深搜题目
+	- [ ] 栈讲义
+	- [ ] 前缀和、差分
+	- [ ] 简单动态规划
 - [ ] 正看反说 win7语音版
 - [ ] OJ系统了解和搭建
 
@@ -453,11 +456,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTY2MzU3NSwxMjYxNTYxNDYyLDE5OT
-gyNzI1NDIsMTkzMDEwNDc3NCwtMTY0NjUxMzY2NSwtNTE0MjUz
-NTIzLC02NzQ0NDgyNTEsLTEwMDQ4ODY5OTUsLTE4OTAzOTYzMT
-IsLTQ5NTE5ODEwNCwtNzA3MjQwOTQ0LC0xNzM4MDE5Mjg1LC0x
-OTc3MDMxMTcyLDEzMzUxMTczNzIsLTY3OTgzMDE5NiwtMTA4OD
-UyMzMxMCwyMDYzODc2NzU0LDM5MDkyOTc1NywtNjQxNTAyNzYs
-LTEyOTM2MzcxNDldfQ==
+eyJoaXN0b3J5IjpbMjAyODM0OTkyMywxNDkxNjYzNTc1LDEyNj
+E1NjE0NjIsMTk5ODI3MjU0MiwxOTMwMTA0Nzc0LC0xNjQ2NTEz
+NjY1LC01MTQyNTM1MjMsLTY3NDQ0ODI1MSwtMTAwNDg4Njk5NS
+wtMTg5MDM5NjMxMiwtNDk1MTk4MTA0LC03MDcyNDA5NDQsLTE3
+MzgwMTkyODUsLTE5NzcwMzExNzIsMTMzNTExNzM3MiwtNjc5OD
+MwMTk2LC0xMDg4NTIzMzEwLDIwNjM4NzY3NTQsMzkwOTI5NzU3
+LC02NDE1MDI3Nl19
 -->
