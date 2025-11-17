@@ -436,6 +436,19 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] OJ系统了解和搭建
 
 
+## 第12周
+- [x] 体育统分表格
+- [x] 教师资格资注册，现场交材料
+- [ ] 信奥智题助手相关资料发群
+- [ ] 编程备课：STL常用知识、分治、深搜题目
+	- [ ] 栈讲义
+	- [ ] 分治、二分
+	- [ ] 前缀和、差分
+	- [ ] 简单动态规划
+- [ ] 正看反说 win7语音版
+- [ ] OJ系统了解和搭建
+
+
 
 ---
 
@@ -457,11 +470,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NTM1ODgyLDIwMjgzNDk5MjMsMTQ5MT
-Y2MzU3NSwxMjYxNTYxNDYyLDE5OTgyNzI1NDIsMTkzMDEwNDc3
-NCwtMTY0NjUxMzY2NSwtNTE0MjUzNTIzLC02NzQ0NDgyNTEsLT
-EwMDQ4ODY5OTUsLTE4OTAzOTYzMTIsLTQ5NTE5ODEwNCwtNzA3
-MjQwOTQ0LC0xNzM4MDE5Mjg1LC0xOTc3MDMxMTcyLDEzMzUxMT
-czNzIsLTY3OTgzMDE5NiwtMTA4ODUyMzMxMCwyMDYzODc2NzU0
-LDM5MDkyOTc1N119
+eyJoaXN0b3J5IjpbNjI2MzYzMzcyLDU1NTUzNTg4MiwyMDI4Mz
+Q5OTIzLDE0OTE2NjM1NzUsMTI2MTU2MTQ2MiwxOTk4MjcyNTQy
+LDE5MzAxMDQ3NzQsLTE2NDY1MTM2NjUsLTUxNDI1MzUyMywtNj
+c0NDQ4MjUxLC0xMDA0ODg2OTk1LC0xODkwMzk2MzEyLC00OTUx
+OTgxMDQsLTcwNzI0MDk0NCwtMTczODAxOTI4NSwtMTk3NzAzMT
+E3MiwxMzM1MTE3MzcyLC02Nzk4MzAxOTYsLTEwODg1MjMzMTAs
+MjA2Mzg3Njc1NF19
 -->
