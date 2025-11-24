@@ -459,6 +459,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 正看反说 win7语音版
 - [ ] OJ系统了解和搭建
 - [ ] 成绩分析
+- [ ] 新paper、模型跟进（SAM 3D等）
 
 
 ---
@@ -481,7 +482,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQzNDk2MjUsMjY4OTc5NDc5LDYyNj
+eyJoaXN0b3J5IjpbLTExOTA0NTE2MTMsMjY4OTc5NDc5LDYyNj
 M2MzM3Miw1NTU1MzU4ODIsMjAyODM0OTkyMywxNDkxNjYzNTc1
 LDEyNjE1NjE0NjIsMTk5ODI3MjU0MiwxOTMwMTA0Nzc0LC0xNj
 Q2NTEzNjY1LC01MTQyNTM1MjMsLTY3NDQ0ODI1MSwtMTAwNDg4
