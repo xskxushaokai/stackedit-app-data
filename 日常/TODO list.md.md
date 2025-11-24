@@ -439,14 +439,25 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ## 第12周
 - [ ] 信奥智题助手相关资料发群
 - [ ] 编程备课：STL常用知识、分治、深搜题目
-	- [ ] 栈讲义
-	- [ ] 分治、二分
+	- [x] 栈讲义
+	- [x] 分治、二分
 	- [ ] 前缀和、差分
 	- [ ] 简单动态规划
 - [ ]  行空板mpython模式
 - [ ] 正看反说 win7语音版
 - [ ] OJ系统了解和搭建
 
+
+## 第13周
+- [ ] 信奥智题助手相关资料发群
+- [ ] 编程备课：STL常用知识、分治、深搜题目
+	- [x] 栈讲义
+	- [x] 分治、二分
+	- [ ] 前缀和、差分
+	- [ ] 简单动态规划
+- [ ]  行空板mpython模式
+- [ ] 正看反说 win7语音版
+- [ ] OJ系统了解和搭建
 
 
 ---
@@ -469,11 +480,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4OTc5NDc5LDYyNjM2MzM3Miw1NTU1Mz
-U4ODIsMjAyODM0OTkyMywxNDkxNjYzNTc1LDEyNjE1NjE0NjIs
-MTk5ODI3MjU0MiwxOTMwMTA0Nzc0LC0xNjQ2NTEzNjY1LC01MT
-QyNTM1MjMsLTY3NDQ0ODI1MSwtMTAwNDg4Njk5NSwtMTg5MDM5
-NjMxMiwtNDk1MTk4MTA0LC03MDcyNDA5NDQsLTE3MzgwMTkyOD
-UsLTE5NzcwMzExNzIsMTMzNTExNzM3MiwtNjc5ODMwMTk2LC0x
-MDg4NTIzMzEwXX0=
+eyJoaXN0b3J5IjpbNTkxMzA3MTI3LDI2ODk3OTQ3OSw2MjYzNj
+MzNzIsNTU1NTM1ODgyLDIwMjgzNDk5MjMsMTQ5MTY2MzU3NSwx
+MjYxNTYxNDYyLDE5OTgyNzI1NDIsMTkzMDEwNDc3NCwtMTY0Nj
+UxMzY2NSwtNTE0MjUzNTIzLC02NzQ0NDgyNTEsLTEwMDQ4ODY5
+OTUsLTE4OTAzOTYzMTIsLTQ5NTE5ODEwNCwtNzA3MjQwOTQ0LC
+0xNzM4MDE5Mjg1LC0xOTc3MDMxMTcyLDEzMzUxMTczNzIsLTY3
+OTgzMDE5Nl19
 -->
