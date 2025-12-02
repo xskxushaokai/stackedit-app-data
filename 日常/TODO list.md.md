@@ -461,7 +461,10 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [x] 身份证
 	- [ ] 学历、学位证，学位证书在线验证报告
 	- [x] 个人完税记录证明
-
+	- [ ] 劳动合同
+	- [ ] 在莞开户银行卡
+	- [ ] 户口本扉页（户头页）及本人信息页彩色原件
+	- [ ] 补充提供本人申请时所在用人单位满 6 个月的社会养老保险记录清单
 
 - [ ]  行空板mpython模式
 - [ ] 正看反说 win7语音版
@@ -492,11 +495,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU3MDI4OTAsMTQ1NjU4MTQ2LDE5Mj
-Q0MTE4NDEsODk3MjQyODMsMTQ4NjA4NTk3MCwtMTE5MDQ1MTYx
-MywyNjg5Nzk0NzksNjI2MzYzMzcyLDU1NTUzNTg4MiwyMDI4Mz
-Q5OTIzLDE0OTE2NjM1NzUsMTI2MTU2MTQ2MiwxOTk4MjcyNTQy
-LDE5MzAxMDQ3NzQsLTE2NDY1MTM2NjUsLTUxNDI1MzUyMywtNj
-c0NDQ4MjUxLC0xMDA0ODg2OTk1LC0xODkwMzk2MzEyLC00OTUx
-OTgxMDRdfQ==
+eyJoaXN0b3J5IjpbLTcwMjgzMTM3OCwxNDU2NTgxNDYsMTkyND
+QxMTg0MSw4OTcyNDI4MywxNDg2MDg1OTcwLC0xMTkwNDUxNjEz
+LDI2ODk3OTQ3OSw2MjYzNjMzNzIsNTU1NTM1ODgyLDIwMjgzND
+k5MjMsMTQ5MTY2MzU3NSwxMjYxNTYxNDYyLDE5OTgyNzI1NDIs
+MTkzMDEwNDc3NCwtMTY0NjUxMzY2NSwtNTE0MjUzNTIzLC02Nz
+Q0NDgyNTEsLTEwMDQ4ODY5OTUsLTE4OTAzOTYzMTIsLTQ5NTE5
+ODEwNF19
 -->
