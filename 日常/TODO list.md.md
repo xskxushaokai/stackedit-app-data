@@ -151,7 +151,7 @@
 ## 第10周总结与第11周计划
 ### ==【第10周已完成】== 
 - [x] 科组公开课：《移动互联新发展》
-- [] 数字化校园统计
+- [ ] 数字化校园统计
 - [x] 最强大脑 T部活动
 	- [x] 姿态估计应用程序
 - [ ] ==【课题申报书】== 撰写
@@ -461,6 +461,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 正看反说 win7语音版
 - [ ] OJ系统了解和搭建
 - [ ] 成绩分析
+- [ ] 教师考核程序
 - [ ] 新paper、模型跟进（SAM 3D等）
 - [x] pytorch搭建GPT Transformer
 
@@ -485,11 +486,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDQxMTg0MSw4OTcyNDI4MywxNDg2MD
-g1OTcwLC0xMTkwNDUxNjEzLDI2ODk3OTQ3OSw2MjYzNjMzNzIs
-NTU1NTM1ODgyLDIwMjgzNDk5MjMsMTQ5MTY2MzU3NSwxMjYxNT
-YxNDYyLDE5OTgyNzI1NDIsMTkzMDEwNDc3NCwtMTY0NjUxMzY2
-NSwtNTE0MjUzNTIzLC02NzQ0NDgyNTEsLTEwMDQ4ODY5OTUsLT
-E4OTAzOTYzMTIsLTQ5NTE5ODEwNCwtNzA3MjQwOTQ0LC0xNzM4
-MDE5Mjg1XX0=
+eyJoaXN0b3J5IjpbMTQ1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3Mj
+QyODMsMTQ4NjA4NTk3MCwtMTE5MDQ1MTYxMywyNjg5Nzk0Nzks
+NjI2MzYzMzcyLDU1NTUzNTg4MiwyMDI4MzQ5OTIzLDE0OTE2Nj
+M1NzUsMTI2MTU2MTQ2MiwxOTk4MjcyNTQyLDE5MzAxMDQ3NzQs
+LTE2NDY1MTM2NjUsLTUxNDI1MzUyMywtNjc0NDQ4MjUxLC0xMD
+A0ODg2OTk1LC0xODkwMzk2MzEyLC00OTUxOTgxMDQsLTcwNzI0
+MDk0NF19
 -->
