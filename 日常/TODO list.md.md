@@ -459,7 +459,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 东莞市创新人才补贴申请
 	- [ ] 申请表签字盖章
 	- [x] 身份证
-	- [ ] 学历、学位证，学位证书在线验证报告
+	- [x] 学历、学位证，学位证书在线验证报告
 	- [x] 个人完税记录证明
 	- [ ] 劳动合同
 	- [ ] 在莞开户银行卡
@@ -495,11 +495,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjgzMTM3OCwxNDU2NTgxNDYsMTkyND
-QxMTg0MSw4OTcyNDI4MywxNDg2MDg1OTcwLC0xMTkwNDUxNjEz
-LDI2ODk3OTQ3OSw2MjYzNjMzNzIsNTU1NTM1ODgyLDIwMjgzND
-k5MjMsMTQ5MTY2MzU3NSwxMjYxNTYxNDYyLDE5OTgyNzI1NDIs
-MTkzMDEwNDc3NCwtMTY0NjUxMzY2NSwtNTE0MjUzNTIzLC02Nz
-Q0NDgyNTEsLTEwMDQ4ODY5OTUsLTE4OTAzOTYzMTIsLTQ5NTE5
-ODEwNF19
+eyJoaXN0b3J5IjpbLTg3MDc1MDkwNiwtNzAyODMxMzc4LDE0NT
+Y1ODE0NiwxOTI0NDExODQxLDg5NzI0MjgzLDE0ODYwODU5NzAs
+LTExOTA0NTE2MTMsMjY4OTc5NDc5LDYyNjM2MzM3Miw1NTU1Mz
+U4ODIsMjAyODM0OTkyMywxNDkxNjYzNTc1LDEyNjE1NjE0NjIs
+MTk5ODI3MjU0MiwxOTMwMTA0Nzc0LC0xNjQ2NTEzNjY1LC01MT
+QyNTM1MjMsLTY3NDQ0ODI1MSwtMTAwNDg4Njk5NSwtMTg5MDM5
+NjMxMl19
 -->
