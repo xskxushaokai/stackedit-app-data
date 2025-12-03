@@ -464,7 +464,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [x] 个人完税记录证明
 	- [ ] 劳动合同
 	- [ ] 在莞开户银行卡
-	- [ ] 户口本扉页（户头页）及本人信息页彩色原件
+	- [x] 户口本扉页（户头页）及本人信息页彩色原件
 	- [ ] 补充提供本人申请时所在用人单位满 6 个月的社会养老保险记录清单
 
 - [ ]  行空板mpython模式
@@ -496,11 +496,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTkzMzk3OCwtODcwNzUwOTA2LC03MD
-I4MzEzNzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3MjQyODMs
-MTQ4NjA4NTk3MCwtMTE5MDQ1MTYxMywyNjg5Nzk0NzksNjI2Mz
-YzMzcyLDU1NTUzNTg4MiwyMDI4MzQ5OTIzLDE0OTE2NjM1NzUs
-MTI2MTU2MTQ2MiwxOTk4MjcyNTQyLDE5MzAxMDQ3NzQsLTE2ND
-Y1MTM2NjUsLTUxNDI1MzUyMywtNjc0NDQ4MjUxLC0xMDA0ODg2
-OTk1XX0=
+eyJoaXN0b3J5IjpbLTE4MjA3NTA4NjIsMTc4OTkzMzk3OCwtOD
+cwNzUwOTA2LC03MDI4MzEzNzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4
+NDEsODk3MjQyODMsMTQ4NjA4NTk3MCwtMTE5MDQ1MTYxMywyNj
+g5Nzk0NzksNjI2MzYzMzcyLDU1NTUzNTg4MiwyMDI4MzQ5OTIz
+LDE0OTE2NjM1NzUsMTI2MTU2MTQ2MiwxOTk4MjcyNTQyLDE5Mz
+AxMDQ3NzQsLTE2NDY1MTM2NjUsLTUxNDI1MzUyMywtNjc0NDQ4
+MjUxXX0=
 -->
