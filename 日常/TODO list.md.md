@@ -476,6 +476,35 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] pytorch搭建GPT Transformer
 
 
+## 第14周
+- [ ] 信奥智题助手相关资料发群
+- [ ]  CSP复赛获奖证书收集
+- [ ]  成绩分析
+- [ ] 编程备课：STL常用知识、分治、深搜题目
+	- [x] 栈讲义
+	- [x] 分治、二分
+	- [ ] 前缀和、差分
+	- [ ] 简单动态规划
+- [ ] 东莞市创新人才补贴申请
+	- [ ] 申请表签字盖章
+	- [x] 身份证
+	- [x] 学历、学位证，学位证书在线验证报告
+	- [x] 个人完税记录证明
+	- [x] 劳动合同
+	- [x] 在莞开户银行卡
+	- [x] 户口本扉页（户头页）及本人信息页彩色原件
+	- [x] 补充提供本人申请时所在用人单位满 6 个月的社会养老保险记录清单
+
+- [ ]  行空板mpython模式
+- [ ] 正看反说 win7语音版
+- [ ] OJ系统了解和搭建
+
+- [ ] 教师考核程序
+- [ ] 新paper、模型跟进（SAM 3D等）
+- [x] pytorch搭建GPT Transformer
+
+
+
 ---
 
 ## 成绩分析各文件作用：
@@ -496,11 +525,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTAyMTAzMTIsODczMjA2NjgyLC0yNT
-MxMjAyNzAsMTEwNzIzMjg0MiwxNzg5OTMzOTc4LC04NzA3NTA5
-MDYsLTcwMjgzMTM3OCwxNDU2NTgxNDYsMTkyNDQxMTg0MSw4OT
-cyNDI4MywxNDg2MDg1OTcwLC0xMTkwNDUxNjEzLDI2ODk3OTQ3
-OSw2MjYzNjMzNzIsNTU1NTM1ODgyLDIwMjgzNDk5MjMsMTQ5MT
-Y2MzU3NSwxMjYxNTYxNDYyLDE5OTgyNzI1NDIsMTkzMDEwNDc3
-NF19
+eyJoaXN0b3J5IjpbMTIyNDM0NDc0MCw4NzMyMDY2ODIsLTI1Mz
+EyMDI3MCwxMTA3MjMyODQyLDE3ODk5MzM5NzgsLTg3MDc1MDkw
+NiwtNzAyODMxMzc4LDE0NTY1ODE0NiwxOTI0NDExODQxLDg5Nz
+I0MjgzLDE0ODYwODU5NzAsLTExOTA0NTE2MTMsMjY4OTc5NDc5
+LDYyNjM2MzM3Miw1NTU1MzU4ODIsMjAyODM0OTkyMywxNDkxNj
+YzNTc1LDEyNjE1NjE0NjIsMTk5ODI3MjU0MiwxOTMwMTA0Nzc0
+XX0=
 -->
