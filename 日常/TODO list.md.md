@@ -450,8 +450,8 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ## 第13-14周
 - [ ] 信奥智题助手相关资料发群
-- [ ]  CSP复赛获奖证书收集
-- [ ]  成绩分析
+- [x]  CSP复赛获奖证书收集
+- [x]  成绩分析
 - [ ] 编程备课：STL常用知识、分治、深搜题目
 	- [x] 栈讲义
 	- [x] 分治、二分
@@ -476,10 +476,10 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] pytorch搭建GPT Transformer
 
 
-## 第14周
+## 第15周
 - [ ] 信奥智题助手相关资料发群
-- [ ]  CSP复赛获奖证书收集
-- [ ]  成绩分析
+- [x]  CSP复赛获奖证书收集
+- [x]  成绩分析
 - [ ] 编程备课：STL常用知识、分治、深搜题目
 	- [x] 栈讲义
 	- [x] 分治、二分
@@ -525,11 +525,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDM0NDc0MCw4NzMyMDY2ODIsLTI1Mz
-EyMDI3MCwxMTA3MjMyODQyLDE3ODk5MzM5NzgsLTg3MDc1MDkw
-NiwtNzAyODMxMzc4LDE0NTY1ODE0NiwxOTI0NDExODQxLDg5Nz
-I0MjgzLDE0ODYwODU5NzAsLTExOTA0NTE2MTMsMjY4OTc5NDc5
-LDYyNjM2MzM3Miw1NTU1MzU4ODIsMjAyODM0OTkyMywxNDkxNj
-YzNTc1LDEyNjE1NjE0NjIsMTk5ODI3MjU0MiwxOTMwMTA0Nzc0
-XX0=
+eyJoaXN0b3J5IjpbLTEzNzExMDg3MzMsODczMjA2NjgyLC0yNT
+MxMjAyNzAsMTEwNzIzMjg0MiwxNzg5OTMzOTc4LC04NzA3NTA5
+MDYsLTcwMjgzMTM3OCwxNDU2NTgxNDYsMTkyNDQxMTg0MSw4OT
+cyNDI4MywxNDg2MDg1OTcwLC0xMTkwNDUxNjEzLDI2ODk3OTQ3
+OSw2MjYzNjMzNzIsNTU1NTM1ODgyLDIwMjgzNDk5MjMsMTQ5MT
+Y2MzU3NSwxMjYxNTYxNDYyLDE5OTgyNzI1NDIsMTkzMDEwNDc3
+NF19
 -->
