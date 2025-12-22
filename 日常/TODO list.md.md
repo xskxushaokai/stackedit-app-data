@@ -513,7 +513,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [x] 分治、二分
 	- [ ] 前缀和、差分
 	- [ ] 简单动态规划
-你好！很高兴为你提供帮助。有什么问题我可以帮你解答吗？
+- [x] 东莞市创新人才补贴申请 已提交
 	- [x] 申请表签字盖章
 	- [x] 身份证
 	- [x] 学历、学位证，学位证书在线验证报告
@@ -552,11 +552,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzM1NTQ2NywtMTIzNTgyOTYyMCwtMj
-ExOTYzOTk2LDg3MzIwNjY4MiwtMjUzMTIwMjcwLDExMDcyMzI4
-NDIsMTc4OTkzMzk3OCwtODcwNzUwOTA2LC03MDI4MzEzNzgsMT
-Q1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3MjQyODMsMTQ4NjA4NTk3
-MCwtMTE5MDQ1MTYxMywyNjg5Nzk0NzksNjI2MzYzMzcyLDU1NT
-UzNTg4MiwyMDI4MzQ5OTIzLDE0OTE2NjM1NzUsMTI2MTU2MTQ2
-Ml19
+eyJoaXN0b3J5IjpbLTEyMzU4Mjk2MjAsLTEyMzU4Mjk2MjAsLT
+IxMTk2Mzk5Niw4NzMyMDY2ODIsLTI1MzEyMDI3MCwxMTA3MjMy
+ODQyLDE3ODk5MzM5NzgsLTg3MDc1MDkwNiwtNzAyODMxMzc4LD
+E0NTY1ODE0NiwxOTI0NDExODQxLDg5NzI0MjgzLDE0ODYwODU5
+NzAsLTExOTA0NTE2MTMsMjY4OTc5NDc5LDYyNjM2MzM3Miw1NT
+U1MzU4ODIsMjAyODM0OTkyMywxNDkxNjYzNTc1LDEyNjE1NjE0
+NjJdfQ==
 -->
