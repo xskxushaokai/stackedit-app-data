@@ -507,7 +507,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ## 第17周
 - [ ] 信奥智题助手相关资料发群
 
-- []  音乐成绩分析
+- [ ]  音乐成绩分析
 - [ ] 编程备课：STL常用知识、分治、深搜题目
 	- [x] 栈讲义
 	- [x] 分治、二分
@@ -552,11 +552,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNjQ3MTkyLC0xMjM1ODI5NjIwLC0yMT
-E5NjM5OTYsODczMjA2NjgyLC0yNTMxMjAyNzAsMTEwNzIzMjg0
-MiwxNzg5OTMzOTc4LC04NzA3NTA5MDYsLTcwMjgzMTM3OCwxND
-U2NTgxNDYsMTkyNDQxMTg0MSw4OTcyNDI4MywxNDg2MDg1OTcw
-LC0xMTkwNDUxNjEzLDI2ODk3OTQ3OSw2MjYzNjMzNzIsNTU1NT
-M1ODgyLDIwMjgzNDk5MjMsMTQ5MTY2MzU3NSwxMjYxNTYxNDYy
-XX0=
+eyJoaXN0b3J5IjpbMjA4MzUxMzE2OCwtMTIzNTgyOTYyMCwtMj
+ExOTYzOTk2LDg3MzIwNjY4MiwtMjUzMTIwMjcwLDExMDcyMzI4
+NDIsMTc4OTkzMzk3OCwtODcwNzUwOTA2LC03MDI4MzEzNzgsMT
+Q1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3MjQyODMsMTQ4NjA4NTk3
+MCwtMTE5MDQ1MTYxMywyNjg5Nzk0NzksNjI2MzYzMzcyLDU1NT
+UzNTg4MiwyMDI4MzQ5OTIzLDE0OTE2NjM1NzUsMTI2MTU2MTQ2
+Ml19
 -->
