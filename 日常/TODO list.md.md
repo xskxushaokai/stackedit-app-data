@@ -514,14 +514,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ] 前缀和、差分
 	- [ ] 简单动态规划
 - [x] 东莞市创新人才补贴申请 已提交
-	- [x] 申请表签字盖章
-	- [x] 身份证
-	- [x] 学历、学位证，学位证书在线验证报告
-	- [x] 个人完税记录证明
-	- [x] 劳动合同
-	- [x] 在莞开户银行卡
-	- [x] 户口本扉页（户头页）及本人信息页彩色原件
-	- [x] 补充提供本人申请时所在用人单位满 6 个月的社会养老保险记录清单
+
 
 - [ ] 学生智能体应用比赛
 - [ ] 行空板mpython模式
@@ -552,11 +545,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzUxMzE2OCwtMTIzNTgyOTYyMCwtMj
-ExOTYzOTk2LDg3MzIwNjY4MiwtMjUzMTIwMjcwLDExMDcyMzI4
-NDIsMTc4OTkzMzk3OCwtODcwNzUwOTA2LC03MDI4MzEzNzgsMT
-Q1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3MjQyODMsMTQ4NjA4NTk3
-MCwtMTE5MDQ1MTYxMywyNjg5Nzk0NzksNjI2MzYzMzcyLDU1NT
-UzNTg4MiwyMDI4MzQ5OTIzLDE0OTE2NjM1NzUsMTI2MTU2MTQ2
-Ml19
+eyJoaXN0b3J5IjpbNDA2ODU5NjQwLDIwODM1MTMxNjgsLTEyMz
+U4Mjk2MjAsLTIxMTk2Mzk5Niw4NzMyMDY2ODIsLTI1MzEyMDI3
+MCwxMTA3MjMyODQyLDE3ODk5MzM5NzgsLTg3MDc1MDkwNiwtNz
+AyODMxMzc4LDE0NTY1ODE0NiwxOTI0NDExODQxLDg5NzI0Mjgz
+LDE0ODYwODU5NzAsLTExOTA0NTE2MTMsMjY4OTc5NDc5LDYyNj
+M2MzM3Miw1NTU1MzU4ODIsMjAyODM0OTkyMywxNDkxNjYzNTc1
+XX0=
 -->
