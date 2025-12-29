@@ -530,10 +530,12 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 信奥智题助手相关资料发群
 
 - [ ]  音乐成绩分析
-- [ ] 编程备课：STL常用知识、分治、深搜题目
+- [ ] 编程备课：
 	- [x] 栈讲义
+	- [x] STL常用知识
 	- [x] 分治、二分
 	- [ ] 前缀和、差分
+	- [ ] 深搜题目
 	- [ ] 动态规划题目整理
 	- [ ] 简单动态规划
 - [x] 东莞市创新人才补贴申请 已提交
@@ -569,11 +571,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjYzNTM1Nyw0MDY4NTk2NDAsMjA4Mz
-UxMzE2OCwtMTIzNTgyOTYyMCwtMjExOTYzOTk2LDg3MzIwNjY4
-MiwtMjUzMTIwMjcwLDExMDcyMzI4NDIsMTc4OTkzMzk3OCwtOD
-cwNzUwOTA2LC03MDI4MzEzNzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4
-NDEsODk3MjQyODMsMTQ4NjA4NTk3MCwtMTE5MDQ1MTYxMywyNj
-g5Nzk0NzksNjI2MzYzMzcyLDU1NTUzNTg4MiwyMDI4MzQ5OTIz
-XX0=
+eyJoaXN0b3J5IjpbNjg4MjEzNDY2LDQwNjg1OTY0MCwyMDgzNT
+EzMTY4LC0xMjM1ODI5NjIwLC0yMTE5NjM5OTYsODczMjA2Njgy
+LC0yNTMxMjAyNzAsMTEwNzIzMjg0MiwxNzg5OTMzOTc4LC04Nz
+A3NTA5MDYsLTcwMjgzMTM3OCwxNDU2NTgxNDYsMTkyNDQxMTg0
+MSw4OTcyNDI4MywxNDg2MDg1OTcwLC0xMTkwNDUxNjEzLDI2OD
+k3OTQ3OSw2MjYzNjMzNzIsNTU1NTM1ODgyLDIwMjgzNDk5MjNd
+fQ==
 -->
