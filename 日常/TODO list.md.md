@@ -534,6 +534,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [x] 栈讲义
 	- [x] 分治、二分
 	- [ ] 前缀和、差分
+	- [ ] 动态规划题目整理
 	- [ ] 简单动态规划
 - [x] 东莞市创新人才补贴申请 已提交
 
@@ -568,7 +569,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjI4ODQ5Nyw0MDY4NTk2NDAsMjA4Mz
+eyJoaXN0b3J5IjpbMTY3MjYzNTM1Nyw0MDY4NTk2NDAsMjA4Mz
 UxMzE2OCwtMTIzNTgyOTYyMCwtMjExOTYzOTk2LDg3MzIwNjY4
 MiwtMjUzMTIwMjcwLDExMDcyMzI4NDIsMTc4OTkzMzk3OCwtOD
 cwNzUwOTA2LC03MDI4MzEzNzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4
