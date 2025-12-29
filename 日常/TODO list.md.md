@@ -525,6 +525,29 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 新paper、模型跟进（SAM 3D等）
 - [x] pytorch搭建GPT Transformer
 
+
+## 第18周
+- [ ] 信奥智题助手相关资料发群
+
+- [ ]  音乐成绩分析
+- [ ] 编程备课：STL常用知识、分治、深搜题目
+	- [x] 栈讲义
+	- [x] 分治、二分
+	- [ ] 前缀和、差分
+	- [ ] 简单动态规划
+- [x] 东莞市创新人才补贴申请 已提交
+
+
+- [ ] 学生智能体应用比赛
+- [ ] 行空板mpython模式
+- [ ] 正看反说 win7语音版
+- [ ] OJ系统了解和搭建
+
+- [ ] 教师考核程序
+- [ ] 新paper、模型跟进（SAM 3D等）
+- [x] pytorch搭建GPT Transformer
+
+
 ---
 
 ## 成绩分析各文件作用：
@@ -545,11 +568,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2ODU5NjQwLDIwODM1MTMxNjgsLTEyMz
-U4Mjk2MjAsLTIxMTk2Mzk5Niw4NzMyMDY2ODIsLTI1MzEyMDI3
-MCwxMTA3MjMyODQyLDE3ODk5MzM5NzgsLTg3MDc1MDkwNiwtNz
-AyODMxMzc4LDE0NTY1ODE0NiwxOTI0NDExODQxLDg5NzI0Mjgz
-LDE0ODYwODU5NzAsLTExOTA0NTE2MTMsMjY4OTc5NDc5LDYyNj
-M2MzM3Miw1NTU1MzU4ODIsMjAyODM0OTkyMywxNDkxNjYzNTc1
+eyJoaXN0b3J5IjpbMTI1NjI4ODQ5Nyw0MDY4NTk2NDAsMjA4Mz
+UxMzE2OCwtMTIzNTgyOTYyMCwtMjExOTYzOTk2LDg3MzIwNjY4
+MiwtMjUzMTIwMjcwLDExMDcyMzI4NDIsMTc4OTkzMzk3OCwtOD
+cwNzUwOTA2LC03MDI4MzEzNzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4
+NDEsODk3MjQyODMsMTQ4NjA4NTk3MCwtMTE5MDQ1MTYxMywyNj
+g5Nzk0NzksNjI2MzYzMzcyLDU1NTUzNTg4MiwyMDI4MzQ5OTIz
 XX0=
 -->
