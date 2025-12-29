@@ -540,17 +540,19 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ] 深搜题目
 	- [ ] 动态规划题目整理
 	- [ ] 简单动态规划
-- [x] 东莞市创新人才补贴申请 已提交
+- [ ] OJ系统了解和搭建
+
 
 
 - [ ] 学生智能体应用比赛
 - [ ] 行空板mpython模式
 - [ ] 正看反说 win7语音版
-- [ ] OJ系统了解和搭建
+
 
 - [ ] 教师考核程序
 - [ ] 新paper、模型跟进（SAM 3D等）
 - [x] pytorch搭建GPT Transformer
+- [x] 东莞市创新人才补贴申请 已提交
 
 
 ---
@@ -573,11 +575,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDMyMjI5LDQwNjg1OTY0MCwyMDgzNT
-EzMTY4LC0xMjM1ODI5NjIwLC0yMTE5NjM5OTYsODczMjA2Njgy
-LC0yNTMxMjAyNzAsMTEwNzIzMjg0MiwxNzg5OTMzOTc4LC04Nz
-A3NTA5MDYsLTcwMjgzMTM3OCwxNDU2NTgxNDYsMTkyNDQxMTg0
-MSw4OTcyNDI4MywxNDg2MDg1OTcwLC0xMTkwNDUxNjEzLDI2OD
-k3OTQ3OSw2MjYzNjMzNzIsNTU1NTM1ODgyLDIwMjgzNDk5MjNd
-fQ==
+eyJoaXN0b3J5IjpbMjgzNzEwOTg5LDE2MjQzMjIyOSw0MDY4NT
+k2NDAsMjA4MzUxMzE2OCwtMTIzNTgyOTYyMCwtMjExOTYzOTk2
+LDg3MzIwNjY4MiwtMjUzMTIwMjcwLDExMDcyMzI4NDIsMTc4OT
+kzMzk3OCwtODcwNzUwOTA2LC03MDI4MzEzNzgsMTQ1NjU4MTQ2
+LDE5MjQ0MTE4NDEsODk3MjQyODMsMTQ4NjA4NTk3MCwtMTE5MD
+Q1MTYxMywyNjg5Nzk0NzksNjI2MzYzMzcyLDU1NTUzNTg4Ml19
+
 -->
