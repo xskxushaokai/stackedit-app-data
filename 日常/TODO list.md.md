@@ -547,8 +547,6 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 学生智能体应用比赛
 - [ ] 行空板mpython模式
 - [ ] 正看反说 win7语音版
-
-
 - [ ] 教师考核程序
 - [ ] 新paper、模型跟进（SAM 3D等）
 - [x] pytorch搭建GPT Transformer
@@ -575,11 +573,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNzEwOTg5LDE2MjQzMjIyOSw0MDY4NT
-k2NDAsMjA4MzUxMzE2OCwtMTIzNTgyOTYyMCwtMjExOTYzOTk2
-LDg3MzIwNjY4MiwtMjUzMTIwMjcwLDExMDcyMzI4NDIsMTc4OT
-kzMzk3OCwtODcwNzUwOTA2LC03MDI4MzEzNzgsMTQ1NjU4MTQ2
-LDE5MjQ0MTE4NDEsODk3MjQyODMsMTQ4NjA4NTk3MCwtMTE5MD
-Q1MTYxMywyNjg5Nzk0NzksNjI2MzYzMzcyLDU1NTUzNTg4Ml19
-
+eyJoaXN0b3J5IjpbLTgwODg2Njg5NSwxNjI0MzIyMjksNDA2OD
+U5NjQwLDIwODM1MTMxNjgsLTEyMzU4Mjk2MjAsLTIxMTk2Mzk5
+Niw4NzMyMDY2ODIsLTI1MzEyMDI3MCwxMTA3MjMyODQyLDE3OD
+k5MzM5NzgsLTg3MDc1MDkwNiwtNzAyODMxMzc4LDE0NTY1ODE0
+NiwxOTI0NDExODQxLDg5NzI0MjgzLDE0ODYwODU5NzAsLTExOT
+A0NTE2MTMsMjY4OTc5NDc5LDYyNjM2MzM3Miw1NTU1MzU4ODJd
+fQ==
 -->
