@@ -528,6 +528,8 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ## 第18周
 - [ ] 信奥智题助手相关资料发群
+- [ ] AI工具分享整理：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
+- [ ] 人脸识别demo代码
 
 - [ ]  音乐成绩分析
 - [ ] 编程备课：
@@ -571,7 +573,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MjEzNDY2LDQwNjg1OTY0MCwyMDgzNT
+eyJoaXN0b3J5IjpbMTYyNDMyMjI5LDQwNjg1OTY0MCwyMDgzNT
 EzMTY4LC0xMjM1ODI5NjIwLC0yMTE5NjM5OTYsODczMjA2Njgy
 LC0yNTMxMjAyNzAsMTEwNzIzMjg0MiwxNzg5OTMzOTc4LC04Nz
 A3NTA5MDYsLTcwMjgzMTM3OCwxNDU2NTgxNDYsMTkyNDQxMTg0
