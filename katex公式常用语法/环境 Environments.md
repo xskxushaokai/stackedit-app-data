@@ -1,4 +1,4 @@
-# 环境 Environments
+# 环境 Environments
 
 \| $\begin{matrix}
 a & b \\
@@ -99,6 +99,7 @@ c & d
   c &\text{if } d
 \end{rcases}⇒…`                                                    |
 
+
 KaTeX 也支持 `darray`, `dcases`以及 `drcases`。
 
 可用的行分隔符包括: `\`, `\cr`, `\[distance]`, 以及`\cr[distance]`。其中`Distance` 可与任意KaTeX单位联用。
@@ -106,5 +107,5 @@ KaTeX 也支持 `darray`, `dcases`以及 `drcases`。
 `{array}` 支持`|`及 `:` 垂直分隔符，但目前不支持 `\cline`或者 `\multicolumn`。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODA2NTI3MV19
+eyJoaXN0b3J5IjpbLTE4NTg3ODQwOTFdfQ==
 -->
