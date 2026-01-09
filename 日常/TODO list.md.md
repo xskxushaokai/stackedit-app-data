@@ -528,7 +528,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ## 第18周
 - [ ] 信奥智题助手相关资料发群
-- [ ] AI工具分享整理：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
+- [x] AI工具分享会：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
 - [x] 人脸识别demo代码优化
 
 - [x]  音乐成绩分析
@@ -570,11 +570,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODM1Mjk4MywxMzM0MTg4NDYzLDE2Mj
-QzMjIyOSw0MDY4NTk2NDAsMjA4MzUxMzE2OCwtMTIzNTgyOTYy
-MCwtMjExOTYzOTk2LDg3MzIwNjY4MiwtMjUzMTIwMjcwLDExMD
-cyMzI4NDIsMTc4OTkzMzk3OCwtODcwNzUwOTA2LC03MDI4MzEz
-NzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3MjQyODMsMTQ4Nj
-A4NTk3MCwtMTE5MDQ1MTYxMywyNjg5Nzk0NzksNjI2MzYzMzcy
-XX0=
+eyJoaXN0b3J5IjpbLTE2Njk4NjUxNjUsMTMzNDE4ODQ2MywxNj
+I0MzIyMjksNDA2ODU5NjQwLDIwODM1MTMxNjgsLTEyMzU4Mjk2
+MjAsLTIxMTk2Mzk5Niw4NzMyMDY2ODIsLTI1MzEyMDI3MCwxMT
+A3MjMyODQyLDE3ODk5MzM5NzgsLTg3MDc1MDkwNiwtNzAyODMx
+Mzc4LDE0NTY1ODE0NiwxOTI0NDExODQxLDg5NzI0MjgzLDE0OD
+YwODU5NzAsLTExOTA0NTE2MTMsMjY4OTc5NDc5LDYyNjM2MzM3
+Ml19
 -->
