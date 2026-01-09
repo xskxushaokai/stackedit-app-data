@@ -529,9 +529,9 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ## 第18周
 - [ ] 信奥智题助手相关资料发群
 - [ ] AI工具分享整理：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
-- [ ] 人脸识别demo代码优化
+- [x] 人脸识别demo代码优化
 
-- [ ]  音乐成绩分析
+- [x]  音乐成绩分析
 - [ ] 编程备课：
 	- [x] 栈讲义
 	- [x] STL常用知识
@@ -541,9 +541,6 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ] 动态规划题目整理
 	- [ ] 简单动态规划
 - [ ] OJ系统了解和搭建
-
-
-
 - [ ] 学生智能体应用比赛
 - [ ] 行空板mpython模式
 - [ ] 正看反说 win7语音版
@@ -573,11 +570,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDE4ODQ2MywxNjI0MzIyMjksNDA2OD
-U5NjQwLDIwODM1MTMxNjgsLTEyMzU4Mjk2MjAsLTIxMTk2Mzk5
-Niw4NzMyMDY2ODIsLTI1MzEyMDI3MCwxMTA3MjMyODQyLDE3OD
-k5MzM5NzgsLTg3MDc1MDkwNiwtNzAyODMxMzc4LDE0NTY1ODE0
-NiwxOTI0NDExODQxLDg5NzI0MjgzLDE0ODYwODU5NzAsLTExOT
-A0NTE2MTMsMjY4OTc5NDc5LDYyNjM2MzM3Miw1NTU1MzU4ODJd
-fQ==
+eyJoaXN0b3J5IjpbLTk2ODM1Mjk4MywxMzM0MTg4NDYzLDE2Mj
+QzMjIyOSw0MDY4NTk2NDAsMjA4MzUxMzE2OCwtMTIzNTgyOTYy
+MCwtMjExOTYzOTk2LDg3MzIwNjY4MiwtMjUzMTIwMjcwLDExMD
+cyMzI4NDIsMTc4OTkzMzk3OCwtODcwNzUwOTA2LC03MDI4MzEz
+NzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3MjQyODMsMTQ4Nj
+A4NTk3MCwtMTE5MDQ1MTYxMywyNjg5Nzk0NzksNjI2MzYzMzcy
+XX0=
 -->
