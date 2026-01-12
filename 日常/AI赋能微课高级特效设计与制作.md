@@ -15,6 +15,7 @@
  - 课堂游戏
 
 ## 高级工具的应用
+ - claude code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTE0Mjk1XX0=
+eyJoaXN0b3J5IjpbMTEwMDkzMTQ2NV19
 -->
