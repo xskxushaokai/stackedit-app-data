@@ -15,7 +15,8 @@
  - 课堂游戏
 
 ## 高级工具的应用
- - claude code
+ - Coze平台
+ - Claude Code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDkzMTQ2NV19
+eyJoaXN0b3J5IjpbMTYyNjQyNDM3OF19
 -->
