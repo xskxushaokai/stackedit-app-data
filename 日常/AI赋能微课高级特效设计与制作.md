@@ -118,8 +118,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-12/hhWqHeba4JPz2cNT.png)
 
 4. 反馈修改
-很多时候，AI制作的网页应用难以一次性满足用户需求，或用户想要在原有的网页上修改或增加新的元素，这时，可以再次向AI输入自己的需求，由AI在现有网页的基础上继续进行修改。AI生成的点名系统已经很好地实现了基本功能，但我们发现被点到的学生在回答之后，教师多次点击“”。二次修改的提示词为：
+很多时候，AI制作的网页应用难以一次性满足用户需求，或用户想要在原有的网页上修改或增加新的元素，这时，可以再次向AI输入自己的需求，由AI在现有网页的基础上继续进行修改。AI生成的点名系统已经很好地实现了基本功能，但我们发现被点到的学生在回答之后，教师多次点击“回答正确”或“需要努力”按钮，会生成同一个学生的多条评价记录，这是不合理的，我们在每次点名之后只进行一次评价即可。二次修改的提示词为：
 ```
+网页
 在进行结果反馈时，增加反馈动画效果： 
 - 当选择“回答正确”时：天空撒下五彩纸屑+烟花绽放+星星坠落 
 - 当选择“需要努力”时：彩色爱心从底部飘起 
@@ -172,11 +173,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNjIzMDY2LC0yMTQyNzgzMjQxLC0zNz
-M4MzcxMTgsMjEyMDk0Mjc5MywyNDc2ODEwNTQsLTIwNTEzMjEz
-MjUsMTQwMjA1NTExNSwtMjA1Nzk1MTE5Niw5NTE2MjU5NTAsLT
-IwMzQ5MjU0MTUsMTU1ODAwMDA2MSwxMzI2MDY1ODUwLDI0NzQx
-MDU2MSwxNzYzNTE1NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1NC
-wtMTY0MjkyOTU0NiwxOTc3NTAzNjUwLC01MTQ4MDc0NzMsLTg5
-MDMyMTE2NF19
+eyJoaXN0b3J5IjpbLTIxMDUzNTg5OCwtMjE0Mjc4MzI0MSwtMz
+czODM3MTE4LDIxMjA5NDI3OTMsMjQ3NjgxMDU0LC0yMDUxMzIx
+MzI1LDE0MDIwNTUxMTUsLTIwNTc5NTExOTYsOTUxNjI1OTUwLC
+0yMDM0OTI1NDE1LDE1NTgwMDAwNjEsMTMyNjA2NTg1MCwyNDc0
+MTA1NjEsMTc2MzUxNTQxMiwtOTEzOTIzMzM0LDIwOTU5NDY2NT
+QsLTE2NDI5Mjk1NDYsMTk3NzUwMzY1MCwtNTE0ODA3NDczLC04
+OTAzMjExNjRdfQ==
 -->
