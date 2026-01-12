@@ -109,7 +109,7 @@
 ![输入图片说明](/imgs/2026-01-12/3cYKjMX6Gz3lFEWx.png)
 
 3. 功能测试
-教师根据正常的使用流程模拟课堂点名，依次进行“导入名单”-“随机点名”-“结果反馈”三个步骤的测试，为确保
+AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根据自己提出的功能需求对网页进行测试，这一步y。教师根据正常的使用流程模拟课堂点名，依次进行“导入名单”-“随机点名”-“结果反馈”三个步骤的测试，为确保
 
 导入学生名单测试网页功能
 ![输入图片说明](/imgs/2026-01-12/tEQVDNt1mImduENY.png)
@@ -163,7 +163,7 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDEwNjUzLDI0NzY4MTA1NCwtMjA1MT
+eyJoaXN0b3J5IjpbOTk1MTYyOTA2LDI0NzY4MTA1NCwtMjA1MT
 MyMTMyNSwxNDAyMDU1MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1
 MCwtMjAzNDkyNTQxNSwxNTU4MDAwMDYxLDEzMjYwNjU4NTAsMj
 Q3NDEwNTYxLDE3NjM1MTU0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2
