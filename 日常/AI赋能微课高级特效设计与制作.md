@@ -134,7 +134,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 
-# 附：其他建议案例
+# 附：其他可选案例
 **案例一：语言学习交互网页**
     -   **目标**：提高学生的语言听说能力。
     -   **实现方式**：利用AI语音识别技术设计口语练习模块，通过AI生成的对话场景进行互动。
@@ -150,7 +150,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MTg1NDU0LDk1MjYyLDM1ODY2ODI3LD
+eyJoaXN0b3J5IjpbOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3LD
 E2MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIw
 OTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MT
 E1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwx
