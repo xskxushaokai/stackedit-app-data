@@ -80,15 +80,8 @@
 1. 需求整理
 在使用AI平台进行应用创作前，教师须结合具体的使用场景梳理要实现的功能，使用通俗的语言进行描述，尽可能地避免歧义，并将其分点罗列。
 2. 首次创作
-将整理好的需求描述内容输入**豆包应用生成平台**，AI会自主规划任务实现步骤并逐一完成，完成后用户可以直接在线预览网页效果。
-提示词为：
+将整理好的需求描述内容输入**豆包应用生成平台**，AI会自主规划任务实现步骤并逐一完成，完成后用户可以直接在线预览网页效果。提示词为：
 ```
-这里输入代码
-```
-
-
-> 块引用
-
 📝 产品概述 请帮我创建一个美观大气的网页版随机点名系统，专门用于课堂教学。整体风格要活泼可爱，充满教育氛围，适合各年龄段的学生使用。
 
  🎯 核心功能需求 
@@ -110,6 +103,7 @@
 - 显示被点到的学生名字后，老师可以选择"回答正确"或"需要努力" ；
 - 选择"回答正确"时：  弹出鼓励窗口，显示随机的表扬语（如"你真是个小天才！"） ；播放庆祝动画：烟花、彩色纸屑飘落、星星闪烁 ；记录显示"回答正确"的绿色标签 ；
 - 选择"需要努力"时： 弹出温暖的鼓励窗口，显示安慰语（如"没关系，下次一定可以的！"） ；播放温馨动画：彩色爱心上升；记录显示"继续努力"的橙色标签 
+```
 
 
 ### 提示词
@@ -156,10 +150,10 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzIyMzY3MSwtMjA1MTMyMTMyNSwxND
-AyMDU1MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDky
-NTQxNSwxNTU4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLD
-E3NjM1MTU0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2NjU0LC0xNjQy
-OTI5NTQ2LDE5Nzc1MDM2NTAsLTUxNDgwNzQ3MywtODkwMzIxMT
-Y0LDQ5Njc0NzIwMV19
+eyJoaXN0b3J5IjpbMjQ3NjgxMDU0LC0yMDUxMzIxMzI1LDE0MD
+IwNTUxMTUsLTIwNTc5NTExOTYsOTUxNjI1OTUwLC0yMDM0OTI1
+NDE1LDE1NTgwMDAwNjEsMTMyNjA2NTg1MCwyNDc0MTA1NjEsMT
+c2MzUxNTQxMiwtOTEzOTIzMzM0LDIwOTU5NDY2NTQsLTE2NDI5
+Mjk1NDYsMTk3NzUwMzY1MCwtNTE0ODA3NDczLC04OTAzMjExNj
+QsNDk2NzQ3MjAxXX0=
 -->
