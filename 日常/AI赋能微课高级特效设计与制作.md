@@ -104,8 +104,12 @@
 - 选择"回答正确"时：  弹出鼓励窗口，显示随机的表扬语（如"你真是个小天才！"） ；播放庆祝动画：烟花、彩色纸屑飘落、星星闪烁 ；记录显示"回答正确"的绿色标签 ；
 - 选择"需要努力"时： 弹出温暖的鼓励窗口，显示安慰语（如"没关系，下次一定可以的！"） ；播放温馨动画：彩色爱心上升；记录显示"继续努力"的橙色标签 
 ```
+
+预览AI生成的课堂点名网页
 ![输入图片说明](/imgs/2026-01-12/3cYKjMX6Gz3lFEWx.png)
 
+
+![](/imgs/2026-01-12/QxgqLtcIsfUZDoq9.png)
 
 ### 提示词
 课堂随机点名系统 - 产品需求描述 
@@ -151,7 +155,7 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjE4ODg0OCwyNDc2ODEwNTQsLTIwNT
+eyJoaXN0b3J5IjpbLTE1OTczMTk4OSwyNDc2ODEwNTQsLTIwNT
 EzMjEzMjUsMTQwMjA1NTExNSwtMjA1Nzk1MTE5Niw5NTE2MjU5
 NTAsLTIwMzQ5MjU0MTUsMTU1ODAwMDA2MSwxMzI2MDY1ODUwLD
 I0NzQxMDU2MSwxNzYzNTE1NDEyLC05MTM5MjMzMzQsMjA5NTk0
