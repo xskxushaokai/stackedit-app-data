@@ -109,7 +109,7 @@
 ![输入图片说明](/imgs/2026-01-12/3cYKjMX6Gz3lFEWx.png)
 
 导入学生名单测试网页功能
-![](/imgs/2026-01-12/QxgqLtcIsfUZDoq9.png)
+![输入图片说明](/imgs/2026-01-12/tEQVDNt1mImduENY.png)
 
 
 
@@ -157,7 +157,7 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA3NjE5NjcsMjQ3NjgxMDU0LC0yMD
+eyJoaXN0b3J5IjpbLTIxNDY0ODkxNTUsMjQ3NjgxMDU0LC0yMD
 UxMzIxMzI1LDE0MDIwNTUxMTUsLTIwNTc5NTExOTYsOTUxNjI1
 OTUwLC0yMDM0OTI1NDE1LDE1NTgwMDAwNjEsMTMyNjA2NTg1MC
 wyNDc0MTA1NjEsMTc2MzUxNTQxMiwtOTEzOTIzMzM0LDIwOTU5
