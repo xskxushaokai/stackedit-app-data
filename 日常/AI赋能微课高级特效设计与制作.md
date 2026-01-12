@@ -108,7 +108,8 @@
 预览AI生成的课堂点名网页
 ![输入图片说明](/imgs/2026-01-12/3cYKjMX6Gz3lFEWx.png)
 
-3. 功能ce
+3. 功能测试
+教师根据正常的使用流程模拟课堂点名，依次进行“导入名单”-“随机点名”-“结果反馈”三个步骤的测试，为确保
 
 导入学生名单测试网页功能
 ![输入图片说明](/imgs/2026-01-12/tEQVDNt1mImduENY.png)
@@ -162,10 +163,10 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzkzNTI2OCwyNDc2ODEwNTQsLTIwNT
-EzMjEzMjUsMTQwMjA1NTExNSwtMjA1Nzk1MTE5Niw5NTE2MjU5
-NTAsLTIwMzQ5MjU0MTUsMTU1ODAwMDA2MSwxMzI2MDY1ODUwLD
-I0NzQxMDU2MSwxNzYzNTE1NDEyLC05MTM5MjMzMzQsMjA5NTk0
-NjY1NCwtMTY0MjkyOTU0NiwxOTc3NTAzNjUwLC01MTQ4MDc0Nz
-MsLTg5MDMyMTE2NCw0OTY3NDcyMDFdfQ==
+eyJoaXN0b3J5IjpbMTQ0MDEwNjUzLDI0NzY4MTA1NCwtMjA1MT
+MyMTMyNSwxNDAyMDU1MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1
+MCwtMjAzNDkyNTQxNSwxNTU4MDAwMDYxLDEzMjYwNjU4NTAsMj
+Q3NDEwNTYxLDE3NjM1MTU0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2
+NjU0LC0xNjQyOTI5NTQ2LDE5Nzc1MDM2NTAsLTUxNDgwNzQ3My
+wtODkwMzIxMTY0LDQ5Njc0NzIwMV19
 -->
