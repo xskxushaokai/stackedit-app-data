@@ -18,7 +18,8 @@
 ## 高级工具的应用
  - Coze平台
  - 先见AI+EDU
+ - trae
  - Claude Code
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NzQ3MjAxXX0=
+eyJoaXN0b3J5IjpbLTg5MDMyMTE2NCw0OTY3NDcyMDFdfQ==
 -->
