@@ -130,34 +130,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 优化后
 ![输入图片说明](/imgs/2026-01-12/9FlKZf30eLFS9PfR.png)
 
-### 提示词
-课堂随机点名系统 - 产品需求描述 
-
-📝 产品概述 请帮我创建一个美观大气的网页版随机点名系统，专门用于课堂教学。整体风格要活泼可爱，充满教育氛围，适合各年龄段的学生使用。
-
- 🎯 核心功能需求 
- 
- 1. 名单导入功能 
- - 支持上传Excel表格文件（.xlsx格式） ；
- - 可以直接拖拽文件到指定区域，也可以点击按钮选择文件 ；
- - Excel表格文件可以包含多列内容，上传后读取每列第一行作为列名，让用户选择哪一列是学生姓名 ；
- - 显示已上传的文件名，可以删除重新上传 ；
-
-2. 随机点名功能 
-- 点击"开始"按钮后，屏幕上快速滚动显示不同的名字，营造紧张刺激的氛围 ；
-- 点击"停止"按钮后，停在一个随机选中的名字上 ；
-- 被选中的名字要有特别的展示效果，让所有人都能看清楚 ；
-- 已经被点过的名字不会重复出现，直到所有人都被点过一轮 ；
-- 点击“重置”按钮，将被点过的名字缓存清空，所有学生都可以被点到；
-
-3. 结果反馈功能 
-- 显示被点到的学生名字后，老师可以选择"回答正确"或"需要努力" ；
-- 选择"回答正确"时：  弹出鼓励窗口，显示随机的表扬语（如"你真是个小天才！"） ；播放庆祝动画：烟花、彩色纸屑飘落、星星闪烁 ；记录显示"回答正确"的绿色标签 ；
-- 选择"需要努力"时： 弹出温暖的鼓励窗口，显示安慰语（如"没关系，下次一定可以的！"） ；播放温馨动画：彩色爱心上升；记录显示"继续努力"的橙色标签 
 
 
 
-## 建议案例
+
+# 附：其他建议案例
 **案例一：语言学习交互网页**
     -   **目标**：提高学生的语言听说能力。
     -   **实现方式**：利用AI语音识别技术设计口语练习模块，通过AI生成的对话场景进行互动。
@@ -173,11 +150,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAzOTUyNSw5NTI2MiwzNTg2NjgyNy
-wxNjA1NzMzMTczLC0yMTQyNzgzMjQxLC0zNzM4MzcxMTgsMjEy
-MDk0Mjc5MywyNDc2ODEwNTQsLTIwNTEzMjEzMjUsMTQwMjA1NT
-ExNSwtMjA1Nzk1MTE5Niw5NTE2MjU5NTAsLTIwMzQ5MjU0MTUs
-MTU1ODAwMDA2MSwxMzI2MDY1ODUwLDI0NzQxMDU2MSwxNzYzNT
-E1NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1NCwtMTY0MjkyOTU0
-Nl19
+eyJoaXN0b3J5IjpbOTE4MTg1NDU0LDk1MjYyLDM1ODY2ODI3LD
+E2MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIw
+OTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MT
+E1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwx
+NTU4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1MT
+U0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2NjU0LC0xNjQyOTI5NTQ2
+XX0=
 -->
