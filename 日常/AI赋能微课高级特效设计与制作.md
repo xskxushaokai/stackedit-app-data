@@ -111,7 +111,7 @@
 3. 功能测试
 AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根据自己提出的功能需求对网页进行测试，这一步非常重要。根据正常的使用流程模拟课堂点名，依次进行“导入名单”-“随机点名”-“结果反馈”三个步骤的测试，为确保整个点名系统的稳定性，需要进行多轮点名测试，主要功能点名和评价测试无误后，还需要测试其他常用操作：名单删除和重新导入、重置已点名学生。
 
-导入学生名单测试网页功能
+导入学生名单并测试网页功能
 ![输入图片说明](/imgs/2026-01-12/tEQVDNt1mImduENY.png)
 ![输入图片说明](/imgs/2026-01-12/uyxIAXFwQ8tDPRJW.png)
 ![输入图片说明](/imgs/2026-01-12/DGrlqFz8MV22vDMe.png)
@@ -163,11 +163,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjAwMjA3MSwtMzczODM3MTE4LDIxMj
-A5NDI3OTMsMjQ3NjgxMDU0LC0yMDUxMzIxMzI1LDE0MDIwNTUx
-MTUsLTIwNTc5NTExOTYsOTUxNjI1OTUwLC0yMDM0OTI1NDE1LD
-E1NTgwMDAwNjEsMTMyNjA2NTg1MCwyNDc0MTA1NjEsMTc2MzUx
-NTQxMiwtOTEzOTIzMzM0LDIwOTU5NDY2NTQsLTE2NDI5Mjk1ND
-YsMTk3NzUwMzY1MCwtNTE0ODA3NDczLC04OTAzMjExNjQsNDk2
-NzQ3MjAxXX0=
+eyJoaXN0b3J5IjpbLTE0ODM2MjIwNTcsLTM3MzgzNzExOCwyMT
+IwOTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1
+MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNS
+wxNTU4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1
+MTU0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2NjU0LC0xNjQyOTI5NT
+Q2LDE5Nzc1MDM2NTAsLTUxNDgwNzQ3MywtODkwMzIxMTY0LDQ5
+Njc0NzIwMV19
 -->
