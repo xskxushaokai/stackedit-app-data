@@ -158,27 +158,27 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 
-5.  **案例一：语言学习交互网页**
+**案例一：语言学习交互网页**
     
     -   **目标**：提高学生的语言听说能力。
     -   **实现方式**：利用AI语音识别技术设计口语练习模块，通过AI生成的对话场景进行互动。
     -   **效果**：学生参与度显著提升，口语表达能力得到有效锻炼。
-6.  **案例二：数学概念可视化网页**
+**案例二：数学概念可视化网页**
     
     -   **目标**：帮助学生理解抽象的数学概念。
     -   **实现方式**：使用AI生成的动态图形和交互式模拟，展示数学公式的变化过程。
     -   **效果**：学生对数学概念的理解更加直观和深入，学习成绩有所提高。
-7.  **案例三：历史事件互动网页**
+**案例三：历史事件互动网页**
     
     -   **目标**：增强学生对历史事件的记忆和理解。
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MDYyNDk5LDM1ODY2ODI3LDE2MDU3Mz
-MxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIwOTQyNzkz
-LDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MTE1LC0yMD
-U3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwxNTU4MDAw
-MDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1MTU0MTIsLT
-kxMzkyMzMzNCwyMDk1OTQ2NjU0LC0xNjQyOTI5NTQ2LDE5Nzc1
-MDM2NTBdfQ==
+eyJoaXN0b3J5IjpbLTEyMjEzNjg2NzcsMzU4NjY4MjcsMTYwNT
+czMzE3MywtMjE0Mjc4MzI0MSwtMzczODM3MTE4LDIxMjA5NDI3
+OTMsMjQ3NjgxMDU0LC0yMDUxMzIxMzI1LDE0MDIwNTUxMTUsLT
+IwNTc5NTExOTYsOTUxNjI1OTUwLC0yMDM0OTI1NDE1LDE1NTgw
+MDAwNjEsMTMyNjA2NTg1MCwyNDc0MTA1NjEsMTc2MzUxNTQxMi
+wtOTEzOTIzMzM0LDIwOTU5NDY2NTQsLTE2NDI5Mjk1NDYsMTk3
+NzUwMzY1MF19
 -->
