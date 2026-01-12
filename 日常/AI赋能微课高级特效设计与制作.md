@@ -120,10 +120,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 4. 反馈修改
 很多时候，AI制作的网页应用难以一次性满足用户需求，或用户想要在原有的网页上修改或增加新的元素，这时，可以再次向AI输入自己的需求，由AI在现有网页的基础上继续进行修改。AI生成的点名系统功能已经基本满足使用需求，但还可以增加一些互动的动画让课堂变得更为有趣。二次修改的提示词为：
 ```
-增加反馈动画： 
-- 成功时：天空撒下五彩纸屑+烟花绽放+星星坠落 
-- 鼓励时：彩色爱心从底部飘起 
-- 弹窗出现时要有弹性展开效果
+在进行结果反馈时，增加反馈动画效果： 
+- 当选择“回答正确”时：天空撒下五彩纸屑+烟花绽放+星星坠落 
+- 当选择“需要努力”时：彩色爱心从底部飘起 
 ```
 
 
@@ -173,11 +172,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMDMyMDM2LC0zNzM4MzcxMTgsMjEyMD
-k0Mjc5MywyNDc2ODEwNTQsLTIwNTEzMjEzMjUsMTQwMjA1NTEx
-NSwtMjA1Nzk1MTE5Niw5NTE2MjU5NTAsLTIwMzQ5MjU0MTUsMT
-U1ODAwMDA2MSwxMzI2MDY1ODUwLDI0NzQxMDU2MSwxNzYzNTE1
-NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1NCwtMTY0MjkyOTU0Ni
-wxOTc3NTAzNjUwLC01MTQ4MDc0NzMsLTg5MDMyMTE2NCw0OTY3
-NDcyMDFdfQ==
+eyJoaXN0b3J5IjpbLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMT
+IwOTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1
+MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNS
+wxNTU4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1
+MTU0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2NjU0LC0xNjQyOTI5NT
+Q2LDE5Nzc1MDM2NTAsLTUxNDgwNzQ3MywtODkwMzIxMTY0LDQ5
+Njc0NzIwMV19
 -->
