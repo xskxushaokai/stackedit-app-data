@@ -12,9 +12,9 @@
  - 知识卡片
  - 仿真实验
  - 课堂测试
- - 课堂闯关任务
+ - 课堂游戏
 
 ## 高级工具的应用
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMxNTEyOTJdfQ==
+eyJoaXN0b3J5IjpbMTM2MTE0Mjk1XX0=
 -->
