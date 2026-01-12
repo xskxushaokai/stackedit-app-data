@@ -104,6 +104,7 @@
 - 选择"回答正确"时：  弹出鼓励窗口，显示随机的表扬语（如"你真是个小天才！"） ；播放庆祝动画：烟花、彩色纸屑飘落、星星闪烁 ；记录显示"回答正确"的绿色标签 ；
 - 选择"需要努力"时： 弹出温暖的鼓励窗口，显示安慰语（如"没关系，下次一定可以的！"） ；播放温馨动画：彩色爱心上升；记录显示"继续努力"的橙色标签 
 ```
+![输入图片说明](/imgs/2026-01-12/3cYKjMX6Gz3lFEWx.png)
 
 
 ### 提示词
@@ -150,10 +151,10 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NjgxMDU0LC0yMDUxMzIxMzI1LDE0MD
-IwNTUxMTUsLTIwNTc5NTExOTYsOTUxNjI1OTUwLC0yMDM0OTI1
-NDE1LDE1NTgwMDAwNjEsMTMyNjA2NTg1MCwyNDc0MTA1NjEsMT
-c2MzUxNTQxMiwtOTEzOTIzMzM0LDIwOTU5NDY2NTQsLTE2NDI5
-Mjk1NDYsMTk3NzUwMzY1MCwtNTE0ODA3NDczLC04OTAzMjExNj
-QsNDk2NzQ3MjAxXX0=
+eyJoaXN0b3J5IjpbMTk4NjE4ODg0OCwyNDc2ODEwNTQsLTIwNT
+EzMjEzMjUsMTQwMjA1NTExNSwtMjA1Nzk1MTE5Niw5NTE2MjU5
+NTAsLTIwMzQ5MjU0MTUsMTU1ODAwMDA2MSwxMzI2MDY1ODUwLD
+I0NzQxMDU2MSwxNzYzNTE1NDEyLC05MTM5MjMzMzQsMjA5NTk0
+NjY1NCwtMTY0MjkyOTU0NiwxOTc3NTAzNjUwLC01MTQ4MDc0Nz
+MsLTg5MDMyMTE2NCw0OTY3NDcyMDFdfQ==
 -->
