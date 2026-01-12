@@ -74,7 +74,7 @@
 用户也可以进入豆包首页，通过左边侧边栏中 - “更多” - “应用生成”进入豆包应用生成平台
 ![输入图片说明](/imgs/2026-01-12/MDLQWYGl8piPCDD3.png)
 
-- **制作**
+- **制作步骤**
 在与
 
 
@@ -122,9 +122,9 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjI5MTQ4NSwtMjAzNDkyNTQxNSwxNT
-U4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1MTU0
-MTIsLTkxMzkyMzMzNCwyMDk1OTQ2NjU0LC0xNjQyOTI5NTQ2LD
-E5Nzc1MDM2NTAsLTUxNDgwNzQ3MywtODkwMzIxMTY0LDQ5Njc0
-NzIwMV19
+eyJoaXN0b3J5IjpbOTUxNjI1OTUwLC0yMDM0OTI1NDE1LDE1NT
+gwMDAwNjEsMTMyNjA2NTg1MCwyNDc0MTA1NjEsMTc2MzUxNTQx
+MiwtOTEzOTIzMzM0LDIwOTU5NDY2NTQsLTE2NDI5Mjk1NDYsMT
+k3NzUwMzY1MCwtNTE0ODA3NDczLC04OTAzMjExNjQsNDk2NzQ3
+MjAxXX0=
 -->
