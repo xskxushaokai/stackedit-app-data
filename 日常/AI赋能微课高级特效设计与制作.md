@@ -27,7 +27,7 @@
 
 # 案例
 
-## 新型交互式课件-导语
+## 一. 新型交互式课件-导语
 ### 1 引言
 
 在教育技术飞速发展的今天，传统的教学模式正逐渐向数字化、智能化转型。交互式网页作为一种新型的教学工具，凭借其丰富的多媒体元素、灵活的交互方式和便捷的访问途径，正成为教育工作者的新宠。而AI工具的引入，更是为交互式网页的制作带来了革命性的变化。本章将详细介绍如何利用AI工具制作课堂交互式网页，帮助读者掌握这一前沿技术，提升教学效果。
@@ -68,7 +68,7 @@
 
 通过以上讲解，相信读者对利用AI工具制作课堂交互式网页有了更深入的了解。接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
 
-## 案例1. 简单的课堂点名系统
+## 二. 案例1. 简单的课堂点名系统
 课堂上，教师常需要通过点名提问的方式来及时了解学生的知识掌握情况。AI工具的出现之前，使得教师根据自己的课堂需求来定制点名系统成为可能。以下展示了使用AI工具定制课堂点名系统的过程。
 
 - **AI工具**
@@ -173,11 +173,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMDUxMzk1LDk1MjYyLDM1ODY2ODI3LD
-E2MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIw
-OTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MT
-E1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwx
-NTU4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1MT
-U0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2NjU0LC0xNjQyOTI5NTQ2
-XX0=
+eyJoaXN0b3J5IjpbLTExNTAzOTUyNSw5NTI2MiwzNTg2NjgyNy
+wxNjA1NzMzMTczLC0yMTQyNzgzMjQxLC0zNzM4MzcxMTgsMjEy
+MDk0Mjc5MywyNDc2ODEwNTQsLTIwNTEzMjEzMjUsMTQwMjA1NT
+ExNSwtMjA1Nzk1MTE5Niw5NTE2MjU5NTAsLTIwMzQ5MjU0MTUs
+MTU1ODAwMDA2MSwxMzI2MDY1ODUwLDI0NzQxMDU2MSwxNzYzNT
+E1NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1NCwtMTY0MjkyOTU0
+Nl19
 -->
