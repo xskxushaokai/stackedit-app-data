@@ -60,6 +60,10 @@
 3.  **避免过度依赖**：AI工具虽然强大，但并不能完全替代教师的专业判断和教学经验。教师应合理利用AI工具，保持教学的人文关怀和个性化。
 4.  **持续学习与更新**：AI技术发展迅速，教师应保持学习的热情，及时了解和掌握新的AI工具和方法，不断提升自己的教学能力。
 
+### 6 常用平台
+1.**豆包应用生成平台**（https://www.doubao.com/code/chat）
+t
+
 通过以上讲解，相信读者对利用AI工具制作课堂交互式网页有了更深入的了解。接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
 
 ## 案例1. 简单的课堂点名系统
@@ -115,8 +119,9 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ5MjU0MTUsMTU1ODAwMDA2MSwxMz
-I2MDY1ODUwLDI0NzQxMDU2MSwxNzYzNTE1NDEyLC05MTM5MjMz
-MzQsMjA5NTk0NjY1NCwtMTY0MjkyOTU0NiwxOTc3NTAzNjUwLC
-01MTQ4MDc0NzMsLTg5MDMyMTE2NCw0OTY3NDcyMDFdfQ==
+eyJoaXN0b3J5IjpbLTE3NDMwODMxNDIsLTIwMzQ5MjU0MTUsMT
+U1ODAwMDA2MSwxMzI2MDY1ODUwLDI0NzQxMDU2MSwxNzYzNTE1
+NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1NCwtMTY0MjkyOTU0Ni
+wxOTc3NTAzNjUwLC01MTQ4MDc0NzMsLTg5MDMyMTE2NCw0OTY3
+NDcyMDFdfQ==
 -->
