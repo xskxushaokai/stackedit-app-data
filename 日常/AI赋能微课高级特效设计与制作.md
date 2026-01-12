@@ -66,6 +66,8 @@
 - **AI工具**
 **豆包应用生成平台**（https://www.doubao.com/code/chat）
 用户也可以进入豆包首页，通过左边侧边栏中 - “更多” - “应用生成”进入豆包应用生成平台
+![输入图片说明](/imgs/2026-01-12/MDLQWYGl8piPCDD3.png)
+
 
 ### 提示词
 课堂随机点名系统 - 产品需求描述 
@@ -111,8 +113,8 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjA2NTg1MCwyNDc0MTA1NjEsMTc2Mz
-UxNTQxMiwtOTEzOTIzMzM0LDIwOTU5NDY2NTQsLTE2NDI5Mjk1
-NDYsMTk3NzUwMzY1MCwtNTE0ODA3NDczLC04OTAzMjExNjQsND
-k2NzQ3MjAxXX0=
+eyJoaXN0b3J5IjpbMTU1ODAwMDA2MSwxMzI2MDY1ODUwLDI0Nz
+QxMDU2MSwxNzYzNTE1NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1
+NCwtMTY0MjkyOTU0NiwxOTc3NTAzNjUwLC01MTQ4MDc0NzMsLT
+g5MDMyMTE2NCw0OTY3NDcyMDFdfQ==
 -->
