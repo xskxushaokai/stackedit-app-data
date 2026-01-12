@@ -123,7 +123,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 在进行结果反馈时，存在以下功能问题：
 - 多次点击“回答正确”或“需要努力”按钮，会生成同一个学生的多条评价记录，这是不合理的，在每次点名之后只能进行一次评价。
 ```
-可以看到，优化后，对当前学生进行一次评价之后，“回答正确”和“需要努力”两个按钮自动置为不可点击的状态，满足了用户提出的要求。页面上方显示了当前应用的版本编号为“V3”，若用户对本次修改不满意，可以通过选择之前的版本号来将应用还原为本次修改只前的版本。
+可以看到，优化后，对当前学生进行一次评价之后，“回答正确”和“需要努力”两个按钮自动置为不可点击的状态，满足了用户提出的要求。页面上方显示了当前应用的版本编号为“V3”，若用户对本次修改不满意，可以通过选择之前的版本号来将应用还原为本次修改之前的版本。
 
 优化前
 ![输入图片说明](/imgs/2026-01-12/HM7a3NgZNWIkjf7x.png)
@@ -150,11 +150,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3LD
-E2MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIw
-OTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MT
-E1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwx
-NTU4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1MT
-U0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2NjU0LC0xNjQyOTI5NTQ2
+eyJoaXN0b3J5IjpbLTE5MjczMzQ0NTUsOTM4MzMwMjgwLDk1Mj
+YyLDM1ODY2ODI3LDE2MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3
+MzgzNzExOCwyMTIwOTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMT
+MyNSwxNDAyMDU1MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwt
+MjAzNDkyNTQxNSwxNTU4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3ND
+EwNTYxLDE3NjM1MTU0MTIsLTkxMzkyMzMzNCwyMDk1OTQ2NjU0
 XX0=
 -->
