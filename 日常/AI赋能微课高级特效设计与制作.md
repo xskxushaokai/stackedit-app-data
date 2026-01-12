@@ -78,7 +78,7 @@
 1. 需求整理
 在使用AI平台进行应用创作前，教师须结合具体的使用场景梳理要实现的功能，使用通俗的语言进行描述，尽可能地避免歧义，并将其分点罗列。
 2. 首次创作
-将整理好的xu'qi
+将整理好的需求描述内容输入**豆包应用生成平台**，AI会自主规划任务实现步骤并逐一完成，完成后yon
 
 
 ### 提示词
@@ -125,9 +125,9 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4Nzg4NzIzLC0yMDU3OTUxMTk2LDk1MT
-YyNTk1MCwtMjAzNDkyNTQxNSwxNTU4MDAwMDYxLDEzMjYwNjU4
-NTAsMjQ3NDEwNTYxLDE3NjM1MTU0MTIsLTkxMzkyMzMzNCwyMD
-k1OTQ2NjU0LC0xNjQyOTI5NTQ2LDE5Nzc1MDM2NTAsLTUxNDgw
-NzQ3MywtODkwMzIxMTY0LDQ5Njc0NzIwMV19
+eyJoaXN0b3J5IjpbLTEwNzc4MTc0NDUsLTIwNTc5NTExOTYsOT
+UxNjI1OTUwLC0yMDM0OTI1NDE1LDE1NTgwMDAwNjEsMTMyNjA2
+NTg1MCwyNDc0MTA1NjEsMTc2MzUxNTQxMiwtOTEzOTIzMzM0LD
+IwOTU5NDY2NTQsLTE2NDI5Mjk1NDYsMTk3NzUwMzY1MCwtNTE0
+ODA3NDczLC04OTAzMjExNjQsNDk2NzQ3MjAxXX0=
 -->
