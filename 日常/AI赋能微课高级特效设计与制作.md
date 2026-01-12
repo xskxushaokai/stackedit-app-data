@@ -69,6 +69,8 @@
 ![输入图片说明](/imgs/2026-01-12/MDLQWYGl8piPCDD3.png)
 
 
+
+
 ### 提示词
 课堂随机点名系统 - 产品需求描述 
 
@@ -113,8 +115,8 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODAwMDA2MSwxMzI2MDY1ODUwLDI0Nz
-QxMDU2MSwxNzYzNTE1NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1
-NCwtMTY0MjkyOTU0NiwxOTc3NTAzNjUwLC01MTQ4MDc0NzMsLT
-g5MDMyMTE2NCw0OTY3NDcyMDFdfQ==
+eyJoaXN0b3J5IjpbLTIwMzQ5MjU0MTUsMTU1ODAwMDA2MSwxMz
+I2MDY1ODUwLDI0NzQxMDU2MSwxNzYzNTE1NDEyLC05MTM5MjMz
+MzQsMjA5NTk0NjY1NCwtMTY0MjkyOTU0NiwxOTc3NTAzNjUwLC
+01MTQ4MDc0NzMsLTg5MDMyMTE2NCw0OTY3NDcyMDFdfQ==
 -->
