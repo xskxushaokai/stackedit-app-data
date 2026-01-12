@@ -62,7 +62,7 @@
 
 ### 6 常用平台
 1.**豆包应用生成平台**（https://www.doubao.com/code/chat）
-t
+用户借助豆包应用平台可以快速开发交互式网页，只需向AI清晰地描述自己想要创建地网页外观、功能、
 
 通过以上讲解，相信读者对利用AI工具制作课堂交互式网页有了更深入的了解。接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
 
@@ -119,7 +119,7 @@ t
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMwODMxNDIsLTIwMzQ5MjU0MTUsMT
+eyJoaXN0b3J5IjpbLTIwOTQwMjM2MDIsLTIwMzQ5MjU0MTUsMT
 U1ODAwMDA2MSwxMzI2MDY1ODUwLDI0NzQxMDU2MSwxNzYzNTE1
 NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1NCwtMTY0MjkyOTU0Ni
 wxOTc3NTAzNjUwLC01MTQ4MDc0NzMsLTg5MDMyMTE2NCw0OTY3
