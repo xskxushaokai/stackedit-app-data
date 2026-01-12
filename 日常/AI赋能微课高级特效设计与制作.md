@@ -75,7 +75,8 @@
 ![输入图片说明](/imgs/2026-01-12/MDLQWYGl8piPCDD3.png)
 
 - **制作步骤**
-在与
+1.需求整理
+在使用AI平台进行应用创作前，教师须结合具体的使用场景，根据
 
 
 ### 提示词
@@ -122,9 +123,9 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxNjI1OTUwLC0yMDM0OTI1NDE1LDE1NT
-gwMDAwNjEsMTMyNjA2NTg1MCwyNDc0MTA1NjEsMTc2MzUxNTQx
-MiwtOTEzOTIzMzM0LDIwOTU5NDY2NTQsLTE2NDI5Mjk1NDYsMT
-k3NzUwMzY1MCwtNTE0ODA3NDczLC04OTAzMjExNjQsNDk2NzQ3
-MjAxXX0=
+eyJoaXN0b3J5IjpbMTIzMzMzNDkxMiw5NTE2MjU5NTAsLTIwMz
+Q5MjU0MTUsMTU1ODAwMDA2MSwxMzI2MDY1ODUwLDI0NzQxMDU2
+MSwxNzYzNTE1NDEyLC05MTM5MjMzMzQsMjA5NTk0NjY1NCwtMT
+Y0MjkyOTU0NiwxOTc3NTAzNjUwLC01MTQ4MDc0NzMsLTg5MDMy
+MTE2NCw0OTY3NDcyMDFdfQ==
 -->
