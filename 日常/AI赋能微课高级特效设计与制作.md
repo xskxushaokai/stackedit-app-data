@@ -75,8 +75,10 @@
 ![输入图片说明](/imgs/2026-01-12/MDLQWYGl8piPCDD3.png)
 
 - **制作步骤**
-1.需求整理
-在使用AI平台进行应用创作前，教师须结合具体的使用场景梳理要实现的功能，使用通俗的语言进行描述，，并将其分点罗列，
+1. 需求整理
+在使用AI平台进行应用创作前，教师须结合具体的使用场景梳理要实现的功能，使用通俗的语言进行描述，尽可能地避免歧义，并将其分点罗列。
+2. 首次创作
+将整理好的xu'qi
 
 
 ### 提示词
@@ -123,9 +125,9 @@
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDMzNDQwNywtMjA1Nzk1MTE5Niw5NT
-E2MjU5NTAsLTIwMzQ5MjU0MTUsMTU1ODAwMDA2MSwxMzI2MDY1
-ODUwLDI0NzQxMDU2MSwxNzYzNTE1NDEyLC05MTM5MjMzMzQsMj
-A5NTk0NjY1NCwtMTY0MjkyOTU0NiwxOTc3NTAzNjUwLC01MTQ4
-MDc0NzMsLTg5MDMyMTE2NCw0OTY3NDcyMDFdfQ==
+eyJoaXN0b3J5IjpbNTg4Nzg4NzIzLC0yMDU3OTUxMTk2LDk1MT
+YyNTk1MCwtMjAzNDkyNTQxNSwxNTU4MDAwMDYxLDEzMjYwNjU4
+NTAsMjQ3NDEwNTYxLDE3NjM1MTU0MTIsLTkxMzkyMzMzNCwyMD
+k1OTQ2NjU0LC0xNjQyOTI5NTQ2LDE5Nzc1MDM2NTAsLTUxNDgw
+NzQ3MywtODkwMzIxMTY0LDQ5Njc0NzIwMV19
 -->
