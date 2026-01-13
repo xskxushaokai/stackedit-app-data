@@ -155,7 +155,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 2. 打卡状态显示
  - 显示所有学生的姓名和打卡状态；
  - 打卡状态以头像的形式显示在姓名上方；
- - 已打卡的学生显示A头像，未打卡的学生显示B头像，所有学生都公用A、B两个头像；
+ - 已打卡的学生显示A头像，未打卡的学生显示B头像，所有学生都共用A、B两个头像；
  - 通过鼠标点击头像的方式进行打卡，所有学生默认状态都是未打卡；
  - 点击头像打卡时，显示头像翻转的打卡动画；
  - 支持一键重置所有学生的打卡状态；
@@ -182,11 +182,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTEwMzEwMywtMTE0OTY5OTcyOSwtMT
-A1MjYyMjkzOSwtMTczNDQ2OTMzMSwtMTkyNzMzNDQ1NSw5Mzgz
-MzAyODAsOTUyNjIsMzU4NjY4MjcsMTYwNTczMzE3MywtMjE0Mj
-c4MzI0MSwtMzczODM3MTE4LDIxMjA5NDI3OTMsMjQ3NjgxMDU0
-LC0yMDUxMzIxMzI1LDE0MDIwNTUxMTUsLTIwNTc5NTExOTYsOT
-UxNjI1OTUwLC0yMDM0OTI1NDE1LDE1NTgwMDAwNjEsMTMyNjA2
-NTg1MF19
+eyJoaXN0b3J5IjpbNzI1Nzg0MjgyLC0xMTQ5Njk5NzI5LC0xMD
+UyNjIyOTM5LC0xNzM0NDY5MzMxLC0xOTI3MzM0NDU1LDkzODMz
+MDI4MCw5NTI2MiwzNTg2NjgyNywxNjA1NzMzMTczLC0yMTQyNz
+gzMjQxLC0zNzM4MzcxMTgsMjEyMDk0Mjc5MywyNDc2ODEwNTQs
+LTIwNTEzMjEzMjUsMTQwMjA1NTExNSwtMjA1Nzk1MTE5Niw5NT
+E2MjU5NTAsLTIwMzQ5MjU0MTUsMTU1ODAwMDA2MSwxMzI2MDY1
+ODUwXX0=
 -->
