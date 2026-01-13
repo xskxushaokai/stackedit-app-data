@@ -140,7 +140,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 ## 三. 案例2. 课堂打卡系统
-使用**豆包应用生成平台**创作课堂打卡系统，首次给到AI的提示词为：
+使用**豆包应用生成平台**创作课堂打卡系统，步骤如下：
+
+1. 整理并提出需求，首次给到AI的提示词为：
 ```
 课堂打卡系统-产品需求描述
 
@@ -163,8 +165,14 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 3. 打卡状态导出
  - 支持导出学生的打卡状态为excel表格文件（.xlsx格式），导出文件命名方式为：$上传的excel文件名$+$导出时间$
-
 ```
+
+预览豆包生成的课堂打卡网页
+![输入图片说明](/imgs/2026-01-13/UNHMi9AxiPshu715.png)
+
+2. 功能测试
+
+
 
 
 # 附：其他可选案例
@@ -183,11 +191,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA2MDY2MDgsNzI1Nzg0MjgyLC0xMT
-Q5Njk5NzI5LC0xMDUyNjIyOTM5LC0xNzM0NDY5MzMxLC0xOTI3
-MzM0NDU1LDkzODMzMDI4MCw5NTI2MiwzNTg2NjgyNywxNjA1Nz
-MzMTczLC0yMTQyNzgzMjQxLC0zNzM4MzcxMTgsMjEyMDk0Mjc5
-MywyNDc2ODEwNTQsLTIwNTEzMjEzMjUsMTQwMjA1NTExNSwtMj
-A1Nzk1MTE5Niw5NTE2MjU5NTAsLTIwMzQ5MjU0MTUsMTU1ODAw
-MDA2MV19
+eyJoaXN0b3J5IjpbLTg5ODY1NzgyMiw3MjU3ODQyODIsLTExND
+k2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0NjkzMzEsLTE5Mjcz
+MzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3LDE2MDU3Mz
+MxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIwOTQyNzkz
+LDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MTE1LC0yMD
+U3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwxNTU4MDAw
+MDYxXX0=
 -->
