@@ -194,7 +194,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 经过AI再次优化之后，得到V3版本，功能上完全满足了我们的使用需求，运行时无逻辑漏洞。
 
 4. 应用分享
- 通过“分享”按钮一键公开应用并获取访问链接。若教师不愿将自己开发的应用公开为所有人可访问，也可以通过右上角的下载按钮将网页代码文件下载到本地，只需要本地浏览器
+ 通过“分享”按钮一键公开应用并获取访问链接。若教师不愿将自己开发的应用公开为所有人可访问，也可以通过右上角的下载按钮将网页代码文件下载到本地，只需要在本地浏览器中直接打开下载的网页文件即可正常访问应用。
 
 
 
@@ -214,11 +214,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjI3ODI1NCwxNjk3ODUwMzExLDcyNT
-c4NDI4MiwtMTE0OTY5OTcyOSwtMTA1MjYyMjkzOSwtMTczNDQ2
-OTMzMSwtMTkyNzMzNDQ1NSw5MzgzMzAyODAsOTUyNjIsMzU4Nj
-Y4MjcsMTYwNTczMzE3MywtMjE0Mjc4MzI0MSwtMzczODM3MTE4
-LDIxMjA5NDI3OTMsMjQ3NjgxMDU0LC0yMDUxMzIxMzI1LDE0MD
-IwNTUxMTUsLTIwNTc5NTExOTYsOTUxNjI1OTUwLC0yMDM0OTI1
-NDE1XX0=
+eyJoaXN0b3J5IjpbLTE5MjYzMDIxNjgsMTY5Nzg1MDMxMSw3Mj
+U3ODQyODIsLTExNDk2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0
+NjkzMzEsLTE5MjczMzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1OD
+Y2ODI3LDE2MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzEx
+OCwyMTIwOTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxND
+AyMDU1MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDky
+NTQxNV19
 -->
