@@ -188,8 +188,12 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 可以看到，V2版本已经换用无性别特征的图标作为学生头像，第一个问题得到解决。但实际测试功能后发现上面的第二点问题仍然存在，优化提示词继续反馈AI进行修改，提示词如下：
 ```
-
+当前问题：学生在第一次置为已打卡状态后，再次点击该学生头像，头像的状态不会翻转为未打卡，而右上角的已打卡人数统计会减一。 
+修改目标：再次点击头像时，学生打卡状态翻转（若当前是已打卡则翻转为未打卡，若当前是未打卡则翻转未已打卡），同时更新已打卡人数。
 ```
+
+
+
 
 # 附：其他可选案例
 **案例一：语言学习交互网页**
@@ -207,7 +211,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTY2NDg4OSwxNjk3ODUwMzExLDcyNT
+eyJoaXN0b3J5IjpbMTQzNjU0NDk5MiwxNjk3ODUwMzExLDcyNT
 c4NDI4MiwtMTE0OTY5OTcyOSwtMTA1MjYyMjkzOSwtMTczNDQ2
 OTMzMSwtMTkyNzMzNDQ1NSw5MzgzMzAyODAsOTUyNjIsMzU4Nj
 Y4MjcsMTYwNTczMzE3MywtMjE0Mjc4MzI0MSwtMzczODM3MTE4
