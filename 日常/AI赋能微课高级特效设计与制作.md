@@ -132,9 +132,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
  5. 应用分享
  经多次与AI沟通修改，应用实现了我们指定的功能且使用过程中没有漏洞后，便可以将应用进行公开。通过应用预览界面右上角的“分享”按钮可以一键公开应用并获取访问链接。将链接插入到教学课件中便可以在联网授课的环境中便捷地访问我们开发的点名系统。
- 公开分享![输入图片说明](/imgs/2026-01-13/beEkWCr70XPrL6xb.png)
+ 
+ 将点名系统公开分享![输入图片说明](/imgs/2026-01-13/beEkWCr70XPrL6xb.png)
 
-
+通过链接直接访问应用
+![输入图片说明](/imgs/2026-01-13/olcPirutli0wHJZz.png)
 
 # 附：其他可选案例
 **案例一：语言学习交互网页**
@@ -152,11 +154,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTIwNjAyNDksLTE3MzQ0NjkzMzEsLT
-E5MjczMzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3LDE2
-MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIwOT
-QyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MTE1
-LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwxNT
-U4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1MTU0
-MTJdfQ==
+eyJoaXN0b3J5IjpbNzA3MjY0MjAxLC0xNzM0NDY5MzMxLC0xOT
+I3MzM0NDU1LDkzODMzMDI4MCw5NTI2MiwzNTg2NjgyNywxNjA1
+NzMzMTczLC0yMTQyNzgzMjQxLC0zNzM4MzcxMTgsMjEyMDk0Mj
+c5MywyNDc2ODEwNTQsLTIwNTEzMjEzMjUsMTQwMjA1NTExNSwt
+MjA1Nzk1MTE5Niw5NTE2MjU5NTAsLTIwMzQ5MjU0MTUsMTU1OD
+AwMDA2MSwxMzI2MDY1ODUwLDI0NzQxMDU2MSwxNzYzNTE1NDEy
+XX0=
 -->
