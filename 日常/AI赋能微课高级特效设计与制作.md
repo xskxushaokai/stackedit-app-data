@@ -140,7 +140,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 ## 三. 案例2. 课堂打卡系统
-‘
+```
+课堂打卡系统-产品需求描述
+
+创建一个美观大气的课堂打卡应用，可用于记录学生的课堂背诵完成情况、作业完成情况等，
+```
 
 
 # 附：其他可选案例
@@ -159,11 +163,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY2MjIwMjksLTExNDk2OTk3MjksLT
-EwNTI2MjI5MzksLTE3MzQ0NjkzMzEsLTE5MjczMzQ0NTUsOTM4
-MzMwMjgwLDk1MjYyLDM1ODY2ODI3LDE2MDU3MzMxNzMsLTIxND
-I3ODMyNDEsLTM3MzgzNzExOCwyMTIwOTQyNzkzLDI0NzY4MTA1
-NCwtMjA1MTMyMTMyNSwxNDAyMDU1MTE1LC0yMDU3OTUxMTk2LD
-k1MTYyNTk1MCwtMjAzNDkyNTQxNSwxNTU4MDAwMDYxLDEzMjYw
-NjU4NTBdfQ==
+eyJoaXN0b3J5IjpbMTMwNDc4MTMzMSwtMTE0OTY5OTcyOSwtMT
+A1MjYyMjkzOSwtMTczNDQ2OTMzMSwtMTkyNzMzNDQ1NSw5Mzgz
+MzAyODAsOTUyNjIsMzU4NjY4MjcsMTYwNTczMzE3MywtMjE0Mj
+c4MzI0MSwtMzczODM3MTE4LDIxMjA5NDI3OTMsMjQ3NjgxMDU0
+LC0yMDUxMzIxMzI1LDE0MDIwNTUxMTUsLTIwNTc5NTExOTYsOT
+UxNjI1OTUwLC0yMDM0OTI1NDE1LDE1NTgwMDAwNjEsMTMyNjA2
+NTg1MF19
 -->
