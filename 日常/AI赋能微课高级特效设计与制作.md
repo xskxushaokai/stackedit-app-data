@@ -174,14 +174,19 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
  经测试，发现AI首次生成的网页存在以下两点问题：
   - 所有未打卡的学生头像为男生，已打卡的学生头像为女生，这不合理，可改用无明显性格特征的动物或卡通图案；
   - 学生在第一次置为已打卡状态时，再次点击该学生头像，头像的状态不会翻转为未打卡，而右上角的已打卡人数统计会减一，这是代码漏洞，需修复。
+
+3. 反馈修改
   使用如下提示词让AI进一步优化：
  ```
 两点优化需求：
 1. 将A头像和B头像改为无明显性格特征的小动物或卡通图案；
 2. 问题修复：学生在第一次置为已打卡状态后，再次点击该学生头像，头像的状态不会翻转为未打卡，而右上角的已打卡人数统计会减一。修改代码，再次点击头像时，学生打卡状态翻转，同时更新已打卡人数。
 ```
+优化后，得到V2版本的课堂打卡系统
 
+![输入图片说明](/imgs/2026-01-13/YBXt4GKrHad7uIWX.png)
 
+可以看到，V2版本已经修改了学生tou'x
 
 # 附：其他可选案例
 **案例一：语言学习交互网页**
@@ -199,11 +204,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Nzg1MDMxMSw3MjU3ODQyODIsLTExND
-k2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0NjkzMzEsLTE5Mjcz
-MzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3LDE2MDU3Mz
-MxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIwOTQyNzkz
-LDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MTE1LC0yMD
-U3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwxNTU4MDAw
-MDYxXX0=
+eyJoaXN0b3J5IjpbNjU0ODcwNTE4LDE2OTc4NTAzMTEsNzI1Nz
+g0MjgyLC0xMTQ5Njk5NzI5LC0xMDUyNjIyOTM5LC0xNzM0NDY5
+MzMxLC0xOTI3MzM0NDU1LDkzODMzMDI4MCw5NTI2MiwzNTg2Nj
+gyNywxNjA1NzMzMTczLC0yMTQyNzgzMjQxLC0zNzM4MzcxMTgs
+MjEyMDk0Mjc5MywyNDc2ODEwNTQsLTIwNTEzMjEzMjUsMTQwMj
+A1NTExNSwtMjA1Nzk1MTE5Niw5NTE2MjU5NTAsLTIwMzQ5MjU0
+MTVdfQ==
 -->
