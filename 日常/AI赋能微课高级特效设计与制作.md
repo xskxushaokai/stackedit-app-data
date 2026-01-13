@@ -171,8 +171,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-13/UNHMi9AxiPshu715.png)
 
 2. 功能测试
- 经测试，发现AI首次生成的网页存在以下问题：
-  - 所有未打卡的学生头像为男生，已打卡的学生头像为女生，这不合理，需改用
+ 经测试，发现AI首次生成的网页存在以下两点问题：
+  - 所有未打卡的学生头像为男生，已打卡的学生头像为女生，这不合理，可改用无明显性格特征的动物或卡通图案；
+  - 学生在第一次置为已打卡状态时，再次点击该学生头像，头像的状态不会翻转为未打卡，
 
 
 
@@ -192,7 +193,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDM1NjA5Nyw3MjU3ODQyODIsLTExND
+eyJoaXN0b3J5IjpbLTMxODU4MTc3NCw3MjU3ODQyODIsLTExND
 k2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0NjkzMzEsLTE5Mjcz
 MzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3LDE2MDU3Mz
 MxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIwOTQyNzkz
