@@ -138,6 +138,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 通过链接直接访问点名系统
 ![输入图片说明](/imgs/2026-01-13/olcPirutli0wHJZz.png)
 
+
+## 三. 案例2. 课堂打卡系统
+
+
+
 # 附：其他可选案例
 **案例一：语言学习交互网页**
     -   **目标**：提高学生的语言听说能力。
@@ -154,11 +159,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI2MjI5MzksLTE3MzQ0NjkzMzEsLT
-E5MjczMzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3LDE2
-MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIwOT
-QyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMyNSwxNDAyMDU1MTE1
-LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMjAzNDkyNTQxNSwxNT
-U4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEwNTYxLDE3NjM1MTU0
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTExNDk2OTk3MjksLTEwNTI2MjI5MzksLT
+E3MzQ0NjkzMzEsLTE5MjczMzQ0NTUsOTM4MzMwMjgwLDk1MjYy
+LDM1ODY2ODI3LDE2MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3Mz
+gzNzExOCwyMTIwOTQyNzkzLDI0NzY4MTA1NCwtMjA1MTMyMTMy
+NSwxNDAyMDU1MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1MCwtMj
+AzNDkyNTQxNSwxNTU4MDAwMDYxLDEzMjYwNjU4NTAsMjQ3NDEw
+NTYxXX0=
 -->
