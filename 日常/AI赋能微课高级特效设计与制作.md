@@ -176,7 +176,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
   - 学生在第一次置为已打卡状态时，再次点击该学生头像，头像的状态不会翻转为未打卡，而右上角的已打卡人数统计会减一，这是代码漏洞，需修复。
   使用如下提示词让AI进一步优化：
  ```
+两点优化需求：
 
+将A头像和B头像改为无明显性格特征的小动物或卡通图案；
 ```
 
 
@@ -197,7 +199,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk5MDI3NCw3MjU3ODQyODIsLTExND
+eyJoaXN0b3J5IjpbLTcxMDcyOTE0NCw3MjU3ODQyODIsLTExND
 k2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0NjkzMzEsLTE5Mjcz
 MzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3LDE2MDU3Mz
 MxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzExOCwyMTIwOTQyNzkz
