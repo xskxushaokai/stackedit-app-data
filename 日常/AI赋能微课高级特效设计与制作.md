@@ -131,7 +131,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-12/9FlKZf30eLFS9PfR.png)
 
  5. 应用分享
- 根据实际情况，经多次与AI沟通修改之后，应用实现了我们指定的功能且使用过程中没有漏洞后，
+ 经多次与AI沟通修改，应用实现了我们指定的功能且使用过程中没有漏洞后，便可以将应用进行公开。通过应用预览界面右上角的“分享”按钮可以一键公开应用并获取访问链接。jian
 
 
 
@@ -151,7 +151,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODU5NDc1OSwtMTczNDQ2OTMzMSwtMT
+eyJoaXN0b3J5IjpbMTMzMjE4OTgwNiwtMTczNDQ2OTMzMSwtMT
 kyNzMzNDQ1NSw5MzgzMzAyODAsOTUyNjIsMzU4NjY4MjcsMTYw
 NTczMzE3MywtMjE0Mjc4MzI0MSwtMzczODM3MTE4LDIxMjA5ND
 I3OTMsMjQ3NjgxMDU0LC0yMDUxMzIxMzI1LDE0MDIwNTUxMTUs
