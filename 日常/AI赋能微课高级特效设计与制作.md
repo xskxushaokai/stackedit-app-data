@@ -140,7 +140,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 ## 三. 案例2. 课堂打卡系统
-在日常教学中，常常需要对学生进行课堂任务完成情况的跟踪和记录，以便教师直观地了解学生情况以及zhi'ding，使用**豆包应用生成平台**创作课堂打卡系统，步骤如下：
+在日常教学中，常常需要对学生进行课堂任务完成情况的跟踪和记录，以便教师直观地了解学生情况以及制定合理的教学策略。使用**豆包应用生成平台**创作课堂打卡系统，步骤如下：
 
 1. 整理并提出需求，首次给到AI的提示词为：
 ```
@@ -216,11 +216,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODMwMTEyNCwtNDYyNDg4NjgxLDE2OT
-c4NTAzMTEsNzI1Nzg0MjgyLC0xMTQ5Njk5NzI5LC0xMDUyNjIy
-OTM5LC0xNzM0NDY5MzMxLC0xOTI3MzM0NDU1LDkzODMzMDI4MC
-w5NTI2MiwzNTg2NjgyNywxNjA1NzMzMTczLC0yMTQyNzgzMjQx
-LC0zNzM4MzcxMTgsMjEyMDk0Mjc5MywyNDc2ODEwNTQsLTIwNT
-EzMjEzMjUsMTQwMjA1NTExNSwtMjA1Nzk1MTE5Niw5NTE2MjU5
-NTBdfQ==
+eyJoaXN0b3J5IjpbNjMzODQ1MDU2LC00NjI0ODg2ODEsMTY5Nz
+g1MDMxMSw3MjU3ODQyODIsLTExNDk2OTk3MjksLTEwNTI2MjI5
+MzksLTE3MzQ0NjkzMzEsLTE5MjczMzQ0NTUsOTM4MzMwMjgwLD
+k1MjYyLDM1ODY2ODI3LDE2MDU3MzMxNzMsLTIxNDI3ODMyNDEs
+LTM3MzgzNzExOCwyMTIwOTQyNzkzLDI0NzY4MTA1NCwtMjA1MT
+MyMTMyNSwxNDAyMDU1MTE1LC0yMDU3OTUxMTk2LDk1MTYyNTk1
+MF19
 -->
