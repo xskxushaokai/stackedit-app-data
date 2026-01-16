@@ -559,7 +559,8 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] OJ系统了解和搭建
 - [ ] 行空板mpython模式
 
-### 
+### 算法相关学习
+- [ ] 新paper、模型跟进（SAM 3D等）
 
 - [x] AI工具分享会：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
 - [x] 人脸识别demo代码优化
@@ -576,7 +577,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 - [ ] 正看反说 win7语音版
 - [ ] 教师考核程序
-- [ ] 新paper、模型跟进（SAM 3D等）
+
 - [x] pytorch搭建GPT Transformer
 - [x] 东莞市创新人才补贴申请 已提交
 
@@ -602,11 +603,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwODUwMTM4LC0yMDU1OTQ3Njg1LC0xNj
-Y5ODY1MTY1LDEzMzQxODg0NjMsMTYyNDMyMjI5LDQwNjg1OTY0
-MCwyMDgzNTEzMTY4LC0xMjM1ODI5NjIwLC0yMTE5NjM5OTYsOD
-czMjA2NjgyLC0yNTMxMjAyNzAsMTEwNzIzMjg0MiwxNzg5OTMz
-OTc4LC04NzA3NTA5MDYsLTcwMjgzMTM3OCwxNDU2NTgxNDYsMT
-kyNDQxMTg0MSw4OTcyNDI4MywxNDg2MDg1OTcwLC0xMTkwNDUx
-NjEzXX0=
+eyJoaXN0b3J5IjpbMTMzNzA3NTczMyw5OTA4NTAxMzgsLTIwNT
+U5NDc2ODUsLTE2Njk4NjUxNjUsMTMzNDE4ODQ2MywxNjI0MzIy
+MjksNDA2ODU5NjQwLDIwODM1MTMxNjgsLTEyMzU4Mjk2MjAsLT
+IxMTk2Mzk5Niw4NzMyMDY2ODIsLTI1MzEyMDI3MCwxMTA3MjMy
+ODQyLDE3ODk5MzM5NzgsLTg3MDc1MDkwNiwtNzAyODMxMzc4LD
+E0NTY1ODE0NiwxOTI0NDExODQxLDg5NzI0MjgzLDE0ODYwODU5
+NzBdfQ==
 -->
