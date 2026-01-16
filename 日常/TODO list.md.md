@@ -548,8 +548,10 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 新paper、模型跟进（SAM 3D等）
 - [x] pytorch搭建GPT Transformer
 - [x] 东莞市创新人才补贴申请 已提交
+---
+<br><br>
 
-
+---
 ## 期末
 - [ ] 《AI赋能微课高级特效设计与制作》书籍
 - [ ] 编程期末作业规划
@@ -608,7 +610,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjUwMzExMiwtMTE5ODg1OTQzNCwyMD
+eyJoaXN0b3J5IjpbLTM3MjE1ODEyNCwtMTE5ODg1OTQzNCwyMD
 MwMjU5MjY2LDE0MzkzNTM0NjIsLTEwMTQ3MjcxMTIsNTcwOTU1
 MTY3LDk5MDg1MDEzOCwtMjA1NTk0NzY4NSwtMTY2OTg2NTE2NS
 wxMzM0MTg4NDYzLDE2MjQzMjIyOSw0MDY4NTk2NDAsMjA4MzUx
