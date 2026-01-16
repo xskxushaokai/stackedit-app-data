@@ -550,6 +550,31 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [x] 东莞市创新人才补贴申请 已提交
 
 
+## 期末
+- [ ] 信奥智题助手相关资料发群
+- [x] AI工具分享会：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
+- [x] 人脸识别demo代码优化
+
+- [x]  音乐成绩分析
+- [ ] 编程备课：
+	- [x] 栈讲义
+	- [x] STL常用知识
+	- [x] 分治、二分
+	- [ ] 前缀和、差分
+	- [ ] 深搜题目
+	- [ ] 动态规划题目整理
+	- [ ] 简单动态规划
+- [ ] OJ系统了解和搭建
+- [ ] 学生智能体应用比赛
+- [ ] 行空板mpython模式
+- [ ] 正看反说 win7语音版
+- [ ] 教师考核程序
+- [ ] 新paper、模型跟进（SAM 3D等）
+- [x] pytorch搭建GPT Transformer
+- [x] 东莞市创新人才补贴申请 已提交
+
+
+
 ---
 
 ## 成绩分析各文件作用：
@@ -570,11 +595,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk4NjUxNjUsMTMzNDE4ODQ2MywxNj
-I0MzIyMjksNDA2ODU5NjQwLDIwODM1MTMxNjgsLTEyMzU4Mjk2
-MjAsLTIxMTk2Mzk5Niw4NzMyMDY2ODIsLTI1MzEyMDI3MCwxMT
-A3MjMyODQyLDE3ODk5MzM5NzgsLTg3MDc1MDkwNiwtNzAyODMx
-Mzc4LDE0NTY1ODE0NiwxOTI0NDExODQxLDg5NzI0MjgzLDE0OD
-YwODU5NzAsLTExOTA0NTE2MTMsMjY4OTc5NDc5LDYyNjM2MzM3
-Ml19
+eyJoaXN0b3J5IjpbLTE2OTQ5NjE5NjEsLTE2Njk4NjUxNjUsMT
+MzNDE4ODQ2MywxNjI0MzIyMjksNDA2ODU5NjQwLDIwODM1MTMx
+NjgsLTEyMzU4Mjk2MjAsLTIxMTk2Mzk5Niw4NzMyMDY2ODIsLT
+I1MzEyMDI3MCwxMTA3MjMyODQyLDE3ODk5MzM5NzgsLTg3MDc1
+MDkwNiwtNzAyODMxMzc4LDE0NTY1ODE0NiwxOTI0NDExODQxLD
+g5NzI0MjgzLDE0ODYwODU5NzAsLTExOTA0NTE2MTMsMjY4OTc5
+NDc5XX0=
 -->
