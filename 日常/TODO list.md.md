@@ -561,7 +561,8 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ### 算法相关学习
 - [ ] yolo26 paper
-- [ ] deepseek Engram架构《Con》
+- [ ] deepseek Engram架构《Conditional Memory via Scalable Lookup》
+- [ ] TTS开源模型（chatterbox、）
 - [ ] 新paper、模型跟进（SAM 3D等）
 
 - [x] AI工具分享会：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
@@ -605,11 +606,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTU2MjUsNTcwOTU1MTY3LDk5MDg1MD
-EzOCwtMjA1NTk0NzY4NSwtMTY2OTg2NTE2NSwxMzM0MTg4NDYz
-LDE2MjQzMjIyOSw0MDY4NTk2NDAsMjA4MzUxMzE2OCwtMTIzNT
-gyOTYyMCwtMjExOTYzOTk2LDg3MzIwNjY4MiwtMjUzMTIwMjcw
-LDExMDcyMzI4NDIsMTc4OTkzMzk3OCwtODcwNzUwOTA2LC03MD
-I4MzEzNzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3MjQyODNd
-fQ==
+eyJoaXN0b3J5IjpbLTEyNzI0MzI5MzMsNTcwOTU1MTY3LDk5MD
+g1MDEzOCwtMjA1NTk0NzY4NSwtMTY2OTg2NTE2NSwxMzM0MTg4
+NDYzLDE2MjQzMjIyOSw0MDY4NTk2NDAsMjA4MzUxMzE2OCwtMT
+IzNTgyOTYyMCwtMjExOTYzOTk2LDg3MzIwNjY4MiwtMjUzMTIw
+MjcwLDExMDcyMzI4NDIsMTc4OTkzMzk3OCwtODcwNzUwOTA2LC
+03MDI4MzEzNzgsMTQ1NjU4MTQ2LDE5MjQ0MTE4NDEsODk3MjQy
+ODNdfQ==
 -->
