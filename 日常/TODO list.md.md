@@ -578,7 +578,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ] 前缀和、差分
 	- [ ] 深搜题目
 	- [ ] 动态规划题目整理
-	- [x] 简单动态规划
+	- [x] 线性DP
 
 - [ ] 正看反说 win7语音版
 - [ ] 教师考核程序
@@ -608,11 +608,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUwNzIyMiwyMDMwMjU5MjY2LDE0Mz
-kzNTM0NjIsLTEwMTQ3MjcxMTIsNTcwOTU1MTY3LDk5MDg1MDEz
-OCwtMjA1NTk0NzY4NSwtMTY2OTg2NTE2NSwxMzM0MTg4NDYzLD
-E2MjQzMjIyOSw0MDY4NTk2NDAsMjA4MzUxMzE2OCwtMTIzNTgy
-OTYyMCwtMjExOTYzOTk2LDg3MzIwNjY4MiwtMjUzMTIwMjcwLD
-ExMDcyMzI4NDIsMTc4OTkzMzk3OCwtODcwNzUwOTA2LC03MDI4
-MzEzNzhdfQ==
+eyJoaXN0b3J5IjpbMTEwMjE1MTg2LDIwMzAyNTkyNjYsMTQzOT
+M1MzQ2MiwtMTAxNDcyNzExMiw1NzA5NTUxNjcsOTkwODUwMTM4
+LC0yMDU1OTQ3Njg1LC0xNjY5ODY1MTY1LDEzMzQxODg0NjMsMT
+YyNDMyMjI5LDQwNjg1OTY0MCwyMDgzNTEzMTY4LC0xMjM1ODI5
+NjIwLC0yMTE5NjM5OTYsODczMjA2NjgyLC0yNTMxMjAyNzAsMT
+EwNzIzMjg0MiwxNzg5OTMzOTc4LC04NzA3NTA5MDYsLTcwMjgz
+MTM3OF19
 -->
