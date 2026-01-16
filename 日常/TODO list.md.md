@@ -566,6 +566,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 新paper、模型跟进（SAM 3D等）
 - [ ] Zed（开源，免费平替cursor）
 - [ ] Infographic（蚂蚁开源可视化图表）
+- [ ] 其他优秀项目（一键克隆网站(orchilds.app)，）
 
 - [x] AI工具分享会：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
 - [x] 人脸识别demo代码优化
@@ -608,7 +609,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjEyODUzNSw1NzA5NTUxNjcsOTkwOD
+eyJoaXN0b3J5IjpbMTUzMTQwMjk0MSw1NzA5NTUxNjcsOTkwOD
 UwMTM4LC0yMDU1OTQ3Njg1LC0xNjY5ODY1MTY1LDEzMzQxODg0
 NjMsMTYyNDMyMjI5LDQwNjg1OTY0MCwyMDgzNTEzMTY4LC0xMj
 M1ODI5NjIwLC0yMTE5NjM5OTYsODczMjA2NjgyLC0yNTMxMjAy
