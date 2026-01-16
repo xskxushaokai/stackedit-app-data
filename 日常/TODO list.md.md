@@ -396,8 +396,8 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 **1.理论研究**，主要查找相关资料(编程评价、通用的学习效果评价、计算思维培养和评价方式)、设计学生问卷(影响编程和学习的主要因素调查、计算思维能力测评等)，论证与编程能力、学习效果相关的一些因素(练习数量、时间、专注度等)、编程学习对于计算思维培养的重要性等，实践总结成论文，后续共同讨论汇总整合具体的评价指标(过程评价：练习数量、时间、练习时间点分布均衡度，练习总结等、过程专注度等；结果评价：代码规范、程序思路诊断、调试效率)，确定评价方法。
 **2.开发**，课题成员试用信奥智题助手，**做题、整理和积累题库**，体验AI评估和总结的效果，汇总使用感受和后续建议；同时，xsk尝试搭建OJ系统，其他成员可了解其他学校或朋友有无此项经验，提供交流和学习机会。后续共同完善和维护OJ系统的题库以及优化。
 
-- [x] 教师资格资注册，材料放共享
-- [x] 学校论文比赛
+- [] 教师资格资注册，材料放共享
+- [] 学校论文比赛
 - [ ] 信奥智题助手相关资料发群
 - [x] 公开课
 - [ ] 编程备课 深搜广搜题目，数据结构备课
@@ -450,7 +450,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 ## 第13-14周
 - [ ] 信奥智题助手相关资料发群
-- [x]  CSP复赛获奖证书收集
+- [x ]  CSP复赛获奖证书收集
 - [x]  成绩分析
 - [ ] 编程备课：STL常用知识、分治、深搜题目
 	- [x] 栈讲义
@@ -587,7 +587,9 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] 教师考核程序
 
 - [x] 东莞市创新人才补贴申请 已提交
-
+成绩分析
+- [ ] 新paper、模型跟进（SAM 3D等）
+- [x] pytorch搭建GPT Transformer
 
 
 ---
@@ -610,11 +612,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjE1ODEyNCwtMTE5ODg1OTQzNCwyMD
-MwMjU5MjY2LDE0MzkzNTM0NjIsLTEwMTQ3MjcxMTIsNTcwOTU1
-MTY3LDk5MDg1MDEzOCwtMjA1NTk0NzY4NSwtMTY2OTg2NTE2NS
-wxMzM0MTg4NDYzLDE2MjQzMjIyOSw0MDY4NTk2NDAsMjA4MzUx
-MzE2OCwtMTIzNTgyOTYyMCwtMjExOTYzOTk2LDg3MzIwNjY4Mi
-wtMjUzMTIwMjcwLDExMDcyMzI4NDIsMTc4OTkzMzk3OCwtODcw
-NzUwOTA2XX0=
+eyJoaXN0b3J5IjpbLTE1NDY3ODk1NDAsLTM3MjE1ODEyNCwtMT
+E5ODg1OTQzNCwyMDMwMjU5MjY2LDE0MzkzNTM0NjIsLTEwMTQ3
+MjcxMTIsNTcwOTU1MTY3LDk5MDg1MDEzOCwtMjA1NTk0NzY4NS
+wtMTY2OTg2NTE2NSwxMzM0MTg4NDYzLDE2MjQzMjIyOSw0MDY4
+NTk2NDAsMjA4MzUxMzE2OCwtMTIzNTgyOTYyMCwtMjExOTYzOT
+k2LDg3MzIwNjY4MiwtMjUzMTIwMjcwLDExMDcyMzI4NDIsMTc4
+OTkzMzk3OF19
 -->
