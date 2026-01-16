@@ -553,7 +553,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ## 期末
 - [ ] 信奥智题助手相关资料发群
 - [ ] 《AI赋能微课高级特效设计与制作》书籍
-- [ ] 
+- [ ] 编程期末作业规划
 
 
 - [x] AI工具分享会：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
@@ -599,7 +599,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 其他结果都是补成绩之后
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjQ2NDQ3MCwtMTY2OTg2NTE2NSwxMz
+eyJoaXN0b3J5IjpbLTEyNTQ3NzI4MywtMTY2OTg2NTE2NSwxMz
 M0MTg4NDYzLDE2MjQzMjIyOSw0MDY4NTk2NDAsMjA4MzUxMzE2
 OCwtMTIzNTgyOTYyMCwtMjExOTYzOTk2LDg3MzIwNjY4MiwtMj
 UzMTIwMjcwLDExMDcyMzI4NDIsMTc4OTkzMzk3OCwtODcwNzUw
