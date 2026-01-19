@@ -301,7 +301,10 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 3. 交互效果测试
 知识内容审查修改无误后，进行网页交互逻辑和动画效果的测试。包括：时期选择功能、页面内搜索功能、返回顶部按钮功能、鼠标悬停动画效果、时期渐变出现效果
 
+时期选择功能测试：
+![输入图片说明](/imgs/2026-01-19/fJMMO2K7o6PuIsTf.png)
 
+页面内搜索功能测试：
 ![输入图片说明](/imgs/2026-01-19/51xVGJAoHFYrWmYS.png)
 
 
@@ -322,11 +325,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTM3MDM4NCwtMTg4OTAzNTQ4MSwtMT
-Q3OTkyMDM4Niw5ODY1Mjg3NjYsLTIwMjIyOTQ0NTAsMjEyNjk0
-Nzc4MywtMTQwNzU4MTg1MCwtMTIwMDQwNzc4NCwyMDYxNTk0Mz
-Y0LDUwOTQzNTUyMCw0OTM4Mzc5MTcsNjMzODQ1MDU2LC00NjI0
-ODg2ODEsMTY5Nzg1MDMxMSw3MjU3ODQyODIsLTExNDk2OTk3Mj
-ksLTEwNTI2MjI5MzksLTE3MzQ0NjkzMzEsLTE5MjczMzQ0NTUs
-OTM4MzMwMjgwXX0=
+eyJoaXN0b3J5IjpbLTEyMTY2NTg3OTIsLTE4ODkwMzU0ODEsLT
+E0Nzk5MjAzODYsOTg2NTI4NzY2LC0yMDIyMjk0NDUwLDIxMjY5
+NDc3ODMsLTE0MDc1ODE4NTAsLTEyMDA0MDc3ODQsMjA2MTU5ND
+M2NCw1MDk0MzU1MjAsNDkzODM3OTE3LDYzMzg0NTA1NiwtNDYy
+NDg4NjgxLDE2OTc4NTAzMTEsNzI1Nzg0MjgyLC0xMTQ5Njk5Nz
+I5LC0xMDUyNjIyOTM5LC0xNzM0NDY5MzMxLC0xOTI3MzM0NDU1
+LDkzODMzMDI4MF19
 -->
