@@ -271,9 +271,14 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 交互动画：事件卡片悬停时触发上浮效果（轻微 translateY 偏移）和阴影增强效果；页面滚动时，时间线内容区的元素从下至上渐入显示；点击回到顶部按钮，页面平滑滚动至顶部。 
 - 事件内容展示：古代史包含夏朝建立、武王伐纣、平王东迁、秦始皇统一、汉朝建立等事件；中古史包含隋朝建立、唐朝建立、宋朝建立、元明清等事件；近代史包含鸦片战争、辛亥革命、五四运动、抗日战争、新中国成立等事件；现代史包含改革开放、香港回归、北京奥运、脱贫攻坚等事件，每个事件卡片清晰展示年份、标题和简要描述。 
 
-5. 代码要求： - 提供完整并可直接运行的代码，按文件区分（index.html, style.css, script.js） - 结构清晰，HTML文件按页面区块划分结构，CSS文件按样式功能模块（如重置样式、布局样式、动画样式、主题样式等）分类编写，JavaScript文件按功能（筛选、搜索、动画、滚动等）拆分函数，所有文件包含必要注释说明代码逻辑和功能。 
+5. 代码要求： 
+- 提供完整并可直接运行的代码，按文件区分（index.html, style.css, script.js） 
+- 结构清晰，HTML文件按页面区块划分结构，CSS文件按样式功能模块（如重置样式、布局样式、动画样式、主题样式等）分类编写，JavaScript文件按功能（筛选、搜索、动画、滚动等）拆分函数，所有文件包含必要注释说明代码逻辑和功能。 
 
-6. 界面与体验： - 视觉风格：整体采用中国传统水墨风，背景为宣纸色，文字主色为墨色；标题使用书法字体，正文使用宋体增强文化感；背景添加水墨装饰元素（如水墨纹理、山水轮廓等）作为点缀，营造古典氛围。 - 响应式设计：适配电脑、平板、手机等不同尺寸设备，在小屏设备上时间线内容区改为纵向堆叠布局，筛选按钮改为横向滚动栏，保证操作与浏览体验。 - 交互体验：操作反馈及时，按钮点击有视觉反馈（如颜色变化、轻微缩放），搜索输入实时响应，动画效果流畅不卡顿，整体界面简洁美观，符合传统美学且易于操作。
+6. 界面与体验： 
+- 视觉风格：整体采用中国传统水墨风，背景为宣纸色，文字主色为墨色；标题使用书法字体，正文使用宋体增强文化感；背景添加水墨装饰元素（如水墨纹理、山水轮廓等）作为点缀，营造古典氛围。 
+- 响应式设计：适配电脑、平板、手机等不同尺寸设备，在小屏设备上时间线内容区改为纵向堆叠布局，筛选按钮改为横向滚动栏，保证操作与浏览体验。 
+- 交互体验：操作反馈及时，按钮点击有视觉反馈（如颜色变化、轻微缩放），搜索输入实时响应，动画效果流畅不卡顿，整体界面简洁美观，符合传统美学且易于操作。
 ```
 
 
@@ -293,11 +298,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMDIxOTQ0LC0xNDA3NTgxODUwLC0xMj
-AwNDA3Nzg0LDIwNjE1OTQzNjQsNTA5NDM1NTIwLDQ5MzgzNzkx
-Nyw2MzM4NDUwNTYsLTQ2MjQ4ODY4MSwxNjk3ODUwMzExLDcyNT
-c4NDI4MiwtMTE0OTY5OTcyOSwtMTA1MjYyMjkzOSwtMTczNDQ2
-OTMzMSwtMTkyNzMzNDQ1NSw5MzgzMzAyODAsOTUyNjIsMzU4Nj
-Y4MjcsMTYwNTczMzE3MywtMjE0Mjc4MzI0MSwtMzczODM3MTE4
-XX0=
+eyJoaXN0b3J5IjpbLTQ4MDk3MDMzMCwtMTQwNzU4MTg1MCwtMT
+IwMDQwNzc4NCwyMDYxNTk0MzY0LDUwOTQzNTUyMCw0OTM4Mzc5
+MTcsNjMzODQ1MDU2LC00NjI0ODg2ODEsMTY5Nzg1MDMxMSw3Mj
+U3ODQyODIsLTExNDk2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0
+NjkzMzEsLTE5MjczMzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1OD
+Y2ODI3LDE2MDU3MzMxNzMsLTIxNDI3ODMyNDEsLTM3MzgzNzEx
+OF19
 -->
