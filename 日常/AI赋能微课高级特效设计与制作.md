@@ -377,14 +377,13 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 豆包首次生成的网页页面如下：
 ![输入图片说明](/imgs/2026-01-19/cFbDSj0cIEbWb1fM.png)
 
-测试三种排序算法的演示过程，发现以下两点问题：
-(1). 在排序过程中可视化展示区域的数据条颜色始终都是蓝色，而我们希望将正在比较的数据进行突出显示，以便更直接地理解排序过程。
-(2). 桶排序过程中，每个桶中数据统计的过程没有展示出来。
-通过以下提示词让豆包进行网页优化：
+测试三种排序算法的演示过程，发现以下两点主要问题：
+(1). 分布模式按钮切换状态没有反应； 
+(2). 桶排序仅显示了桶和桶内数据，需要将全部的数据也同时显示在可视化展示区
 ```
 进行两处修改：
-9. 可视化展示区域的数据条在排序过程中始终都是蓝色，与图示说明不符，请修改，让正在比较的数据突出显示。
-10. 将桶排序过程中，每个数据放入对应的桶的过程展示出来
+10. 可视化展示区域的数据条在排序过程中始终都是蓝色，与图示说明不符，请修改，让正在比较的数据突出显示。
+11. 将桶排序过程中，每个数据放入对应的桶的过程展示出来
 
 ```
 
@@ -407,11 +406,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDYyNTE1MywxNDgyMTczNDEwLC04MT
-MzNjQ0NjUsMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1
-NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC0xODIyNjM3NzEsLT
-g4MDIxOTQxMywxOTkxNjczNDQzLC0xODg5MDM1NDgxLC0xNDc5
-OTIwMzg2LDk4NjUyODc2NiwtMjAyMjI5NDQ1MCwyMTI2OTQ3Nz
-gzLC0xNDA3NTgxODUwLC0xMjAwNDA3Nzg0LDIwNjE1OTQzNjQs
-NTA5NDM1NTIwXX0=
+eyJoaXN0b3J5IjpbMzExMTUwNjkxLDE0ODIxNzM0MTAsLTgxMz
+M2NDQ2NSwyMDU1MzUwNzgwLDE0MzE0NjkxNDksLTE5ODQ4NDU0
+MTMsLTYyMzgyMDQxLC01Njc5MzAzOTgsLTE4MjI2Mzc3MSwtOD
+gwMjE5NDEzLDE5OTE2NzM0NDMsLTE4ODkwMzU0ODEsLTE0Nzk5
+MjAzODYsOTg2NTI4NzY2LC0yMDIyMjk0NDUwLDIxMjY5NDc3OD
+MsLTE0MDc1ODE4NTAsLTEyMDA0MDc3ODQsMjA2MTU5NDM2NCw1
+MDk0MzU1MjBdfQ==
 -->
