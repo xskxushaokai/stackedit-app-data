@@ -204,6 +204,18 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ## 四. 案例3 学科知识卡片
 
 
+```
+生成一个具有浓郁中国传统风格的华夏历史事件时间线网页，需包含以下要素： 
+
+1. 视觉风格：采用中国传统水墨风设计，以宣纸纹理为背景基调，融入山水墨画装饰元素和龙纹边框，整体呈现古卷轴质感，色调以宣纸色（米黄）、墨色为主，搭配各历史时期专属色（古代史棕色、中古史暗红、近代史靛蓝、现代史深青） 
+
+2. 内容结构：按历史时期分为古代史（约公元前2070年-公元581年）、中古史（581年-1840年）、近代史（1840年-1949年）、现代史（1949年至今）四个部分，每部分以时间线形式展示关键事件，每个事件需包含具体时间、事件标题和简短描述 
+
+3. 交互功能： - 时期筛选功能（可按历史时期分类查看事件） - 事件搜索功能（可通过关键词查找相关历史事件） - 时间线滑块导航（可快速跳转至不同历史时期） - 卷轴展开动画（页面加载及滚动时呈现卷轴逐步展开效果） - 事件卡片hover动效（鼠标悬停时轻微上浮并放大时间点标记） - 回到顶部按钮及响应式移动端菜单 
+
+4. 字体与细节：标题使用毛笔书法风格字体，正文采用清晰易读的宋体风格字体，添加水墨装饰元素增强传统氛围，确保整体设计兼具历史厚重感与现代交互体验
+```
+
 
 # 附：其他可选案例
 **案例一：语言学习交互网页**
@@ -221,11 +233,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTU5NDM2NCw1MDk0MzU1MjAsNDkzOD
-M3OTE3LDYzMzg0NTA1NiwtNDYyNDg4NjgxLDE2OTc4NTAzMTEs
-NzI1Nzg0MjgyLC0xMTQ5Njk5NzI5LC0xMDUyNjIyOTM5LC0xNz
-M0NDY5MzMxLC0xOTI3MzM0NDU1LDkzODMzMDI4MCw5NTI2Miwz
-NTg2NjgyNywxNjA1NzMzMTczLC0yMTQyNzgzMjQxLC0zNzM4Mz
-cxMTgsMjEyMDk0Mjc5MywyNDc2ODEwNTQsLTIwNTEzMjEzMjVd
+eyJoaXN0b3J5IjpbLTEyMDA0MDc3ODQsMjA2MTU5NDM2NCw1MD
+k0MzU1MjAsNDkzODM3OTE3LDYzMzg0NTA1NiwtNDYyNDg4Njgx
+LDE2OTc4NTAzMTEsNzI1Nzg0MjgyLC0xMTQ5Njk5NzI5LC0xMD
+UyNjIyOTM5LC0xNzM0NDY5MzMxLC0xOTI3MzM0NDU1LDkzODMz
+MDI4MCw5NTI2MiwzNTg2NjgyNywxNjA1NzMzMTczLC0yMTQyNz
+gzMjQxLC0zNzM4MzcxMTgsMjEyMDk0Mjc5MywyNDc2ODEwNTRd
 fQ==
 -->
