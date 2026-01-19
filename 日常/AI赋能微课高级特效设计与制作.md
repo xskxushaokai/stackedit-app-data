@@ -387,6 +387,12 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 2.桶排序仅显示了桶和桶内数据，需要将全部的数据也同时显示在可视化展示区
 ```
 
+第一次修复后，桶排序的过程演示仍然存在逻辑错误，此时我们换一种方式让豆包修改代码，输入的提示词为：
+```
+仔细检查、测试网页代码和功能是否正确，修复发现的问题
+```
+
+
 
 
 
@@ -406,7 +412,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjA0MjIzMCwxNDgyMTczNDEwLC04MT
+eyJoaXN0b3J5IjpbLTg5MzU5MDIwNCwxNDgyMTczNDEwLC04MT
 MzNjQ0NjUsMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1
 NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC0xODIyNjM3NzEsLT
 g4MDIxOTQxMywxOTkxNjczNDQzLC0xODg5MDM1NDgxLC0xNDc5
