@@ -319,7 +319,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 ## 五. 案例4 知识动画-排序算法动态演示（五年级信息科技）
-排序算法是五年级信息科技《生活中的算法》中的重要内容，小学阶段的学生抽象思维能力较弱，借助具体de
+排序算法是五年级信息科技《生活中的算法》中的重要内容，小学阶段的学生抽象思维能力较弱，借助具体的动画演示排序过程，可以帮助学生迅速理解算法流程，提高课堂教学效率。下面演示制作排序算法动态演示网页的过程。
 
 1. 提示词整理和优化
 
@@ -385,7 +385,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjQ0ODE0NywxNDMxNDY5MTQ5LC0xOT
+eyJoaXN0b3J5IjpbMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOT
 g0ODQ1NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC0xODIyNjM3
 NzEsLTg4MDIxOTQxMywxOTkxNjczNDQzLC0xODg5MDM1NDgxLC
 0xNDc5OTIwMzg2LDk4NjUyODc2NiwtMjAyMjI5NDQ1MCwyMTI2
