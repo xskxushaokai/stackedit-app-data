@@ -240,7 +240,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 现代史：改革开放、香港回归、北京奥运、脱贫攻坚等。
 
 ```
+将原始提示词输入对话框，点击右下角“优化指令”按钮，豆包会自动对用户指令进行优化，生成
 
+![输入图片说明](/imgs/2026-01-19/CxZ4IN0fftW09lWt.png)
 
 
 
@@ -260,7 +262,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzI1NjI1OCwtMTQwNzU4MTg1MCwtMT
+eyJoaXN0b3J5IjpbMTY4NjA5MDAzNSwtMTQwNzU4MTg1MCwtMT
 IwMDQwNzc4NCwyMDYxNTk0MzY0LDUwOTQzNTUyMCw0OTM4Mzc5
 MTcsNjMzODQ1MDU2LC00NjI0ODg2ODEsMTY5Nzg1MDMxMSw3Mj
 U3ODQyODIsLTExNDk2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0
