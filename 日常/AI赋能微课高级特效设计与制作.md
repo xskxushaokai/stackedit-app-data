@@ -367,9 +367,12 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 支持暗色/亮色模式切换，提升不同使用场景下的视觉体验
 ```
 
-2. 网页生成与优化
+7. 网页生成与优化
+8. 
 豆包首次生成的网页页面如下：
+![输入图片说明](/imgs/2026-01-19/qivYDS6XnX1LybWv.png)
 
+测试三种排序算法的演示过程，发现在排序过程中可视化展示区域的数据条颜色始终都是蓝色，而我们希望将正在b
 
 
 
@@ -389,11 +392,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwMzE5NDAyLDIwNTUzNTA3ODAsMTQzMT
-Q2OTE0OSwtMTk4NDg0NTQxMywtNjIzODIwNDEsLTU2NzkzMDM5
-OCwtMTgyMjYzNzcxLC04ODAyMTk0MTMsMTk5MTY3MzQ0MywtMT
-g4OTAzNTQ4MSwtMTQ3OTkyMDM4Niw5ODY1Mjg3NjYsLTIwMjIy
-OTQ0NTAsMjEyNjk0Nzc4MywtMTQwNzU4MTg1MCwtMTIwMDQwNz
-c4NCwyMDYxNTk0MzY0LDUwOTQzNTUyMCw0OTM4Mzc5MTcsNjMz
-ODQ1MDU2XX0=
+eyJoaXN0b3J5IjpbMTg4MjU2MTYwMSwyMDU1MzUwNzgwLDE0Mz
+E0NjkxNDksLTE5ODQ4NDU0MTMsLTYyMzgyMDQxLC01Njc5MzAz
+OTgsLTE4MjI2Mzc3MSwtODgwMjE5NDEzLDE5OTE2NzM0NDMsLT
+E4ODkwMzU0ODEsLTE0Nzk5MjAzODYsOTg2NTI4NzY2LC0yMDIy
+Mjk0NDUwLDIxMjY5NDc3ODMsLTE0MDc1ODE4NTAsLTEyMDA0MD
+c3ODQsMjA2MTU5NDM2NCw1MDk0MzU1MjAsNDkzODM3OTE3LDYz
+Mzg0NTA1Nl19
 -->
