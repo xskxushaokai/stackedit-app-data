@@ -281,8 +281,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 交互体验：操作反馈及时，按钮点击有视觉反馈（如颜色变化、轻微缩放），搜索输入实时响应，动画效果流畅不卡顿，整体界面简洁美观，符合传统美学且易于操作。
 ```
 
-2. 网页生成、内容审查、交互效果测试：
-将优化后的提示词输入豆包，得到如下知识卡片交互网页，外观和风格上已经满足我们的需求，接下来还需要进行网页中的知识内容审查，以及交互动画效果的测试。
+2. 网页生成、内容审查：
+将优化后的提示词输入豆包，得到如下知识卡片交互网页，外观和风格上已经满足我们的需求，接下来首先进行网页中的知识内容审查。
 ![输入图片说明](/imgs/2026-01-19/0tuZujcAHCWco29r.png)
 
 若存在知识内容的不准确或错误，则继续让豆包进行修改，可以采用 “将……修改为……” 的句式与豆包进行对话。
@@ -297,6 +297,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-19/P54ogn4fqDZpjrzt.png)
 
 知识卡片网页的逻辑结构较为简单、清晰，主要测试其交互的动画效果是否达到要求。
+
+3. 交互效果测试
+
 
 
 
@@ -316,11 +319,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk5MjAzODYsOTg2NTI4NzY2LC0yMD
-IyMjk0NDUwLDIxMjY5NDc3ODMsLTE0MDc1ODE4NTAsLTEyMDA0
-MDc3ODQsMjA2MTU5NDM2NCw1MDk0MzU1MjAsNDkzODM3OTE3LD
-YzMzg0NTA1NiwtNDYyNDg4NjgxLDE2OTc4NTAzMTEsNzI1Nzg0
-MjgyLC0xMTQ5Njk5NzI5LC0xMDUyNjIyOTM5LC0xNzM0NDY5Mz
-MxLC0xOTI3MzM0NDU1LDkzODMzMDI4MCw5NTI2MiwzNTg2Njgy
-N119
+eyJoaXN0b3J5IjpbODYxOTMwOTg3LC0xNDc5OTIwMzg2LDk4Nj
+UyODc2NiwtMjAyMjI5NDQ1MCwyMTI2OTQ3NzgzLC0xNDA3NTgx
+ODUwLC0xMjAwNDA3Nzg0LDIwNjE1OTQzNjQsNTA5NDM1NTIwLD
+Q5MzgzNzkxNyw2MzM4NDUwNTYsLTQ2MjQ4ODY4MSwxNjk3ODUw
+MzExLDcyNTc4NDI4MiwtMTE0OTY5OTcyOSwtMTA1MjYyMjkzOS
+wtMTczNDQ2OTMzMSwtMTkyNzMzNDQ1NSw5MzgzMzAyODAsOTUy
+NjJdfQ==
 -->
