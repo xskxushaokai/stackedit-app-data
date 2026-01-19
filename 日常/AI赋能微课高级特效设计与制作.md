@@ -308,7 +308,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-19/51xVGJAoHFYrWmYS.png)
 
 4. 应用分享与本地使用
-通过“分享”按钮一键公开应用并获取访问链接。也可以通过右上角的下载按钮将网页代码文件下载到本地。需要注意的是，本案例中豆包生成的代码包含三个文件、两个文件夹，用户选择下载到本地后，需要将下载的压缩包文件解压到自定义文件夹，这里新建一个名为“chinese_history_timeline”的文件夹，并将压缩包中的文件解压到该文件夹中。
+通过“分享”按钮一键公开应用并获取访问链接。也可以通过右上角的下载按钮将网页代码文件下载到本地。需要注意的是，本案例中豆包生成的代码包含三个文件、两个文件夹，用户选择下载到本地后，需要将下载的压缩包文件解压到自定义文件夹，这里新建一个名为“chinese_history_timeline”的文件夹，并将压缩包中的文件解压到该文件夹中。可以看到文件夹中包含名为“css”和“js”的两个文件夹，以及
+
+
 
 
 
@@ -329,11 +331,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDIxOTQxMywxOTkxNjczNDQzLC0xOD
-g5MDM1NDgxLC0xNDc5OTIwMzg2LDk4NjUyODc2NiwtMjAyMjI5
-NDQ1MCwyMTI2OTQ3NzgzLC0xNDA3NTgxODUwLC0xMjAwNDA3Nz
-g0LDIwNjE1OTQzNjQsNTA5NDM1NTIwLDQ5MzgzNzkxNyw2MzM4
-NDUwNTYsLTQ2MjQ4ODY4MSwxNjk3ODUwMzExLDcyNTc4NDI4Mi
-wtMTE0OTY5OTcyOSwtMTA1MjYyMjkzOSwtMTczNDQ2OTMzMSwt
-MTkyNzMzNDQ1NV19
+eyJoaXN0b3J5IjpbLTEwMzQ0Nzk1OTksLTg4MDIxOTQxMywxOT
+kxNjczNDQzLC0xODg5MDM1NDgxLC0xNDc5OTIwMzg2LDk4NjUy
+ODc2NiwtMjAyMjI5NDQ1MCwyMTI2OTQ3NzgzLC0xNDA3NTgxOD
+UwLC0xMjAwNDA3Nzg0LDIwNjE1OTQzNjQsNTA5NDM1NTIwLDQ5
+MzgzNzkxNyw2MzM4NDUwNTYsLTQ2MjQ4ODY4MSwxNjk3ODUwMz
+ExLDcyNTc4NDI4MiwtMTE0OTY5OTcyOSwtMTA1MjYyMjkzOSwt
+MTczNDQ2OTMzMV19
 -->
