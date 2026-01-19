@@ -327,7 +327,10 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 制作一个排序算法过程演示网页，包含选择排序、冒泡排序、桶排序三种算法。
 ```
-zhi'xin
+执行指令优化后的提示词：
+```
+
+```
 
 
 人工修改后的提示词：
@@ -404,11 +407,11 @@ zhi'xin
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE5OTgxOTksMTQ4MjE3MzQxMCwtOD
-EzMzY0NDY1LDIwNTUzNTA3ODAsMTQzMTQ2OTE0OSwtMTk4NDg0
-NTQxMywtNjIzODIwNDEsLTU2NzkzMDM5OCwtMTgyMjYzNzcxLC
-04ODAyMTk0MTMsMTk5MTY3MzQ0MywtMTg4OTAzNTQ4MSwtMTQ3
-OTkyMDM4Niw5ODY1Mjg3NjYsLTIwMjIyOTQ0NTAsMjEyNjk0Nz
-c4MywtMTQwNzU4MTg1MCwtMTIwMDQwNzc4NCwyMDYxNTk0MzY0
-LDUwOTQzNTUyMF19
+eyJoaXN0b3J5IjpbLTg2NDYyNTE1MywxNDgyMTczNDEwLC04MT
+MzNjQ0NjUsMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1
+NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC0xODIyNjM3NzEsLT
+g4MDIxOTQxMywxOTkxNjczNDQzLC0xODg5MDM1NDgxLC0xNDc5
+OTIwMzg2LDk4NjUyODc2NiwtMjAyMjI5NDQ1MCwyMTI2OTQ3Nz
+gzLC0xNDA3NTgxODUwLC0xMjAwNDA3Nzg0LDIwNjE1OTQzNjQs
+NTA5NDM1NTIwXX0=
 -->
