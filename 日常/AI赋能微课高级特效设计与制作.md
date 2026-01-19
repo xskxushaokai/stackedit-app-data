@@ -320,6 +320,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 ## 五. 案例4 知识动画-排序算法动态演示（五年级信息科技）
 
+
 1. 提示词整理和优化
 
 待优化的提示词：
@@ -384,11 +385,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTQ2OTE0OSwtMTk4NDg0NTQxMywtNj
-IzODIwNDEsLTU2NzkzMDM5OCwtMTgyMjYzNzcxLC04ODAyMTk0
-MTMsMTk5MTY3MzQ0MywtMTg4OTAzNTQ4MSwtMTQ3OTkyMDM4Ni
-w5ODY1Mjg3NjYsLTIwMjIyOTQ0NTAsMjEyNjk0Nzc4MywtMTQw
-NzU4MTg1MCwtMTIwMDQwNzc4NCwyMDYxNTk0MzY0LDUwOTQzNT
-UyMCw0OTM4Mzc5MTcsNjMzODQ1MDU2LC00NjI0ODg2ODEsMTY5
-Nzg1MDMxMV19
+eyJoaXN0b3J5IjpbLTE3NDAxOTI0MDEsMTQzMTQ2OTE0OSwtMT
+k4NDg0NTQxMywtNjIzODIwNDEsLTU2NzkzMDM5OCwtMTgyMjYz
+NzcxLC04ODAyMTk0MTMsMTk5MTY3MzQ0MywtMTg4OTAzNTQ4MS
+wtMTQ3OTkyMDM4Niw5ODY1Mjg3NjYsLTIwMjIyOTQ0NTAsMjEy
+Njk0Nzc4MywtMTQwNzU4MTg1MCwtMTIwMDQwNzc4NCwyMDYxNT
+k0MzY0LDUwOTQzNTUyMCw0OTM4Mzc5MTcsNjMzODQ1MDU2LC00
+NjI0ODg2ODFdfQ==
 -->
