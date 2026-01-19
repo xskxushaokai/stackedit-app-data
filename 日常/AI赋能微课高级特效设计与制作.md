@@ -282,7 +282,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 
 2. 网页生成与交互效果测试：
-
+知识卡片网页的逻辑结构较为简单、清晰，主要测试其交互的动画效果是否达到要求。
 
 
 
@@ -302,11 +302,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIyOTQ0NTAsMjEyNjk0Nzc4MywtMT
-QwNzU4MTg1MCwtMTIwMDQwNzc4NCwyMDYxNTk0MzY0LDUwOTQz
-NTUyMCw0OTM4Mzc5MTcsNjMzODQ1MDU2LC00NjI0ODg2ODEsMT
-Y5Nzg1MDMxMSw3MjU3ODQyODIsLTExNDk2OTk3MjksLTEwNTI2
-MjI5MzksLTE3MzQ0NjkzMzEsLTE5MjczMzQ0NTUsOTM4MzMwMj
-gwLDk1MjYyLDM1ODY2ODI3LDE2MDU3MzMxNzMsLTIxNDI3ODMy
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTIzMTE0MzA3OSwtMjAyMjI5NDQ1MCwyMT
+I2OTQ3NzgzLC0xNDA3NTgxODUwLC0xMjAwNDA3Nzg0LDIwNjE1
+OTQzNjQsNTA5NDM1NTIwLDQ5MzgzNzkxNyw2MzM4NDUwNTYsLT
+Q2MjQ4ODY4MSwxNjk3ODUwMzExLDcyNTc4NDI4MiwtMTE0OTY5
+OTcyOSwtMTA1MjYyMjkzOSwtMTczNDQ2OTMzMSwtMTkyNzMzND
+Q1NSw5MzgzMzAyODAsOTUyNjIsMzU4NjY4MjcsMTYwNTczMzE3
+M119
 -->
