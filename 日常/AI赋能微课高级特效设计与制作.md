@@ -327,7 +327,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 制作一个排序算法过程演示网页，包含选择排序、冒泡排序、桶排序三种算法。
 ```
 
-zh
+执行指令优化后的提示词：
 ```
 你是一名经验丰富的前端开发工程师，请为我实现一个完整的排序算法动态演示网页。 
 
@@ -384,7 +384,7 @@ zh
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzcyMDMxOCwtMTk4NDg0NTQxMywtNj
+eyJoaXN0b3J5IjpbMTQzMTQ2OTE0OSwtMTk4NDg0NTQxMywtNj
 IzODIwNDEsLTU2NzkzMDM5OCwtMTgyMjYzNzcxLC04ODAyMTk0
 MTMsMTk5MTY3MzQ0MywtMTg4OTAzNTQ4MSwtMTQ3OTkyMDM4Ni
 w5ODY1Mjg3NjYsLTIwMjIyOTQ0NTAsMjEyNjk0Nzc4MywtMTQw
