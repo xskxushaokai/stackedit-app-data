@@ -286,6 +286,12 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-19/0tuZujcAHCWco29r.png)
 
 若存在知识内容的错误，则继续让豆包进行修改，可以采用 “将……修改为……” 的句式与豆包进行对话。
+如：
+```
+将“古代史”中“武王伐纣”的事件名称改为“周朝建立”，内容改为“周武王率军在牧野之战中击败商纣王，建立周朝，史称”武王伐纣“”
+```
+修改前：
+
 
 知识卡片网页的逻辑结构较为简单、清晰，主要测试其交互的动画效果是否达到要求。
 
@@ -307,11 +313,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDUxNTcxOCw5ODY1Mjg3NjYsLTIwMj
-IyOTQ0NTAsMjEyNjk0Nzc4MywtMTQwNzU4MTg1MCwtMTIwMDQw
-Nzc4NCwyMDYxNTk0MzY0LDUwOTQzNTUyMCw0OTM4Mzc5MTcsNj
-MzODQ1MDU2LC00NjI0ODg2ODEsMTY5Nzg1MDMxMSw3MjU3ODQy
-ODIsLTExNDk2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0NjkzMz
-EsLTE5MjczMzQ0NTUsOTM4MzMwMjgwLDk1MjYyLDM1ODY2ODI3
-XX0=
+eyJoaXN0b3J5IjpbLTE0ODg0NTAwNzcsOTg2NTI4NzY2LC0yMD
+IyMjk0NDUwLDIxMjY5NDc3ODMsLTE0MDc1ODE4NTAsLTEyMDA0
+MDc3ODQsMjA2MTU5NDM2NCw1MDk0MzU1MjAsNDkzODM3OTE3LD
+YzMzg0NTA1NiwtNDYyNDg4NjgxLDE2OTc4NTAzMTEsNzI1Nzg0
+MjgyLC0xMTQ5Njk5NzI5LC0xMDUyNjIyOTM5LC0xNzM0NDY5Mz
+MxLC0xOTI3MzM0NDU1LDkzODMzMDI4MCw5NTI2MiwzNTg2Njgy
+N119
 -->
