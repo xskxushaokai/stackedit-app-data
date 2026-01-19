@@ -202,9 +202,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 ## 四. 案例3 学科知识卡片
+学科知识卡片作为一种知识整理和呈现的方式，
 
 1. 提示词整理和优化：
-
 豆包为用户提供了“指令优化”功能，通过指令优化，用户可以得到与模型适配度更高、语义对齐效果更好的提示词。将以上原始提示词输入对话框，点击右下角“优化指令”按钮，豆包会自动对用户指令进行优化，生成更加准确、全面的提示词。
 
 “指令优化”示例：
@@ -302,7 +302,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDU5Nzc1NSwtMTQwNzU4MTg1MCwtMT
+eyJoaXN0b3J5IjpbMjEyNjk0Nzc4MywtMTQwNzU4MTg1MCwtMT
 IwMDQwNzc4NCwyMDYxNTk0MzY0LDUwOTQzNTUyMCw0OTM4Mzc5
 MTcsNjMzODQ1MDU2LC00NjI0ODg2ODEsMTY5Nzg1MDMxMSw3Mj
 U3ODQyODIsLTExNDk2OTk3MjksLTEwNTI2MjI5MzksLTE3MzQ0
