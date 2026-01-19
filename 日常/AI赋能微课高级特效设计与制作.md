@@ -387,6 +387,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 2.桶排序演示中，排序后的数据顺序错误。
 ```
 
+错误的桶排序结果：
+![输入图片说明](/imgs/2026-01-19/2qrLcHMP7jfxkOQV.png)
+
 第一次修复后，桶排序的过程演示仍然存在逻辑错误，此时我们换一种方式让豆包修改代码，输入的提示词为：
 ```
 仔细检查、测试网页代码和功能是否正确，修复发现的问题
@@ -413,11 +416,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM4NjkzMDYsMTY5Mjc4NjI3OCwxND
-gyMTczNDEwLC04MTMzNjQ0NjUsMjA1NTM1MDc4MCwxNDMxNDY5
-MTQ5LC0xOTg0ODQ1NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC
-0xODIyNjM3NzEsLTg4MDIxOTQxMywxOTkxNjczNDQzLC0xODg5
-MDM1NDgxLC0xNDc5OTIwMzg2LDk4NjUyODc2NiwtMjAyMjI5ND
-Q1MCwyMTI2OTQ3NzgzLC0xNDA3NTgxODUwLC0xMjAwNDA3Nzg0
-LDIwNjE1OTQzNjRdfQ==
+eyJoaXN0b3J5IjpbOTcyODkyNzA5LDE2OTI3ODYyNzgsMTQ4Mj
+E3MzQxMCwtODEzMzY0NDY1LDIwNTUzNTA3ODAsMTQzMTQ2OTE0
+OSwtMTk4NDg0NTQxMywtNjIzODIwNDEsLTU2NzkzMDM5OCwtMT
+gyMjYzNzcxLC04ODAyMTk0MTMsMTk5MTY3MzQ0MywtMTg4OTAz
+NTQ4MSwtMTQ3OTkyMDM4Niw5ODY1Mjg3NjYsLTIwMjIyOTQ0NT
+AsMjEyNjk0Nzc4MywtMTQwNzU4MTg1MCwtMTIwMDQwNzc4NCwy
+MDYxNTk0MzY0XX0=
 -->
