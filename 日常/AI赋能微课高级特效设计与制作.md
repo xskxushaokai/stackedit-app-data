@@ -379,7 +379,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 测试三种排序算法的演示过程，发现以下两点主要问题：
 (1). 分布模式按钮切换状态没有反应； 
-(2). 桶排序仅显示了桶和桶内数据，需要将全部的数据也同时显示在可视化展示区
+(2). 桶排序演示中，排序后的数据顺序错误。
 将问题反馈给豆包：
 ```
 存在以下问题： 
@@ -413,11 +413,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mjc4NjI3OCwxNDgyMTczNDEwLC04MT
-MzNjQ0NjUsMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1
-NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC0xODIyNjM3NzEsLT
-g4MDIxOTQxMywxOTkxNjczNDQzLC0xODg5MDM1NDgxLC0xNDc5
-OTIwMzg2LDk4NjUyODc2NiwtMjAyMjI5NDQ1MCwyMTI2OTQ3Nz
-gzLC0xNDA3NTgxODUwLC0xMjAwNDA3Nzg0LDIwNjE1OTQzNjQs
-NTA5NDM1NTIwXX0=
+eyJoaXN0b3J5IjpbMTY5NjU0NTA2OSwxNjkyNzg2Mjc4LDE0OD
+IxNzM0MTAsLTgxMzM2NDQ2NSwyMDU1MzUwNzgwLDE0MzE0Njkx
+NDksLTE5ODQ4NDU0MTMsLTYyMzgyMDQxLC01Njc5MzAzOTgsLT
+E4MjI2Mzc3MSwtODgwMjE5NDEzLDE5OTE2NzM0NDMsLTE4ODkw
+MzU0ODEsLTE0Nzk5MjAzODYsOTg2NTI4NzY2LC0yMDIyMjk0ND
+UwLDIxMjY5NDc3ODMsLTE0MDc1ODE4NTAsLTEyMDA0MDc3ODQs
+MjA2MTU5NDM2NF19
 -->
