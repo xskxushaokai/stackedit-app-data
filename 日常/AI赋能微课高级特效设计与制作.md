@@ -11,6 +11,7 @@
  - 课堂评价
 ### 学科教学交互网页
  - 知识卡片
+ - 知识动画
  - 解题助手
  - 仿真实验
  - 课堂测试
@@ -219,11 +220,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI2MzAxNzksNDkzODM3OTE3LDYzMz
-g0NTA1NiwtNDYyNDg4NjgxLDE2OTc4NTAzMTEsNzI1Nzg0Mjgy
-LC0xMTQ5Njk5NzI5LC0xMDUyNjIyOTM5LC0xNzM0NDY5MzMxLC
-0xOTI3MzM0NDU1LDkzODMzMDI4MCw5NTI2MiwzNTg2NjgyNywx
-NjA1NzMzMTczLC0yMTQyNzgzMjQxLC0zNzM4MzcxMTgsMjEyMD
-k0Mjc5MywyNDc2ODEwNTQsLTIwNTEzMjEzMjUsMTQwMjA1NTEx
-NV19
+eyJoaXN0b3J5IjpbNTA5NDM1NTIwLDQ5MzgzNzkxNyw2MzM4ND
+UwNTYsLTQ2MjQ4ODY4MSwxNjk3ODUwMzExLDcyNTc4NDI4Miwt
+MTE0OTY5OTcyOSwtMTA1MjYyMjkzOSwtMTczNDQ2OTMzMSwtMT
+kyNzMzNDQ1NSw5MzgzMzAyODAsOTUyNjIsMzU4NjY4MjcsMTYw
+NTczMzE3MywtMjE0Mjc4MzI0MSwtMzczODM3MTE4LDIxMjA5ND
+I3OTMsMjQ3NjgxMDU0LC0yMDUxMzIxMzI1LDE0MDIwNTUxMTVd
+fQ==
 -->
