@@ -291,7 +291,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 将“古代史”中“武王伐纣”的事件名称改为“周朝建立”，内容改为“周武王率军在牧野之战中击败商纣王，建立周朝，史称”武王伐纣“”
 ```
 修改前：
-
+![输入图片说明](/imgs/2026-01-19/j6ztFUCHbAQQ9MvR.png)
 
 修改后：
 ![输入图片说明](/imgs/2026-01-19/P54ogn4fqDZpjrzt.png)
@@ -316,7 +316,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ1ODkwODAsOTg2NTI4NzY2LC0yMD
+eyJoaXN0b3J5IjpbLTIwNTI0MzM5NTMsOTg2NTI4NzY2LC0yMD
 IyMjk0NDUwLDIxMjY5NDc3ODMsLTE0MDc1ODE4NTAsLTEyMDA0
 MDc3ODQsMjA2MTU5NDM2NCw1MDk0MzU1MjAsNDkzODM3OTE3LD
 YzMzg0NTA1NiwtNDYyNDg4NjgxLDE2OTc4NTAzMTEsNzI1Nzg0
