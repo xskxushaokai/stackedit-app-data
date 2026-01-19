@@ -210,6 +210,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 “指令优化”示例：
 ![输入图片说明](/imgs/2026-01-19/CxZ4IN0fftW09lWt.png)
 
+待优化的提示词：
 ```
 请帮我制作一个关于“华夏历史时间线”的交互式网页，要求如下：
 
@@ -269,7 +270,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NDQ1OTA0LC0xNDA3NTgxODUwLC0xMj
+eyJoaXN0b3J5IjpbLTg4NDI3NjIyLC0xNDA3NTgxODUwLC0xMj
 AwNDA3Nzg0LDIwNjE1OTQzNjQsNTA5NDM1NTIwLDQ5MzgzNzkx
 Nyw2MzM4NDUwNTYsLTQ2MjQ4ODY4MSwxNjk3ODUwMzExLDcyNT
 c4NDI4MiwtMTE0OTY5OTcyOSwtMTA1MjYyMjkzOSwtMTczNDQ2
