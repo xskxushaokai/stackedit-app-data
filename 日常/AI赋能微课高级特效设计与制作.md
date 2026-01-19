@@ -307,6 +307,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 页面内搜索功能测试：
 ![输入图片说明](/imgs/2026-01-19/51xVGJAoHFYrWmYS.png)
 
+4. 应用分享y
+
 
 
 # 附：其他可选案例
@@ -325,7 +327,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDk3NDE5MiwtMTg4OTAzNTQ4MSwtMT
+eyJoaXN0b3J5IjpbLTE5Mjk5MTk4MiwtMTg4OTAzNTQ4MSwtMT
 Q3OTkyMDM4Niw5ODY1Mjg3NjYsLTIwMjIyOTQ0NTAsMjEyNjk0
 Nzc4MywtMTQwNzU4MTg1MCwtMTIwMDQwNzc4NCwyMDYxNTk0Mz
 Y0LDUwOTQzNTUyMCw0OTM4Mzc5MTcsNjMzODQ1MDU2LC00NjI0
