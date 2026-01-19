@@ -201,7 +201,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-13/bu0xyZlBx3wYiFRe.png)
 
 
-## 四. 案例3 
+## 四. 案例3 学科知识卡片
+
 
 
 # 附：其他可选案例
@@ -220,11 +221,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NDM1NTIwLDQ5MzgzNzkxNyw2MzM4ND
-UwNTYsLTQ2MjQ4ODY4MSwxNjk3ODUwMzExLDcyNTc4NDI4Miwt
-MTE0OTY5OTcyOSwtMTA1MjYyMjkzOSwtMTczNDQ2OTMzMSwtMT
-kyNzMzNDQ1NSw5MzgzMzAyODAsOTUyNjIsMzU4NjY4MjcsMTYw
-NTczMzE3MywtMjE0Mjc4MzI0MSwtMzczODM3MTE4LDIxMjA5ND
-I3OTMsMjQ3NjgxMDU0LC0yMDUxMzIxMzI1LDE0MDIwNTUxMTVd
+eyJoaXN0b3J5IjpbMjA2MTU5NDM2NCw1MDk0MzU1MjAsNDkzOD
+M3OTE3LDYzMzg0NTA1NiwtNDYyNDg4NjgxLDE2OTc4NTAzMTEs
+NzI1Nzg0MjgyLC0xMTQ5Njk5NzI5LC0xMDUyNjIyOTM5LC0xNz
+M0NDY5MzMxLC0xOTI3MzM0NDU1LDkzODMzMDI4MCw5NTI2Miwz
+NTg2NjgyNywxNjA1NzMzMTczLC0yMTQyNzgzMjQxLC0zNzM4Mz
+cxMTgsMjEyMDk0Mjc5MywyNDc2ODEwNTQsLTIwNTEzMjEzMjVd
 fQ==
 -->
