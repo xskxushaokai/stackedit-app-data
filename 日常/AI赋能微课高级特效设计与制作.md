@@ -327,8 +327,10 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 制作一个排序算法过程演示网页，包含选择排序、冒泡排序、桶排序三种算法。
 ```
+zhi'xin
 
-执行指令优化后的提示词：
+
+人工修改后的提示词：
 ```
 你是一名经验丰富的前端开发工程师，请为我实现一个完整的排序算法动态演示网页。 
 具体要求： 
@@ -368,10 +370,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 支持暗色/亮色模式切换，提升不同使用场景下的视觉体验
 ```
 
-7. 网页生成与优化
-8. 
+2. 网页生成与优化
 豆包首次生成的网页页面如下：
-![输入图片说明](/imgs/2026-01-19/qivYDS6XnX1LybWv.png)
+![输入图片说明](/imgs/2026-01-19/cFbDSj0cIEbWb1fM.png)
 
 测试三种排序算法的演示过程，发现以下两点问题：
 (1). 在排序过程中可视化展示区域的数据条颜色始终都是蓝色，而我们希望将正在比较的数据进行突出显示，以便更直接地理解排序过程。
@@ -403,11 +404,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjE3MzQxMCwtODEzMzY0NDY1LDIwNT
-UzNTA3ODAsMTQzMTQ2OTE0OSwtMTk4NDg0NTQxMywtNjIzODIw
-NDEsLTU2NzkzMDM5OCwtMTgyMjYzNzcxLC04ODAyMTk0MTMsMT
-k5MTY3MzQ0MywtMTg4OTAzNTQ4MSwtMTQ3OTkyMDM4Niw5ODY1
-Mjg3NjYsLTIwMjIyOTQ0NTAsMjEyNjk0Nzc4MywtMTQwNzU4MT
-g1MCwtMTIwMDQwNzc4NCwyMDYxNTk0MzY0LDUwOTQzNTUyMCw0
-OTM4Mzc5MTddfQ==
+eyJoaXN0b3J5IjpbLTE1NTE5OTgxOTksMTQ4MjE3MzQxMCwtOD
+EzMzY0NDY1LDIwNTUzNTA3ODAsMTQzMTQ2OTE0OSwtMTk4NDg0
+NTQxMywtNjIzODIwNDEsLTU2NzkzMDM5OCwtMTgyMjYzNzcxLC
+04ODAyMTk0MTMsMTk5MTY3MzQ0MywtMTg4OTAzNTQ4MSwtMTQ3
+OTkyMDM4Niw5ODY1Mjg3NjYsLTIwMjIyOTQ0NTAsMjEyNjk0Nz
+c4MywtMTQwNzU4MTg1MCwtMTIwMDQwNzc4NCwyMDYxNTk0MzY0
+LDUwOTQzNTUyMF19
 -->
