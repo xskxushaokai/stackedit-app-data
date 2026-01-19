@@ -357,9 +357,15 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 支持键盘快捷键操作（如空格开始/暂停，R键重置） 
 - 桶排序在演示时，需要展示每个数据放入桶的过程； 
 
-5. 代码要求： - 提供完整并可直接运行的代码，按文件区分（index.html, style.css, script.js等） - 结构清晰，包含必要注释，函数和变量命名语义化，便于维护和扩展 
+5. 代码要求： 
+- 提供完整并可直接运行的代码，按文件区分（index.html, style.css, script.js等） 
+- 结构清晰，包含必要注释，函数和变量命名语义化，便于维护和扩展 
 
-6. 界面与体验： - 采用响应式设计，适配PC端、平板等不同尺寸设备，可视化区域随屏幕尺寸自适应调整 - 界面风格简洁明了，色彩搭配友好，柱状图对比明显，交互反馈及时（如按钮点击状态、排序过程动画流畅） - 操作流程简单易懂，初次使用有简要的操作提示，算法执行过程无卡顿 - 支持暗色/亮色模式切换，提升不同使用场景下的视觉体验
+6. 界面与体验： 
+- 采用响应式设计，适配PC端、平板等不同尺寸设备，可视化区域随屏幕尺寸自适应调整 
+- 界面风格简洁明了，色彩搭配友好，柱状图对比明显，交互反馈及时（如按钮点击状态、排序过程动画流畅） 
+- 操作流程简单易懂，初次使用有简要的操作提示，算法执行过程无卡顿 
+- 支持暗色/亮色模式切换，提升不同使用场景下的视觉体验
 ```
 
 7. 网页生成与优化
@@ -397,11 +403,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNzIzMjM0LC04MTMzNjQ0NjUsMjA1NT
-M1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1NDEzLC02MjM4MjA0
-MSwtNTY3OTMwMzk4LC0xODIyNjM3NzEsLTg4MDIxOTQxMywxOT
-kxNjczNDQzLC0xODg5MDM1NDgxLC0xNDc5OTIwMzg2LDk4NjUy
-ODc2NiwtMjAyMjI5NDQ1MCwyMTI2OTQ3NzgzLC0xNDA3NTgxOD
-UwLC0xMjAwNDA3Nzg0LDIwNjE1OTQzNjQsNTA5NDM1NTIwLDQ5
-MzgzNzkxN119
+eyJoaXN0b3J5IjpbMTQ4MjE3MzQxMCwtODEzMzY0NDY1LDIwNT
+UzNTA3ODAsMTQzMTQ2OTE0OSwtMTk4NDg0NTQxMywtNjIzODIw
+NDEsLTU2NzkzMDM5OCwtMTgyMjYzNzcxLC04ODAyMTk0MTMsMT
+k5MTY3MzQ0MywtMTg4OTAzNTQ4MSwtMTQ3OTkyMDM4Niw5ODY1
+Mjg3NjYsLTIwMjIyOTQ0NTAsMjEyNjk0Nzc4MywtMTQwNzU4MT
+g1MCwtMTIwMDQwNzc4NCwyMDYxNTk0MzY0LDUwOTQzNTUyMCw0
+OTM4Mzc5MTddfQ==
 -->
