@@ -353,7 +353,6 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 排序完成后，给出排序耗时（模拟）和数组有序的提示，并高亮所有已排序完成的元素 
 - 算法信息区实时同步显示当前选中算法的相关知识点，帮助用户理解算法特性 
 - 支持键盘快捷键操作（如空格开始/暂停，R键重置） 
-- 桶排序在演示时，需要展示每个数据放入桶的过程； 
 
 5. 代码要求： 
 - 提供完整并可直接运行的代码，按文件区分（index.html, style.css, script.js等） 
@@ -450,7 +449,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMzA3NzI3LDk3Mjg5MjcwOSwxNjkyNz
+eyJoaXN0b3J5IjpbNjA1NzcyNTE0LDk3Mjg5MjcwOSwxNjkyNz
 g2Mjc4LDE0ODIxNzM0MTAsLTgxMzM2NDQ2NSwyMDU1MzUwNzgw
 LDE0MzE0NjkxNDksLTE5ODQ4NDU0MTMsLTYyMzgyMDQxLC01Nj
 c5MzAzOTgsLTE4MjI2Mzc3MSwtODgwMjE5NDEzLDE5OTE2NzM0
