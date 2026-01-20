@@ -459,8 +459,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 首先对四种植树模式的演示功能进行测试，经测试发现功能均已正确实现。
 接下来进行外观的迭代优化：
 	1. 演示系统的重点为可视化演示区域，而V1版本可视化演示区中树的布局示意图过小且拥挤，需要优化；
-	2. 三个布局模块没有对齐，美观度太差；
-	3. 
+	2. “参数控制”、“可视化演示”、“公式总结”三个窗口模块的布局没有对齐，美观度太差。
+以上两点外观问题，继续让豆包进行优化
 
 
 
@@ -483,7 +483,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5MTA5NzM3LC0xNzY5ODMwNzE1LDEzMj
+eyJoaXN0b3J5IjpbNDMwMzU4NzM4LC0xNzY5ODMwNzE1LDEzMj
 Y1ODM4OTcsLTE5OTkzOTQ2MzEsLTEzMDQyNDQ0MjAsLTIxODE2
 OTA4MiwtMTg3MTAxMjcyMSwtMTU1MDcxNjI4Myw3Mzg5NjIyNz
 YsOTcyODkyNzA5LDE2OTI3ODYyNzgsMTQ4MjE3MzQxMCwtODEz
