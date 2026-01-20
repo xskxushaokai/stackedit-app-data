@@ -340,7 +340,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 主页面：包含算法选择区、参数设置区、可视化展示区、控制操作区、算法信息说明区 
 - 算法选择区：提供选择排序、冒泡排序、桶排序的单选按钮或下拉菜单供用户选择 
 - 参数设置区：可设置待排序数组的长度（范围5-20）、数值范围（1-50），支持随机生成数组或手动输入数组 
-- 控制操作区：包含开始排序、暂停排序、重置数组、调整排序速度（快慢档）、切换自动/分步模式、下一步的按钮 
+- 控制操作区：包含开始排序、暂停排序、重置数组、调整排序速度（快慢档）
 - 可视化展示区：以柱状图形式展示数组元素，每个柱子高度对应数值大小，排序过程中实时高亮显示当前正在比较/交换的元素 
 - 算法信息说明区：展示当前选中算法的原理、时间复杂度、空间复杂度等基础信息 
 
@@ -451,11 +451,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDg4NDU0OSw5NzI4OTI3MDksMTY5Mj
-c4NjI3OCwxNDgyMTczNDEwLC04MTMzNjQ0NjUsMjA1NTM1MDc4
-MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1NDEzLC02MjM4MjA0MSwtNT
-Y3OTMwMzk4LC0xODIyNjM3NzEsLTg4MDIxOTQxMywxOTkxNjcz
-NDQzLC0xODg5MDM1NDgxLC0xNDc5OTIwMzg2LDk4NjUyODc2Ni
-wtMjAyMjI5NDQ1MCwyMTI2OTQ3NzgzLC0xNDA3NTgxODUwLC0x
-MjAwNDA3Nzg0XX0=
+eyJoaXN0b3J5IjpbNDIwODI2NDYxLDk3Mjg5MjcwOSwxNjkyNz
+g2Mjc4LDE0ODIxNzM0MTAsLTgxMzM2NDQ2NSwyMDU1MzUwNzgw
+LDE0MzE0NjkxNDksLTE5ODQ4NDU0MTMsLTYyMzgyMDQxLC01Nj
+c5MzAzOTgsLTE4MjI2Mzc3MSwtODgwMjE5NDEzLDE5OTE2NzM0
+NDMsLTE4ODkwMzU0ODEsLTE0Nzk5MjAzODYsOTg2NTI4NzY2LC
+0yMDIyMjk0NDUwLDIxMjY5NDc3ODMsLTE0MDc1ODE4NTAsLTEy
+MDA0MDc3ODRdfQ==
 -->
