@@ -433,7 +433,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 
-## 六. 案例5 解题助手-xiao
+## 六. 案例5 解题助手-植树问题（人教版五年级上）
 
 
 
@@ -455,11 +455,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0OTY1NTk2LC0yMTgxNjkwODIsLTE4Nz
-EwMTI3MjEsLTE1NTA3MTYyODMsNzM4OTYyMjc2LDk3Mjg5Mjcw
-OSwxNjkyNzg2Mjc4LDE0ODIxNzM0MTAsLTgxMzM2NDQ2NSwyMD
-U1MzUwNzgwLDE0MzE0NjkxNDksLTE5ODQ4NDU0MTMsLTYyMzgy
-MDQxLC01Njc5MzAzOTgsLTE4MjI2Mzc3MSwtODgwMjE5NDEzLD
-E5OTE2NzM0NDMsLTE4ODkwMzU0ODEsLTE0Nzk5MjAzODYsOTg2
-NTI4NzY2XX0=
+eyJoaXN0b3J5IjpbLTEzMDQyNDQ0MjAsLTIxODE2OTA4MiwtMT
+g3MTAxMjcyMSwtMTU1MDcxNjI4Myw3Mzg5NjIyNzYsOTcyODky
+NzA5LDE2OTI3ODYyNzgsMTQ4MjE3MzQxMCwtODEzMzY0NDY1LD
+IwNTUzNTA3ODAsMTQzMTQ2OTE0OSwtMTk4NDg0NTQxMywtNjIz
+ODIwNDEsLTU2NzkzMDM5OCwtMTgyMjYzNzcxLC04ODAyMTk0MT
+MsMTk5MTY3MzQ0MywtMTg4OTAzNTQ4MSwtMTQ3OTkyMDM4Niw5
+ODY1Mjg3NjZdfQ==
 -->
