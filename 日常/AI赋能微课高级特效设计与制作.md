@@ -346,8 +346,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 4. 功能要求： 
 - 支持用户选择三种排序算法中的任意一种进行演示 
-- 支持用户切换自动模式或分步模式 
-- 可自定义数组长度和数值范围，或手动输入特定数组，点击生成按钮后在可视化区域渲染对应柱状图 
+- 可自定义数组长度和数值范围，或手动输入特定数组，点击生成按钮后在可视化区域渲染对应柱状图
 - 点击开始排序按钮后，动态展示算法执行过程，包括元素的比较、交换步骤，不同状态的元素用不同颜色区分（如待排序、当前比较、已排序） 
 - 支持暂停排序，暂停后可继续执行；点击重置按钮可清空当前数组并重新生成或输入 
 - 可调节排序演示的速度，分为慢速、中速、快速三档，适配不同学习节奏 
@@ -451,7 +450,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwODI2NDYxLDk3Mjg5MjcwOSwxNjkyNz
+eyJoaXN0b3J5IjpbNzYxMzA3NzI3LDk3Mjg5MjcwOSwxNjkyNz
 g2Mjc4LDE0ODIxNzM0MTAsLTgxMzM2NDQ2NSwyMDU1MzUwNzgw
 LDE0MzE0NjkxNDksLTE5ODQ4NDU0MTMsLTYyMzgyMDQxLC01Nj
 c5MzAzOTgsLTE4MjI2Mzc3MSwtODgwMjE5NDEzLDE5OTE2NzM0
