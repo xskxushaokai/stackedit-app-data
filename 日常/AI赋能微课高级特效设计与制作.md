@@ -463,7 +463,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 以上两点外观问题，可以通过预览窗口最上方的“编辑”功能让豆包进行优化。
 点击“编辑”，选中树的布局区域，输入以下提示词：
 ```
-
+树的布局示意图过小且拥挤，优化显示
 ```
 
 ![输入图片说明](/imgs/2026-01-20/cg2KMY3kmRswEFqi.png)
@@ -488,7 +488,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTg2MjEwNyw0MzAzNTg3MzgsLTE3Nj
+eyJoaXN0b3J5IjpbMTIwNTc1MzA0OSw0MzAzNTg3MzgsLTE3Nj
 k4MzA3MTUsMTMyNjU4Mzg5NywtMTk5OTM5NDYzMSwtMTMwNDI0
 NDQyMCwtMjE4MTY5MDgyLC0xODcxMDEyNzIxLC0xNTUwNzE2Mj
 gzLDczODk2MjI3Niw5NzI4OTI3MDksMTY5Mjc4NjI3OCwxNDgy
