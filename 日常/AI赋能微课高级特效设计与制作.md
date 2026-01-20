@@ -463,11 +463,13 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 放大“植树可视化”区域
 ```
-
 ![输入图片说明](/imgs/2026-01-20/vEC6VsQrjcDi2Pi9.png)
 
 豆包针对选定区域优化后：
 ![输入图片说明](/imgs/2026-01-20/EUekCGmZBjqNOHTn.png)
+
+```
+
 
 
 
@@ -487,11 +489,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDAzMzYxOSwzODc0OTg5MTksMTkwND
-k4NDg2NCw0MzAzNTg3MzgsLTE3Njk4MzA3MTUsMTMyNjU4Mzg5
-NywtMTk5OTM5NDYzMSwtMTMwNDI0NDQyMCwtMjE4MTY5MDgyLC
-0xODcxMDEyNzIxLC0xNTUwNzE2MjgzLDczODk2MjI3Niw5NzI4
-OTI3MDksMTY5Mjc4NjI3OCwxNDgyMTczNDEwLC04MTMzNjQ0Nj
-UsMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1NDEzLC02
-MjM4MjA0MV19
+eyJoaXN0b3J5IjpbNjA5MzIwOTk1LDE2ODQwMzM2MTksMzg3ND
+k4OTE5LDE5MDQ5ODQ4NjQsNDMwMzU4NzM4LC0xNzY5ODMwNzE1
+LDEzMjY1ODM4OTcsLTE5OTkzOTQ2MzEsLTEzMDQyNDQ0MjAsLT
+IxODE2OTA4MiwtMTg3MTAxMjcyMSwtMTU1MDcxNjI4Myw3Mzg5
+NjIyNzYsOTcyODkyNzA5LDE2OTI3ODYyNzgsMTQ4MjE3MzQxMC
+wtODEzMzY0NDY1LDIwNTUzNTA3ODAsMTQzMTQ2OTE0OSwtMTk4
+NDg0NTQxM119
 -->
