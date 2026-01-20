@@ -462,6 +462,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 点击“编辑”，选中树的布局区域，输入以下提示词：
 ```
 树的布局示意图过小且拥挤，优化显示
+将树的布局示意图充满整个“可视化演示窗口”，让布局更合理
 ```
 
 ![输入图片说明](/imgs/2026-01-20/cg2KMY3kmRswEFqi.png)
@@ -486,11 +487,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDk4NDg2NCw0MzAzNTg3MzgsLTE3Nj
-k4MzA3MTUsMTMyNjU4Mzg5NywtMTk5OTM5NDYzMSwtMTMwNDI0
-NDQyMCwtMjE4MTY5MDgyLC0xODcxMDEyNzIxLC0xNTUwNzE2Mj
-gzLDczODk2MjI3Niw5NzI4OTI3MDksMTY5Mjc4NjI3OCwxNDgy
-MTczNDEwLC04MTMzNjQ0NjUsMjA1NTM1MDc4MCwxNDMxNDY5MT
-Q5LC0xOTg0ODQ1NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC0x
-ODIyNjM3NzFdfQ==
+eyJoaXN0b3J5IjpbMzg3NDk4OTE5LDE5MDQ5ODQ4NjQsNDMwMz
+U4NzM4LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLTE5OTkzOTQ2
+MzEsLTEzMDQyNDQ0MjAsLTIxODE2OTA4MiwtMTg3MTAxMjcyMS
+wtMTU1MDcxNjI4Myw3Mzg5NjIyNzYsOTcyODkyNzA5LDE2OTI3
+ODYyNzgsMTQ4MjE3MzQxMCwtODEzMzY0NDY1LDIwNTUzNTA3OD
+AsMTQzMTQ2OTE0OSwtMTk4NDg0NTQxMywtNjIzODIwNDEsLTU2
+NzkzMDM5OF19
 -->
