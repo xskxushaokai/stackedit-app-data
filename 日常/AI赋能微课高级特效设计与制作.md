@@ -365,6 +365,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 支持暗色/亮色模式切换，提升不同使用场景下的视觉体验
 ```
 
+指令优化后的提示词所描述的演示过程已经基本满足教学要求，用户可以根据需要
+
 
 人工修改后的提示词：
 ```
@@ -449,11 +451,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NzcyNTE0LDk3Mjg5MjcwOSwxNjkyNz
-g2Mjc4LDE0ODIxNzM0MTAsLTgxMzM2NDQ2NSwyMDU1MzUwNzgw
-LDE0MzE0NjkxNDksLTE5ODQ4NDU0MTMsLTYyMzgyMDQxLC01Nj
-c5MzAzOTgsLTE4MjI2Mzc3MSwtODgwMjE5NDEzLDE5OTE2NzM0
-NDMsLTE4ODkwMzU0ODEsLTE0Nzk5MjAzODYsOTg2NTI4NzY2LC
-0yMDIyMjk0NDUwLDIxMjY5NDc3ODMsLTE0MDc1ODE4NTAsLTEy
-MDA0MDc3ODRdfQ==
+eyJoaXN0b3J5IjpbMTAzOTU2NTA1NSw5NzI4OTI3MDksMTY5Mj
+c4NjI3OCwxNDgyMTczNDEwLC04MTMzNjQ0NjUsMjA1NTM1MDc4
+MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1NDEzLC02MjM4MjA0MSwtNT
+Y3OTMwMzk4LC0xODIyNjM3NzEsLTg4MDIxOTQxMywxOTkxNjcz
+NDQzLC0xODg5MDM1NDgxLC0xNDc5OTIwMzg2LDk4NjUyODc2Ni
+wtMjAyMjI5NDQ1MCwyMTI2OTQ3NzgzLC0xNDA3NTgxODUwLC0x
+MjAwNDA3Nzg0XX0=
 -->
