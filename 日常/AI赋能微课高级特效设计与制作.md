@@ -475,7 +475,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-20/wourOFBOGL6Q1dxe.png)
 
 豆包针对四种模式公式总结容器优化后：
+![输入图片说明](/imgs/2026-01-20/HCGBxgJYzdWkn4JS.png)
 
+此时
 
 最终，经过多次迭代优化后：
 ![输入图片说明](/imgs/2026-01-20/cuzh7m3miFPfCoyU.png)
@@ -500,11 +502,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NTk0NjgsMjExMDA0OTUyOCwxNzg3MD
-c3ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5ODQ4NjQs
-NDMwMzU4NzM4LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLTE5OT
-kzOTQ2MzEsLTEzMDQyNDQ0MjAsLTIxODE2OTA4MiwtMTg3MTAx
-MjcyMSwtMTU1MDcxNjI4Myw3Mzg5NjIyNzYsOTcyODkyNzA5LD
-E2OTI3ODYyNzgsMTQ4MjE3MzQxMCwtODEzMzY0NDY1LDIwNTUz
-NTA3ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0MTczNTUxODUsMjExMDA0OTUyOCwxNz
+g3MDc3ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5ODQ4
+NjQsNDMwMzU4NzM4LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLT
+E5OTkzOTQ2MzEsLTEzMDQyNDQ0MjAsLTIxODE2OTA4MiwtMTg3
+MTAxMjcyMSwtMTU1MDcxNjI4Myw3Mzg5NjIyNzYsOTcyODkyNz
+A5LDE2OTI3ODYyNzgsMTQ4MjE3MzQxMCwtODEzMzY0NDY1LDIw
+NTUzNTA3ODBdfQ==
 -->
