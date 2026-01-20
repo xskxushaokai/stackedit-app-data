@@ -465,7 +465,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 ![输入图片说明](/imgs/2026-01-20/vEC6VsQrjcDi2Pi9.png)
 
-豆包针对选定区域优化后：
+豆包针对植树可视化容器优化后：
 ![输入图片说明](/imgs/2026-01-20/EUekCGmZBjqNOHTn.png)
 
 点击“编辑”，选中四种模式公式总结容器，输入以下提示词：
@@ -474,7 +474,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 ![输入图片说明](/imgs/2026-01-20/wourOFBOGL6Q1dxe.png)
 
-豆包针对选定区域优化后：
+豆包针对四种模式公式总结容器优化后：
 
 
 
@@ -495,7 +495,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjg5MjY3NiwxNzg3MDc3ODYzLDE2OD
+eyJoaXN0b3J5IjpbMjExMDA0OTUyOCwxNzg3MDc3ODYzLDE2OD
 QwMzM2MTksMzg3NDk4OTE5LDE5MDQ5ODQ4NjQsNDMwMzU4NzM4
 LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLTE5OTkzOTQ2MzEsLT
 EzMDQyNDQ0MjAsLTIxODE2OTA4MiwtMTg3MTAxMjcyMSwtMTU1
