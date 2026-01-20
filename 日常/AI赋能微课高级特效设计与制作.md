@@ -437,7 +437,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 植树问题是人教版五年级上数学中的重要知识。植树问题的基础模型有：两端栽树、一端栽树、两端不栽、环形植树等。通过植树问题，学生可以掌握**数形结合**、**模型化**等数学思想。借助AI开发“植树问题演示系统”，可以让学生通过对比不同的植树模型迅速理解其之间的区别。以下展示借助AI开发“植树问题演示系统”的过程。
 
 1. 网页需求整理
-很多情况下，对于页面设计经验较少的教师，往往难以凭空产生网页的布局构思，此时可以尝试先将网页要实现的功能进行简单整理，并向豆包
+很多情况下，对于页面设计经验较少的教师，往往难以凭空产生网页的布局构思，此时可以尝试先将网页要实现的功能进行简单整理，并让豆包依据基本要求完成交互网页的设计。教师可在豆包初步设计的网页上进行二次加工优化，最终达到布局美观合理、功能完善的
 
 ```
 请创建一个“植树问题演示系统”交互教学网页，要求： 
@@ -473,11 +473,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NTI5ODMxLC0xNzY5ODMwNzE1LDEzMj
-Y1ODM4OTcsLTE5OTkzOTQ2MzEsLTEzMDQyNDQ0MjAsLTIxODE2
-OTA4MiwtMTg3MTAxMjcyMSwtMTU1MDcxNjI4Myw3Mzg5NjIyNz
-YsOTcyODkyNzA5LDE2OTI3ODYyNzgsMTQ4MjE3MzQxMCwtODEz
-MzY0NDY1LDIwNTUzNTA3ODAsMTQzMTQ2OTE0OSwtMTk4NDg0NT
-QxMywtNjIzODIwNDEsLTU2NzkzMDM5OCwtMTgyMjYzNzcxLC04
-ODAyMTk0MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDY5ODQ4MDUsLTE3Njk4MzA3MTUsMT
+MyNjU4Mzg5NywtMTk5OTM5NDYzMSwtMTMwNDI0NDQyMCwtMjE4
+MTY5MDgyLC0xODcxMDEyNzIxLC0xNTUwNzE2MjgzLDczODk2Mj
+I3Niw5NzI4OTI3MDksMTY5Mjc4NjI3OCwxNDgyMTczNDEwLC04
+MTMzNjQ0NjUsMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0OD
+Q1NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC0xODIyNjM3NzEs
+LTg4MDIxOTQxM119
 -->
