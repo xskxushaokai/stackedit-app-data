@@ -460,7 +460,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 接下来进行外观的迭代优化，当前外观主要存在两点问题：1. 演示系统的重点为可视化演示区域，而V1版本可视化演示区中树的布局示意图显示过小，需要优化；2. 各容器排列不够美观，对齐程度较差。
 以上两点外观问题，可以通过预览窗口最上方的“编辑”功能让豆包进行优化。
 
-> 整个网页的页面被分为多块白色的子区域，这些子区域在网页代码中被叫做“容器”。
+> 整个网页的页面被分为多块白色的子区域，这些子区域在网页设计中被叫做“容器”。
 
 点击“编辑”，选中植树可视化容器，输入以下提示词：
 ```
@@ -505,7 +505,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzUxMDY4NywtMTAwMTc5ODA5MiwyMT
+eyJoaXN0b3J5IjpbLTc4NTM5MDg4NiwtMTAwMTc5ODA5MiwyMT
 EwMDQ5NTI4LDE3ODcwNzc4NjMsMTY4NDAzMzYxOSwzODc0OTg5
 MTksMTkwNDk4NDg2NCw0MzAzNTg3MzgsLTE3Njk4MzA3MTUsMT
 MyNjU4Mzg5NywtMTk5OTM5NDYzMSwtMTMwNDI0NDQyMCwtMjE4
