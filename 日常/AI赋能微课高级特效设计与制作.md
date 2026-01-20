@@ -452,7 +452,12 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 7. 设计：绿色主题、卡片式、响应式
 ```
 
-豆包首次
+豆包首次设计的网页：
+![输入图片说明](/imgs/2026-01-20/9G1342fLA9BTD5UQ.png)
+
+2. 功能测试和迭代优化
+首先对四种植树模式的演示功能进行测试，经测试发现功能均已正确实现。
+接下来jin'xing
 
 
 
@@ -475,11 +480,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTczNTI1OCwtMTc2OTgzMDcxNSwxMz
-I2NTgzODk3LC0xOTk5Mzk0NjMxLC0xMzA0MjQ0NDIwLC0yMTgx
-NjkwODIsLTE4NzEwMTI3MjEsLTE1NTA3MTYyODMsNzM4OTYyMj
-c2LDk3Mjg5MjcwOSwxNjkyNzg2Mjc4LDE0ODIxNzM0MTAsLTgx
-MzM2NDQ2NSwyMDU1MzUwNzgwLDE0MzE0NjkxNDksLTE5ODQ4ND
-U0MTMsLTYyMzgyMDQxLC01Njc5MzAzOTgsLTE4MjI2Mzc3MSwt
-ODgwMjE5NDEzXX0=
+eyJoaXN0b3J5IjpbLTE4OTQ2MzU0NjcsLTE3Njk4MzA3MTUsMT
+MyNjU4Mzg5NywtMTk5OTM5NDYzMSwtMTMwNDI0NDQyMCwtMjE4
+MTY5MDgyLC0xODcxMDEyNzIxLC0xNTUwNzE2MjgzLDczODk2Mj
+I3Niw5NzI4OTI3MDksMTY5Mjc4NjI3OCwxNDgyMTczNDEwLC04
+MTMzNjQ0NjUsMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0OD
+Q1NDEzLC02MjM4MjA0MSwtNTY3OTMwMzk4LC0xODIyNjM3NzEs
+LTg4MDIxOTQxM119
 -->
