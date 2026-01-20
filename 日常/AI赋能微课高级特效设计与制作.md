@@ -453,7 +453,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 
 豆包设计的V1版本网页：
-![输入图片说明](/imgs/2026-01-20/9G1342fLA9BTD5UQ.png)
+![输入图片说明](/imgs/2026-01-20/Bid7Tj1hhqZCKFUJ.png)
 
 2. 功能测试和迭代优化
 首先对四种植树模式的演示功能进行测试，经测试发现功能均已正确实现。
@@ -487,11 +487,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NDk4OTE5LDE5MDQ5ODQ4NjQsNDMwMz
-U4NzM4LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLTE5OTkzOTQ2
-MzEsLTEzMDQyNDQ0MjAsLTIxODE2OTA4MiwtMTg3MTAxMjcyMS
-wtMTU1MDcxNjI4Myw3Mzg5NjIyNzYsOTcyODkyNzA5LDE2OTI3
-ODYyNzgsMTQ4MjE3MzQxMCwtODEzMzY0NDY1LDIwNTUzNTA3OD
-AsMTQzMTQ2OTE0OSwtMTk4NDg0NTQxMywtNjIzODIwNDEsLTU2
-NzkzMDM5OF19
+eyJoaXN0b3J5IjpbMTQ2MjE3OTcxNywzODc0OTg5MTksMTkwND
+k4NDg2NCw0MzAzNTg3MzgsLTE3Njk4MzA3MTUsMTMyNjU4Mzg5
+NywtMTk5OTM5NDYzMSwtMTMwNDI0NDQyMCwtMjE4MTY5MDgyLC
+0xODcxMDEyNzIxLC0xNTUwNzE2MjgzLDczODk2MjI3Niw5NzI4
+OTI3MDksMTY5Mjc4NjI3OCwxNDgyMTczNDEwLC04MTMzNjQ0Nj
+UsMjA1NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1NDEzLC02
+MjM4MjA0MV19
 -->
