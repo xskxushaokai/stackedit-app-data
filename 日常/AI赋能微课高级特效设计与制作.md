@@ -439,14 +439,10 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 1. 网页需求整理
 除了通过详细的提示词描述网页功能和外观外，我们还可以使用画板功能来初步设计
 ```
-请创建一个“植树问题演示系统”交互教学网页，要求：
+请创建一个“植树问题演示系统”交互教学网页，要求： 
 
-3. 四种模式：两端都种、只种一端、两端都不种、环形
-4. 可调参数：总长(10-200米)、间隔(5-50米)
-5. 实时可视化：线性/环形布局、树图标、间隔标注
-6. 显示数据：间隔数、棵数、当前模式
-7. 公式推导：显示计算过程
-8. 设计：绿色主题、卡片式、响应式
+2. 四种模式：两端都种、只种一端、两端都不种、环形 
+3. 2. 可调参数：总长(10-200米)、间隔(5-50米) 3. 实时可视化：线性/环形布局、树图标、间隔标注 4. 显示结果：间隔数、棵数、当前模式 5. 显示计算过程 6. 显示四种模式的公式总结 7. 设计：绿色主题、卡片式、响应式
 ```
 
 
@@ -471,11 +467,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4MzA3MTUsMTMyNjU4Mzg5NywtMT
-k5OTM5NDYzMSwtMTMwNDI0NDQyMCwtMjE4MTY5MDgyLC0xODcx
-MDEyNzIxLC0xNTUwNzE2MjgzLDczODk2MjI3Niw5NzI4OTI3MD
-ksMTY5Mjc4NjI3OCwxNDgyMTczNDEwLC04MTMzNjQ0NjUsMjA1
-NTM1MDc4MCwxNDMxNDY5MTQ5LC0xOTg0ODQ1NDEzLC02MjM4Mj
-A0MSwtNTY3OTMwMzk4LC0xODIyNjM3NzEsLTg4MDIxOTQxMywx
-OTkxNjczNDQzXX0=
+eyJoaXN0b3J5IjpbMTc3NjUzMTE0MSwtMTc2OTgzMDcxNSwxMz
+I2NTgzODk3LC0xOTk5Mzk0NjMxLC0xMzA0MjQ0NDIwLC0yMTgx
+NjkwODIsLTE4NzEwMTI3MjEsLTE1NTA3MTYyODMsNzM4OTYyMj
+c2LDk3Mjg5MjcwOSwxNjkyNzg2Mjc4LDE0ODIxNzM0MTAsLTgx
+MzM2NDQ2NSwyMDU1MzUwNzgwLDE0MzE0NjkxNDksLTE5ODQ4ND
+U0MTMsLTYyMzgyMDQxLC01Njc5MzAzOTgsLTE4MjI2Mzc3MSwt
+ODgwMjE5NDEzXX0=
 -->
