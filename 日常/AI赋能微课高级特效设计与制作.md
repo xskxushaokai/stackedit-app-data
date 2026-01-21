@@ -489,7 +489,10 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 > 提示：在与豆包进行多轮对话迭代修改的过程中，如果对于某次修改不满意，可通过预览窗口左上角的版本号下拉框回退到之前任一版本，从而无需担心某次效果较好的版本无法找回。（但回退版本也要谨慎决定，因为一旦回退，就无法再次回到最新的版本）
 
 
-## 七. 案例6 xue'ke仿真实验
+## 七. 案例6 学科仿真实验
+
+
+## ba
 
 
 # 附：其他可选案例
@@ -508,7 +511,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDU1OTY4NSwtMTk3OTE2MzE2LC03OD
+eyJoaXN0b3J5IjpbMTkyNTU0ODY3MCwtMTk3OTE2MzE2LC03OD
 UzOTA4ODYsLTEwMDE3OTgwOTIsMjExMDA0OTUyOCwxNzg3MDc3
 ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5ODQ4NjQsND
 MwMzU4NzM4LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLTE5OTkz
