@@ -492,7 +492,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ## 七. 案例6 学科仿真实验
 
 
-## ba
+## 八. 案例7 
 
 
 # 附：其他可选案例
@@ -511,11 +511,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTU0ODY3MCwtMTk3OTE2MzE2LC03OD
-UzOTA4ODYsLTEwMDE3OTgwOTIsMjExMDA0OTUyOCwxNzg3MDc3
-ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5ODQ4NjQsND
-MwMzU4NzM4LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLTE5OTkz
-OTQ2MzEsLTEzMDQyNDQ0MjAsLTIxODE2OTA4MiwtMTg3MTAxMj
-cyMSwtMTU1MDcxNjI4Myw3Mzg5NjIyNzYsOTcyODkyNzA5LDE2
-OTI3ODYyNzhdfQ==
+eyJoaXN0b3J5IjpbNDg1ODAzNzIsLTE5NzkxNjMxNiwtNzg1Mz
+kwODg2LC0xMDAxNzk4MDkyLDIxMTAwNDk1MjgsMTc4NzA3Nzg2
+MywxNjg0MDMzNjE5LDM4NzQ5ODkxOSwxOTA0OTg0ODY0LDQzMD
+M1ODczOCwtMTc2OTgzMDcxNSwxMzI2NTgzODk3LC0xOTk5Mzk0
+NjMxLC0xMzA0MjQ0NDIwLC0yMTgxNjkwODIsLTE4NzEwMTI3Mj
+EsLTE1NTA3MTYyODMsNzM4OTYyMjc2LDk3Mjg5MjcwOSwxNjky
+Nzg2Mjc4XX0=
 -->
