@@ -490,7 +490,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 
 ## 七. 案例6 学科仿真实验
-yuan'zhu
+圆柱体表面积
+平移旋转对称
 
 
 ## 八. 案例7 课堂测试
@@ -514,7 +515,7 @@ yuan'zhu
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODg5MzI1NSwtODg3MDQ5NjgwLC00MD
+eyJoaXN0b3J5IjpbMTQ2OTcxOTEyMSwtODg3MDQ5NjgwLC00MD
 IwNjgyNjgsLTE5NzkxNjMxNiwtNzg1MzkwODg2LC0xMDAxNzk4
 MDkyLDIxMTAwNDk1MjgsMTc4NzA3Nzg2MywxNjg0MDMzNjE5LD
 M4NzQ5ODkxOSwxOTA0OTg0ODY0LDQzMDM1ODczOCwtMTc2OTgz
