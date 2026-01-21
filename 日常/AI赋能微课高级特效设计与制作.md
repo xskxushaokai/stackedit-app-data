@@ -496,6 +496,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ## 八. 案例7 课堂测试
 
 
+
+
 # 附：其他可选案例
 **案例一：语言学习交互网页**
     -   **目标**：提高学生的语言听说能力。
@@ -512,11 +514,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjA2ODI2OCwtMTk3OTE2MzE2LC03OD
-UzOTA4ODYsLTEwMDE3OTgwOTIsMjExMDA0OTUyOCwxNzg3MDc3
-ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5ODQ4NjQsND
-MwMzU4NzM4LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLTE5OTkz
-OTQ2MzEsLTEzMDQyNDQ0MjAsLTIxODE2OTA4MiwtMTg3MTAxMj
-cyMSwtMTU1MDcxNjI4Myw3Mzg5NjIyNzYsOTcyODkyNzA5LDE2
-OTI3ODYyNzhdfQ==
+eyJoaXN0b3J5IjpbLTg4NzA0OTY4MCwtNDAyMDY4MjY4LC0xOT
+c5MTYzMTYsLTc4NTM5MDg4NiwtMTAwMTc5ODA5MiwyMTEwMDQ5
+NTI4LDE3ODcwNzc4NjMsMTY4NDAzMzYxOSwzODc0OTg5MTksMT
+kwNDk4NDg2NCw0MzAzNTg3MzgsLTE3Njk4MzA3MTUsMTMyNjU4
+Mzg5NywtMTk5OTM5NDYzMSwtMTMwNDI0NDQyMCwtMjE4MTY5MD
+gyLC0xODcxMDEyNzIxLC0xNTUwNzE2MjgzLDczODk2MjI3Niw5
+NzI4OTI3MDldfQ==
 -->
