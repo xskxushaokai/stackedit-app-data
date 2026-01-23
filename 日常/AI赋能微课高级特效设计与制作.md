@@ -503,7 +503,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ## 九. 案例8 课堂游戏
 
 
-## 十. 案例9 功能更完善的课堂测试
+## 十. 案例9 功能更完善的课堂测试系统
 答案提交、后台管理、统计分析
 编程测试、代码提交、调用AI接口分析
 
@@ -524,7 +524,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjUxNjM1MSwxMTQ1NTM2OTUsMTgxMD
+eyJoaXN0b3J5IjpbLTkxOTE0OTMxNSwxMTQ1NTM2OTUsMTgxMD
 UwODQ2MiwxNDY5NzE5MTIxLC04ODcwNDk2ODAsLTQwMjA2ODI2
 OCwtMTk3OTE2MzE2LC03ODUzOTA4ODYsLTEwMDE3OTgwOTIsMj
 ExMDA0OTUyOCwxNzg3MDc3ODYzLDE2ODQwMzM2MTksMzg3NDk4
