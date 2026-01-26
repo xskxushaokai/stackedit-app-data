@@ -550,7 +550,9 @@ AI助手优化后的提示词：
 ```
 
 3. 网页制作
-在输入框左下角下拉框选择“任务执行”，输入AI优化后的提示词
+在输入框左下角下拉框选择“任务执行”，输入AI优化后的提示词，点击输入框下方“#”图标，选择“添加照片或文件”，
+
+![输入图片说明](/imgs/2026-01-26/qBKisI5Io0f2hhrf.png)
 
 
 
@@ -581,11 +583,11 @@ AI助手优化后的提示词：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNzQzNjg1LDEwMDkxMzU5MzUsMTk4Mz
-U3NzIxNywtMTY3NTkxNjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1
-MzMsLTkxOTE0OTMxNSwxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxND
-Y5NzE5MTIxLC04ODcwNDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2
-MzE2LC03ODUzOTA4ODYsLTEwMDE3OTgwOTIsMjExMDA0OTUyOC
-wxNzg3MDc3ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5
-ODQ4NjRdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQ1NjY2MzEsMTAwOTEzNTkzNSwxOT
+gzNTc3MjE3LC0xNjc1OTE2NjExLC05MzIxNjg3MDUsLTE1ODU2
+ODUzMywtOTE5MTQ5MzE1LDExNDU1MzY5NSwxODEwNTA4NDYyLD
+E0Njk3MTkxMjEsLTg4NzA0OTY4MCwtNDAyMDY4MjY4LC0xOTc5
+MTYzMTYsLTc4NTM5MDg4NiwtMTAwMTc5ODA5MiwyMTEwMDQ5NT
+I4LDE3ODcwNzc4NjMsMTY4NDAzMzYxOSwzODc0OTg5MTksMTkw
+NDk4NDg2NF19
 -->
