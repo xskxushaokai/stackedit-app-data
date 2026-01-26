@@ -581,7 +581,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 ![输入图片说明](/imgs/2026-01-26/OxCGK5PvONkMW17V.png)
 
 4. 文件整理与网页分发
-根据AI给出的使用建议，将网页依赖的所有文件拷贝到同一文件夹“课堂测试”中，共涉及三个文件：index.html，网页源代码文件，使用html语言编写，主要用来控制网页的主体结构，双击用浏览器打开可直接访问网页；script.js，网页交互逻辑代码，使用javascript语言编写，主要用来实现了网页中卡片悬浮效果、用户选择、答案提交、题目解析展示、数据统计等网页动态效果和交互功能；style.css，网页静态样式代码，使用CSS语法格式，主要用来控制网页的外观显示效果，如字体、字号、颜色、间距等外观属性。
+根据AI给出的使用建议，将网页依赖的所有文件拷贝到同一文件夹“课堂测试”中，共涉及三个文件：index.html，网页源代码文件，使用HTML语言编写，主要用来控制网页的主体结构，双击用浏览器打开可直接访问网页；script.js，网页交互逻辑代码，使用JavaScript语言编写，主要用来实现了网页中卡片悬浮效果、用户选择、答案提交、题目解析展示、数据统计等网页动态效果和交互功能；style.css，网页静态样式代码，使用CSS语法格式，主要用来控制网页的外观显示效果，如字体、字号、颜色、间距等外观属性。
 ![输入图片说明](/imgs/2026-01-26/hTJiJJkkE0c9nkfU.png)
 
 网页分发方式有两种：第一种是直接将“课堂测试”整个文件夹发给学生，学生双击打开"index.html"文件即可进行学习和课堂练习；第二种是将网页在局域网或互联网中公开部署，学生在浏览器中输入网址即可访问课堂练习。有关如何在局域网中部署网页，参见后续章节。
@@ -613,11 +613,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDczNDE5NTIsLTEyMzcxMjE0MjgsNT
-I5Njg4MDM0LDEwMDkxMzU5MzUsMTk4MzU3NzIxNywtMTY3NTkx
-NjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1MzMsLTkxOTE0OTMxNS
-wxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxNDY5NzE5MTIxLC04ODcw
-NDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2MzE2LC03ODUzOTA4OD
-YsLTEwMDE3OTgwOTIsMjExMDA0OTUyOCwxNzg3MDc3ODYzLDE2
-ODQwMzM2MTldfQ==
+eyJoaXN0b3J5IjpbLTIxMTA2MzgwMTYsLTE0NDczNDE5NTIsLT
+EyMzcxMjE0MjgsNTI5Njg4MDM0LDEwMDkxMzU5MzUsMTk4MzU3
+NzIxNywtMTY3NTkxNjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1Mz
+MsLTkxOTE0OTMxNSwxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxNDY5
+NzE5MTIxLC04ODcwNDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2Mz
+E2LC03ODUzOTA4ODYsLTEwMDE3OTgwOTIsMjExMDA0OTUyOCwx
+Nzg3MDc3ODYzXX0=
 -->
