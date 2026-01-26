@@ -510,8 +510,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 你是一名经验丰富的前端开发工程师，请为我实现一个完整的初中数学一元二次函数图像演示网页。 
 
 具体要求： 
+
 1. 项目类型： 面向初中生的一元二次函数图像交互式演示网页，用于直观展示抛物线开口大小、方向、对称轴和顶点随系数a、b、c变化的规律，辅助数学教学与学习。 
+
 2. 技术栈： 使用HTML5、CSS3和JavaScript 
+
 3. 页面结构： 
 - 顶部标题区：展示网页名称“一元二次函数图像演示” 
 - 系数调整区：包含a、b、c三个系数的滑块控件，标注系数名称及当前取值 
@@ -519,6 +522,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 函数图像绘制区：基于Canvas绘制平面直角坐标系，实时渲染抛物线、对称轴（虚线）、顶点（标注坐标）、与x轴交点（标注坐标）、与y轴交点（标注坐标） 
 - 知识点展示区：页面下方分区展示开口方向判断公式、对称轴计算公式、顶点坐标计算公式，以及一元二次函数图像关键知识点总结文本 
 - 辅助提示区：在关键区域添加简洁的操作提示和说明文字 
+
 4. 功能要求： 
 - 实现a、b、c三个系数的滑块调整功能，取值范围合理（如a：-5至5，步长0.1；b：-10至10，步长0.1；c：-10至10，步长0.1），滑块拖动时实时更新取值显示 
 - 实时计算并更新函数的一般形式和配方形式表达式，表达式中的系数保留1位小数 
@@ -528,13 +532,18 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 实时计算并标注函数图像与x轴（若有交点）、y轴的交点坐标，交点位置用圆点标记 
 - 所有数值计算和图像渲染在系数调整时无延迟实时更新 
 - 知识点展示区清晰呈现开口方向（a>0开口向上，a<0开口向下）、对称轴（x=-b/2a）、顶点坐标（(-b/2a), (4ac-b²)/4a）的计算公式，以及关键知识点总结（如顶点是最值点、a的绝对值影响开口大小等） 
+
 5. 代码要求： 
 - 提供完整并可直接运行的代码，按文件区分（index.html, style.css, script.js） 
 - 结构清晰，HTML语义化，CSS样式模块化，JavaScript代码按功能分块并添加必要注释 
 - 代码具备良好的可读性和可维护性，关键函数和变量命名规范 
+
 6. 界面与体验： 
 - 页面布局采用响应式设计，适配电脑、平板等不同尺寸设备，在小屏设备上布局合理不重叠 
-- 界面风格简洁明了，色彩搭配符合教学场景，重点内容（如函数表达式、顶点坐标）醒目易读 - 滑块操作流畅，图像和数值更新无卡顿，交互反馈及时 - 坐标系刻度清晰，标注规范，抛物线、对称轴、交点等元素区分度高 - 整体视觉体验舒适，无冗余元素，知识点展示区排版整齐易读
+- 界面风格简洁明了，色彩搭配符合教学场景，重点内容（如函数表达式、顶点坐标）醒目易读 
+- 滑块操作流畅，图像和数值更新无卡顿，交互反馈及时 
+- 坐标系刻度清晰，标注规范，抛物线、对称轴、交点等元素区分度高 
+- 整体视觉体验舒适，无冗余元素，知识点展示区排版整齐易读
 ```
 
 
@@ -657,11 +666,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk5NzMwMzUsLTI5NjA2OTczLDYzND
-M1NTI5MywtODQ1MTQ1MDk5LC0xMzE4NjExMTU3LC0yMTEwNjM4
-MDE2LC0xNDQ3MzQxOTUyLC0xMjM3MTIxNDI4LDUyOTY4ODAzNC
-wxMDA5MTM1OTM1LDE5ODM1NzcyMTcsLTE2NzU5MTY2MTEsLTkz
-MjE2ODcwNSwtMTU4NTY4NTMzLC05MTkxNDkzMTUsMTE0NTUzNj
-k1LDE4MTA1MDg0NjIsMTQ2OTcxOTEyMSwtODg3MDQ5NjgwLC00
-MDIwNjgyNjhdfQ==
+eyJoaXN0b3J5IjpbNjkxNDY2ODkxLC0yOTYwNjk3Myw2MzQzNT
+UyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjExMDYzODAx
+NiwtMTQ0NzM0MTk1MiwtMTIzNzEyMTQyOCw1Mjk2ODgwMzQsMT
+AwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2NjExLC05MzIx
+Njg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5MzE1LDExNDU1MzY5NS
+wxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4NzA0OTY4MCwtNDAy
+MDY4MjY4XX0=
 -->
