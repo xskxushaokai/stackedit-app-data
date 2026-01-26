@@ -497,15 +497,10 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 ```
 制作一个初中数学一元二次函数图像演示网页，用来观察抛物线开口大小、方向、对称轴和顶点的变化，网页实现的功能为：
-
 1. 通过滑块调整系数a, b, c；
-
 2. 平面直角坐标系中显示函数图像、对称抽和顶点的值、函数与x轴、y轴交点坐标等关键信息；
-
 3. 实时显示二次函数的一般形式y=ax^2+bx+c 和 配方形式y=a*(x+b/2a)^2+(4ac-b^2)/4a；
-
 4. 调整系数a, b, c时，函数一般形式、配方形式、图像实时更新
-
 5. 页面下方显示一元二次函数图像开口方向、对称轴和顶点计算公式，以及关键知识点总结
 ```
 
@@ -629,7 +624,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE4NzExOSw2MzQzNTUyOTMsLTg0NT
+eyJoaXN0b3J5IjpbMTc3Mzg5Mjc2Myw2MzQzNTUyOTMsLTg0NT
 E0NTA5OSwtMTMxODYxMTE1NywtMjExMDYzODAxNiwtMTQ0NzM0
 MTk1MiwtMTIzNzEyMTQyOCw1Mjk2ODgwMzQsMTAwOTEzNTkzNS
 wxOTgzNTc3MjE3LC0xNjc1OTE2NjExLC05MzIxNjg3MDUsLTE1
