@@ -498,6 +498,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 **阶跃AI桌面助手**
 阶跃AI桌面助手是由阶跃星辰(StepFun)开发的智能桌面应用，搭载自研AI模型。它具备深度思考、工具协同和自适应能力，可以帮用户完成网络搜索、文件管理、Excel操作、代码执行、浏览器自动化等多种任务。支持多语言交流，回复简洁直接，是Windows/Mac电脑上的高效智能助理。
 
+
+
 将课堂测试题以网页形式进行组织，使得作业分发更灵活，提升学生自主性，以下介绍利用阶跃AI桌面助手制作课堂测试网页的方法：
 1. 题目整理
 将课堂知识点与测试题目整理到文档中，建议使用docx、markdown等常用的文档格式。知识点分点罗列并详细阐述，也可以表格的形式进行组织。客观题目需要列出问题、选项、正确答案、答案解析等内容；主观题列出问题和参考答案。
@@ -533,7 +535,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDk1ODgzMSwxOTgzNTc3MjE3LC0xNj
+eyJoaXN0b3J5IjpbMTQ1NDMxNTc5NSwxOTgzNTc3MjE3LC0xNj
 c1OTE2NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5
 MzE1LDExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLT
 g4NzA0OTY4MCwtNDAyMDY4MjY4LC0xOTc5MTYzMTYsLTc4NTM5
