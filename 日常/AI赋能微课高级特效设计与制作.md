@@ -560,6 +560,9 @@ AI助手优化后的提示词：
 点击开始执行，等待几分钟后，AI在用户的项目目录中生成了如下四个文件：
 ![输入图片说明](/imgs/2026-01-26/gDeC1WigdgXWfxQM.png)
 
+双击"index.html"在浏览器中打开网页，网页弹出报错提示：“加载数据失败，请确保 structured_data.json 文件存在”。
+![输入图片说明](/imgs/2026-01-26/lG8oMaBHWhtBSLeA.png)
+
 
 
 ## 九. 案例8 课堂游戏
@@ -587,7 +590,7 @@ AI助手优化后的提示词：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzMxODM3OCwtMTIzNzEyMTQyOCw1Mj
+eyJoaXN0b3J5IjpbMTM1MjQ2OTkxNSwtMTIzNzEyMTQyOCw1Mj
 k2ODgwMzQsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2
 NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5MzE1LD
 ExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4NzA0
