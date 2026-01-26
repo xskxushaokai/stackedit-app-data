@@ -549,6 +549,8 @@ AI助手优化后的提示词：
 
 ```
 
+3. 网页制作
+
 
 
 
@@ -579,7 +581,7 @@ AI助手优化后的提示词：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NDI0OTIyLDEwMDkxMzU5MzUsMTk4Mz
+eyJoaXN0b3J5IjpbNjc1Njg5NTgzLDEwMDkxMzU5MzUsMTk4Mz
 U3NzIxNywtMTY3NTkxNjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1
 MzMsLTkxOTE0OTMxNSwxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxND
 Y5NzE5MTIxLC04ODcwNDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2
