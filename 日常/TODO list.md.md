@@ -568,9 +568,10 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 - [ ] deepseek Engram架构《Conditional Memory via Scalable Lookup》
 - [ ] TTS、ASR开源模型（chatterbox、funasr、paraformer(onnx、cpu)、whisper、SenseVoice）
 - [ ] 新paper、模型跟进（SAM 3D等）
-- [ ] Zed（开源，免费平替cursor，评价一般）
+
 - [ ] Infographic（蚂蚁开源可视化图表）
 - [ ] 其他优秀项目（一键克隆网站(orchilds.app)，免费API汇总(github: public-apis)）
+- [ ] Zed（开源，免费平替cursor，评价一般）
 
 - [x] AI工具分享会：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
 - [x] 人脸识别demo代码优化
@@ -621,11 +622,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk5OTM3NjQsNzA1MTYyMTc1LDE5MD
-M5NDY1NDksLTExMDA4OTM1OTgsLTE2NzU0NjEyMTEsMTA1Nzg3
-NjgzNCwtMTU0Njc4OTU0MCwtMzcyMTU4MTI0LC0xMTk4ODU5ND
-M0LDIwMzAyNTkyNjYsMTQzOTM1MzQ2MiwtMTAxNDcyNzExMiw1
-NzA5NTUxNjcsOTkwODUwMTM4LC0yMDU1OTQ3Njg1LC0xNjY5OD
-Y1MTY1LDEzMzQxODg0NjMsMTYyNDMyMjI5LDQwNjg1OTY0MCwy
-MDgzNTEzMTY4XX0=
+eyJoaXN0b3J5IjpbLTEwMTYwODg4LDcwNTE2MjE3NSwxOTAzOT
+Q2NTQ5LC0xMTAwODkzNTk4LC0xNjc1NDYxMjExLDEwNTc4NzY4
+MzQsLTE1NDY3ODk1NDAsLTM3MjE1ODEyNCwtMTE5ODg1OTQzNC
+wyMDMwMjU5MjY2LDE0MzkzNTM0NjIsLTEwMTQ3MjcxMTIsNTcw
+OTU1MTY3LDk5MDg1MDEzOCwtMjA1NTk0NzY4NSwtMTY2OTg2NT
+E2NSwxMzM0MTg4NDYzLDE2MjQzMjIyOSw0MDY4NTk2NDAsMjA4
+MzUxMzE2OF19
 -->
