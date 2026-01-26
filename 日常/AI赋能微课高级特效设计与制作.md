@@ -494,6 +494,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 平移旋转对称
 
 
+
 ```
 制作一个初中数学一元二次函数图像演示网页，用来观察抛物线开口大小、方向、对称轴和顶点的变化，网页实现的功能为：通过滑块调整 系数a, b, c，函数图像实时更新
 ```
@@ -618,11 +619,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg2MTExNTcsLTIxMTA2MzgwMTYsLT
-E0NDczNDE5NTIsLTEyMzcxMjE0MjgsNTI5Njg4MDM0LDEwMDkx
-MzU5MzUsMTk4MzU3NzIxNywtMTY3NTkxNjYxMSwtOTMyMTY4Nz
-A1LC0xNTg1Njg1MzMsLTkxOTE0OTMxNSwxMTQ1NTM2OTUsMTgx
-MDUwODQ2MiwxNDY5NzE5MTIxLC04ODcwNDk2ODAsLTQwMjA2OD
-I2OCwtMTk3OTE2MzE2LC03ODUzOTA4ODYsLTEwMDE3OTgwOTIs
-MjExMDA0OTUyOF19
+eyJoaXN0b3J5IjpbMTIyMTc2MTQzMywtMTMxODYxMTE1NywtMj
+ExMDYzODAxNiwtMTQ0NzM0MTk1MiwtMTIzNzEyMTQyOCw1Mjk2
+ODgwMzQsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2Nj
+ExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5MzE1LDEx
+NDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4NzA0OT
+Y4MCwtNDAyMDY4MjY4LC0xOTc5MTYzMTYsLTc4NTM5MDg4Niwt
+MTAwMTc5ODA5Ml19
 -->
