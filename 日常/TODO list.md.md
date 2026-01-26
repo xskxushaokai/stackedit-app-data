@@ -566,11 +566,12 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [x] AI总结
 	- [ ] 核心技术学习
 - [ ] deepseek Engram架构《Conditional Memory via Scalable Lookup》
-- [ ] TTS、ASR开源模型（chatterbox、funasr、paraformer(onnx、cpu)、whisper、SenseVoice）
+
 - [ ] 新paper、模型跟进（SAM 3D等）
 
 - [ ] Infographic（蚂蚁开源可视化图表）
 - [ ] 其他优秀项目（一键克隆网站(orchilds.app)，免费API汇总(github: public-apis)）
+- [ ] TTS、ASR开源模型（chatterbox、funasr、paraformer(onnx、cpu)、whisper、SenseVoice）
 - [ ] Zed（开源，免费平替cursor，评价一般）
 
 - [x] AI工具分享会：视频制作要点，重在思路清晰，准确描述。AI编程IDE，agent、mcp的使用
@@ -622,7 +623,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYwODg4LDcwNTE2MjE3NSwxOTAzOT
+eyJoaXN0b3J5IjpbMTQyMTY5MzM2LDcwNTE2MjE3NSwxOTAzOT
 Q2NTQ5LC0xMTAwODkzNTk4LC0xNjc1NDYxMjExLDEwNTc4NzY4
 MzQsLTE1NDY3ODk1NDAsLTM3MjE1ODEyNCwtMTE5ODg1OTQzNC
 wyMDMwMjU5MjY2LDE0MzkzNTM0NjIsLTEwMTQ3MjcxMTIsNTcw
