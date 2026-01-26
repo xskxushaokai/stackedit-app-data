@@ -563,6 +563,8 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ### 算法相关学习
 - [x] pytorch搭建GPT Transformer
 - [ ] yolo26 paper
+	- [x] AI总结
+	- [ ] 核心技术学习
 - [ ] deepseek Engram架构《Conditional Memory via Scalable Lookup》
 - [ ] TTS、ASR开源模型（chatterbox、funasr、paraformer(onnx、cpu)、whisper、SenseVoice）
 - [ ] 新paper、模型跟进（SAM 3D等）
@@ -619,11 +621,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzk0NjU0OSwtMTEwMDg5MzU5OCwtMT
-Y3NTQ2MTIxMSwxMDU3ODc2ODM0LC0xNTQ2Nzg5NTQwLC0zNzIx
-NTgxMjQsLTExOTg4NTk0MzQsMjAzMDI1OTI2NiwxNDM5MzUzND
-YyLC0xMDE0NzI3MTEyLDU3MDk1NTE2Nyw5OTA4NTAxMzgsLTIw
-NTU5NDc2ODUsLTE2Njk4NjUxNjUsMTMzNDE4ODQ2MywxNjI0Mz
-IyMjksNDA2ODU5NjQwLDIwODM1MTMxNjgsLTEyMzU4Mjk2MjAs
-LTIxMTk2Mzk5Nl19
+eyJoaXN0b3J5IjpbNzA1MTYyMTc1LDE5MDM5NDY1NDksLTExMD
+A4OTM1OTgsLTE2NzU0NjEyMTEsMTA1Nzg3NjgzNCwtMTU0Njc4
+OTU0MCwtMzcyMTU4MTI0LC0xMTk4ODU5NDM0LDIwMzAyNTkyNj
+YsMTQzOTM1MzQ2MiwtMTAxNDcyNzExMiw1NzA5NTUxNjcsOTkw
+ODUwMTM4LC0yMDU1OTQ3Njg1LC0xNjY5ODY1MTY1LDEzMzQxOD
+g0NjMsMTYyNDMyMjI5LDQwNjg1OTY0MCwyMDgzNTEzMTY4LC0x
+MjM1ODI5NjIwXX0=
 -->
