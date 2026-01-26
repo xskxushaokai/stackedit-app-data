@@ -500,7 +500,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 将课堂测试题以网页形式进行组织，使得作业分发更灵活，提升学生自主性，以下介绍利用阶跃AI桌面助手制作课堂测试网页的方法：
 1. 题目整理
-教师将课堂知识点与测试题目
+将课堂知识点与测试题目整理到文档中，建议使用docx、markdown等常用的文档格式。
 
 
 
@@ -529,7 +529,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk2NjM1NjYsLTE2NzU5MTY2MTEsLT
+eyJoaXN0b3J5IjpbLTE4MzQ4NDM2OTcsLTE2NzU5MTY2MTEsLT
 kzMjE2ODcwNSwtMTU4NTY4NTMzLC05MTkxNDkzMTUsMTE0NTUz
 Njk1LDE4MTA1MDg0NjIsMTQ2OTcxOTEyMSwtODg3MDQ5NjgwLC
 00MDIwNjgyNjgsLTE5NzkxNjMxNiwtNzg1MzkwODg2LC0xMDAx
