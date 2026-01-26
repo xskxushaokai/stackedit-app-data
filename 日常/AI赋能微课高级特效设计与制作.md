@@ -495,6 +495,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 在学习九年级数学二次函数的图像和性质时，可采用网页实验的方式，让学生直观感受抛物线开口大小、方向、对称轴和顶点随函数系数的变化，加深知识理解。
 
+1. 需求整理与指令优化
 输入以下提示词，让豆包进行指令优化：
 ```
 制作一个初中数学一元二次函数图像演示网页，用来观察抛物线开口大小、方向、对称轴和顶点的变化，网页实现的功能为：
@@ -545,6 +546,9 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 坐标系刻度清晰，标注规范，抛物线、对称轴、交点等元素区分度高 
 - 整体视觉体验舒适，无冗余元素，知识点展示区排版整齐易读
 ```
+
+2. 
+
 
 
 ## 八. 案例7 使用桌面智能体制作课堂测试网页
@@ -666,11 +670,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNDY2ODkxLC0yOTYwNjk3Myw2MzQzNT
-UyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjExMDYzODAx
-NiwtMTQ0NzM0MTk1MiwtMTIzNzEyMTQyOCw1Mjk2ODgwMzQsMT
-AwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2NjExLC05MzIx
-Njg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5MzE1LDExNDU1MzY5NS
-wxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4NzA0OTY4MCwtNDAy
-MDY4MjY4XX0=
+eyJoaXN0b3J5IjpbMTkyMjI1NTA2MSw2OTE0NjY4OTEsLTI5Nj
+A2OTczLDYzNDM1NTI5MywtODQ1MTQ1MDk5LC0xMzE4NjExMTU3
+LC0yMTEwNjM4MDE2LC0xNDQ3MzQxOTUyLC0xMjM3MTIxNDI4LD
+UyOTY4ODAzNCwxMDA5MTM1OTM1LDE5ODM1NzcyMTcsLTE2NzU5
+MTY2MTEsLTkzMjE2ODcwNSwtMTU4NTY4NTMzLC05MTkxNDkzMT
+UsMTE0NTUzNjk1LDE4MTA1MDg0NjIsMTQ2OTcxOTEyMSwtODg3
+MDQ5NjgwXX0=
 -->
