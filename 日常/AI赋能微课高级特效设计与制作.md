@@ -572,6 +572,8 @@ AI分析问题原因并自动完成代码修改和功能验证：
 ![输入图片说明](/imgs/2026-01-26/OonMG3SHWZt4sbdZ.png)
 
 再次使用浏览器打开“index.html”网页，网页中的知识卡片和测试题目均正常显示，
+![输入图片说明](/imgs/2026-01-26/StUdVPSA36JnWA8f.png)
+![输入图片说明](/imgs/2026-01-26/okYA4cgGRUItCKts.png)
 
 
 
@@ -600,7 +602,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTQ4MTkxOSwtMTIzNzEyMTQyOCw1Mj
+eyJoaXN0b3J5IjpbLTk2NzA5ODMwNiwtMTIzNzEyMTQyOCw1Mj
 k2ODgwMzQsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2
 NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5MzE1LD
 ExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4NzA0
