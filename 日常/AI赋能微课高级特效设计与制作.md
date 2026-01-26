@@ -581,6 +581,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 ![输入图片说明](/imgs/2026-01-26/OxCGK5PvONkMW17V.png)
 
 4. 文件整理与网页分发
+根据AI给出的使用建议，将网页依赖的所有文件拷贝到同一文件夹中，共涉及三个文件：
 
 
 ## 九. 案例8 课堂游戏
@@ -608,11 +609,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU4MjQzMDcsLTEyMzcxMjE0MjgsNT
-I5Njg4MDM0LDEwMDkxMzU5MzUsMTk4MzU3NzIxNywtMTY3NTkx
-NjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1MzMsLTkxOTE0OTMxNS
-wxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxNDY5NzE5MTIxLC04ODcw
-NDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2MzE2LC03ODUzOTA4OD
-YsLTEwMDE3OTgwOTIsMjExMDA0OTUyOCwxNzg3MDc3ODYzLDE2
-ODQwMzM2MTldfQ==
+eyJoaXN0b3J5IjpbLTU1MjU4ODM2MiwtMTIzNzEyMTQyOCw1Mj
+k2ODgwMzQsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2
+NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5MzE1LD
+ExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4NzA0
+OTY4MCwtNDAyMDY4MjY4LC0xOTc5MTYzMTYsLTc4NTM5MDg4Ni
+wtMTAwMTc5ODA5MiwyMTEwMDQ5NTI4LDE3ODcwNzc4NjMsMTY4
+NDAzMzYxOV19
 -->
