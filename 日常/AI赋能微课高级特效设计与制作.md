@@ -505,7 +505,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 将课堂知识点与测试题目整理到文档中，建议使用docx、markdown等常用的文档格式。知识点分点罗列并详细阐述，也可以表格的形式进行组织。客观题目需要列出问题、选项、正确答案、答案解析等内容；主观题列出问题和参考答案。
 
 2. 提示词优化
-利用阶跃AI桌面助手优化提示词，输入的提示词为：
+利用阶跃AI桌面助手优化提示词，在输入框左下角下拉框选择“快速回答”，输入提示词：
 ```
 我要制作一个课堂练习网页，请帮我优化提示词：
 将文档中的知识内容和题目整理为网页形式：知识内容采用知识卡片的形式；客观题首先显示题目和候选项，学生可以选择不同选项，所有客观题必须全部完成才能提交；主观题显示题目和文本输入框，学生可在输入框中输入文字答案，也可以不输入任何内容；所有客观题完成之后，学生点击页面最下方提交按钮，网页显示正确答案和题目解析，主观题显示学生答案和参考答案。
@@ -581,11 +581,11 @@ AI助手优化后的提示词：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1Njg5NTgzLDEwMDkxMzU5MzUsMTk4Mz
-U3NzIxNywtMTY3NTkxNjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1
-MzMsLTkxOTE0OTMxNSwxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxND
-Y5NzE5MTIxLC04ODcwNDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2
-MzE2LC03ODUzOTA4ODYsLTEwMDE3OTgwOTIsMjExMDA0OTUyOC
-wxNzg3MDc3ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5
-ODQ4NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyMTQ3OTU4OTMsMTAwOTEzNTkzNSwxOT
+gzNTc3MjE3LC0xNjc1OTE2NjExLC05MzIxNjg3MDUsLTE1ODU2
+ODUzMywtOTE5MTQ5MzE1LDExNDU1MzY5NSwxODEwNTA4NDYyLD
+E0Njk3MTkxMjEsLTg4NzA0OTY4MCwtNDAyMDY4MjY4LC0xOTc5
+MTYzMTYsLTc4NTM5MDg4NiwtMTAwMTc5ODA5MiwyMTEwMDQ5NT
+I4LDE3ODcwNzc4NjMsMTY4NDAzMzYxOSwzODc0OTg5MTksMTkw
+NDk4NDg2NF19
 -->
