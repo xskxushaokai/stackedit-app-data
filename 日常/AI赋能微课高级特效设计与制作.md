@@ -560,9 +560,10 @@ AI助手优化后的提示词：
 点击开始执行，等待几分钟后，AI在用户的项目目录中生成了如下四个文件：
 ![输入图片说明](/imgs/2026-01-26/gDeC1WigdgXWfxQM.png)
 
-双击"index.html"在浏览器中打开网页，网页弹出报错提示：“加载数据失败，请确保 structured_data.json 文件存在”。
+双击"index.html"在浏览器中打开网页，网页弹出报错提示：“加载数据失败，请确保 structured_data.json 文件存在”。可以看到“structured_data.json ”文件位于项目目录中，但仍无法加载，此时可以继续向AI发起追问。
 ![输入图片说明](/imgs/2026-01-26/lG8oMaBHWhtBSLeA.png)
 
+向AImiao
 
 
 ## 九. 案例8 课堂游戏
@@ -590,11 +591,11 @@ AI助手优化后的提示词：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjQ2OTkxNSwtMTIzNzEyMTQyOCw1Mj
-k2ODgwMzQsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2
-NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5MzE1LD
-ExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4NzA0
-OTY4MCwtNDAyMDY4MjY4LC0xOTc5MTYzMTYsLTc4NTM5MDg4Ni
-wtMTAwMTc5ODA5MiwyMTEwMDQ5NTI4LDE3ODcwNzc4NjMsMTY4
-NDAzMzYxOV19
+eyJoaXN0b3J5IjpbLTY5ODU3OTE2LC0xMjM3MTIxNDI4LDUyOT
+Y4ODAzNCwxMDA5MTM1OTM1LDE5ODM1NzcyMTcsLTE2NzU5MTY2
+MTEsLTkzMjE2ODcwNSwtMTU4NTY4NTMzLC05MTkxNDkzMTUsMT
+E0NTUzNjk1LDE4MTA1MDg0NjIsMTQ2OTcxOTEyMSwtODg3MDQ5
+NjgwLC00MDIwNjgyNjgsLTE5NzkxNjMxNiwtNzg1MzkwODg2LC
+0xMDAxNzk4MDkyLDIxMTAwNDk1MjgsMTc4NzA3Nzg2MywxNjg0
+MDMzNjE5XX0=
 -->
