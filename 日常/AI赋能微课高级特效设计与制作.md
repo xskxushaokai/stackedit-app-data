@@ -581,7 +581,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 ![输入图片说明](/imgs/2026-01-26/OxCGK5PvONkMW17V.png)
 
 4. 文件整理与网页分发
-根据AI给出的使用建议，将网页依赖的所有文件拷贝到同一文件夹中，共涉及三个文件：index.html，网页源代码文件，使用html语言编写，主要用来控制网页的主体结构，双击用浏览器打开可直接访问网页；script.js，网页交互逻辑代码，使用javascript语言编写，主要用来实现了网页中卡片悬浮效果、用户选择、答案提交、题目解析展示、数据统计等网页动态效果和交互功能；style.css，网页静态样式代码，使用CSS语法格式，主要用来控制网页的外观显示效果，如字体、字号、颜色、
+根据AI给出的使用建议，将网页依赖的所有文件拷贝到同一文件夹中，共涉及三个文件：index.html，网页源代码文件，使用html语言编写，主要用来控制网页的主体结构，双击用浏览器打开可直接访问网页；script.js，网页交互逻辑代码，使用javascript语言编写，主要用来实现了网页中卡片悬浮效果、用户选择、答案提交、题目解析展示、数据统计等网页动态效果和交互功能；style.css，网页静态样式代码，使用CSS语法格式，主要用来控制网页的外观显示效果，如字体、字号、颜色、间距等外观属性。
 
 
 ## 九. 案例8 课堂游戏
@@ -609,7 +609,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjkxMDA0OCwtMTIzNzEyMTQyOCw1Mj
+eyJoaXN0b3J5IjpbMTA3NjQ5MTY2NywtMTIzNzEyMTQyOCw1Mj
 k2ODgwMzQsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2
 NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5MzE1LD
 ExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4NzA0
