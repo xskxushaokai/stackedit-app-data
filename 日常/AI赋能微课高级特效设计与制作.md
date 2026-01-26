@@ -493,7 +493,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 圆柱体表面积
 平移旋转对称
 
-在学习九年级数学二次函数的图像和性质时，可采用网页实验的方式，让学生直观感受抛物线开口大小、方向、对称轴和顶点随函数系数的变化，加深知识理解。
+在进行人教版九年级数学二次函数的图像和性质教学时，可采用网页实验的方式，让学生直观感受抛物线开口大小、方向、对称轴和顶点随函数系数的变化，加深知识理解。
 
 1. 需求整理与指令优化
 输入以下提示词，让豆包进行指令优化：
@@ -672,11 +672,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI1NjM4MDEsNjkxNDY2ODkxLC0yOT
-YwNjk3Myw2MzQzNTUyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1
-NywtMjExMDYzODAxNiwtMTQ0NzM0MTk1MiwtMTIzNzEyMTQyOC
-w1Mjk2ODgwMzQsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1
-OTE2NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5Mz
-E1LDExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLTg4
-NzA0OTY4MF19
+eyJoaXN0b3J5IjpbLTE0OTc3NjcyMjYsLTE5OTI1NjM4MDEsNj
+kxNDY2ODkxLC0yOTYwNjk3Myw2MzQzNTUyOTMsLTg0NTE0NTA5
+OSwtMTMxODYxMTE1NywtMjExMDYzODAxNiwtMTQ0NzM0MTk1Mi
+wtMTIzNzEyMTQyOCw1Mjk2ODgwMzQsMTAwOTEzNTkzNSwxOTgz
+NTc3MjE3LC0xNjc1OTE2NjExLC05MzIxNjg3MDUsLTE1ODU2OD
+UzMywtOTE5MTQ5MzE1LDExNDU1MzY5NSwxODEwNTA4NDYyLDE0
+Njk3MTkxMjFdfQ==
 -->
