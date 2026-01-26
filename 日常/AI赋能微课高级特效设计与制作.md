@@ -504,7 +504,54 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 1. 题目整理
 将课堂知识点与测试题目整理到文档中，建议使用docx、markdown等常用的文档格式。知识点分点罗列并详细阐述，也可以表格的形式进行组织。客观题目需要列出问题、选项、正确答案、答案解析等内容；主观题列出问题和参考答案。
 
-2. 需求描述和网页生成
+2. 提示词优化
+利用阶跃AI桌面助手优化提示词，输入的提示词为：
+```
+我要制作一个课堂练习网页，请帮我优化提示词：
+将文档中的知识内容和题目整理为网页形式：知识内容采用知识卡片的形式；客观题首先显示题目和候选项，学生可以选择不同选项，所有客观题必须全部完成才能提交；主观题显示题目和文本输入框，学生可在输入框中输入文字答案，也可以不输入任何内容；所有客观题完成之后，学生点击页面最下方提交按钮，网页显示正确答案和题目解析，主观题显示学生答案和参考答案。
+```
+AI助手优化后的提示词：
+```
+### 优化后的提示词：
+
+**任务描述：**  
+将文档中的知识内容和题目转化为交互式网页形式，以便学生进行课堂练习。
+
+**具体要求：**
+
+1. **知识内容呈现：**
+   - 采用 **知识卡片** 的形式展示知识点。
+   - 每个知识卡片应包含 **标题** 和 **详细内容**，设计简洁明了，便于学生快速浏览和记忆。
+
+2. **客观题设计：**
+   - 每个客观题首先显示 **题目** 和 **候选项**。
+   - 学生可以通过点击或选择来完成题目，确保 **所有客观题必须全部完成** 后才能提交。
+   - 提供 **即时反馈** 机制，例如在学生选择后显示是否正确，但不允许修改已选择的答案。
+
+3. **主观题设计：**
+   - 显示 **题目** 和 **文本输入框**。
+   - 学生可以在输入框中 **输入文字答案**，也可以选择 **不输入任何内容**。
+   - 允许学生在提交前 **随时修改** 主观题答案。
+
+4. **提交与反馈：**
+   - 在页面最下方提供 **提交按钮**，学生完成所有客观题后才能点击提交。
+   - 提交后，网页应显示：
+     - **客观题的正确答案和题目解析**，帮助学生理解错误原因。
+     - **主观题的学生答案和参考答案**，以便学生进行自我评估和学习。
+
+5. **用户体验优化：**
+   - 确保网页界面 **简洁、直观**，易于学生操作。
+   - 提供 **进度提示**，例如显示已完成的题目数量和总题目数量，增强学生的参与感和成就感。
+   - 考虑 **响应式设计**，使网页在不同设备上都能良好显示和使用。
+
+6. **技术实现建议：**
+   - 使用 **HTML** 和 **CSS** 进行页面布局和样式设计。
+   - 使用 **JavaScript** 实现交互功能，如选项选择、答案提交和即时反馈。
+   - 可以考虑使用 **前端框架**（如React、Vue.js）来提高开发效率和用户体验。
+
+通过以上优化，您的课堂练习网页将更符合学生的需求，提供更好的学习体验和教学效果。
+```
+
 
 
 
@@ -535,11 +582,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNj
-c1OTE2NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywtOTE5MTQ5
-MzE1LDExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkxMjEsLT
-g4NzA0OTY4MCwtNDAyMDY4MjY4LC0xOTc5MTYzMTYsLTc4NTM5
-MDg4NiwtMTAwMTc5ODA5MiwyMTEwMDQ5NTI4LDE3ODcwNzc4Nj
-MsMTY4NDAzMzYxOSwzODc0OTg5MTksMTkwNDk4NDg2NCw0MzAz
-NTg3MzhdfQ==
+eyJoaXN0b3J5IjpbODIzNjkwMDg0LDEwMDkxMzU5MzUsMTk4Mz
+U3NzIxNywtMTY3NTkxNjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1
+MzMsLTkxOTE0OTMxNSwxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxND
+Y5NzE5MTIxLC04ODcwNDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2
+MzE2LC03ODUzOTA4ODYsLTEwMDE3OTgwOTIsMjExMDA0OTUyOC
+wxNzg3MDc3ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5
+ODQ4NjRdfQ==
 -->
