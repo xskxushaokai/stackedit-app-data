@@ -496,7 +496,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 ## 八. 案例7 课堂测试
 简单课堂测试前端网页
-将课堂测试题以网页形式进行组织，可以有效地整合知识点，
+将课堂测试题以网页形式进行组织，使得作业分发更灵活，提升学生自主性，以下介绍课堂测试网页制作方法
 
 
 
@@ -525,11 +525,11 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNDY4NDA4LC0xNTg1Njg1MzMsLTkxOT
-E0OTMxNSwxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxNDY5NzE5MTIx
-LC04ODcwNDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2MzE2LC03OD
-UzOTA4ODYsLTEwMDE3OTgwOTIsMjExMDA0OTUyOCwxNzg3MDc3
-ODYzLDE2ODQwMzM2MTksMzg3NDk4OTE5LDE5MDQ5ODQ4NjQsND
-MwMzU4NzM4LC0xNzY5ODMwNzE1LDEzMjY1ODM4OTcsLTE5OTkz
-OTQ2MzFdfQ==
+eyJoaXN0b3J5IjpbLTEzMTg3MDA5NzYsLTE1ODU2ODUzMywtOT
+E5MTQ5MzE1LDExNDU1MzY5NSwxODEwNTA4NDYyLDE0Njk3MTkx
+MjEsLTg4NzA0OTY4MCwtNDAyMDY4MjY4LC0xOTc5MTYzMTYsLT
+c4NTM5MDg4NiwtMTAwMTc5ODA5MiwyMTEwMDQ5NTI4LDE3ODcw
+Nzc4NjMsMTY4NDAzMzYxOSwzODc0OTg5MTksMTkwNDk4NDg2NC
+w0MzAzNTg3MzgsLTE3Njk4MzA3MTUsMTMyNjU4Mzg5NywtMTk5
+OTM5NDYzMV19
 -->
