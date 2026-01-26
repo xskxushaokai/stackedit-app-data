@@ -512,8 +512,6 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 AI助手优化后的提示词：
 ```
-### 优化后的提示词：
-
 **任务描述：**  
 将文档中的知识内容和题目转化为交互式网页形式，以便学生进行课堂练习。
 
@@ -549,7 +547,6 @@ AI助手优化后的提示词：
    - 使用 **JavaScript** 实现交互功能，如选项选择、答案提交和即时反馈。
    - 可以考虑使用 **前端框架**（如React、Vue.js）来提高开发效率和用户体验。
 
-通过以上优化，您的课堂练习网页将更符合学生的需求，提供更好的学习体验和教学效果。
 ```
 
 
@@ -582,7 +579,7 @@ AI助手优化后的提示词：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNjkwMDg0LDEwMDkxMzU5MzUsMTk4Mz
+eyJoaXN0b3J5IjpbNDg2NDI0OTIyLDEwMDkxMzU5MzUsMTk4Mz
 U3NzIxNywtMTY3NTkxNjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1
 MzMsLTkxOTE0OTMxNSwxMTQ1NTM2OTUsMTgxMDUwODQ2MiwxND
 Y5NzE5MTIxLC04ODcwNDk2ODAsLTQwMjA2ODI2OCwtMTk3OTE2
