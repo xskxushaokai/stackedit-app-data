@@ -549,7 +549,7 @@ AI助手优化后的提示词：
 
 ```
 
-3. 网页制作
+3. 网页制作和功能验证
 在输入框左下角下拉框选择“任务执行”，输入AI优化后的提示词，点击输入框下方“#”图标，选择“添加照片或文件”，在弹出的对话框中选择提前整理好的题目文档。
 
 ![输入图片说明](/imgs/2026-01-26/NxrEmirIEpzh3IxO.png)
@@ -568,7 +568,11 @@ AI助手优化后的提示词：
 浏览器打开index.html时，报错：加载数据失败，请确保 structured_data.json 文件存在
 ```
 
-AI分析问题原因并自动完成代码修改和
+AI分析问题原因并自动完成代码修改和功能验证：
+![输入图片说明](/imgs/2026-01-26/OonMG3SHWZt4sbdZ.png)
+
+
+
 
 
 ## 九. 案例8 课堂游戏
@@ -596,7 +600,7 @@ AI分析问题原因并自动完成代码修改和
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNDk4Njg2LC0xMjM3MTIxNDI4LDUyOT
+eyJoaXN0b3J5IjpbMzM5NjA0MzcwLC0xMjM3MTIxNDI4LDUyOT
 Y4ODAzNCwxMDA5MTM1OTM1LDE5ODM1NzcyMTcsLTE2NzU5MTY2
 MTEsLTkzMjE2ODcwNSwtMTU4NTY4NTMzLC05MTkxNDkzMTUsMT
 E0NTUzNjk1LDE4MTA1MDg0NjIsMTQ2OTcxOTEyMSwtODg3MDQ5
