@@ -494,7 +494,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 平移旋转对称
 
 
-## 八. 案例7 课堂测试
+## 八. 案例7 使用桌面智能体制作课堂测试网页
 **阶跃AI桌面助手**
 阶跃AI桌面助手是由阶跃星辰(StepFun)开发的智能桌面应用，搭载自研AI模型。它具备深度思考、工具协同和自适应能力，可以帮用户完成网络搜索、文件管理、Excel操作、代码执行、浏览器自动化等多种任务。支持多语言交流，回复简洁直接，是Windows/Mac电脑上的高效智能助理。
 
@@ -532,7 +532,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjAzOTIyNCwtMTY3NTkxNjYxMSwtOT
+eyJoaXN0b3J5IjpbMTk4MzU3NzIxNywtMTY3NTkxNjYxMSwtOT
 MyMTY4NzA1LC0xNTg1Njg1MzMsLTkxOTE0OTMxNSwxMTQ1NTM2
 OTUsMTgxMDUwODQ2MiwxNDY5NzE5MTIxLC04ODcwNDk2ODAsLT
 QwMjA2ODI2OCwtMTk3OTE2MzE2LC03ODUzOTA4ODYsLTEwMDE3
