@@ -560,7 +560,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-27/rCzzA7JJbNfrv1xT.png)
 ![输入图片说明](/imgs/2026-01-27/002VWN7nVaRpAebW.png)
 
-最后对外观进行优化，让函数图像容器中的画布区域纵向高度值增大，坐标系画布填满整个容器，下方不留空白
+最后对外观进行优化，让函数图像容器中的画布区域纵向高度值增大，坐标系画布填满整个容器，下方不留空白。提示词为：
 ```
 对外观进行优化，让函数图像容器中的画布区域纵向高度值增大，坐标系画布填满整个容器，下方不留空白
 ```
@@ -688,11 +688,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNTU0MTI5LC0xNDQ5Mjc5NDQxLDE3ND
-MzNTEwMzksLTE5NzM0NjQxMzAsLTM2NzkwNzQ1MiwtMTc2MzMx
-NTQxNCwyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3NjcyMj
-YsLTE5OTI1NjM4MDEsNjkxNDY2ODkxLC0yOTYwNjk3Myw2MzQz
-NTUyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjExMDYzOD
-AxNiwtMTQ0NzM0MTk1MiwtMTIzNzEyMTQyOCw1Mjk2ODgwMzQs
-MTAwOTEzNTkzNV19
+eyJoaXN0b3J5IjpbMTQ1MjMxMDAzNCwtMTQ0OTI3OTQ0MSwxNz
+QzMzUxMDM5LC0xOTczNDY0MTMwLC0zNjc5MDc0NTIsLTE3NjMz
+MTU0MTQsMjA2MTU1MzczNCwtODQxNTAxNTIzLC0xNDk3NzY3Mj
+I2LC0xOTkyNTYzODAxLDY5MTQ2Njg5MSwtMjk2MDY5NzMsNjM0
+MzU1MjkzLC04NDUxNDUwOTksLTEzMTg2MTExNTcsLTIxMTA2Mz
+gwMTYsLTE0NDczNDE5NTIsLTEyMzcxMjE0MjgsNTI5Njg4MDM0
+LDEwMDkxMzU5MzVdfQ==
 -->
