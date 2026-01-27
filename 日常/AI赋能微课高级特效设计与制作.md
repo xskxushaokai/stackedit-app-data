@@ -677,8 +677,8 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 案例7的课堂测试网页虽然形式新颖、使用方便，但提交答案功能本质上只是学生自己校验答案，并未真正将课堂上所有学生的作答情况汇总到教师端，要实现真正的作答情况提交和汇总，还需要配合一些简单的后端程序，通过在局域网或互联网中部署网站，实现学生作答情况的汇总和分析。
 
-> -   **前端**：运行在**用户浏览器**，关心 **“看起来怎么样”** 和 **“用起来怎么样”**。就像餐厅的用餐区和服务员。
-> -   **后端**：运行在**网站服务器**，关心 **“数据怎么存”** 和 **“逻辑怎么跑”**。就像餐厅的后厨和管理系统。
+> -   **前端**：运行在**用户浏览器**，是网站的“脸面”和“交互层”。它负责所有你看得见的内容和操作，比如文字排版、图片展示、按钮颜色、页面布局、动画效果等。当你在页面上点击、滑动、填写表单时，就是在和前端打交道。它的主要目标是：**好看、好用、流畅**。
+> -   **后端**：运行在**网站服务器**，是网站的“大脑”和“引擎”。它负责处理前端发来的请求，进行复杂的逻辑计算和数据管理。比如，当你登录账号时，后端要核对密码；当你搜索商品时，后端要从海量数据库中快速找出结果；当你下单支付时，后端要安全地处理交易信息。它的主要目标是：**安全、稳定、高效地处理数据和逻辑**。
 > -   **两者结合**：前端和后端通过**接口**（像餐厅的前后厨传菜口）不断通信，共同为用户呈现一个完整、动态的网站或应用。
 
 
@@ -698,11 +698,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzQ5ODksMTMyNTAyNDgzNiwtMjg5Nz
-Q5MDY0LDc3NDMwODA0NCwtMTU1NzU0Mjk0LC0xNDQ5Mjc5NDQx
-LDE3NDMzNTEwMzksLTE5NzM0NjQxMzAsLTM2NzkwNzQ1MiwtMT
-c2MzMxNTQxNCwyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3
-NjcyMjYsLTE5OTI1NjM4MDEsNjkxNDY2ODkxLC0yOTYwNjk3My
-w2MzQzNTUyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjEx
-MDYzODAxNl19
+eyJoaXN0b3J5IjpbMzM2ODM0Nzg1LDEzNjc0OTg5LDEzMjUwMj
+Q4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDQsLTE1NTc1NDI5NCwt
+MTQ0OTI3OTQ0MSwxNzQzMzUxMDM5LC0xOTczNDY0MTMwLC0zNj
+c5MDc0NTIsLTE3NjMzMTU0MTQsMjA2MTU1MzczNCwtODQxNTAx
+NTIzLC0xNDk3NzY3MjI2LC0xOTkyNTYzODAxLDY5MTQ2Njg5MS
+wtMjk2MDY5NzMsNjM0MzU1MjkzLC04NDUxNDUwOTksLTEzMTg2
+MTExNTddfQ==
 -->
