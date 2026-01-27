@@ -675,7 +675,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 答案提交、后台管理、统计分析
 编程测试、代码提交、调用AI接口分析
 
-案例7的课堂测试网页
+案例7的课堂测试网页虽然形式新颖、使用方便，但提交答案
 
 
 # 附：其他可选案例
@@ -694,11 +694,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkyMDY1NDIsLTI4OTc0OTA2NCw3Nz
-QzMDgwNDQsLTE1NTc1NDI5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUx
-MDM5LC0xOTczNDY0MTMwLC0zNjc5MDc0NTIsLTE3NjMzMTU0MT
-QsMjA2MTU1MzczNCwtODQxNTAxNTIzLC0xNDk3NzY3MjI2LC0x
-OTkyNTYzODAxLDY5MTQ2Njg5MSwtMjk2MDY5NzMsNjM0MzU1Mj
-kzLC04NDUxNDUwOTksLTEzMTg2MTExNTcsLTIxMTA2MzgwMTYs
-LTE0NDczNDE5NTJdfQ==
+eyJoaXN0b3J5IjpbMTY3OTIwNTA5MCwtMjg5NzQ5MDY0LDc3ND
+MwODA0NCwtMTU1NzU0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEw
+MzksLTE5NzM0NjQxMzAsLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNC
+wyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3NjcyMjYsLTE5
+OTI1NjM4MDEsNjkxNDY2ODkxLC0yOTYwNjk3Myw2MzQzNTUyOT
+MsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjExMDYzODAxNiwt
+MTQ0NzM0MTk1Ml19
 -->
