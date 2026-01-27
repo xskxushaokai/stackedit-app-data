@@ -675,7 +675,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 答案提交、后台管理、统计分析
 编程测试、代码提交、调用AI接口分析
 
-案例7的课堂测试网页虽然形式新颖、使用方便，但提交答案
+案例7的课堂测试网页虽然形式新颖、使用方便，但提交答案功能本质上只是学生自己校验答案，并未真正将课堂上所有学生的作答情况汇总到教师端，要实现真正的
 
 
 # 附：其他可选案例
@@ -694,7 +694,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTIwNTA5MCwtMjg5NzQ5MDY0LDc3ND
+eyJoaXN0b3J5IjpbMTI4NDMwOTY3MSwtMjg5NzQ5MDY0LDc3ND
 MwODA0NCwtMTU1NzU0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEw
 MzksLTE5NzM0NjQxMzAsLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNC
 wyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3NjcyMjYsLTE5
