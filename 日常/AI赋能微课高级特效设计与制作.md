@@ -650,7 +650,7 @@ AI助手优化后的提示词：
 AI分析问题原因并自动完成代码修改和功能验证：
 ![输入图片说明](/imgs/2026-01-26/OonMG3SHWZt4sbdZ.png)
 
-再次使用浏览器打开“index.html”网页，网页中的知识卡片和测试题目均正常显示，模拟学生答题操作，可以看到当客观题未全部完成时，提交按钮无法点击，完成所有客观题，点击“提交答案”按钮，网页会将学生错选的选项标红高亮并显示正确答案和题目解析。通过交互式的答题过程，学生可以快速验证自己的知识掌握情况并迅速完成查漏补缺。
+再次使用浏览器打开“index.html”网页，网页中的知识卡片和测试题目均正常显示，模拟学生答题操作，可以看到当客观题未全部完成时，提交按钮无法点击，完成所有客观题后，点击“提交答案”按钮，网页会将学生错选的选项标红高亮并显示正确答案和题目解析。通过交互式的答题过程，学生可以快速验证自己的知识掌握情况并迅速完成查漏补缺。
 ![输入图片说明](/imgs/2026-01-26/StUdVPSA36JnWA8f.png)
 ![输入图片说明](/imgs/2026-01-26/q8zo6r2Nw5J5Y8Zo.png)
 
@@ -692,11 +692,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc1NDI5NCwtMTQ0OTI3OTQ0MSwxNz
-QzMzUxMDM5LC0xOTczNDY0MTMwLC0zNjc5MDc0NTIsLTE3NjMz
-MTU0MTQsMjA2MTU1MzczNCwtODQxNTAxNTIzLC0xNDk3NzY3Mj
-I2LC0xOTkyNTYzODAxLDY5MTQ2Njg5MSwtMjk2MDY5NzMsNjM0
-MzU1MjkzLC04NDUxNDUwOTksLTEzMTg2MTExNTcsLTIxMTA2Mz
-gwMTYsLTE0NDczNDE5NTIsLTEyMzcxMjE0MjgsNTI5Njg4MDM0
-LDEwMDkxMzU5MzVdfQ==
+eyJoaXN0b3J5IjpbNzc0MzA4MDQ0LC0xNTU3NTQyOTQsLTE0ND
+kyNzk0NDEsMTc0MzM1MTAzOSwtMTk3MzQ2NDEzMCwtMzY3OTA3
+NDUyLC0xNzYzMzE1NDE0LDIwNjE1NTM3MzQsLTg0MTUwMTUyMy
+wtMTQ5Nzc2NzIyNiwtMTk5MjU2MzgwMSw2OTE0NjY4OTEsLTI5
+NjA2OTczLDYzNDM1NTI5MywtODQ1MTQ1MDk5LC0xMzE4NjExMT
+U3LC0yMTEwNjM4MDE2LC0xNDQ3MzQxOTUyLC0xMjM3MTIxNDI4
+LDUyOTY4ODAzNF19
 -->
