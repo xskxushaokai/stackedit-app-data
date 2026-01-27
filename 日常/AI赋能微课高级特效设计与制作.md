@@ -654,7 +654,8 @@ AI分析问题原因并自动完成代码修改和功能验证：
 ![输入图片说明](/imgs/2026-01-27/fAdnwvJTlnbsISwJ.png)
 
 模拟学生作答：
-![输入图片说明](/imgs/2026-01-26/9lqadH56W40Nr20I.png)
+![输入图片说明](/imgs/2026-01-27/hibhrqaVdJUZ0hEr.png)
+
 ![输入图片说明](/imgs/2026-01-26/zWvIjHfHnTc8BUMP.png)
 ![输入图片说明](/imgs/2026-01-26/OxCGK5PvONkMW17V.png)
 
@@ -691,11 +692,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTk1Mjg2Myw3NzQzMDgwNDQsLTE1NT
-c1NDI5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUxMDM5LC0xOTczNDY0
-MTMwLC0zNjc5MDc0NTIsLTE3NjMzMTU0MTQsMjA2MTU1MzczNC
-wtODQxNTAxNTIzLC0xNDk3NzY3MjI2LC0xOTkyNTYzODAxLDY5
-MTQ2Njg5MSwtMjk2MDY5NzMsNjM0MzU1MjkzLC04NDUxNDUwOT
-ksLTEzMTg2MTExNTcsLTIxMTA2MzgwMTYsLTE0NDczNDE5NTIs
-LTEyMzcxMjE0MjhdfQ==
+eyJoaXN0b3J5IjpbLTIwNDIzOTE4MDMsNzc0MzA4MDQ0LC0xNT
+U3NTQyOTQsLTE0NDkyNzk0NDEsMTc0MzM1MTAzOSwtMTk3MzQ2
+NDEzMCwtMzY3OTA3NDUyLC0xNzYzMzE1NDE0LDIwNjE1NTM3Mz
+QsLTg0MTUwMTUyMywtMTQ5Nzc2NzIyNiwtMTk5MjU2MzgwMSw2
+OTE0NjY4OTEsLTI5NjA2OTczLDYzNDM1NTI5MywtODQ1MTQ1MD
+k5LC0xMzE4NjExMTU3LC0yMTEwNjM4MDE2LC0xNDQ3MzQxOTUy
+LC0xMjM3MTIxNDI4XX0=
 -->
