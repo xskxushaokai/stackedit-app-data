@@ -683,7 +683,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 接下来，我们将通过一个功能更加完善的课堂测试系统来演示如何利用AI实现完整的前后端教学应用开发。
 
-工欲善其事必先利其器，
+工欲善其事必先利其器，由于前后端共同开发涉及到的代码量和文件数量略有增加，且涉及到接口调用和通信，所以我们
 
 
 
@@ -704,7 +704,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDcyNTIxMywzMzY4MzQ3ODUsMTM2Nz
+eyJoaXN0b3J5IjpbMTgwNjg5NDg4MSwzMzY4MzQ3ODUsMTM2Nz
 Q5ODksMTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwODA0NCwt
 MTU1NzU0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEwMzksLTE5Nz
 M0NjQxMzAsLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNCwyMDYxNTUz
