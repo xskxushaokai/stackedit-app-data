@@ -695,7 +695,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 ![输入图片说明](/imgs/2026-01-27/xCJsoxhned0YqDQ1.png)
 
-启动TRAE之后，进入默认页面，左侧为代码编辑区，右侧为AI协作区。在左侧代码编辑区中点击“新建项目”
+启动TRAE之后，进入默认页面，左侧为代码编辑区，右侧为AI协作区。在左侧代码编辑区中点击“新建项目”，在弹出的对话框中选择项目
 ![输入图片说明](/imgs/2026-01-27/RNTbffnsAG2yWBx1.png)
 
 
@@ -715,11 +715,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI1MDQ2OTYsLTYzNDUzNjU3OCwzOD
-MwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3ODUsMTM2NzQ5ODks
-MTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwODA0NCwtMTU1Nz
-U0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEwMzksLTE5NzM0NjQx
-MzAsLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNCwyMDYxNTUzNzM0LC
-04NDE1MDE1MjMsLTE0OTc3NjcyMjYsLTE5OTI1NjM4MDEsNjkx
-NDY2ODkxXX0=
+eyJoaXN0b3J5IjpbODk1OTgyNzYxLC02MzQ1MzY1NzgsMzgzMD
+kxNDQzLC05NDY2MjMwNjUsMzM2ODM0Nzg1LDEzNjc0OTg5LDEz
+MjUwMjQ4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDQsLTE1NTc1ND
+I5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUxMDM5LC0xOTczNDY0MTMw
+LC0zNjc5MDc0NTIsLTE3NjMzMTU0MTQsMjA2MTU1MzczNCwtOD
+QxNTAxNTIzLC0xNDk3NzY3MjI2LC0xOTkyNTYzODAxLDY5MTQ2
+Njg5MV19
 -->
