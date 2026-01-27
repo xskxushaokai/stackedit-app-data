@@ -683,7 +683,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 接下来，我们将通过一个功能更加完善的课堂测试系统来演示如何利用AI实现完整的前后端教学应用开发。
 
-工欲善其事必先利其器，由于前后端共同开发涉及到的代码量和文件数量略有增加，且涉及到接口调用和通信，所以我们不再使用网页版的豆包应用生成平台，而是使用专业的代码编辑器来完成应用开发
+工欲善其事必先利其器，由于前后端共同开发涉及到的代码量和文件数量略有增加，且涉及到接口调用和通信，所以我们不再使用网页版的豆包应用生成平台，而是使用专业的代码编辑器来完成应用开发。目前国内
 
 
 
@@ -704,11 +704,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE0MDYzMTcsMzM2ODM0Nzg1LDEzNj
-c0OTg5LDEzMjUwMjQ4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDQs
-LTE1NTc1NDI5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUxMDM5LC0xOT
-czNDY0MTMwLC0zNjc5MDc0NTIsLTE3NjMzMTU0MTQsMjA2MTU1
-MzczNCwtODQxNTAxNTIzLC0xNDk3NzY3MjI2LC0xOTkyNTYzOD
-AxLDY5MTQ2Njg5MSwtMjk2MDY5NzMsNjM0MzU1MjkzLC04NDUx
-NDUwOTldfQ==
+eyJoaXN0b3J5IjpbMTM1NTg1NjY5NCwzMzY4MzQ3ODUsMTM2Nz
+Q5ODksMTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwODA0NCwt
+MTU1NzU0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEwMzksLTE5Nz
+M0NjQxMzAsLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNCwyMDYxNTUz
+NzM0LC04NDE1MDE1MjMsLTE0OTc3NjcyMjYsLTE5OTI1NjM4MD
+EsNjkxNDY2ODkxLC0yOTYwNjk3Myw2MzQzNTUyOTMsLTg0NTE0
+NTA5OV19
 -->
