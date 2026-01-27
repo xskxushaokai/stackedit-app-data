@@ -700,7 +700,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 ![输入图片说明](/imgs/2026-01-27/tlqR5lzZrxfBooyx.png)
 
-以上准备工作都完成之后，就可以通过右侧的AI协作窗口开始课堂测试系统的开发。
+以上准备工作都完成之后，就可以通过右侧的AI协作窗口开始课堂测试系统的开发。TRAE中内置了四种AI智能体，分别是“chat”、“builder”、“Builder with MCP”、“SOLO Coder”，对于常规开发任务，选择“builder”即可，
 
 
 
@@ -721,11 +721,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MDQxMTY1LC0xNzU1NDAxODgyLC02Mz
-Q1MzY1NzgsMzgzMDkxNDQzLC05NDY2MjMwNjUsMzM2ODM0Nzg1
-LDEzNjc0OTg5LDEzMjUwMjQ4MzYsLTI4OTc0OTA2NCw3NzQzMD
-gwNDQsLTE1NTc1NDI5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUxMDM5
-LC0xOTczNDY0MTMwLC0zNjc5MDc0NTIsLTE3NjMzMTU0MTQsMj
-A2MTU1MzczNCwtODQxNTAxNTIzLC0xNDk3NzY3MjI2LC0xOTky
-NTYzODAxXX0=
+eyJoaXN0b3J5IjpbOTQ0NDI2OTc4LDkyNDA0MTE2NSwtMTc1NT
+QwMTg4MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIzMDY1
+LDMzNjgzNDc4NSwxMzY3NDk4OSwxMzI1MDI0ODM2LC0yODk3ND
+kwNjQsNzc0MzA4MDQ0LC0xNTU3NTQyOTQsLTE0NDkyNzk0NDEs
+MTc0MzM1MTAzOSwtMTk3MzQ2NDEzMCwtMzY3OTA3NDUyLC0xNz
+YzMzE1NDE0LDIwNjE1NTM3MzQsLTg0MTUwMTUyMywtMTQ5Nzc2
+NzIyNl19
 -->
