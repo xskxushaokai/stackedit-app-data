@@ -688,9 +688,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
 通过官网下载（https://www.trae.cn/）安装包。
 ![输入图片说明](/imgs/2026-01-27/1NVgDmzTVSAOS1Cb.png)
 
-安装完成后，打开TRAE，按步骤选择设置，在第三步“导入配置”中，如果本地电脑中没有安装VS Code和Cursor，选择跳过即可
+安装完成后，打开TRAE，按步骤选择设置，在第三步“导入配置”中，如果本地电脑中没有安装VS Code和Cursor，选择跳过即可；第四步“添加命令行”选择“跳过”即可，最后一步选择“个人用户”
 ![输入图片说明](/imgs/2026-01-27/z3X11g0ZbtBflUoA.png)
 
+
+![输入图片说明](/imgs/2026-01-27/xCJsoxhned0YqDQ1.png)
 
 
 
@@ -710,7 +712,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxOTQxMTA1LC02MzQ1MzY1NzgsMzgzMD
+eyJoaXN0b3J5IjpbODAwMTkxNzc4LC02MzQ1MzY1NzgsMzgzMD
 kxNDQzLC05NDY2MjMwNjUsMzM2ODM0Nzg1LDEzNjc0OTg5LDEz
 MjUwMjQ4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDQsLTE1NTc1ND
 I5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUxMDM5LC0xOTczNDY0MTMw
