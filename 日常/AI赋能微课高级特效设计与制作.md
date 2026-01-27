@@ -683,7 +683,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 接下来，我们将通过一个功能更加完善的课堂测试系统来演示如何利用AI实现完整的前后端教学应用开发。
 
-工欲善其事必先利其器，由于前后端共同开发涉及到的代码量和文件数量略有增加，且涉及到接口调用和通信，所以我们不再使用网页版的豆包应用生成平台，而是使用专业的代码编辑器来完成应用开发。目前国内使用较多的集成了AI功能的编辑器主要有TRAE、VS Code、ClaudeCode、Cursor 等，我们使用TRAE来进行教学应用开发。虽然我们使用了“专业的代码编辑器”，但不用担心，我们仍然是通过与AI协作来完成应用的开发，在与AI协作的过程中，我们充当的角色是：应用的设计者、测试者和使用者，AI充当的角色是：开发者和测试工程师，代码编写和修改的任务r
+工欲善其事必先利其器，由于前后端共同开发涉及到的代码量和文件数量略有增加，且涉及到接口调用和通信，所以我们不再使用网页版的豆包应用生成平台，而是使用专业的代码编辑器来完成应用开发。目前国内使用较多的集成了AI功能的编辑器主要有TRAE、VS Code、ClaudeCode、Cursor 等，我们使用TRAE来进行教学应用开发。虽然我们使用了“专业的代码编辑器”，但不用担心，我们仍然是通过与AI协作来完成应用的开发，在与AI协作的过程中，我们充当的角色是：应用的设计者、测试者和使用者，AI充当的角色是：开发者和测试工程师，代码编写和修改的任务仍然是交给AI来完成。
 
 通过官网下载（https://www.trae.cn/）安装包。
 ![输入图片说明](/imgs/2026-01-27/1NVgDmzTVSAOS1Cb.png)
@@ -721,11 +721,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMxNjE4MjEsLTE3NTU0MDE4ODIsLT
-YzNDUzNjU3OCwzODMwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3
-ODUsMTM2NzQ5ODksMTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3ND
-MwODA0NCwtMTU1NzU0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEw
-MzksLTE5NzM0NjQxMzAsLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNC
-wyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3NjcyMjYsLTE5
-OTI1NjM4MDFdfQ==
+eyJoaXN0b3J5IjpbOTI0MDQxMTY1LC0xNzU1NDAxODgyLC02Mz
+Q1MzY1NzgsMzgzMDkxNDQzLC05NDY2MjMwNjUsMzM2ODM0Nzg1
+LDEzNjc0OTg5LDEzMjUwMjQ4MzYsLTI4OTc0OTA2NCw3NzQzMD
+gwNDQsLTE1NTc1NDI5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUxMDM5
+LC0xOTczNDY0MTMwLC0zNjc5MDc0NTIsLTE3NjMzMTU0MTQsMj
+A2MTU1MzczNCwtODQxNTAxNTIzLC0xNDk3NzY3MjI2LC0xOTky
+NTYzODAxXX0=
 -->
