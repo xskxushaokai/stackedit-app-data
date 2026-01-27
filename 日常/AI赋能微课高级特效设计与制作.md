@@ -551,6 +551,14 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 豆包首次生成的网页如下，模拟实验操作，拖动滑块调整a、b、c三个系数的值，函数图像实时变化，对称轴、顶点、坐标轴交点等均实时更新，功能上已经满足要求，接下来对外观进行微调。
 ![输入图片说明](/imgs/2026-01-26/dpZYXm91jFKYShD8.png)
 
+```
+对网页外观做一些微调：
+
+1. 函数图像容器：坐标系区域占满容器，底部不要留空白；
+
+2. 抛物线顶点、X轴交点、Y轴交点的坐标标注字体放大一些，且标注在点的不同相对位置，目前的坐标位置当两种点重合时，坐标也叠在了一起，不美观
+```
+
 
 
 ## 八. 案例7 使用桌面智能体制作课堂测试网页
@@ -672,11 +680,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc3NjcyMjYsLTE5OTI1NjM4MDEsNj
-kxNDY2ODkxLC0yOTYwNjk3Myw2MzQzNTUyOTMsLTg0NTE0NTA5
-OSwtMTMxODYxMTE1NywtMjExMDYzODAxNiwtMTQ0NzM0MTk1Mi
-wtMTIzNzEyMTQyOCw1Mjk2ODgwMzQsMTAwOTEzNTkzNSwxOTgz
-NTc3MjE3LC0xNjc1OTE2NjExLC05MzIxNjg3MDUsLTE1ODU2OD
-UzMywtOTE5MTQ5MzE1LDExNDU1MzY5NSwxODEwNTA4NDYyLDE0
-Njk3MTkxMjFdfQ==
+eyJoaXN0b3J5IjpbLTg0MTUwMTUyMywtMTQ5Nzc2NzIyNiwtMT
+k5MjU2MzgwMSw2OTE0NjY4OTEsLTI5NjA2OTczLDYzNDM1NTI5
+MywtODQ1MTQ1MDk5LC0xMzE4NjExMTU3LC0yMTEwNjM4MDE2LC
+0xNDQ3MzQxOTUyLC0xMjM3MTIxNDI4LDUyOTY4ODAzNCwxMDA5
+MTM1OTM1LDE5ODM1NzcyMTcsLTE2NzU5MTY2MTEsLTkzMjE2OD
+cwNSwtMTU4NTY4NTMzLC05MTkxNDkzMTUsMTE0NTUzNjk1LDE4
+MTA1MDg0NjJdfQ==
 -->
