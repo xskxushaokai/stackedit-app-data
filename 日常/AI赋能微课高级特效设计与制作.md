@@ -695,10 +695,14 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 ![输入图片说明](/imgs/2026-01-27/xCJsoxhned0YqDQ1.png)
 
-启动TRAE之后，进入默认页面，左侧为代码编辑区，右侧为AI协作区。在左侧代码编辑区中点击“新建项目”，在弹出的对话框中选择项目存放的文件夹并设置项目名称“class_test_website”，TRAE会在所选文件夹中创建名为“class_test_website”的文件夹并在左侧资源管理器中打开。首次打开会弹出以下权限提示窗口，对于个人电脑，选择“是，我信任此作者”ji'ke
+启动TRAE之后，进入默认页面，左侧为代码编辑区，右侧为AI协作区。在左侧代码编辑区中点击“新建项目”，在弹出的对话框中选择项目存放的文件夹并设置项目名称“class_test_website”，TRAE会在所选文件夹中创建名为“class_test_website”的文件夹并在左侧资源管理器中打开。首次打开会弹出以下权限提示窗口，对于个人电脑，选择“是，我信任此作者”即可。
 ![输入图片说明](/imgs/2026-01-27/RNTbffnsAG2yWBx1.png)
 
 ![输入图片说明](/imgs/2026-01-27/tlqR5lzZrxfBooyx.png)
+
+以上准备工作都完成之后，就可以通过右侧的AI协作窗口
+
+
 
 
 # 附：其他可选案例
@@ -717,11 +721,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzMwMzYyOCwtNjM0NTM2NTc4LDM4Mz
-A5MTQ0MywtOTQ2NjIzMDY1LDMzNjgzNDc4NSwxMzY3NDk4OSwx
-MzI1MDI0ODM2LC0yODk3NDkwNjQsNzc0MzA4MDQ0LC0xNTU3NT
-QyOTQsLTE0NDkyNzk0NDEsMTc0MzM1MTAzOSwtMTk3MzQ2NDEz
-MCwtMzY3OTA3NDUyLC0xNzYzMzE1NDE0LDIwNjE1NTM3MzQsLT
-g0MTUwMTUyMywtMTQ5Nzc2NzIyNiwtMTk5MjU2MzgwMSw2OTE0
-NjY4OTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTU0MDE4ODIsLTYzNDUzNjU3OCwzOD
+MwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3ODUsMTM2NzQ5ODks
+MTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwODA0NCwtMTU1Nz
+U0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEwMzksLTE5NzM0NjQx
+MzAsLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNCwyMDYxNTUzNzM0LC
+04NDE1MDE1MjMsLTE0OTc3NjcyMjYsLTE5OTI1NjM4MDEsNjkx
+NDY2ODkxXX0=
 -->
