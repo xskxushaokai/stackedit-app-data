@@ -681,6 +681,10 @@ AI分析问题原因并自动完成代码修改和功能验证：
 > -   **后端**：运行在**网站服务器**，是网站的“大脑”和“引擎”。它负责处理前端发来的请求，进行复杂的逻辑计算和数据管理。比如，当你登录账号时，后端要核对密码；当你搜索商品时，后端要从海量数据库中快速找出结果；当你下单支付时，后端要安全地处理交易信息。它的主要目标是：**安全、稳定、高效地处理数据和逻辑**。
 > -   **两者结合**：前端和后端通过**接口**（像餐厅的前后厨传菜口）不断通信，共同为用户呈现一个完整、动态的网站或应用。
 
+接下来，我们将通过一个功能geng
+
+
+
 
 # 附：其他可选案例
 **案例一：语言学习交互网页**
@@ -698,11 +702,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODM0Nzg1LDEzNjc0OTg5LDEzMjUwMj
-Q4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDQsLTE1NTc1NDI5NCwt
-MTQ0OTI3OTQ0MSwxNzQzMzUxMDM5LC0xOTczNDY0MTMwLC0zNj
-c5MDc0NTIsLTE3NjMzMTU0MTQsMjA2MTU1MzczNCwtODQxNTAx
-NTIzLC0xNDk3NzY3MjI2LC0xOTkyNTYzODAxLDY5MTQ2Njg5MS
-wtMjk2MDY5NzMsNjM0MzU1MjkzLC04NDUxNDUwOTksLTEzMTg2
-MTExNTddfQ==
+eyJoaXN0b3J5IjpbODcwMjk2ODE1LDMzNjgzNDc4NSwxMzY3ND
+k4OSwxMzI1MDI0ODM2LC0yODk3NDkwNjQsNzc0MzA4MDQ0LC0x
+NTU3NTQyOTQsLTE0NDkyNzk0NDEsMTc0MzM1MTAzOSwtMTk3Mz
+Q2NDEzMCwtMzY3OTA3NDUyLC0xNzYzMzE1NDE0LDIwNjE1NTM3
+MzQsLTg0MTUwMTUyMywtMTQ5Nzc2NzIyNiwtMTk5MjU2MzgwMS
+w2OTE0NjY4OTEsLTI5NjA2OTczLDYzNDM1NTI5MywtODQ1MTQ1
+MDk5XX0=
 -->
