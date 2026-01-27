@@ -556,7 +556,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 1. 当鼠标停在二维坐标区域时，滚动滚轮可以对坐标系进行缩放，坐标系中所有显示的内容也同步缩放 
 2. 当鼠标拖动二维坐标背景区域时，坐标系随鼠标拖动进行平移，坐标系中所有显示的内容也同步平移
 ```
-豆包增加坐标系平移和缩放功能，可以看到目前用户：
+豆包增加坐标系平移和缩放功能，可以看到目前用户再函数图像画布区拖动鼠标或滚动滚轮时，坐标系也会随之平移或缩放：
 ![输入图片说明](/imgs/2026-01-27/rCzzA7JJbNfrv1xT.png)
 
 最后对外观进行优化，让函数图像容器中的画布区域纵向高度值增大，坐标系画布填满整个容器，下方不留空白
@@ -687,11 +687,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTA3NjI3MSwtMzY3OTA3NDUyLC0xNz
-YzMzE1NDE0LDIwNjE1NTM3MzQsLTg0MTUwMTUyMywtMTQ5Nzc2
-NzIyNiwtMTk5MjU2MzgwMSw2OTE0NjY4OTEsLTI5NjA2OTczLD
-YzNDM1NTI5MywtODQ1MTQ1MDk5LC0xMzE4NjExMTU3LC0yMTEw
-NjM4MDE2LC0xNDQ3MzQxOTUyLC0xMjM3MTIxNDI4LDUyOTY4OD
-AzNCwxMDA5MTM1OTM1LDE5ODM1NzcyMTcsLTE2NzU5MTY2MTEs
-LTkzMjE2ODcwNV19
+eyJoaXN0b3J5IjpbMzYzOTg2NTksLTM2NzkwNzQ1MiwtMTc2Mz
+MxNTQxNCwyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3Njcy
+MjYsLTE5OTI1NjM4MDEsNjkxNDY2ODkxLC0yOTYwNjk3Myw2Mz
+QzNTUyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjExMDYz
+ODAxNiwtMTQ0NzM0MTk1MiwtMTIzNzEyMTQyOCw1Mjk2ODgwMz
+QsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2NjExLC05
+MzIxNjg3MDVdfQ==
 -->
