@@ -681,7 +681,9 @@ AI分析问题原因并自动完成代码修改和功能验证：
 > -   **后端**：运行在**网站服务器**，是网站的“大脑”和“引擎”。它负责处理前端发来的请求，进行复杂的逻辑计算和数据管理。比如，当你登录账号时，后端要核对密码；当你搜索商品时，后端要从海量数据库中快速找出结果；当你下单支付时，后端要安全地处理交易信息。它的主要目标是：**安全、稳定、高效地处理数据和逻辑**。
 > -   **两者结合**：前端和后端通过**接口**（像餐厅的前后厨传菜口）不断通信，共同为用户呈现一个完整、动态的网站或应用。
 
-接下来，我们将通过一个功能geng
+接下来，我们将通过一个功能更加完善的课堂测试系统来演示如何利用AI实现完整的前后端教学应用开发。
+
+工欲善其事必先利其器，
 
 
 
@@ -702,11 +704,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMjk2ODE1LDMzNjgzNDc4NSwxMzY3ND
-k4OSwxMzI1MDI0ODM2LC0yODk3NDkwNjQsNzc0MzA4MDQ0LC0x
-NTU3NTQyOTQsLTE0NDkyNzk0NDEsMTc0MzM1MTAzOSwtMTk3Mz
-Q2NDEzMCwtMzY3OTA3NDUyLC0xNzYzMzE1NDE0LDIwNjE1NTM3
-MzQsLTg0MTUwMTUyMywtMTQ5Nzc2NzIyNiwtMTk5MjU2MzgwMS
-w2OTE0NjY4OTEsLTI5NjA2OTczLDYzNDM1NTI5MywtODQ1MTQ1
-MDk5XX0=
+eyJoaXN0b3J5IjpbLTMzMDcyNTIxMywzMzY4MzQ3ODUsMTM2Nz
+Q5ODksMTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwODA0NCwt
+MTU1NzU0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEwMzksLTE5Nz
+M0NjQxMzAsLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNCwyMDYxNTUz
+NzM0LC04NDE1MDE1MjMsLTE0OTc3NjcyMjYsLTE5OTI1NjM4MD
+EsNjkxNDY2ODkxLC0yOTYwNjk3Myw2MzQzNTUyOTMsLTg0NTE0
+NTA5OV19
 -->
