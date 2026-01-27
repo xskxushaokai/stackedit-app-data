@@ -548,7 +548,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ```
 
 2. 网页生成与优化
-豆包首次生成的网页如下，模拟实验操作，拖动滑块调整a、b、c三个系数的值，函数图像实时变化，对称轴、顶点、坐标轴交点等均实时更新，实现了我们提出的所有功能需求。但我们发现，在调整系数的过程中，函数图像的顶点、坐标轴交点等容易。
+豆包首次生成的网页如下，模拟实验操作，拖动滑块调整a、b、c三个系数的值，函数图像实时变化，对称轴、顶点、坐标轴交点等均实时更新，实现了我们提出的所有功能需求。但我们发现，在调整系数的过程中，函数图像的顶点、坐标轴交点等容易超出当前坐标系的可见区域，不便于观测，因此可以修改代码，增加坐标系缩放的功能，。
 ![输入图片说明](/imgs/2026-01-26/dpZYXm91jFKYShD8.png)
 
 ```
@@ -680,7 +680,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mjg5OTczNSwtODQxNTAxNTIzLC0xND
+eyJoaXN0b3J5IjpbMjA2MTU1MzczNCwtODQxNTAxNTIzLC0xND
 k3NzY3MjI2LC0xOTkyNTYzODAxLDY5MTQ2Njg5MSwtMjk2MDY5
 NzMsNjM0MzU1MjkzLC04NDUxNDUwOTksLTEzMTg2MTExNTcsLT
 IxMTA2MzgwMTYsLTE0NDczNDE5NTIsLTEyMzcxMjE0MjgsNTI5
