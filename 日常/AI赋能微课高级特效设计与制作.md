@@ -547,7 +547,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 整体视觉体验舒适，无冗余元素，知识点展示区排版整齐易读
 ```
 
-7. 网页生成与优化
+2. 网页生成与优化
 豆包首次生成的网页如下，模拟实验操作，拖动滑块调整a、b、c三个系数的值，函数图像实时变化，对称轴、顶点、坐标轴交点等均实时更新，实现了我们提出的所有功能需求。但我们发现，在调整系数的过程中，函数图像的顶点、坐标轴交点等容易超出当前坐标系的可见区域，不便于观测，因此可以修改代码，增加坐标系缩放和平移的功能。
 ![输入图片说明](/imgs/2026-01-26/dpZYXm91jFKYShD8.png)
 
@@ -556,6 +556,8 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 1. 当鼠标停在二维坐标区域时，滚动滚轮可以对坐标系进行缩放，坐标系中所有显示的内容也同步缩放 
 2. 当鼠标拖动二维坐标背景区域时，坐标系随鼠标拖动进行平移，坐标系中所有显示的内容也同步平移
 ```
+
+
 
 
 
@@ -678,11 +680,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTI0NDY0OSwyMDYxNTUzNzM0LC04ND
-E1MDE1MjMsLTE0OTc3NjcyMjYsLTE5OTI1NjM4MDEsNjkxNDY2
-ODkxLC0yOTYwNjk3Myw2MzQzNTUyOTMsLTg0NTE0NTA5OSwtMT
-MxODYxMTE1NywtMjExMDYzODAxNiwtMTQ0NzM0MTk1MiwtMTIz
-NzEyMTQyOCw1Mjk2ODgwMzQsMTAwOTEzNTkzNSwxOTgzNTc3Mj
-E3LC0xNjc1OTE2NjExLC05MzIxNjg3MDUsLTE1ODU2ODUzMywt
-OTE5MTQ5MzE1XX0=
+eyJoaXN0b3J5IjpbLTE3NjMzMTU0MTQsMjA2MTU1MzczNCwtOD
+QxNTAxNTIzLC0xNDk3NzY3MjI2LC0xOTkyNTYzODAxLDY5MTQ2
+Njg5MSwtMjk2MDY5NzMsNjM0MzU1MjkzLC04NDUxNDUwOTksLT
+EzMTg2MTExNTcsLTIxMTA2MzgwMTYsLTE0NDczNDE5NTIsLTEy
+MzcxMjE0MjgsNTI5Njg4MDM0LDEwMDkxMzU5MzUsMTk4MzU3Nz
+IxNywtMTY3NTkxNjYxMSwtOTMyMTY4NzA1LC0xNTg1Njg1MzMs
+LTkxOTE0OTMxNV19
 -->
