@@ -686,7 +686,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 工欲善其事必先利其器，由于前后端共同开发涉及到的代码量和文件数量略有增加，且涉及到接口调用和通信，所以我们不再使用网页版的豆包应用生成平台，而是使用专业的代码编辑器来完成应用开发。目前国内使用较多的集成了AI功能的编辑器主要有TRAE、VS Code、ClaudeCode、Cursor 等，我们使用TRAE来进行教学应用开发。
 
 通过官网下载（https://www.trae.cn/）安装包，
-
+![输入图片说明](/imgs/2026-01-27/1NVgDmzTVSAOS1Cb.png)
 
 
 
@@ -706,11 +706,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDQ0MzkxMywtOTQ2NjIzMDY1LDMzNj
-gzNDc4NSwxMzY3NDk4OSwxMzI1MDI0ODM2LC0yODk3NDkwNjQs
-Nzc0MzA4MDQ0LC0xNTU3NTQyOTQsLTE0NDkyNzk0NDEsMTc0Mz
-M1MTAzOSwtMTk3MzQ2NDEzMCwtMzY3OTA3NDUyLC0xNzYzMzE1
-NDE0LDIwNjE1NTM3MzQsLTg0MTUwMTUyMywtMTQ5Nzc2NzIyNi
-wtMTk5MjU2MzgwMSw2OTE0NjY4OTEsLTI5NjA2OTczLDYzNDM1
-NTI5M119
+eyJoaXN0b3J5IjpbMzgzMDkxNDQzLC05NDY2MjMwNjUsMzM2OD
+M0Nzg1LDEzNjc0OTg5LDEzMjUwMjQ4MzYsLTI4OTc0OTA2NCw3
+NzQzMDgwNDQsLTE1NTc1NDI5NCwtMTQ0OTI3OTQ0MSwxNzQzMz
+UxMDM5LC0xOTczNDY0MTMwLC0zNjc5MDc0NTIsLTE3NjMzMTU0
+MTQsMjA2MTU1MzczNCwtODQxNTAxNTIzLC0xNDk3NzY3MjI2LC
+0xOTkyNTYzODAxLDY5MTQ2Njg5MSwtMjk2MDY5NzMsNjM0MzU1
+MjkzXX0=
 -->
