@@ -679,7 +679,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 > -   **前端**：运行在**用户浏览器**，关心 **“看起来怎么样”** 和 **“用起来怎么样”**。就像餐厅的用餐区和服务员。
 > -   **后端**：运行在**网站服务器**，关心 **“数据怎么存”** 和 **“逻辑怎么跑”**。就像餐厅的后厨和管理系统。
-> -   **两者结合**：前端和后端通过**接口**（像餐厅的前后厨传菜口）不断通信，共同为呈现一个完整、动态的网站或应用。
+> -   **两者结合**：前端和后端通过**接口**（像餐厅的前后厨传菜口）不断通信，共同为用户呈现一个完整、动态的网站或应用。
 
 
 # 附：其他可选案例
@@ -698,11 +698,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Njc5OTAwNCwxMzI1MDI0ODM2LC0yOD
-k3NDkwNjQsNzc0MzA4MDQ0LC0xNTU3NTQyOTQsLTE0NDkyNzk0
-NDEsMTc0MzM1MTAzOSwtMTk3MzQ2NDEzMCwtMzY3OTA3NDUyLC
-0xNzYzMzE1NDE0LDIwNjE1NTM3MzQsLTg0MTUwMTUyMywtMTQ5
-Nzc2NzIyNiwtMTk5MjU2MzgwMSw2OTE0NjY4OTEsLTI5NjA2OT
-czLDYzNDM1NTI5MywtODQ1MTQ1MDk5LC0xMzE4NjExMTU3LC0y
-MTEwNjM4MDE2XX0=
+eyJoaXN0b3J5IjpbMTM2NzQ5ODksMTMyNTAyNDgzNiwtMjg5Nz
+Q5MDY0LDc3NDMwODA0NCwtMTU1NzU0Mjk0LC0xNDQ5Mjc5NDQx
+LDE3NDMzNTEwMzksLTE5NzM0NjQxMzAsLTM2NzkwNzQ1MiwtMT
+c2MzMxNTQxNCwyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3
+NjcyMjYsLTE5OTI1NjM4MDEsNjkxNDY2ODkxLC0yOTYwNjk3My
+w2MzQzNTUyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjEx
+MDYzODAxNl19
 -->
