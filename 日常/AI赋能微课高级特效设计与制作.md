@@ -564,7 +564,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 对外观进行优化，让函数图像容器中的画布区域纵向高度值增大，坐标系画布填满整个容器，下方不留空白
 ```
 
-外观优化后：
+外观优化后，画布区域纵向高度变大，显示的坐标系范围也更大了：
 ![输入图片说明](/imgs/2026-01-27/aSyvrAjOeadfGDfr.png)
 
 
@@ -687,11 +687,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzOTg2NTksLTM2NzkwNzQ1MiwtMTc2Mz
-MxNTQxNCwyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3Njcy
-MjYsLTE5OTI1NjM4MDEsNjkxNDY2ODkxLC0yOTYwNjk3Myw2Mz
-QzNTUyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjExMDYz
-ODAxNiwtMTQ0NzM0MTk1MiwtMTIzNzEyMTQyOCw1Mjk2ODgwMz
-QsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2NjExLC05
-MzIxNjg3MDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NzM0NjQxMzAsLTM2NzkwNzQ1MiwtMT
+c2MzMxNTQxNCwyMDYxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3
+NjcyMjYsLTE5OTI1NjM4MDEsNjkxNDY2ODkxLC0yOTYwNjk3My
+w2MzQzNTUyOTMsLTg0NTE0NTA5OSwtMTMxODYxMTE1NywtMjEx
+MDYzODAxNiwtMTQ0NzM0MTk1MiwtMTIzNzEyMTQyOCw1Mjk2OD
+gwMzQsMTAwOTEzNTkzNSwxOTgzNTc3MjE3LC0xNjc1OTE2NjEx
+LC05MzIxNjg3MDVdfQ==
 -->
