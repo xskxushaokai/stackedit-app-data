@@ -559,7 +559,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 豆包增加坐标系平移和缩放功能：
 ![输入图片说明](/imgs/2026-01-27/rCzzA7JJbNfrv1xT.png)
 
-最后对外观进行优化，让函数图像容器中的画布区域纵向高度值增大，填满整个容器
+最后对外观进行优化，让函数图像容器中的画布区域纵向高度值增大，坐标系画布填满整个容器，下方不留空白
 
 
 
@@ -682,7 +682,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDQ3ODI4MywtMTc2MzMxNTQxNCwyMD
+eyJoaXN0b3J5IjpbLTM2NzkwNzQ1MiwtMTc2MzMxNTQxNCwyMD
 YxNTUzNzM0LC04NDE1MDE1MjMsLTE0OTc3NjcyMjYsLTE5OTI1
 NjM4MDEsNjkxNDY2ODkxLC0yOTYwNjk3Myw2MzQzNTUyOTMsLT
 g0NTE0NTA5OSwtMTMxODYxMTE1NywtMjExMDYzODAxNiwtMTQ0
