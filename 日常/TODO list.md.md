@@ -617,7 +617,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 ## 初二期末
 - 211张龙文，代表学校参加东莞市校园朗读者决赛（补成绩后，参与奖学金评选）
 - 8班陈昕玥已转学，不计入成绩分析
-- 23班的刘雨浩不计成绩分析，只保留个人成绩
+- 23班的刘雨浩不计成绩分析，只保留个人成绩（以后均是）
 - 语文成绩，填空1+填空2满分8分，最高分10分，超过8分进行截断。
 - 期末考试的级组，班级总分排名，需要用于优秀级组和文明班级评比，优先整理后发
 - 
@@ -627,11 +627,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzAzMDEyOSwzMzE4MDEwNzksMTQyMT
-Y5MzM2LDcwNTE2MjE3NSwxOTAzOTQ2NTQ5LC0xMTAwODkzNTk4
-LC0xNjc1NDYxMjExLDEwNTc4NzY4MzQsLTE1NDY3ODk1NDAsLT
-M3MjE1ODEyNCwtMTE5ODg1OTQzNCwyMDMwMjU5MjY2LDE0Mzkz
-NTM0NjIsLTEwMTQ3MjcxMTIsNTcwOTU1MTY3LDk5MDg1MDEzOC
-wtMjA1NTk0NzY4NSwtMTY2OTg2NTE2NSwxMzM0MTg4NDYzLDE2
-MjQzMjIyOV19
+eyJoaXN0b3J5IjpbLTY2OTI3MjQxNSwxNTEzMDMwMTI5LDMzMT
+gwMTA3OSwxNDIxNjkzMzYsNzA1MTYyMTc1LDE5MDM5NDY1NDks
+LTExMDA4OTM1OTgsLTE2NzU0NjEyMTEsMTA1Nzg3NjgzNCwtMT
+U0Njc4OTU0MCwtMzcyMTU4MTI0LC0xMTk4ODU5NDM0LDIwMzAy
+NTkyNjYsMTQzOTM1MzQ2MiwtMTAxNDcyNzExMiw1NzA5NTUxNj
+csOTkwODUwMTM4LC0yMDU1OTQ3Njg1LC0xNjY5ODY1MTY1LDEz
+MzQxODg0NjNdfQ==
 -->
