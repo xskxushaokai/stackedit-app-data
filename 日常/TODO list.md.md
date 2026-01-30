@@ -567,7 +567,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ] 核心技术学习
 - [ ] deepseek Engram架构《Conditional Memory via Scalable Lookup》
 
-- [ ] 新paper、模型跟进（SAM 3D等）
+- [ ] 新paper、模型跟进（SAM 3D等），lingbot
 
 - [ ] Infographic（蚂蚁开源可视化图表）
 - [ ] 其他优秀项目（一键克隆网站(orchilds.app)，免费API汇总(github: public-apis)）
@@ -631,11 +631,11 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjE5NDM0MywtMjA2MDMxMzU0MywxNT
-EzMDMwMTI5LDMzMTgwMTA3OSwxNDIxNjkzMzYsNzA1MTYyMTc1
-LDE5MDM5NDY1NDksLTExMDA4OTM1OTgsLTE2NzU0NjEyMTEsMT
-A1Nzg3NjgzNCwtMTU0Njc4OTU0MCwtMzcyMTU4MTI0LC0xMTk4
-ODU5NDM0LDIwMzAyNTkyNjYsMTQzOTM1MzQ2MiwtMTAxNDcyNz
-ExMiw1NzA5NTUxNjcsOTkwODUwMTM4LC0yMDU1OTQ3Njg1LC0x
-NjY5ODY1MTY1XX0=
+eyJoaXN0b3J5IjpbLTE2ODAwNDQyODYsMjA1MjE5NDM0MywtMj
+A2MDMxMzU0MywxNTEzMDMwMTI5LDMzMTgwMTA3OSwxNDIxNjkz
+MzYsNzA1MTYyMTc1LDE5MDM5NDY1NDksLTExMDA4OTM1OTgsLT
+E2NzU0NjEyMTEsMTA1Nzg3NjgzNCwtMTU0Njc4OTU0MCwtMzcy
+MTU4MTI0LC0xMTk4ODU5NDM0LDIwMzAyNTkyNjYsMTQzOTM1Mz
+Q2MiwtMTAxNDcyNzExMiw1NzA5NTUxNjcsOTkwODUwMTM4LC0y
+MDU1OTQ3Njg1XX0=
 -->
