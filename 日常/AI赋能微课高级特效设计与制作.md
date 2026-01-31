@@ -405,7 +405,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 - 支持暗色/亮色模式切换，提升不同使用场景下的视觉体验
 ```
 
-7. 网页生成与优化
+2. 网页生成与优化
 豆包首次生成的网页页面如下：
 ![输入图片说明](/imgs/2026-01-19/cFbDSj0cIEbWb1fM.png)
 
@@ -725,11 +725,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODUwODM0NiwtNTE0MjYyNiw3NzQ4MD
-Y5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcxMTgs
-OTI0MDQxMTY1LC0xNzU1NDAxODgyLC02MzQ1MzY1NzgsMzgzMD
-kxNDQzLC05NDY2MjMwNjUsMzM2ODM0Nzg1LDEzNjc0OTg5LDEz
-MjUwMjQ4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDQsLTE1NTc1ND
-I5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUxMDM5LC0xOTczNDY0MTMw
-XX0=
+eyJoaXN0b3J5IjpbLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01MT
+QyNjI2LDc3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIs
+MTgyMjkwNzExOCw5MjQwNDExNjUsLTE3NTU0MDE4ODIsLTYzND
+UzNjU3OCwzODMwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3ODUs
+MTM2NzQ5ODksMTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwOD
+A0NCwtMTU1NzU0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEwMzld
+fQ==
 -->
