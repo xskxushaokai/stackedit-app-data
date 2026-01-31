@@ -709,7 +709,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 以上准备工作都完成之后，就可以通过右侧的AI协作窗口开始课堂测试系统的开发。
 
 1. 课堂测试内容准备
-
+新建word文档，将课堂测试题目按照合理的格式
 
 
 # 附：其他可选案例
@@ -728,11 +728,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODIzMjg3NywtMTEwMjk3NDc0OCwzOD
-YxOTYzNTgsLTE2NjQyNzUxODQsMzU3NzMwNzA4LC00MjA1ODY4
-NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3NzQ4MDY5LC0xNTMzMT
-E5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcxMTgsOTI0MDQxMTY1
-LC0xNzU1NDAxODgyLC02MzQ1MzY1NzgsMzgzMDkxNDQzLC05ND
-Y2MjMwNjUsMzM2ODM0Nzg1LDEzNjc0OTg5LDEzMjUwMjQ4MzZd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NDYyNzQ4ODYsLTk5ODIzMjg3NywtMT
+EwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3NzMw
+NzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3Nz
+Q4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcx
+MTgsOTI0MDQxMTY1LC0xNzU1NDAxODgyLC02MzQ1MzY1NzgsMz
+gzMDkxNDQzLC05NDY2MjMwNjUsMzM2ODM0Nzg1LDEzNjc0OTg5
+XX0=
 -->
