@@ -72,7 +72,7 @@
 3. **代码编辑器TRAE**（https://www.trae.cn/）
 TRAE是字节跳动公司推出的一款革新性的智能开发工具，让不会编程的人也能轻松创建网页和应用。其核心亮点是AI智能体助手。就像有一位经验丰富的程序员坐在你身边，你只需用日常语言描述想法，比如"帮我做一个产品展示页面，要有轮播图和联系表单"，AI智能体就会自动帮你：自动生成HTML、CSS、JavaScript等网页代码；调试修改，发现问题并即时修复；用通俗语言告诉你每部分的作用。TRAE把"说出想法"到"看到成品网页"的过程变得像聊天一样简单，让创意不再受技术门槛限制。
 
-通过以上讲解，相信读者对利用AI工具制作课堂交互式网页有了更深入的了解。接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
+接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
 
 ## 二. 案例1. 简单的课堂点名系统
 课堂上，教师常需要通过点名提问的方式来及时了解学生的知识掌握情况。AI工具的出现之前，使得教师根据自己的课堂需求来定制点名系统成为可能。以下展示了使用豆包应用生成平台定制课堂点名系统的过程。
@@ -728,11 +728,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODExMzM3NywtMTY2NDI3NTE4NCwzNT
-c3MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2
-LDc3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMj
-kwNzExOCw5MjQwNDExNjUsLTE3NTU0MDE4ODIsLTYzNDUzNjU3
-OCwzODMwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3ODUsMTM2Nz
-Q5ODksMTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwODA0NF19
+eyJoaXN0b3J5IjpbMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1Nz
+czMDcwOCwtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYs
+Nzc0ODA2OSwtMTUzMzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOT
+A3MTE4LDkyNDA0MTE2NSwtMTc1NTQwMTg4MiwtNjM0NTM2NTc4
+LDM4MzA5MTQ0MywtOTQ2NjIzMDY1LDMzNjgzNDc4NSwxMzY3ND
+k4OSwxMzI1MDI0ODM2LC0yODk3NDkwNjQsNzc0MzA4MDQ0XX0=
 
 -->
