@@ -66,7 +66,7 @@
 1. **豆包应用生成平台**（https://www.doubao.com/code/chat）
 用户借助豆包应用平台可以快速开发交互式网页，只需向AI描述自己想要创建的网页外观和功能，豆包会根据任务要求自动规划实现步骤（可能的步骤包含联网搜索、图片生成、代码编写、运行测试等），并按照步骤逐个完成，最终交付满足用户需求的网页代码。用户可以直接在豆包平台中预览AI创作的网页并进行测试和应用的版本管理，此外，豆包应用生成平台还提供了网页的公开分享功能，教师通过右上角的分享按钮可以一键将自己的作品设置为可公开访问，在进行授课时，通过url链接即可一键打开交互式网页直接使用，非常方便。当然，用户也可以将AI完成的网页代码下载到本地，从而可在无网络的环境中随时打开网页。
 
-2. **阶跃AI桌面助手**
+2. **阶跃AI桌面助手**（https://www.stepfun.com/download）
 阶跃AI桌面助手是由阶跃星辰(StepFun)开发的桌面智能体应用，搭载自研AI模型。它具备深度思考、工具协同和自适应能力，可以帮用户完成网络搜索、文件管理、Excel操作、代码执行、浏览器自动化等多种任务。支持多语言交流，回复简洁直接，是Windows/Mac电脑上的高效智能助理。
 
 通过以上讲解，相信读者对利用AI工具制作课堂交互式网页有了更深入的了解。接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
@@ -725,11 +725,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0OTIzOTYyLDM1NzczMDcwOCwtNDIwNT
-g2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUz
-MzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0MT
-E2NSwtMTc1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5MTQ0Mywt
-OTQ2NjIzMDY1LDMzNjgzNDc4NSwxMzY3NDk4OSwxMzI1MDI0OD
-M2LC0yODk3NDkwNjQsNzc0MzA4MDQ0LC0xNTU3NTQyOTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NjQyNzUxODQsMzU3NzMwNzA4LC00Mj
+A1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3NzQ4MDY5LC0x
+NTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcxMTgsOTI0MD
+QxMTY1LC0xNzU1NDAxODgyLC02MzQ1MzY1NzgsMzgzMDkxNDQz
+LC05NDY2MjMwNjUsMzM2ODM0Nzg1LDEzNjc0OTg5LDEzMjUwMj
+Q4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDQsLTE1NTc1NDI5NF19
 
 -->
