@@ -183,7 +183,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
   使用如下提示词让AI进一步优化：
 ```
 两点优化需求：
-1. 将A头像和B头像改为无明显性格特征的小动物或卡通图案；
+1. 将A头像和B头像改为无明显性别特征的小动物或卡通图案；
 2. 问题修复：学生在第一次置为已打卡状态后，再次点击该学生头像，头像的状态不会翻转为未打卡，而右上角的已打卡人数统计会减一。修改代码，再次点击头像时，学生打卡状态翻转，同时更新已打卡人数。
 ```
 优化后，得到V2版本的课堂打卡系统
@@ -728,11 +728,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI5NzQ3NDgsMzg2MTk2MzU4LC0xNj
-Y0Mjc1MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LDE4Nzg1MDgz
-NDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzExOTk4NCwtMTU3NT
-EyMTAxMiwxODIyOTA3MTE4LDkyNDA0MTE2NSwtMTc1NTQwMTg4
-MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIzMDY1LDMzNj
-gzNDc4NSwxMzY3NDk4OSwxMzI1MDI0ODM2LC0yODk3NDkwNjRd
+eyJoaXN0b3J5IjpbLTk5ODIzMjg3NywtMTEwMjk3NDc0OCwzOD
+YxOTYzNTgsLTE2NjQyNzUxODQsMzU3NzMwNzA4LC00MjA1ODY4
+NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3NzQ4MDY5LC0xNTMzMT
+E5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcxMTgsOTI0MDQxMTY1
+LC0xNzU1NDAxODgyLC02MzQ1MzY1NzgsMzgzMDkxNDQzLC05ND
+Y2MjMwNjUsMzM2ODM0Nzg1LDEzNjc0OTg5LDEzMjUwMjQ4MzZd
 fQ==
 -->
