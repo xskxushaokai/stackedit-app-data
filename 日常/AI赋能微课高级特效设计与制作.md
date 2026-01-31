@@ -573,7 +573,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 
 ## 八. 案例7 使用桌面智能体制作课堂测试网页
 **阶跃AI桌面助手**
-阶跃AI桌面助手是由阶跃星辰(StepFun)开发的智能桌面应用，搭载自研AI模型。它具备深度思考、工具协同和自适应能力，可以帮用户完成网络搜索、文件管理、Excel操作、代码执行、浏览器自动化等多种任务。支持多语言交流，回复简洁直接，是Windows/Mac电脑上的高效智能助理。
+阶跃AI桌面助手是由阶跃星辰(StepFun)开发的桌面智能体应用，搭载自研AI模型。它具备深度思考、工具协同和自适应能力，可以帮用户完成网络搜索、文件管理、Excel操作、代码执行、浏览器自动化等多种任务。支持多语言交流，回复简洁直接，是Windows/Mac电脑上的高效智能助理。
 
 ![输入图片说明](/imgs/2026-01-26/F5S6KgWaJOZZhAxD.png)
 
@@ -725,11 +725,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NzMwNzA4LC00MjA1ODY4NDksMTg3OD
-UwODM0NiwtNTE0MjYyNiw3NzQ4MDY5LC0xNTMzMTE5OTg0LC0x
-NTc1MTIxMDEyLDE4MjI5MDcxMTgsOTI0MDQxMTY1LC0xNzU1ND
-AxODgyLC02MzQ1MzY1NzgsMzgzMDkxNDQzLC05NDY2MjMwNjUs
-MzM2ODM0Nzg1LDEzNjc0OTg5LDEzMjUwMjQ4MzYsLTI4OTc0OT
-A2NCw3NzQzMDgwNDQsLTE1NTc1NDI5NCwtMTQ0OTI3OTQ0MV19
+eyJoaXN0b3J5IjpbNzE4OTYyMjM5LDM1NzczMDcwOCwtNDIwNT
+g2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUz
+MzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0MT
+E2NSwtMTc1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5MTQ0Mywt
+OTQ2NjIzMDY1LDMzNjgzNDc4NSwxMzY3NDk4OSwxMzI1MDI0OD
+M2LC0yODk3NDkwNjQsNzc0MzA4MDQ0LC0xNTU3NTQyOTRdfQ==
 
 -->
