@@ -131,7 +131,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 ![输入图片说明](/imgs/2026-01-12/9FlKZf30eLFS9PfR.png)
 
  5. 应用分享
- 经多次与AI沟通修改，应用实现了我们指定的功能且使用过程中没有漏洞后，便可以将应用进行公开。通过应用预览界面右上角的“分享”按钮可以一键公开应用并获取访问链接。将链接插入到教学课件中便可以在联网授课的环境中便捷地访问我们开发的点名系统。
+经多次与AI沟通修改，应用实现了我们指定的功能且使用过程中没有漏洞后，便可以将应用进行公开。通过应用预览界面右上角的“分享”按钮可以一键公开应用并获取访问链接。将链接插入到教学课件中便可以在联网授课的环境中便捷地访问我们开发的点名系统。
  
  将点名系统公开分享![输入图片说明](/imgs/2026-01-13/beEkWCr70XPrL6xb.png)
 
@@ -725,11 +725,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzExOT
-k4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0MTE2NSwt
-MTc1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2Nj
-IzMDY1LDMzNjgzNDc4NSwxMzY3NDk4OSwxMzI1MDI0ODM2LC0y
-ODk3NDkwNjQsNzc0MzA4MDQ0LC0xNTU3NTQyOTQsLTE0NDkyNz
-k0NDEsMTc0MzM1MTAzOSwtMTk3MzQ2NDEzMCwtMzY3OTA3NDUy
+eyJoaXN0b3J5IjpbMTg3ODUwODM0NiwtNTE0MjYyNiw3NzQ4MD
+Y5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcxMTgs
+OTI0MDQxMTY1LC0xNzU1NDAxODgyLC02MzQ1MzY1NzgsMzgzMD
+kxNDQzLC05NDY2MjMwNjUsMzM2ODM0Nzg1LDEzNjc0OTg5LDEz
+MjUwMjQ4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDQsLTE1NTc1ND
+I5NCwtMTQ0OTI3OTQ0MSwxNzQzMzUxMDM5LC0xOTczNDY0MTMw
 XX0=
 -->
