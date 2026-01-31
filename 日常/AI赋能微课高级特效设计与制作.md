@@ -69,8 +69,7 @@
 2. **阶跃AI桌面助手**（https://www.stepfun.com/download）
 阶跃AI桌面助手是由阶跃星辰(StepFun)开发的桌面智能体应用，搭载自研AI模型。它具备深度思考、工具协同和自适应能力，可以帮用户完成网络搜索、文件管理、Excel操作、代码执行、浏览器自动化等多种任务。支持多语言交流，回复简洁直接，是Windows/Mac电脑上的高效智能助理。
 
-<![if !supportLists]>3. <![endif]>**代码编辑器TRAE（https://www.trae.cn/）**
-
+3. **代码编辑器TRAE**（https://www.trae.cn/）
 TRAE是字节跳动公司推出的一款革新性的智能开发工具，让不会编程的人也能轻松创建网页和应用。其核心亮点是AI智能体助手。就像有一位经验丰富的程序员坐在你身边，你只需用日常语言描述想法，比如"帮我做一个产品展示页面，要有轮播图和联系表单"，AI智能体就会自动帮你：自动生成HTML、CSS、JavaScript等网页代码；调试修改，发现问题并即时修复；用通俗语言告诉你每部分的作用。TRAE把"说出想法"到"看到成品网页"的过程变得像聊天一样简单，让创意不再受技术门槛限制。
 
 通过以上讲解，相信读者对利用AI工具制作课堂交互式网页有了更深入的了解。接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
@@ -729,11 +728,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg0MTU4NTcsLTE2NjQyNzUxODQsMz
-U3NzMwNzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYy
-Niw3NzQ4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4Mj
-I5MDcxMTgsOTI0MDQxMTY1LC0xNzU1NDAxODgyLC02MzQ1MzY1
-NzgsMzgzMDkxNDQzLC05NDY2MjMwNjUsMzM2ODM0Nzg1LDEzNj
-c0OTg5LDEzMjUwMjQ4MzYsLTI4OTc0OTA2NCw3NzQzMDgwNDRd
-fQ==
+eyJoaXN0b3J5IjpbLTM3ODExMzM3NywtMTY2NDI3NTE4NCwzNT
+c3MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2
+LDc3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMj
+kwNzExOCw5MjQwNDExNjUsLTE3NTU0MDE4ODIsLTYzNDUzNjU3
+OCwzODMwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3ODUsMTM2Nz
+Q5ODksMTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwODA0NF19
+
 -->
