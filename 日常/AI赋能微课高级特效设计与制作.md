@@ -71,11 +71,9 @@
 通过以上讲解，相信读者对利用AI工具制作课堂交互式网页有了更深入的了解。接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
 
 ## 二. 案例1. 简单的课堂点名系统
-课堂上，教师常需要通过点名提问的方式来及时了解学生的知识掌握情况。AI工具的出现之前，使得教师根据自己的课堂需求来定制点名系统成为可能。以下展示了使用AI工具定制课堂点名系统的过程。
+课堂上，教师常需要通过点名提问的方式来及时了解学生的知识掌握情况。AI工具的出现之前，使得教师根据自己的课堂需求来定制点名系统成为可能。以下展示了使用豆包应用生成平台定制课堂点名系统的过程。
 
-- **AI工具**
-**豆包应用生成平台**（https://www.doubao.com/code/chat）
-用户也可以进入豆包首页，通过左边侧边栏中 - “更多” - “应用生成”进入豆包应用生成平台
+用户可以进入豆包首页，通过左边侧边栏中 - “更多” - “应用生成”进入豆包应用生成平台
 ![输入图片说明](/imgs/2026-01-12/MDLQWYGl8piPCDD3.png)
 
 - **制作步骤**
@@ -727,11 +725,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0ODA2OSwtMTUzMzExOTk4NCwtMTU3NT
-EyMTAxMiwxODIyOTA3MTE4LDkyNDA0MTE2NSwtMTc1NTQwMTg4
-MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIzMDY1LDMzNj
-gzNDc4NSwxMzY3NDk4OSwxMzI1MDI0ODM2LC0yODk3NDkwNjQs
-Nzc0MzA4MDQ0LC0xNTU3NTQyOTQsLTE0NDkyNzk0NDEsMTc0Mz
-M1MTAzOSwtMTk3MzQ2NDEzMCwtMzY3OTA3NDUyLC0xNzYzMzE1
-NDE0XX0=
+eyJoaXN0b3J5IjpbLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzExOT
+k4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0MTE2NSwt
+MTc1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2Nj
+IzMDY1LDMzNjgzNDc4NSwxMzY3NDk4OSwxMzI1MDI0ODM2LC0y
+ODk3NDkwNjQsNzc0MzA4MDQ0LC0xNTU3NTQyOTQsLTE0NDkyNz
+k0NDEsMTc0MzM1MTAzOSwtMTk3MzQ2NDEzMCwtMzY3OTA3NDUy
+XX0=
 -->
