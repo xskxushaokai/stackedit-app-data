@@ -469,7 +469,7 @@ AI生成的网页应用有时也会存在漏洞（BUG），所以需要教师根
 豆包针对植树可视化容器优化后：
 ![输入图片说明](/imgs/2026-01-20/EUekCGmZBjqNOHTn.png)
 
-点击“编辑”，选中四种模式公式总结容器，输入以下提示词：
+点击“编辑”，选中“四种模式公式总结”容器，输入以下提示词：
 ```
 将“公式总结区域”横向充满整个网页，同时，四种模式放在同一行
 ```
@@ -725,11 +725,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01MT
-QyNjI2LDc3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIs
-MTgyMjkwNzExOCw5MjQwNDExNjUsLTE3NTU0MDE4ODIsLTYzND
-UzNjU3OCwzODMwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3ODUs
-MTM2NzQ5ODksMTMyNTAyNDgzNiwtMjg5NzQ5MDY0LDc3NDMwOD
-A0NCwtMTU1NzU0Mjk0LC0xNDQ5Mjc5NDQxLDE3NDMzNTEwMzld
-fQ==
+eyJoaXN0b3J5IjpbMzU3NzMwNzA4LC00MjA1ODY4NDksMTg3OD
+UwODM0NiwtNTE0MjYyNiw3NzQ4MDY5LC0xNTMzMTE5OTg0LC0x
+NTc1MTIxMDEyLDE4MjI5MDcxMTgsOTI0MDQxMTY1LC0xNzU1ND
+AxODgyLC02MzQ1MzY1NzgsMzgzMDkxNDQzLC05NDY2MjMwNjUs
+MzM2ODM0Nzg1LDEzNjc0OTg5LDEzMjUwMjQ4MzYsLTI4OTc0OT
+A2NCw3NzQzMDgwNDQsLTE1NTc1NDI5NCwtMTQ0OTI3OTQ0MV19
+
 -->
