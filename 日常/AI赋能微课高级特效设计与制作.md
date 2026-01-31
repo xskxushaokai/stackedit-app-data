@@ -712,7 +712,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 整理课堂测试题目，将题目、解析、答案按照合理的格式保存在markdown文档或word文档中，这里以中学生信息学奥赛练习题为例。
 
 2. 功能设计和提示词整理
-一个完整的课堂系统通常需包含的基本功能有：学生通过网页进行选择题的选项勾选
+一个完整的课堂系统通常需包含的基本功能有：学生通过网页进行选择题的选项勾选、论述的文字阐述、解答题的计算过程输入、编程题的代码提交等
 
 
 # 附：其他可选案例
@@ -731,7 +731,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAxMTk1NjEsLTk5ODIzMjg3NywtMT
+eyJoaXN0b3J5IjpbLTEzNDc4OTQyMzksLTk5ODIzMjg3NywtMT
 EwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3NzMw
 NzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3Nz
 Q4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcx
