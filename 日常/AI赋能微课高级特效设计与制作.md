@@ -711,7 +711,8 @@ AI分析问题原因并自动完成代码修改和功能验证：
 1. 课堂测试内容准备
 整理课堂测试题目，将题目、解析、答案按照合理的格式保存在markdown文档或word文档中，这里以中学生信息学奥赛练习题为例。
 
-2. 需求设计he
+2. 功能设计和提示词整理
+
 
 
 # 附：其他可选案例
@@ -730,11 +731,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDU3NjY4LC05OTgyMzI4NzcsLTExMD
-I5NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcw
-OCwtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0OD
-A2OSwtMTUzMzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4
-LDkyNDA0MTE2NSwtMTc1NTQwMTg4MiwtNjM0NTM2NTc4LDM4Mz
-A5MTQ0MywtOTQ2NjIzMDY1LDMzNjgzNDc4NSwxMzY3NDk4OV19
-
+eyJoaXN0b3J5IjpbMTUzNDg2MTU3OCwtOTk4MjMyODc3LC0xMT
+AyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3MzA3
+MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2LDc3ND
+gwNjksLTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMjkwNzEx
+OCw5MjQwNDExNjUsLTE3NTU0MDE4ODIsLTYzNDUzNjU3OCwzOD
+MwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3ODUsMTM2NzQ5ODld
+fQ==
 -->
