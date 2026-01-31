@@ -75,7 +75,7 @@ TRAE是字节跳动公司推出的一款革新性的智能开发工具，让不�
 接下来的章节中，我们将通过几个实际案例，详细展示如何运用这些优势、要点、技巧和注意事项，制作出美观、易用的课堂交互式网页。
 
 ## 二. 案例1. 简单的课堂点名系统
-课堂上，教师常需要通过点名提问的方式来及时了解学生的知识掌握情况。AI工具的出现之前，使得教师根据自己的课堂需求来定制点名系统成为可能。以下展示了使用豆包应用生成平台定制课堂点名系统的过程。
+课堂上，教师常需要通过点名提问的方式来及时了解学生的知识掌握情况。AI工具的出现，使得教师根据自己的课堂需求来定制点名系统成为可能。以下展示了使用豆包应用生成平台定制课堂点名系统的过程。
 
 用户可以进入豆包首页，通过左边侧边栏中 - “更多” - “应用生成”进入豆包应用生成平台
 ![输入图片说明](/imgs/2026-01-12/MDLQWYGl8piPCDD3.png)
@@ -728,11 +728,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1Nz
-czMDcwOCwtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYs
-Nzc0ODA2OSwtMTUzMzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOT
-A3MTE4LDkyNDA0MTE2NSwtMTc1NTQwMTg4MiwtNjM0NTM2NTc4
-LDM4MzA5MTQ0MywtOTQ2NjIzMDY1LDMzNjgzNDc4NSwxMzY3ND
-k4OSwxMzI1MDI0ODM2LC0yODk3NDkwNjQsNzc0MzA4MDQ0XX0=
-
+eyJoaXN0b3J5IjpbLTExMDI5NzQ3NDgsMzg2MTk2MzU4LC0xNj
+Y0Mjc1MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LDE4Nzg1MDgz
+NDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzExOTk4NCwtMTU3NT
+EyMTAxMiwxODIyOTA3MTE4LDkyNDA0MTE2NSwtMTc1NTQwMTg4
+MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIzMDY1LDMzNj
+gzNDc4NSwxMzY3NDk4OSwxMzI1MDI0ODM2LC0yODk3NDkwNjRd
+fQ==
 -->
