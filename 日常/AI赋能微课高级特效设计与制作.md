@@ -1123,7 +1123,7 @@ http://[服务器的局域网IP]:3000
 ```
 ![输入图片说明](/imgs/2026-02-01/tIdHH8rh58HmkUF9.png)
 
-可以看到，AI自动执行了“ipconfig”命令来查看本机的ip地址，并对服务端代码server.js进行了修改，然后启动了服务。（windows系统防火墙相关设置用户可以根据AI给出的操作步骤自行完成设置）
+可以看到，AI自动执行了“ipconfig”命令来查看本机的ip地址，并对服务端代码 server.js 进行了修改，然后启动了服务。（windows系统防火墙相关设置用户可以根据AI给出的操作步骤自行完成设置）
 ![输入图片说明](/imgs/2026-02-01/7TdrLVbiEUML9wKv.png)
 
 最后，我们在浏览器地址栏输入局域网访问网址“http://192.168.0.106:3000”，即可进入课堂测试系统
@@ -1168,11 +1168,11 @@ http://[服务器的局域网IP]:3000
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzOTM1MTg4LDg0Njc3MDMyMSwxNzMwMT
-Q4NDQyLDE4MTIzMjQ5MywtOTA2MjUxMDk4LDIxMDEzOTQ1Nzks
-MTE5MTM0MTIyMCwtMTY5ODI2MjU4NywtODc1Njk4MTI3LDE1OD
-A1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcwMzYxLDEzNTIyODcz
-MDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIzODU2Ni
-w0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3NywtMTEw
-Mjk3NDc0OF19
+eyJoaXN0b3J5IjpbLTI5MDg1NDg2OCw4NDY3NzAzMjEsMTczMD
+E0ODQ0MiwxODEyMzI0OTMsLTkwNjI1MTA5OCwyMTAxMzk0NTc5
+LDExOTEzNDEyMjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNT
+gwNTA3OTE2LC0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3
+MzAxLC0xMTUyMjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1Nj
+YsNDUyNDMxNzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTEx
+MDI5NzQ3NDhdfQ==
 -->
