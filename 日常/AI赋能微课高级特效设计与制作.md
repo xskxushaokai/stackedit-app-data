@@ -701,20 +701,20 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 ![输入图片说明](/imgs/2026-01-27/tlqR5lzZrxfBooyx.png)
 
-在右侧的AI协作窗口中，TRAE中内置了四种AI智能体，分别是“chat”、“builder”、“Builder with MCP”、“SOLO Coder”，对于常规开发任务，选择“builder”即可，通过右下角的下拉箭头可以选择要使用的大模型，若读者对各个大模型不够了解，使用“Auto Mode”即可。
+在右侧的智能体协作窗口中，TRAE中内置了四种AI智能体，分别是“chat”、“builder”、“Builder with MCP”、“SOLO Coder”，对于常规开发任务，选择“builder”即可，通过右下角的下拉箭头可以选择要使用的大模型，若读者对各个大模型不够了解，使用“Auto Mode”即可。
 
 ![输入图片说明](/imgs/2026-01-27/PYirVXN0mvgSJEB5.png)
 ![输入图片说明](/imgs/2026-01-27/8ZXhuTsOhb21cCPL.png)
 
-以上准备工作都完成之后，就可以通过右侧的AI协作窗口开始课堂测试系统的开发。
+以上准备工作都完成之后，就可以通过右侧的智能体协作窗口开始课堂测试系统的开发。
 
 1. 课堂测试内容准备
-整理课堂测试题目，将题目、解析、答案按照合理的格式保存在markdown文档或word文档中，这里以中学生信息学奥赛练习题为例。
+整理课堂测试题目，将题目、解析、答案按照合理的格式保存在markdown文档或word文档中，这里以中学生信息学奥赛练习题为例，将题目整理排版后保存在wordw。
 
 2. 需求整理
 一个完整的课堂测试系统通常需包含的基本功能有：学生登录，输入学生个人信息并提交登录后开始测试；网页作答，学生通过网页进行选择题的选项勾选、论述的文字阐述等，可提交答案或上传文件；答案和分数反馈，学生提交答案后后台返回学生的分数、题目答案解析等内容；后台数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考；教师登录和管理，教师登录系统，查看学生作答情况，管理学生信息、管理测试信息等。
 
-在右侧输入以下提示词
+在右侧智能体写作窗口中输入以下提示词，并通过“#”引用
 ```
 我想要制作一个课堂测试系统网页，请为我生成详细设计方案，需要的功能如下：
 1.学生登录：输入学生个人信息（学号、姓名）登录；
@@ -763,11 +763,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTU5OTgxNCwtMTMxODIzODU2Niw0NT
-I0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3NywtMTEwMjk3
-NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3NzMwNzA4LC
-00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3NzQ4MDY5
-LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcxMTgsOT
-I0MDQxMTY1LC0xNzU1NDAxODgyLC02MzQ1MzY1NzgsMzgzMDkx
-NDQzXX0=
+eyJoaXN0b3J5IjpbLTE3ODUzMzcwODYsLTEzMTgyMzg1NjYsND
+UyNDMxNzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5
+NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOC
+wtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2
+OSwtMTUzMzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LD
+kyNDA0MTE2NSwtMTc1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5
+MTQ0M119
 -->
