@@ -865,7 +865,7 @@ D. 选项D
 可以看到，AI完成了所有代码的编写以及环境的配置，并给出了启动服务器的方法，按照AI给出的快速开始方法一指引，双击运行 start.bat，弹出命令行窗口以及提示信息，如下图所示，提示信息中出现了“Error”类的报错字样，表示运行失败，我们将全部的提示信息复制输入到TRAE右侧的Agent协作窗口中，直接向AI发起提问：双击运行start.bat时出现以下信息：......。
 
 ![输入图片说明](/imgs/2026-02-01/gS4vE3I0urNPwoA9.png)
-
+![输入图片说明](/imgs/2026-02-01/WBDKt8RJD3zFxcRS.png)
 
 
 
@@ -907,7 +907,7 @@ D. 选项D
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjc5MTkwNSwtMTkzNDI2OTQ0Nyw3MD
+eyJoaXN0b3J5IjpbMTU4MDUwNzkxNiwtMTkzNDI2OTQ0Nyw3MD
 cwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5
 OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3My
 wtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2
