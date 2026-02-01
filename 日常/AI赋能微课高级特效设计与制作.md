@@ -728,7 +728,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 ```
 
 ![输入图片说明](/imgs/2026-02-01/qjxNmf78EY8mLiFw.png)
-点击发送后，Agent开始自动设计方案、规划任务流程并按步骤执行。
+点击发送后，Agent开始自动设计方案、规划任务流程并按步骤执行，A。
 
 ![输入图片说明](/imgs/2026-02-01/O6XH8ssS4WUm27e7.png)
 
@@ -793,7 +793,7 @@ class_test_website/
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDQ0NzQxMCwxMzUyMjg3MzAxLC0xMT
+eyJoaXN0b3J5IjpbLTE5MTA2NDI5MSwxMzUyMjg3MzAxLC0xMT
 UyMjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMx
 NzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3ND
 gsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIw
