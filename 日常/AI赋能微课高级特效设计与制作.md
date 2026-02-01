@@ -1085,6 +1085,7 @@ app.listen(PORT, '0.0.0.0', () => {
 3. 在输出中找到 IPv4 地址 ，例如： 192.168.1.100
 ## 🎯 4. 局域网内用户访问方式
 其他用户在浏览器中输入：
+
 http://[服务器的局域网IP]:3000
 
 例如： http://192.168.1.100:3000
@@ -1109,7 +1110,13 @@ http://[服务器的局域网IP]:3000
 1. 教师访问 ： http://192.168.1.100:3000 → 输入账号密码登录
 2. 学生访问 ： http://192.168.1.100:3000 → 输入学号姓名登录
 3. 数据导出 ：教师登录后，在统计概览页面点击"导出Excel"按钮
+
+通过以上步骤，您的课堂测试系统就可以在局域网中正常部署和访问了，其他用户可以通过浏览器轻松参与测试或查看统计数据。
 ```
+
+
+
+
 
 
 
@@ -1152,11 +1159,11 @@ http://[服务器的局域网IP]:3000
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA2MjU3ODMsMTczMDE0ODQ0MiwxOD
-EyMzI0OTMsLTkwNjI1MTA5OCwyMTAxMzk0NTc5LDExOTEzNDEy
-MjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNTgwNTA3OTE2LC
-0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUy
-MjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMxNz
-U1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgs
-Mzg2MTk2MzU4XX0=
+eyJoaXN0b3J5IjpbNDI1NDAyMzcyLDE3MzAxNDg0NDIsMTgxMj
+MyNDkzLC05MDYyNTEwOTgsMjEwMTM5NDU3OSwxMTkxMzQxMjIw
+LC0xNjk4MjYyNTg3LC04NzU2OTgxMjcsMTU4MDUwNzkxNiwtMT
+kzNDI2OTQ0Nyw3MDcwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2
+NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NS
+wtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4
+NjE5NjM1OF19
 -->
