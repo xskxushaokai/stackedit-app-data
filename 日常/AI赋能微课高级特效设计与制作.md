@@ -709,12 +709,12 @@ AI分析问题原因并自动完成代码修改和功能验证：
 以上准备工作都完成之后，就可以通过右侧的智能体协作窗口开始课堂测试系统的开发。
 
 1. 课堂测试内容准备
-整理课堂测试题目，将题目、解析、答案按照合理的格式保存在markdown文档或word文档中，这里以中学生信息学奥赛练习题为例，将题目整理排版后保存在wordw。
+整理课堂测试题目，将题目、解析、答案按照合理的格式保存在markdown文档或word文档中，这里以中学生信息学奥赛练习题为例，将题目整理排版后保存在word文档中，命名为“测试题目.docx”，保存在刚才创建的“class_test_website”文件夹中，此时y。
 
 2. 需求整理
 一个完整的课堂测试系统通常需包含的基本功能有：学生登录，输入学生个人信息并提交登录后开始测试；网页作答，学生通过网页进行选择题的选项勾选、论述的文字阐述等，可提交答案或上传文件；答案和分数反馈，学生提交答案后后台返回学生的分数、题目答案解析等内容；后台数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考；教师登录和管理，教师登录系统，查看学生作答情况，管理学生信息、管理测试信息等。
 
-在右侧智能体写作窗口中输入以下提示词，并通过“#”引用
+在右侧智能体写作窗口中输入以下提示词，并通过“#”引用“测试题目.docx”
 ```
 我想要制作一个课堂测试系统网页，请为我生成详细设计方案，需要的功能如下：
 1.学生登录：输入学生个人信息（学号、姓名）登录；
@@ -763,11 +763,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUzMzcwODYsLTEzMTgyMzg1NjYsND
-UyNDMxNzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5
-NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOC
-wtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2
-OSwtMTUzMzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LD
-kyNDA0MTE2NSwtMTc1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5
-MTQ0M119
+eyJoaXN0b3J5IjpbMjI5ODY2OTUzLC0xMzE4MjM4NTY2LDQ1Mj
+QzMTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0
+NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLT
+QyMDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2LDc3NDgwNjks
+LTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMjkwNzExOCw5Mj
+QwNDExNjUsLTE3NTU0MDE4ODIsLTYzNDUzNjU3OCwzODMwOTE0
+NDNdfQ==
 -->
