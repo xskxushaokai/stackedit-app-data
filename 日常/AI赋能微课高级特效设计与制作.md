@@ -946,7 +946,7 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 ![输入图片说明](/imgs/2026-02-01/iC8GJKE8bbxJjKDE.png)
 ![输入图片说明](/imgs/2026-02-01/G2jyLrhEFbfOEd6Y.png)
 
-此时，我们再次返回首页，使用教师账号登录管理页面，可以看到，管理页面中的“统计概览”模块中已经显示了每道题的“正确率”等信息，
+此时，我们再次返回首页，使用教师账号登录管理页面，可以看到，管理页面中的“统计概览”模块中已经显示了每道题的“正确率”等信息以及每个学生的答题情况和具体得分。
 
 
 ```
@@ -986,7 +986,7 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTU0NjAxNCwtMTY5ODI2MjU4NywtOD
+eyJoaXN0b3J5IjpbMTE5MTM0MTIyMCwtMTY5ODI2MjU4NywtOD
 c1Njk4MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcw
 MzYxLDEzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NS
 wtMTMxODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5
