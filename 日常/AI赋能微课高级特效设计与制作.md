@@ -862,7 +862,7 @@ D. 选项D
 系统已经完全实现您要求的所有功能，并进行了充分的测试设计。您现在可以按照上述步骤启动系统并开始使用了！
 
 ```
-可以看到，AI完成了所有代码的编写以及环境的配置，并给出了启动服务器的方法，按照AI给出的快速开始方法一指引，双击运行 start.bat
+可以看到，AI完成了所有代码的编写以及环境的配置，并给出了启动服务器的方法，按照AI给出的快速开始方法一指引，双击运行 start.bat，弹出命令行窗口以及提示信息，
 
 
 
@@ -905,11 +905,11 @@ D. 选项D
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQyNjk0NDcsNzA3MDcwMzYxLDEzNT
-IyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIz
-ODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3Ny
-wtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3
-NzMwNzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNi
-w3NzQ4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5
-MDcxMThdfQ==
+eyJoaXN0b3J5IjpbMTY2OTk2ODMwOCwtMTkzNDI2OTQ0Nyw3MD
+cwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5
+OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3My
+wtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2
+NDI3NTE4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4Mz
+Q2LC01MTQyNjI2LDc3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUx
+MjEwMTJdfQ==
 -->
