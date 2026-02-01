@@ -862,10 +862,11 @@ D. 选项D
 系统已经完全实现您要求的所有功能，并进行了充分的测试设计。您现在可以按照上述步骤启动系统并开始使用了！
 
 ```
-可以看到，AI完成了所有代码的编写以及环境的配置，并给出了启动服务器的方法，按照AI给出的快速开始方法一指引，双击运行 start.bat，弹出命令行窗口以及提示信息，如下图所示，提示信息中出现了“Error”类的报错字样，表示运行失败，我们将全部的提示信息复制输入到TRAE右侧的Agent协作窗口中，直接向AI发起提问：双击运行start.bat时出现以下信息：......。
+可以看到，AI完成了所有代码的编写以及环境的配置，并给出了启动服务器的方法，按照AI给出的快速开始方法一指引，双击运行 start.bat，弹出命令行窗口以及提示信息，如下图所示，提示信息中出现了“Error”类的报错字样，表示运行失败，我们再尝试AI给出的方法二。
 
 ![输入图片说明](/imgs/2026-02-01/gS4vE3I0urNPwoA9.png)
-![输入图片说明](/imgs/2026-02-01/WBDKt8RJD3zFxcRS.png)
+
+直接在右侧Agent协作区中，点击方法二x
 
 
 
@@ -907,11 +908,11 @@ D. 选项D
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDUwNzkxNiwtMTkzNDI2OTQ0Nyw3MD
-cwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5
-OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3My
-wtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2
-NDI3NTE4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4Mz
-Q2LC01MTQyNjI2LDc3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUx
-MjEwMTJdfQ==
+eyJoaXN0b3J5IjpbMTY4NzAxMTIzMywxNTgwNTA3OTE2LC0xOT
+M0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUyMjY0
+ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMxNzU1LC
+0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgsMzg2
+MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIwNTg2OD
+Q5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzEx
+OTk4NF19
 -->
