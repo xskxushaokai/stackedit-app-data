@@ -936,7 +936,7 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 
 ![输入图片说明](/imgs/2026-02-01/hYzMUmcMITzVwy4H.png)
 ![输入图片说明](/imgs/2026-02-01/5i2APKnXWTAPuxLw.png)
-
+![输入图片说明](/imgs/2026-02-01/PNgSvvBcN5jvwcfb.png)
 
 
 ```
@@ -976,7 +976,7 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNTc0NzkxLC0xNjk4MjYyNTg3LC04Nz
+eyJoaXN0b3J5IjpbMjM4ODkwOTc5LC0xNjk4MjYyNTg3LC04Nz
 U2OTgxMjcsMTU4MDUwNzkxNiwtMTkzNDI2OTQ0Nyw3MDcwNzAz
 NjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5OTU1LC
 0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3MywtOTk4
