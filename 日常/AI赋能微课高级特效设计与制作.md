@@ -1023,7 +1023,7 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
 
 ![输入图片说明](/imgs/2026-02-01/h9pE6ae9ZUPapiyr.png)
 
-
+我们再次在浏览器地址栏中输入“http://localhost:3000”进入课堂测试系统，登录教师账号，登录后发现之前“张三”的答题记录reng
 
 
 ```
@@ -1063,11 +1063,11 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjEwMDM1NTcsLTkwNjI1MTA5OCwyMT
-AxMzk0NTc5LDExOTEzNDEyMjAsLTE2OTgyNjI1ODcsLTg3NTY5
-ODEyNywxNTgwNTA3OTE2LC0xOTM0MjY5NDQ3LDcwNzA3MDM2MS
-wxMzUyMjg3MzAxLC0xMTUyMjY0ODIsLTEwOTkzOTk5NTUsLTEz
-MTgyMzg1NjYsNDUyNDMxNzU1LC0xMjg5NTI0MDczLC05OTgyMz
-I4NzcsLTExMDI5NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0
-LDM1NzczMDcwOF19
+eyJoaXN0b3J5IjpbLTE0OTExODE2MiwtOTA2MjUxMDk4LDIxMD
+EzOTQ1NzksMTE5MTM0MTIyMCwtMTY5ODI2MjU4NywtODc1Njk4
+MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcwMzYxLD
+EzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMx
+ODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMj
+g3NywtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQs
+MzU3NzMwNzA4XX0=
 -->
