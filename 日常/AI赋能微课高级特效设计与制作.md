@@ -932,10 +932,10 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 ```
 ![输入图片说明](/imgs/2026-02-01/g6Y9kXqZTnGmVHj6.png)
 
-复制服务的地址“http://localhost:3000”并将其粘贴到浏览器地址栏，可成功打开课堂测试系统的首页，我们首先点击“教师登录”，输入用户名“admin”和密码“admin123”，点击登录后直接进入教师管理后台，可以看到“统计概览”、
+复制服务的地址“http://localhost:3000”并将其粘贴到浏览器地址栏，可成功打开课堂测试系统的首页，我们首先点击“教师登录”，输入用户名“admin”和密码“admin123”，点击登录后直接进入教师管理后台，可以看到“统计概览”、“学生管理”、“题目管理”、“测试设置”四个模块，此时的学生数量和题目数量均为0，我们先添加学生和测试题目
 
 ![输入图片说明](/imgs/2026-02-01/hYzMUmcMITzVwy4H.png)
-
+![输入图片说明](/imgs/2026-02-01/5i2APKnXWTAPuxLw.png)
 
 
 
@@ -976,11 +976,11 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTk0NjI1MywtMTY5ODI2MjU4NywtOD
-c1Njk4MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcw
-MzYxLDEzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NS
-wtMTMxODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5
-ODIzMjg3NywtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNz
-UxODQsMzU3NzMwNzA4LC00MjA1ODY4NDksMTg3ODUwODM0Niwt
-NTE0MjYyNl19
+eyJoaXN0b3J5IjpbNzYwNTc0NzkxLC0xNjk4MjYyNTg3LC04Nz
+U2OTgxMjcsMTU4MDUwNzkxNiwtMTkzNDI2OTQ0Nyw3MDcwNzAz
+NjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5OTU1LC
+0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3MywtOTk4
+MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NT
+E4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01
+MTQyNjI2XX0=
 -->
