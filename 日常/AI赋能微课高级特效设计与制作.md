@@ -1029,7 +1029,7 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
 ![输入图片说明](/imgs/2026-02-01/QezlCJmdDExI22R4.png)
 
 4. 局域网部署
-若要让学生通过教室或者校园局域网内的其他设备访问我们的课堂测试系统，则需要将教师的个人电脑作为临时服务器，运行课堂测试系统的后端服务，开启局域网公开访问接口和f。
+若要让学生通过教室或者校园局域网内的其他设备访问我们的课堂测试系统，则需要将教师的个人电脑作为临时服务器，运行课堂测试系统的后端服务，并开启局域网公开访问接口和计算机防火墙等。同样，我们通过询问AI来得到具体的操作方法。
 
 
 
@@ -1070,11 +1070,11 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg2NDE4MDEsMTczMDE0ODQ0MiwxOD
-EyMzI0OTMsLTkwNjI1MTA5OCwyMTAxMzk0NTc5LDExOTEzNDEy
-MjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNTgwNTA3OTE2LC
-0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUy
-MjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMxNz
-U1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgs
-Mzg2MTk2MzU4XX0=
+eyJoaXN0b3J5IjpbMTk5MjU3NTcxNCwxNzMwMTQ4NDQyLDE4MT
+IzMjQ5MywtOTA2MjUxMDk4LDIxMDEzOTQ1NzksMTE5MTM0MTIy
+MCwtMTY5ODI2MjU4NywtODc1Njk4MTI3LDE1ODA1MDc5MTYsLT
+E5MzQyNjk0NDcsNzA3MDcwMzYxLDEzNTIyODczMDEsLTExNTIy
+NjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIzODU2Niw0NTI0MzE3NT
+UsLTEyODk1MjQwNzMsLTk5ODIzMjg3NywtMTEwMjk3NDc0OCwz
+ODYxOTYzNThdfQ==
 -->
