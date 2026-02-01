@@ -955,7 +955,7 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 1.在教师管理后台中，在学生答题情况中，当点击某条记录的得分时，显示该学生每道题目的答题详情，以便教师更好的掌握每个学生的情况。
 2.在“统计概览”页面下增加一个导出按钮，导出每道题目的统计信息、每个学生的答题详情，保存为excel文件。
 ```
-在向AI发起提问前，需要先停止当前正在运行的服务，在TRAE中间下方的终端界面中点击“终止”按钮或使用快捷键“CTRL+C”即可停止当前正在运行的服务。
+注意：接下来我们要对后端代码进行修改，后端代码。在向AI发起提问前，需要先停止当前正在运行的服务，在TRAE中间下方的终端界面中点击“终止”按钮或使用快捷键“CTRL+C”即可停止当前正在运行的服务。
 ![输入图片说明](/imgs/2026-02-01/7Wwb9eC16Jr7ca3V.png)
 
 接着，向AI提出我们新增的需求。
@@ -1168,7 +1168,7 @@ http://[服务器的局域网IP]:3000
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzY1MTQyMCw4NDY3NzAzMjEsMTczMD
+eyJoaXN0b3J5IjpbLTcxNDc0NDIzNyw4NDY3NzAzMjEsMTczMD
 E0ODQ0MiwxODEyMzI0OTMsLTkwNjI1MTA5OCwyMTAxMzk0NTc5
 LDExOTEzNDEyMjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNT
 gwNTA3OTE2LC0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3
