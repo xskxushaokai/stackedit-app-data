@@ -876,8 +876,10 @@ D. 选项D
 
 ![输入图片说明](/imgs/2026-02-01/8qEtOqW0Wuz7nxLs.png)
 
-Agentgen
+Agent根据用户的新需求开始修改代码，移除了所有的数据库依赖，改用内存缓存和文件存储的方式来存储数据，如下图所示。
+![输入图片说明](/imgs/2026-02-01/D2aa60UL0TgqFwzg.png)
 
+Agent执行完毕后，输出修改de
 
 
 
@@ -919,7 +921,7 @@ Agentgen
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU5NjU5MzQsLTE2OTgyNjI1ODcsLT
+eyJoaXN0b3J5IjpbLTIwNzk2NDI5NDcsLTE2OTgyNjI1ODcsLT
 g3NTY5ODEyNywxNTgwNTA3OTE2LC0xOTM0MjY5NDQ3LDcwNzA3
 MDM2MSwxMzUyMjg3MzAxLC0xMTUyMjY0ODIsLTEwOTkzOTk5NT
 UsLTEzMTgyMzg1NjYsNDUyNDMxNzU1LC0xMjg5NTI0MDczLC05
