@@ -1029,7 +1029,87 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
 ![输入图片说明](/imgs/2026-02-01/QezlCJmdDExI22R4.png)
 
 4. 局域网部署
-若要让学生通过教室或者校园局域网内的其他设备访问我们的课堂测试系统，则需要将教师的个人电脑作为临时服务器，运行课堂测试系统的后端服务，并开启局域网公开访问接口和计算机防火墙等。同样，我们通过询问AI来得到具体的操作方法。
+若要让学生通过教室或者校园局域网内的其他设备访问我们的课堂测试系统，则需要将教师的个人电脑作为临时服务器，运行课堂测试系统的后端服务，并开启局域网公开访问接口和计算机防火墙等。同样，我们通过询问AI来得到具体的操作方法。提示词如下：
+```
+如何在局域网中进行部署，让其他用户也可以访问
+```
+得到的AI回答为：
+```
+要在局域网中部署课堂测试系统，让其他用户可以访问，您可以按照以下步骤操作：
+
+## 📡 1. 修改服务器监听地址
+默认情况下，Node.js服务器只监听本地地址（127.0.0.1），需要修改为监听所有网络接口（0.0.0.0），这样局域网内的其他设备才能访问。
+
+### 修改 server.js 文件：
+
+// 找到以下代码行
+app.listen(PORT, () => {
+  console.log(`服务器运行在 http://
+  localhost:${PORT}`);
+  console.log(`默认教师账号: admin / 
+  admin123`);
+  console.log(`数据存储在: ${dataFilePath}
+  `);
+});
+
+// 修改为：
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`服务器运行在 http://
+  localhost:${PORT}`);
+  console.log(`局域网访问地址: http://[您的
+  IP地址]:${PORT}`);
+  console.log(`默认教师账号: admin / 
+  admin123`);
+  console.log(`数据存储在: ${dataFilePath}
+  `);
+});
+
+## 🔒 2. 配置防火墙
+确保Windows防火墙允许3000端口的入站连接：
+
+### 步骤：
+1. 打开 控制面板 → 系统和安全 → Windows Defender 防火墙
+2. 点击 高级设置
+3. 在左侧面板选择 入站规则 ，然后点击右侧 新建规则
+4. 选择 端口 → 下一步
+5. 选择 TCP ，输入 特定本地端口 ：3000 → 下一步
+6. 选择 允许连接 → 下一步
+7. 保持默认设置（域、专用、公用）→ 下一步
+8. 输入名称： 课堂测试系统 (3000) → 完成
+## 📍 3. 查找服务器的局域网IP地址
+其他用户需要通过您的局域网IP地址访问系统：
+
+### 方法：
+1. 在服务器电脑上打开命令提示符（Win+R → 输入 cmd → 回车）
+2. 运行命令： ipconfig
+3. 在输出中找到 IPv4 地址 ，例如： 192.168.1.100
+## 🎯 4. 局域网内用户访问方式
+其他用户在浏览器中输入：
+http://[服务器的局域网IP]:3000
+
+例如： http://192.168.1.100:3000
+
+## 📱 5. 多设备访问测试
+### 测试步骤：
+1. 启动服务器：运行 start.bat 或 node server.js
+2. 在服务器电脑上访问： http://localhost:3000 （确认本地可访问）
+3. 在局域网内的其他电脑/手机上访问： http://[服务器IP]:3000
+4. 尝试学生登录和教师登录，确认功能正常
+## 🛠️ 6. 注意事项
+### 网络环境要求：
+- 所有设备必须在同一局域网内（连接同一个路由器/交换机）
+- 路由器设置中未启用AP隔离功能
+- 网络防火墙未阻止3000端口
+### 性能考虑：
+- 如果同时有多个学生答题，建议服务器电脑配置足够的内存
+- 避免在网络带宽有限的环境下进行大规模测试
+## 📖 部署示例
+假设您的服务器IP是 192.168.1.100 ，端口是 3000 ：
+
+1. 教师访问 ： http://192.168.1.100:3000 → 输入账号密码登录
+2. 学生访问 ： http://192.168.1.100:3000 → 输入学号姓名登录
+3. 数据导出 ：教师登录后，在统计概览页面点击"导出Excel"按钮
+```
 
 
 
@@ -1051,6 +1131,8 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
 3.答案和分数反馈：学生提交答案后，后台根据参考答案统计学生得分，并将学生的分数、题目答案解析等数据返回到前端；
 4.作答数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考；
 5.管理员进行学生信息管理、答题记录查看、数据分析结果查看等。
+
+通过以上步骤，您的课堂测试系统就可以在局域网中正常部署和访问了，其他用户可以通过浏览器轻松参与测试或查看统计数据。
 ```
 
 
@@ -1070,11 +1152,11 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjU3NTcxNCwxNzMwMTQ4NDQyLDE4MT
-IzMjQ5MywtOTA2MjUxMDk4LDIxMDEzOTQ1NzksMTE5MTM0MTIy
-MCwtMTY5ODI2MjU4NywtODc1Njk4MTI3LDE1ODA1MDc5MTYsLT
-E5MzQyNjk0NDcsNzA3MDcwMzYxLDEzNTIyODczMDEsLTExNTIy
-NjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIzODU2Niw0NTI0MzE3NT
-UsLTEyODk1MjQwNzMsLTk5ODIzMjg3NywtMTEwMjk3NDc0OCwz
-ODYxOTYzNThdfQ==
+eyJoaXN0b3J5IjpbLTE2MzA2MjU3ODMsMTczMDE0ODQ0MiwxOD
+EyMzI0OTMsLTkwNjI1MTA5OCwyMTAxMzk0NTc5LDExOTEzNDEy
+MjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNTgwNTA3OTE2LC
+0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUy
+MjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMxNz
+U1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgs
+Mzg2MTk2MzU4XX0=
 -->
