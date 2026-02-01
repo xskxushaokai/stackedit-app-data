@@ -1123,7 +1123,8 @@ http://[服务器的局域网IP]:3000
 ```
 ![输入图片说明](/imgs/2026-02-01/tIdHH8rh58HmkUF9.png)
 
-
+可以看到，AI自动执行了“ipconfig”命令来查看本机的ip地址，并对服务端代码进行了修改，嘴鸥。
+![输入图片说明](/imgs/2026-02-01/7TdrLVbiEUML9wKv.png)
 
 
 
@@ -1167,11 +1168,11 @@ http://[服务器的局域网IP]:3000
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2NzcwMzIxLDE3MzAxNDg0NDIsMTgxMj
-MyNDkzLC05MDYyNTEwOTgsMjEwMTM5NDU3OSwxMTkxMzQxMjIw
-LC0xNjk4MjYyNTg3LC04NzU2OTgxMjcsMTU4MDUwNzkxNiwtMT
-kzNDI2OTQ0Nyw3MDcwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2
-NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NS
-wtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4
-NjE5NjM1OF19
+eyJoaXN0b3J5IjpbLTY4MTIyNDY0Myw4NDY3NzAzMjEsMTczMD
+E0ODQ0MiwxODEyMzI0OTMsLTkwNjI1MTA5OCwyMTAxMzk0NTc5
+LDExOTEzNDEyMjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNT
+gwNTA3OTE2LC0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3
+MzAxLC0xMTUyMjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1Nj
+YsNDUyNDMxNzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTEx
+MDI5NzQ3NDhdfQ==
 -->
