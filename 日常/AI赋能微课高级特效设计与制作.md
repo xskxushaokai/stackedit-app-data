@@ -940,10 +940,10 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 ![输入图片说明](/imgs/2026-02-01/Ae3JXV4qUAumKZdR.png)
 ![输入图片说明](/imgs/2026-02-01/nmqylLKpNkuhdA8g.png)
 
-完成学生和题目创建后，我们点击右上角“退出登录”，使用刚才创建的学生学号和姓名来模拟学生登录。学生登录成功后可以看到教师刚才设置的题目，右上角显示姓名和倒计时。
+完成学生和题目创建后，我们点击右上角“退出登录”，使用刚才创建的学生学号和姓名来模拟学生登录。学生登录成功后可以看到教师刚才设置的题目，右上角显示姓名和倒计时。完成作答之后，点击“提交答案”，网页弹出确认提交的弹窗，学生再次点击“确定”按钮后方可完成提交，有效防止误操作。
 ![输入图片说明](/imgs/2026-02-01/dCAmiKXibLXLU7lT.png)
 ![输入图片说明](/imgs/2026-02-01/9xnMmn9QOQ53RU6g.png)
-
+![输入图片说明](/imgs/2026-02-01/iC8GJKE8bbxJjKDE.png)
 
 ```
 根据“测试题目.docx”中的题目和解析，制作一个课堂练习的网页，包含完整的前后端，其中前端分为学生作答网页和教师后台管理网页，后端实现学生提交和教师管理的核心功能。各部分具体设计如下。
@@ -982,11 +982,11 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5MDMzNDcyLC0xNjk4MjYyNTg3LC04Nz
-U2OTgxMjcsMTU4MDUwNzkxNiwtMTkzNDI2OTQ0Nyw3MDcwNzAz
-NjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5OTU1LC
-0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3MywtOTk4
-MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NT
-E4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01
-MTQyNjI2XX0=
+eyJoaXN0b3J5IjpbMTU1MzM1NjE5MCwtMTY5ODI2MjU4NywtOD
+c1Njk4MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcw
+MzYxLDEzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NS
+wtMTMxODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5
+ODIzMjg3NywtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNz
+UxODQsMzU3NzMwNzA4LC00MjA1ODY4NDksMTg3ODUwODM0Niwt
+NTE0MjYyNl19
 -->
