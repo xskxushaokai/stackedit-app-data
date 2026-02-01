@@ -719,14 +719,16 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 学生作答网页：
 1.学生通过网页进行选择题的选项勾选、论述题的文字阐述等；
-2.学生信息输入：学生输入个人信息（学号和姓名）后，点击提交按钮，可以将个人信息连同并提交至后台；
+2.学生信息输入：学生输入个人信息（学号和姓名）；
 3.提交：点击提交按钮，可以将个人信息连同题目答案提交至后台，并查看正确答案和解析；
 
 教师后台管理网页：
-教师输入管理密码(admin)登录后台管理网页，可以通过文件导入学生信息（学号、姓名），管理学生信息（删除和修改），查看学生答题记录和分数，查看题目统计分析结果；
+1.教师输入管理密码(admin)登录后台管理网页；
+2.教师可以通过文件导入学生信息（学号、姓名），管理学生信息（删除和修改），查看学生答题记录和分数，查看题目统计分析结果；
 
 后端核心功能：
 1.学生信息管理；
+2.学生信息校验：校验学生提交的学号和xing'ming
 2.答案和分数反馈：学生提交答案后，后台根据参考答案统计学生得分，并将学生的分数、题目答案解析等数据返回到前端；
 3.作答数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考。
 ```
@@ -748,11 +750,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNDMxNzU1LC0xMjg5NTI0MDczLC05OT
-gyMzI4NzcsLTExMDI5NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1
-MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLT
-UxNDI2MjYsNzc0ODA2OSwtMTUzMzExOTk4NCwtMTU3NTEyMTAx
-MiwxODIyOTA3MTE4LDkyNDA0MTE2NSwtMTc1NTQwMTg4MiwtNj
-M0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIzMDY1LDMzNjgzNDc4
-NV19
+eyJoaXN0b3J5IjpbLTE3OTEzNTI5MDUsNDUyNDMxNzU1LC0xMj
+g5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgsMzg2MTk2
+MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LD
+E4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzExOTk4
+NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0MTE2NSwtMT
+c1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIz
+MDY1XX0=
 -->
