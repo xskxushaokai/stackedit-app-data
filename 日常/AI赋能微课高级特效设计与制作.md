@@ -727,11 +727,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
 2.后台管理：教师可以通过文件导入学生信息（学号、姓名），管理学生信息（删除和修改），查看学生答题记录和分数，查看题目统计分析结果；
 
 后端核心功能：
-1.学生信息管理；
 1.学生登录：校验学生提交的学号和姓名是否匹配，若不必配则提示登录失败；
-3.管理员登录，
-2.答案和分数反馈：学生提交答案后，后台根据参考答案统计学生得分，并将学生的分数、题目答案解析等数据返回到前端；
+2.管理员登录，管理员直接通过密码“admin”管理端；
+3.答案和分数反馈：学生提交答案后，后台根据参考答案统计学生得分，并将学生的分数、题目答案解析等数据返回到前端；
 3.作答数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考。
+
 ```
 
 
@@ -751,7 +751,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDE5MzAxMSwtMTMxODIzODU2Niw0NT
+eyJoaXN0b3J5IjpbLTQwNTQzMjE5NCwtMTMxODIzODU2Niw0NT
 I0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3NywtMTEwMjk3
 NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3NzMwNzA4LC
 00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3NzQ4MDY5
