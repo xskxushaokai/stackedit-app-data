@@ -1117,7 +1117,10 @@ http://[服务器的局域网IP]:3000
 通过以上步骤，您的课堂测试系统就可以在局域网中正常部署和访问了，其他用户可以通过浏览器轻松参与测试或查看统计数据。
 ```
 
-继续让
+继续让AI为我们完成第一步的代码修改，提示词如下：
+```
+帮我完成第1步的修改服务器监听地址
+```
 
 
 
@@ -1162,7 +1165,7 @@ http://[服务器的局域网IP]:3000
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ0NjYzODksMTczMDE0ODQ0MiwxOD
+eyJoaXN0b3J5IjpbLTEzMjcwMTgxNjksMTczMDE0ODQ0MiwxOD
 EyMzI0OTMsLTkwNjI1MTA5OCwyMTAxMzk0NTc5LDExOTEzNDEy
 MjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNTgwNTA3OTE2LC
 0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUy
