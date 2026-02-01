@@ -940,9 +940,9 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 ![输入图片说明](/imgs/2026-02-01/Ae3JXV4qUAumKZdR.png)
 ![输入图片说明](/imgs/2026-02-01/nmqylLKpNkuhdA8g.png)
 
-完成学生和题目创建后，我们点击右上角“退出登录”，使用刚才创建的学生学号和姓名来模拟学生登录，登录
+完成学生和题目创建后，我们点击右上角“退出登录”，使用刚才创建的学生学号和姓名来模拟学生登录。学生登录成功后可以看到教师刚才设置的题目，右上角显示姓名和倒计时。
 ![输入图片说明](/imgs/2026-02-01/dCAmiKXibLXLU7lT.png)
-
+![输入图片说明](/imgs/2026-02-01/9xnMmn9QOQ53RU6g.png)
 
 
 ```
@@ -982,11 +982,11 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE1NDA4ODAsLTE2OTgyNjI1ODcsLT
-g3NTY5ODEyNywxNTgwNTA3OTE2LC0xOTM0MjY5NDQ3LDcwNzA3
-MDM2MSwxMzUyMjg3MzAxLC0xMTUyMjY0ODIsLTEwOTkzOTk5NT
-UsLTEzMTgyMzg1NjYsNDUyNDMxNzU1LC0xMjg5NTI0MDczLC05
-OTgyMzI4NzcsLTExMDI5NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mj
-c1MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYs
-LTUxNDI2MjZdfQ==
+eyJoaXN0b3J5IjpbNDE5MDMzNDcyLC0xNjk4MjYyNTg3LC04Nz
+U2OTgxMjcsMTU4MDUwNzkxNiwtMTkzNDI2OTQ0Nyw3MDcwNzAz
+NjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5OTU1LC
+0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3MywtOTk4
+MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NT
+E4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01
+MTQyNjI2XX0=
 -->
