@@ -717,6 +717,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 2. 需求整理
 一个完整的课堂测试系统通常需包含的基本功能有：学生登录，输入学生个人信息并提交登录后开始测试；网页作答，学生通过网页进行选择题的选项勾选、论述的文字阐述等，可提交答案或上传文件；答案和分数反馈，学生提交答案后后台返回学生的分数、题目答案解析等内容；后台数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考；教师登录和管理，教师登录系统，查看学生作答情况，管理学生信息、管理测试信息等。
 
+3. Agent根据用户需求开发课堂测试系统开发
 在右侧智能体写作窗口中输入以下提示词，并通过“#”引用“测试题目.docx”
 ```
 我想要制作一个课堂测试系统网页，请为我生成详细设计方案，需要的功能如下：
@@ -1068,7 +1069,7 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjY3MzQ0NywxODEyMzI0OTMsLTkwNj
+eyJoaXN0b3J5IjpbLTgwMjQxMTAwMywxODEyMzI0OTMsLTkwNj
 I1MTA5OCwyMTAxMzk0NTc5LDExOTEzNDEyMjAsLTE2OTgyNjI1
 ODcsLTg3NTY5ODEyNywxNTgwNTA3OTE2LC0xOTM0MjY5NDQ3LD
 cwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUyMjY0ODIsLTEwOTkz
