@@ -715,9 +715,9 @@ AI分析问题原因并自动完成代码修改和功能验证：
 一个完整的课堂测试系统通常需包含的基本功能有：网页作答，学生通过网页进行选择题的选项勾选、论述的文字阐述等；学生信息提交，输入学生个人信息并提交至后台；文件提交，图片、文档、编程题代码等文件提交至后台；答案和分数反馈，学生提交答案后后台返回学生的分数、题目答案解析等数据；后台数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考。
 
 ```
-根据“测试题目.docx”中的题目和解析，制作一个课堂练习的网页，包含完整的前后端，实现以下功能：
+根据“测试题目.docx”中的题目和解析，制作一个课堂练习的网页，包含完整的前后端，其中前端分为学生作答
 1.学生作答网页：学生通过网页进行选择题的选项勾选、论述题的文字阐述等；
-2.教师后台管理网页：教师输入管理密码(admin)登录后台管理网页，可以通过文件导入学生信息（学号、姓名），管理学生信息（shan'chu）
+2.教师后台管理网页：教师输入管理密码(admin)登录后台管理网页，可以通过文件导入学生信息（学号、姓名），管理学生信息（删除和修改），查看学生答题记录和分数，查看题目分析结果；
 2.学生信息输入：学生输入个人信息（学号和姓名）后，点击提交按钮，可以将个人信息连同并提交至后台；
 3.提交：点击提交按钮，可以将个人信息连同题目答案提交至后台，后台根据；
 4.答案和分数反馈：学生提交答案后，后台根据参考答案统计学生得分，并将学生的分数、题目答案解析等数据返回到前端；
@@ -741,11 +741,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3ODExNTg3LC0xMjg5NTI0MDczLC05OT
-gyMzI4NzcsLTExMDI5NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1
-MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLT
-UxNDI2MjYsNzc0ODA2OSwtMTUzMzExOTk4NCwtMTU3NTEyMTAx
-MiwxODIyOTA3MTE4LDkyNDA0MTE2NSwtMTc1NTQwMTg4MiwtNj
-M0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIzMDY1LDMzNjgzNDc4
-NV19
+eyJoaXN0b3J5IjpbMTk5OTA5NzU4NywtMTI4OTUyNDA3MywtOT
+k4MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3
+NTE4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC
+01MTQyNjI2LDc3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUxMjEw
+MTIsMTgyMjkwNzExOCw5MjQwNDExNjUsLTE3NTU0MDE4ODIsLT
+YzNDUzNjU3OCwzODMwOTE0NDMsLTk0NjYyMzA2NSwzMzY4MzQ3
+ODVdfQ==
 -->
