@@ -923,7 +923,15 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 5. 数据安全 ：自动持久化到文件
 现在您可以放心使用课堂测试系统了，所有功能都已完美保留，并且不再受数据库连接问题的困扰！
 ```
-此时，我们再次按照AI给出的方法，点击Bash窗口右侧的运行按钮直接运行命令“node server.js”，运行后在TRAE界面的中间下方终端窗口中出现以下提示信息，表明服务已经成功启动
+此时，我们再次按照AI给出的方法，点击Bash窗口右侧的运行按钮直接运行命令“node server.js”，运行后在TRAE界面的中间下方终端窗口中出现以下提示信息，表明服务已经成功启动。
+```
+数据初始化成功
+服务器运行在 http://localhost:3000
+默认教师账号: admin / admin123
+数据存储在: ./data/data.json
+```
+![输入图片说明](/imgs/2026-02-01/g6Y9kXqZTnGmVHj6.png)
+
 
 
 
@@ -964,7 +972,7 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjU2MTA4OSwtMTY5ODI2MjU4NywtOD
+eyJoaXN0b3J5IjpbLTIwMDM0OTI1NCwtMTY5ODI2MjU4NywtOD
 c1Njk4MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcw
 MzYxLDEzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NS
 wtMTMxODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5
