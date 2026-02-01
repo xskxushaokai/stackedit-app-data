@@ -730,7 +730,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 ```
 
 ![输入图片说明](/imgs/2026-02-01/qjxNmf78EY8mLiFw.png)
-点击发送后，Agent开始自动设计方案、规划任务流程并按步骤执行，具体执行时间与任务的复杂程度相关。
+点击发送后，Agent开始自动设计方案、规划任务流程并按步骤执行。具体执行时间与任务的复杂程度相关，此案例中，Agent运行时间大约为10分钟。
 
 ![输入图片说明](/imgs/2026-02-01/O6XH8ssS4WUm27e7.png)
 
@@ -758,6 +758,7 @@ class_test_website/
 
 Agent在任务运行过程中会向用户请求获取权限来安装网站开发的相关工具，如“npm”等，当弹出此类权限提示时，用户点击运行即可。
 ![输入图片说明](/imgs/2026-02-01/RVYez1TYTy7a5mFL.png)
+
 
 
 
@@ -798,11 +799,11 @@ Agent在任务运行过程中会向用户请求获取权限来安装网站开发
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM0NjUxNjMsNzA3MDcwMzYxLDEzNT
-IyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIz
-ODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3Ny
-wtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3
-NzMwNzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNi
-w3NzQ4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5
-MDcxMThdfQ==
+eyJoaXN0b3J5IjpbOTAxNDUzMTEsNzA3MDcwMzYxLDEzNTIyOD
+czMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIzODU2
+Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3NywtMT
+EwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3NzMw
+NzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3Nz
+Q4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcx
+MThdfQ==
 -->
