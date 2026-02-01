@@ -682,7 +682,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 > -   **后端**：运行在**网站服务器**，是网站的“大脑”和“引擎”。它负责处理前端发来的请求，进行复杂的逻辑计算和数据管理。比如，当你登录账号时，后端要核对密码；当你搜索商品时，后端要从海量数据库中快速找出结果；当你下单支付时，后端要安全地处理交易信息。它的主要目标是：**安全、稳定、高效地处理数据和逻辑**。
 > -   **两者结合**：前端和后端通过**接口**（像餐厅的前后厨传菜口）不断通信，共同为用户呈现一个完整、动态的网站或应用。
 
-接下来，我们将通过一个功能更加完善的课堂测试系统来演示如何利用Agent实现完整的前后端教学应用开发。Agent是在大模型的基础上，进一步ji'chen
+接下来，我们将通过一个功能更加完善的课堂测试系统来演示如何利用Agent实现完整的前后端教学应用开发。Agent是在大模型的基础上，进一步集成了各类工具调用能力，由一个或多个大模型进行gui'hua
 
 工欲善其事必先利其器，由于前后端共同开发涉及到的代码量和文件数量略有增加，且涉及到接口调用和通信，所以我们不再使用网页版的豆包应用生成平台，而是通过在本地安装专业的代码编辑器来完成应用开发。目前国内使用较多的集成了Agent功能的编辑器主要有TRAE、VS Code、ClaudeCode、Cursor 等，我们使用TRAE来进行教学应用开发。虽然我们使用了“专业的代码编辑器”，但不用担心，我们仍然是通过与AI协作来完成应用的开发，在与AI协作的过程中，我们充当的角色是：应用的设计者、测试者和使用者，AI充当的角色是：开发者和测试工程师，代码编写和修改的任务仍然是交给AI来完成。
 
@@ -795,11 +795,11 @@ class_test_website/
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI2NTgwOSwxMzUyMjg3MzAxLC0xMT
-UyMjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMx
-NzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3ND
-gsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIw
-NTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMT
-UzMzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0
-MTE2NV19
+eyJoaXN0b3J5IjpbLTEyNDQ4MDEzNjAsMTM1MjI4NzMwMSwtMT
+E1MjI2NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQz
+MTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0Nz
+Q4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLTQy
+MDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2LDc3NDgwNjksLT
+E1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMjkwNzExOCw5MjQw
+NDExNjVdfQ==
 -->
