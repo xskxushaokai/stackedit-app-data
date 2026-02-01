@@ -757,6 +757,7 @@ class_test_website/
 ```
 
 Agent在任务运行过程中会向用户请求获取权限来安装网站开发的相关工具，如“npm”等，当弹出此类权限提示时，用户点击运行即可。
+![输入图片说明](/imgs/2026-02-01/RVYez1TYTy7a5mFL.png)
 
 
 
@@ -797,11 +798,11 @@ Agent在任务运行过程中会向用户请求获取权限来安装网站开发
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgwNjE5NTYsMTM1MjI4NzMwMSwtMT
-E1MjI2NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQz
-MTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0Nz
-Q4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLTQy
-MDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2LDc3NDgwNjksLT
-E1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMjkwNzExOCw5MjQw
-NDExNjVdfQ==
+eyJoaXN0b3J5IjpbNzA3MDcwMzYxLDEzNTIyODczMDEsLTExNT
+IyNjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIzODU2Niw0NTI0MzE3
+NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3NywtMTEwMjk3NDc0OC
+wzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3NzMwNzA4LC00MjA1
+ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNiw3NzQ4MDY5LC0xNT
+MzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5MDcxMTgsOTI0MDQx
+MTY1XX0=
 -->
