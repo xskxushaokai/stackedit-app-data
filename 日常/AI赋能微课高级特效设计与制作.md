@@ -1033,6 +1033,7 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
 ```
 如何在局域网中进行部署，让其他用户也可以访问
 ```
+
 得到的AI回答为：
 ```
 要在局域网中部署课堂测试系统，让其他用户可以访问，您可以按照以下步骤操作：
@@ -1076,6 +1077,7 @@ app.listen(PORT, '0.0.0.0', () => {
 6. 选择 允许连接 → 下一步
 7. 保持默认设置（域、专用、公用）→ 下一步
 8. 输入名称： 课堂测试系统 (3000) → 完成
+
 ## 📍 3. 查找服务器的局域网IP地址
 其他用户需要通过您的局域网IP地址访问系统：
 
@@ -1083,6 +1085,7 @@ app.listen(PORT, '0.0.0.0', () => {
 1. 在服务器电脑上打开命令提示符（Win+R → 输入 cmd → 回车）
 2. 运行命令： ipconfig
 3. 在输出中找到 IPv4 地址 ，例如： 192.168.1.100
+
 ## 🎯 4. 局域网内用户访问方式
 其他用户在浏览器中输入：
 
@@ -1114,7 +1117,7 @@ http://[服务器的局域网IP]:3000
 通过以上步骤，您的课堂测试系统就可以在局域网中正常部署和访问了，其他用户可以通过浏览器轻松参与测试或查看统计数据。
 ```
 
-
+继续让
 
 
 
@@ -1159,11 +1162,11 @@ http://[服务器的局域网IP]:3000
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NDAyMzcyLDE3MzAxNDg0NDIsMTgxMj
-MyNDkzLC05MDYyNTEwOTgsMjEwMTM5NDU3OSwxMTkxMzQxMjIw
-LC0xNjk4MjYyNTg3LC04NzU2OTgxMjcsMTU4MDUwNzkxNiwtMT
-kzNDI2OTQ0Nyw3MDcwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2
-NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NS
-wtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4
-NjE5NjM1OF19
+eyJoaXN0b3J5IjpbLTE2NzQ0NjYzODksMTczMDE0ODQ0MiwxOD
+EyMzI0OTMsLTkwNjI1MTA5OCwyMTAxMzk0NTc5LDExOTEzNDEy
+MjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNTgwNTA3OTE2LC
+0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUy
+MjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMxNz
+U1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgs
+Mzg2MTk2MzU4XX0=
 -->
