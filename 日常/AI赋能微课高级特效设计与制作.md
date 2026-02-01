@@ -716,9 +716,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 ```
 我想要制作一个课堂测试系统网页，请为我生成详细设计方案，需要的功能如下：
-1.学生信息提交：输入学生个人信息（学号、姓名）并提交；
+1.学生登录：输入学生个人信息（学号、姓名）登录；
 2.学生答题：网页中显示“测试题目.docx”文档中的题目，学生可以进行作答；
-3.ji
+3.教师登录：教师通过管理员密码登录；
+4.教师查看：教师登录后可查看学生答题情况和提米正确率的统计结果；
+5.jiao
 ```
 
 ```
@@ -758,11 +760,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDcyOTA4ODIsLTEzMTgyMzg1NjYsND
-UyNDMxNzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5
-NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOC
-wtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2
-OSwtMTUzMzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LD
-kyNDA0MTE2NSwtMTc1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5
-MTQ0M119
+eyJoaXN0b3J5IjpbLTM3OTU2MDY2LC0xMzE4MjM4NTY2LDQ1Mj
+QzMTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0
+NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLT
+QyMDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2LDc3NDgwNjks
+LTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMjkwNzExOCw5Mj
+QwNDExNjUsLTE3NTU0MDE4ODIsLTYzNDUzNjU3OCwzODMwOTE0
+NDNdfQ==
 -->
