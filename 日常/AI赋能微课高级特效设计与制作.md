@@ -756,7 +756,7 @@ class_test_website/
 └── package.json           # 项目配置
 ```
 
-Agent在任务运行过程中会提示用户安装网站开发的相关工具，如“npm”等，当弹出
+Agent在任务运行过程中会向用户请求获取权限来安装网站开发的相关工具，如“npm”等，当弹出此类权限提示时，用户点击运行即可。
 
 
 
@@ -797,7 +797,7 @@ Agent在任务运行过程中会提示用户安装网站开发的相关工具，
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgzMjQxMzQsMTM1MjI4NzMwMSwtMT
+eyJoaXN0b3J5IjpbLTE2NjgwNjE5NTYsMTM1MjI4NzMwMSwtMT
 E1MjI2NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQz
 MTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0Nz
 Q4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLTQy
