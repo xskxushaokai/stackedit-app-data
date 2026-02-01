@@ -784,7 +784,86 @@ Agent运行完毕后，会对任务执行情况进行总结并输出在对话框
    - 查看每道题的正确率统计
    - 查看学生答题情况列表
 
+### 🚀 快速开始 
+#### 方法一：使用批处理文件（推荐）
+1. 双击运行 install.bat 安装依赖
+2. 双击运行 start.bat 启动服务器
+3. 打开浏览器访问 http://localhost:3000 
+#### 方法二：命令行
+安装依赖
+npm install
+启动服务器
+node server.js
 
+### 🔐 默认账号
+- 教师账号 ：admin
+- 教师密码 ：admin123
+### 📝 使用流程 教师端操作流程
+1. 登录教师账号
+2. 导入或添加学生信息
+3. 导入或添加题目
+4. 设置答题时长
+5. 等待学生答题
+6. 查看统计结果 学生端操作流程
+1. 使用学号和姓名登录
+2. 开始答题
+3. 选择答案
+4. 提交答案（或等待时间结束自动提交）
+5. 查看答题结果和解析
+### 📊 题目导入格式
+Word文档格式 ：
+
+```
+1. 题目内容
+A. 选项A
+B. 选项B
+C. 选项C
+D. 选项D
+答案：A
+解析：解析内容（可选）
+```
+学生批量导入格式 ：
+
+```
+学号1,姓名1
+学号2,姓名2
+```
+### 🧪 测试说明
+我已经创建了详细的测试文档 TEST.md ，包含：
+
+- 功能测试（10个测试场景）
+- 安全性测试（权限控制、数据验证）
+- 性能测试（并发测试、大量数据测试）
+- 兼容性测试（多浏览器测试）
+### 🔒 安全特性
+1. 会话管理 - 使用Express Session管理用户会话
+2. 权限控制 - 学生和教师权限分离
+3. 防重复提交 - 数据库约束防止重复提交
+4. 输入验证 - 前后端双重验证
+5. SQL注入防护 - 使用参数化查询
+### 🎨 界面特点
+- 现代化渐变背景设计
+- 响应式布局，支持多种屏幕尺寸
+- 友好的用户交互体验
+- 清晰的视觉反馈
+- 倒计时警告动画
+### 📚 示例文件
+我已为您创建了两个示例文件：
+
+- 示例题目.txt - 10道JavaScript测试题
+- 示例学生.txt - 10个示例学生
+### 💡 使用建议
+1. 首次使用 ：先导入示例学生和题目进行测试
+2. 生产环境 ：建议修改默认教师密码
+3. 题目导入 ：确保Word文档格式正确
+4. 学生管理 ：定期清理已毕业学生信息
+### ⚠️ 注意事项
+1. 需要安装 Node.js 和 npm
+2. 首次运行会自动创建数据库
+3. 学生必须由教师预先添加才能登录
+4. 题目必须由教师预先添加或导入
+5. 答题时长由教师设置
+系统已经完全实现您要求的所有功能，并进行了充分的测试设计。您现在可以按照上述步骤启动系统并开始使用了！
 
 ```
 
@@ -826,11 +905,11 @@ Agent运行完毕后，会对任务执行情况进行总结并输出在对话框
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTExMzg1Myw3MDcwNzAzNjEsMTM1Mj
-I4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4
-NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC
-0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3
-MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2LD
-c3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMjkw
-NzExOF19
+eyJoaXN0b3J5IjpbLTEyNzQ5MTMzNDAsNzA3MDcwMzYxLDEzNT
+IyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIz
+ODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3Ny
+wtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3
+NzMwNzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNi
+w3NzQ4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5
+MDcxMThdfQ==
 -->
