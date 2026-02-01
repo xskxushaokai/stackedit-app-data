@@ -937,7 +937,12 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 ![输入图片说明](/imgs/2026-02-01/hYzMUmcMITzVwy4H.png)
 ![输入图片说明](/imgs/2026-02-01/5i2APKnXWTAPuxLw.png)
 ![输入图片说明](/imgs/2026-02-01/PNgSvvBcN5jvwcfb.png)
-![输入图片说明](/imgs/2026-02-01/Qm5RgqEKEDJUlPwc.png)
+![输入图片说明](/imgs/2026-02-01/Ae3JXV4qUAumKZdR.png)
+
+
+
+
+
 
 ```
 根据“测试题目.docx”中的题目和解析，制作一个课堂练习的网页，包含完整的前后端，其中前端分为学生作答网页和教师后台管理网页，后端实现学生提交和教师管理的核心功能。各部分具体设计如下。
@@ -976,7 +981,7 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDcxMzczMiwtMTY5ODI2MjU4NywtOD
+eyJoaXN0b3J5IjpbLTM4MzAzMzgwMiwtMTY5ODI2MjU4NywtOD
 c1Njk4MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcw
 MzYxLDEzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NS
 wtMTMxODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5
