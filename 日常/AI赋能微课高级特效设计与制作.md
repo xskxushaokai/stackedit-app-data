@@ -727,7 +727,8 @@ AI分析问题原因并自动完成代码修改和功能验证：
 根据上述需求，为我制作完整的课堂测试系统，并进行充分的测试，确保系统实际使用没有漏洞。
 ```
 
-![输入图片说明](/imgs/2026-02-01/7h6ye93EDMgVIWVm.png)
+![输入图片说明](/imgs/2026-02-01/qjxNmf78EY8mLiFw.png)
+
 
 
 ```
@@ -767,11 +768,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMT
-MxODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIz
-Mjg3NywtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxOD
-QsMzU3NzMwNzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0
-MjYyNiw3NzQ4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLD
-E4MjI5MDcxMTgsOTI0MDQxMTY1LC0xNzU1NDAxODgyLC02MzQ1
-MzY1NzhdfQ==
+eyJoaXN0b3J5IjpbMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMD
+k5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUy
+NDA3MywtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OC
+wtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxODc4
+NTA4MzQ2LC01MTQyNjI2LDc3NDgwNjksLTE1MzMxMTk5ODQsLT
+E1NzUxMjEwMTIsMTgyMjkwNzExOCw5MjQwNDExNjUsLTE3NTU0
+MDE4ODJdfQ==
 -->
