@@ -728,7 +728,8 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 后端核心功能：
 1.学生信息管理；
-2.学生信息校验：校验学生提交的学号和姓名是否匹配，若不必配则返回提示；
+1.学生登录：校验学生提交的学号和姓名是否匹配，若不必配则提示登录失败；
+3
 2.答案和分数反馈：学生提交答案后，后台根据参考答案统计学生得分，并将学生的分数、题目答案解析等数据返回到前端；
 3.作答数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考。
 ```
@@ -750,11 +751,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzODQyMDcxLDQ1MjQzMTc1NSwtMTI4OT
-UyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1
-OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxOD
-c4NTA4MzQ2LC01MTQyNjI2LDc3NDgwNjksLTE1MzMxMTk5ODQs
-LTE1NzUxMjEwMTIsMTgyMjkwNzExOCw5MjQwNDExNjUsLTE3NT
-U0MDE4ODIsLTYzNDUzNjU3OCwzODMwOTE0NDMsLTk0NjYyMzA2
-NV19
+eyJoaXN0b3J5IjpbLTEzMTgyMzg1NjYsNDUyNDMxNzU1LC0xMj
+g5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgsMzg2MTk2
+MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LD
+E4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzExOTk4
+NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0MTE2NSwtMT
+c1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIz
+MDY1XX0=
 -->
