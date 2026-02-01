@@ -728,7 +728,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 后端核心功能：
 1.学生信息管理；
-2.学生信息校验：校验学生提交的学号和xing'ming
+2.学生信息校验：校验学生提交的学号和姓名是否匹配，若不必配则返回提示；
 2.答案和分数反馈：学生提交答案后，后台根据参考答案统计学生得分，并将学生的分数、题目答案解析等数据返回到前端；
 3.作答数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考。
 ```
@@ -750,7 +750,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEzNTI5MDUsNDUyNDMxNzU1LC0xMj
+eyJoaXN0b3J5IjpbLTE2NjQ3NTY1NDAsNDUyNDMxNzU1LC0xMj
 g5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgsMzg2MTk2
 MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LD
 E4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzExOTk4
