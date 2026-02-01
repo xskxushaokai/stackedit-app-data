@@ -957,10 +957,10 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 在向AI发起提问前，需要先停止当前正在运行的服务，在TRAE中间下方的终端界面中点击“终止”按钮或使用快捷键“CTRL+C”即可停止当前正在运行的服务。
 ![输入图片说明](/imgs/2026-02-01/7Wwb9eC16Jr7ca3V.png)
 
-接着，向AI提出我们新增的需求
+接着，向AI提出我们新增的需求。
 ![输入图片说明](/imgs/2026-02-01/LSaf9nAbIVV3vRUi.png)
 
-
+Agent再次自动进行一系列的代码修改和安装依赖之后，成功实现了用户提出的新需求并且启动了服务，
 
 
 
@@ -1003,11 +1003,11 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjI1MTA5OCwyMTAxMzk0NTc5LDExOT
-EzNDEyMjAsLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNTgwNTA3
-OTE2LC0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3MzAxLC
-0xMTUyMjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUy
-NDMxNzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5Nz
-Q3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwt
-NDIwNTg2ODQ5XX0=
+eyJoaXN0b3J5IjpbMTk4NzQ1Mzk3MiwtOTA2MjUxMDk4LDIxMD
+EzOTQ1NzksMTE5MTM0MTIyMCwtMTY5ODI2MjU4NywtODc1Njk4
+MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcwMzYxLD
+EzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMx
+ODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMj
+g3NywtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQs
+MzU3NzMwNzA4XX0=
 -->
