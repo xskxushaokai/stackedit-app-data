@@ -1023,7 +1023,7 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
 
 ![输入图片说明](/imgs/2026-02-01/h9pE6ae9ZUPapiyr.png)
 
-我们再次在浏览器地址栏中输入“http://localhost:3000”进入课堂测试系统，登录教师账号，登录后发现之前“张三”的答题记录仍存在，表明我们停止后台服务后，学生的答题记录并不会被清空，这是合理的。此时看到“统计概览”页面中与之前存在两处变化：1.增加了导出按钮；2.学生得分变为了可点击状态。我们依次测试刚才提出的两点需求。
+我们再次在浏览器地址栏中输入“http://localhost:3000”进入课堂测试系统，登录教师账号，登录后发现之前“张三”的答题记录仍存在，表明我们停止后台服务后，学生的答题记录并不会被清空，这是合理的。此时看到“统计概览”页面中与之前存在两处变化：1.增加了导出按钮；2.学生得分变为了可点击状态。我们依次测试刚才提出的两点需求y。
 
 
 ```
@@ -1063,11 +1063,11 @@ Agent再次自动进行一系列的代码修改和安装依赖之后，成功实
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjMyNDkzLC05MDYyNTEwOTgsMjEwMT
-M5NDU3OSwxMTkxMzQxMjIwLC0xNjk4MjYyNTg3LC04NzU2OTgx
-MjcsMTU4MDUwNzkxNiwtMTkzNDI2OTQ0Nyw3MDcwNzAzNjEsMT
-M1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5OTU1LC0xMzE4
-MjM4NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyOD
-c3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwz
-NTc3MzA3MDhdfQ==
+eyJoaXN0b3J5IjpbMTUzNDc4MTM4OCwxODEyMzI0OTMsLTkwNj
+I1MTA5OCwyMTAxMzk0NTc5LDExOTEzNDEyMjAsLTE2OTgyNjI1
+ODcsLTg3NTY5ODEyNywxNTgwNTA3OTE2LC0xOTM0MjY5NDQ3LD
+cwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUyMjY0ODIsLTEwOTkz
+OTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMxNzU1LC0xMjg5NTI0MD
+czLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgsMzg2MTk2MzU4LC0x
+NjY0Mjc1MTg0XX0=
 -->
