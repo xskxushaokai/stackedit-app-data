@@ -718,13 +718,13 @@ AI分析问题原因并自动完成代码修改和功能验证：
 根据“测试题目.docx”中的题目和解析，制作一个课堂练习的网页，包含完整的前后端，其中前端分为学生作答网页和教师后台管理网页，后端实现学生提交和教师管理的核心功能。各部分具体设计如下。
 
 学生作答网页：
-1.学生通过网页进行选择题的选项勾选、论述题的文字阐述等；
-2.学生信息输入：学生输入个人信息（学号和姓名）；
+1.学生登录：学生输入个人信息（学号和姓名），提交学号和姓名后登录网页方可答题；
+2.答题：学生通过网页进行选择题的选项勾选、论述题的文字阐述等；
 3.提交：点击提交按钮，可以将个人信息连同题目答案提交至后台，并查看正确答案和解析；
 
 教师后台管理网页：
-1.教师输入管理密码(admin)登录后台管理网页；
-2.教师可以通过文件导入学生信息（学号、姓名），管理学生信息（删除和修改），查看学生答题记录和分数，查看题目统计分析结果；
+1.管理员登录：教师输入管理密码(admin)登录后台管理网页；
+2.后台管理：教师可以通过文件导入学生信息（学号、姓名），管理学生信息（删除和修改），查看学生答题记录和分数，查看题目统计分析结果；
 
 后端核心功能：
 1.学生信息管理；
@@ -750,11 +750,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQ3NTY1NDAsNDUyNDMxNzU1LC0xMj
-g5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgsMzg2MTk2
-MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIwNTg2ODQ5LD
-E4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzExOTk4
-NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0MTE2NSwtMT
-c1NTQwMTg4MiwtNjM0NTM2NTc4LDM4MzA5MTQ0MywtOTQ2NjIz
-MDY1XX0=
+eyJoaXN0b3J5IjpbMzIzODQyMDcxLDQ1MjQzMTc1NSwtMTI4OT
+UyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5NjM1
+OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwxOD
+c4NTA4MzQ2LC01MTQyNjI2LDc3NDgwNjksLTE1MzMxMTk5ODQs
+LTE1NzUxMjEwMTIsMTgyMjkwNzExOCw5MjQwNDExNjUsLTE3NT
+U0MDE4ODIsLTYzNDUzNjU3OCwzODMwOTE0NDMsLTk0NjYyMzA2
+NV19
 -->
