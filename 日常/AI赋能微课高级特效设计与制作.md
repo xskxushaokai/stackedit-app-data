@@ -954,6 +954,7 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
 1.在教师管理后台中，在学生答题情况中，当点击某条记录的得分时，显示该学生每道题目的答题详情，以便教师更好的掌握每个学生的情况。
 2.在“统计概览”页面下增加一个导出按钮，导出每道题目的统计信息、每个学生的答题详情，保存为excel文件。
 ```
+在向AI发起提问前，首先让我们将当前zheng'z
 
 
 
@@ -994,11 +995,11 @@ Agent执行完毕后，输出修改的内容、服务启动方法等提示信息
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTM5NDU3OSwxMTkxMzQxMjIwLC0xNj
-k4MjYyNTg3LC04NzU2OTgxMjcsMTU4MDUwNzkxNiwtMTkzNDI2
-OTQ0Nyw3MDcwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC
-0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4
-OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0NzQ4LDM4NjE5Nj
-M1OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLTQyMDU4Njg0OSwx
-ODc4NTA4MzQ2XX0=
+eyJoaXN0b3J5IjpbLTExMDc5MzMyODIsMjEwMTM5NDU3OSwxMT
+kxMzQxMjIwLC0xNjk4MjYyNTg3LC04NzU2OTgxMjcsMTU4MDUw
+NzkxNiwtMTkzNDI2OTQ0Nyw3MDcwNzAzNjEsMTM1MjI4NzMwMS
+wtMTE1MjI2NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1
+MjQzMTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOT
+c0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgs
+LTQyMDU4Njg0OV19
 -->
