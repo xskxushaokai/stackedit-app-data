@@ -732,6 +732,27 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 ![输入图片说明](/imgs/2026-02-01/O6XH8ssS4WUm27e7.png)
 
+Agent设计的系统架构如下：
+```
+class_test_website/
+├── server.js              # 后端服务器
+├── database/              # 数据库文件
+├── public/                # 前端静态文件
+│   ├── index.html         # 首页
+│   ├── student/           # 学生端页面
+│   │   ├── login.html
+│   │   ├── test.html
+│   │   └── result.html
+│   ├── teacher/           # 教师端页面
+│   │   ├── login.html
+│   │   ├── dashboard.html
+│   │   ├── students.html
+│   │   └── questions.html
+│   ├── css/               # 样式文件
+│   └── js/                # JavaScript文件
+├── uploads/               # 上传文件目录
+└── package.json           # 项目配置
+```
 
 
 
@@ -772,11 +793,11 @@ AI分析问题原因并自动完成代码修改和功能验证：
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY1NDc2MjcsMTM1MjI4NzMwMSwtMT
-E1MjI2NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQz
-MTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC0xMTAyOTc0Nz
-Q4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3MzA3MDgsLTQy
-MDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2LDc3NDgwNjksLT
-E1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMjkwNzExOCw5MjQw
-NDExNjVdfQ==
+eyJoaXN0b3J5IjpbMTg3NDQ0NzQxMCwxMzUyMjg3MzAxLC0xMT
+UyMjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMx
+NzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3ND
+gsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIw
+NTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMT
+UzMzExOTk4NCwtMTU3NTEyMTAxMiwxODIyOTA3MTE4LDkyNDA0
+MTE2NV19
 -->
