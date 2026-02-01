@@ -812,8 +812,6 @@ node server.js
 5. 查看答题结果和解析
 ### 📊 题目导入格式
 Word文档格式 ：
-
-```
 1. 题目内容
 A. 选项A
 B. 选项B
@@ -821,13 +819,11 @@ C. 选项C
 D. 选项D
 答案：A
 解析：解析内容（可选）
-```
-学生批量导入格式 ：
 
-```
+学生批量导入格式 ：
 学号1,姓名1
 学号2,姓名2
-```
+
 ### 🧪 测试说明
 我已经创建了详细的测试文档 TEST.md ，包含：
 
@@ -866,6 +862,10 @@ D. 选项D
 系统已经完全实现您要求的所有功能，并进行了充分的测试设计。您现在可以按照上述步骤启动系统并开始使用了！
 
 ```
+可以看到，AI完成了所有代码的编写以及环境的配置，并给出了部署网页的方法，
+
+
+
 
 
 ```
@@ -905,11 +905,11 @@ D. 选项D
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ5MTMzNDAsNzA3MDcwMzYxLDEzNT
-IyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIz
-ODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5ODIzMjg3Ny
-wtMTEwMjk3NDc0OCwzODYxOTYzNTgsLTE2NjQyNzUxODQsMzU3
-NzMwNzA4LC00MjA1ODY4NDksMTg3ODUwODM0NiwtNTE0MjYyNi
-w3NzQ4MDY5LC0xNTMzMTE5OTg0LC0xNTc1MTIxMDEyLDE4MjI5
-MDcxMThdfQ==
+eyJoaXN0b3J5IjpbLTE1MTQyNDc5OCw3MDcwNzAzNjEsMTM1Mj
+I4NzMwMSwtMTE1MjI2NDgyLC0xMDk5Mzk5OTU1LC0xMzE4MjM4
+NTY2LDQ1MjQzMTc1NSwtMTI4OTUyNDA3MywtOTk4MjMyODc3LC
+0xMTAyOTc0NzQ4LDM4NjE5NjM1OCwtMTY2NDI3NTE4NCwzNTc3
+MzA3MDgsLTQyMDU4Njg0OSwxODc4NTA4MzQ2LC01MTQyNjI2LD
+c3NDgwNjksLTE1MzMxMTk5ODQsLTE1NzUxMjEwMTIsMTgyMjkw
+NzExOF19
 -->
