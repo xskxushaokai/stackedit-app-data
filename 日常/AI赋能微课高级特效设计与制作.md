@@ -867,7 +867,14 @@ D. 选项D
 ![输入图片说明](/imgs/2026-02-01/gS4vE3I0urNPwoA9.png)
 
 直接在右侧Agent协作区中，点击方法二中Bash窗口右上角的运行按钮，即可直接在TRAE中运行终端命令。此时在TRAE中代码编辑区下方依次执行“npm install”和“node server.js”两条命令，第二条命令执行完成后出现了红色提示：“数据库连接失败: SQLITE_CANTOPEN: unable to open database file”，表明数据库无法正常启动，导致整个课堂测试系统启动失败。由于我们的网站仅用于课堂测试，访问量通常较小，故对于后台数据读写的性能要求也较低，为了降低开发难度，接下来我们让AI继续修改，项目中不使用任何数据库，而采用内存缓存或写入文件的方式来存储数据。
-![输入图片说明](/imgs/2026-02-01/h7Q9RzMHv86lAfXB.png)
+输入提示词为：
+```
+执行node server.js时，最后出现如下提示：  
+数据库连接失败: SQLITE_CANTOPEN: unable to open database file  
+请帮我修改，项目中不使用任何数据库，而采用内存缓存或写入文件的方式来存储数据。
+```
+
+![输入图片说明](/imgs/2026-02-01/8qEtOqW0Wuz7nxLs.png)
 
 
 
@@ -908,11 +915,11 @@ D. 选项D
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTY5ODEyNywxNTgwNTA3OTE2LC0xOT
-M0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3MzAxLC0xMTUyMjY0
-ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMxNzU1LC
-0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3NDgsMzg2
-MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIwNTg2OD
-Q5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0ODA2OSwtMTUzMzEx
-OTk4NF19
+eyJoaXN0b3J5IjpbLTE2OTgyNjI1ODcsLTg3NTY5ODEyNywxNT
+gwNTA3OTE2LC0xOTM0MjY5NDQ3LDcwNzA3MDM2MSwxMzUyMjg3
+MzAxLC0xMTUyMjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1Nj
+YsNDUyNDMxNzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTEx
+MDI5NzQ3NDgsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMD
+cwOCwtNDIwNTg2ODQ5LDE4Nzg1MDgzNDYsLTUxNDI2MjYsNzc0
+ODA2OV19
 -->
