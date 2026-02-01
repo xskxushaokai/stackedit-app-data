@@ -686,7 +686,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 
 工欲善其事必先利其器，由于前后端共同开发涉及到的代码量和文件数量略有增加，且涉及到接口调用和通信，所以我们不再使用网页版的豆包应用生成平台，而是通过在本地安装专业的代码编辑器来完成应用开发。目前国内使用较多的集成了AI功能的编辑器主要有TRAE、VS Code、ClaudeCode、Cursor 等，我们使用TRAE来进行教学应用开发。虽然我们使用了“专业的代码编辑器”，但不用担心，我们仍然是通过与AI协作来完成应用的开发，在与AI协作的过程中，我们充当的角色是：应用的设计者、测试者和使用者，AI充当的角色是：开发者和测试工程师，代码编写和修改的任务仍然是交给AI来完成。
 
-在本地安装TRAE与A
+在本地安装TRAE与AI进行协作开发的好处是用户可以赋予AI文件操作和执行权限，从而实现更便捷的AI自动化操作。
 
 通过官网（https://www.trae.cn）下载安装包。
 ![输入图片说明](/imgs/2026-01-27/1NVgDmzTVSAOS1Cb.png)
@@ -795,7 +795,7 @@ class_test_website/
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Nzg5MTYxOCwxMzUyMjg3MzAxLC0xMT
+eyJoaXN0b3J5IjpbMTYwOTQ4MTI3MSwxMzUyMjg3MzAxLC0xMT
 UyMjY0ODIsLTEwOTkzOTk5NTUsLTEzMTgyMzg1NjYsNDUyNDMx
 NzU1LC0xMjg5NTI0MDczLC05OTgyMzI4NzcsLTExMDI5NzQ3ND
 gsMzg2MTk2MzU4LC0xNjY0Mjc1MTg0LDM1NzczMDcwOCwtNDIw
