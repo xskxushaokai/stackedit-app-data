@@ -1153,9 +1153,9 @@ http://[服务器的局域网IP]:3000
 ## 第四章 AI赋能新型交互式课件案例
 ### 第一节 利用豆包应用生成平台制作简单网页
 ### 第二节 利用桌面智能体制作交互式网页
-### 第三节 利用桌面智能体制作
+### 第三节 利用桌面智能体制作完整的课堂测试系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzUzNTI1NywxNTczNjIwMjEzLDIwMj
+eyJoaXN0b3J5IjpbMTM4NzU0NjIzOSwxNTczNjIwMjEzLDIwMj
 MwNTEyMzQsODQ2NzcwMzIxLDE3MzAxNDg0NDIsMTgxMjMyNDkz
 LC05MDYyNTEwOTgsMjEwMTM5NDU3OSwxMTkxMzQxMjIwLC0xNj
 k4MjYyNTg3LC04NzU2OTgxMjcsMTU4MDUwNzkxNiwtMTkzNDI2
