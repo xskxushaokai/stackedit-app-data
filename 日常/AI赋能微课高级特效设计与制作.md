@@ -1148,12 +1148,16 @@ http://[服务器的局域网IP]:3000
     -   **目标**：增强学生对历史事件的记忆和理解。
     -   **实现方式**：通过AI生成的历史场景和人物，设计互动式时间线和决策游戏。
     -   **效果**：学生对历史事件的兴趣增加，记忆效果明显改善。
+
+
+## 第四章 AI赋能新型交互式课件案例
+### 第一节 利用豆包应用生成平台制作简单网页
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzYyMDIxMywyMDIzMDUxMjM0LDg0Nj
-c3MDMyMSwxNzMwMTQ4NDQyLDE4MTIzMjQ5MywtOTA2MjUxMDk4
-LDIxMDEzOTQ1NzksMTE5MTM0MTIyMCwtMTY5ODI2MjU4NywtOD
-c1Njk4MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcw
-MzYxLDEzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NS
-wtMTMxODIzODU2Niw0NTI0MzE3NTUsLTEyODk1MjQwNzMsLTk5
-ODIzMjg3N119
+eyJoaXN0b3J5IjpbMTk5MzcwMjIxNSwxNTczNjIwMjEzLDIwMj
+MwNTEyMzQsODQ2NzcwMzIxLDE3MzAxNDg0NDIsMTgxMjMyNDkz
+LC05MDYyNTEwOTgsMjEwMTM5NDU3OSwxMTkxMzQxMjIwLC0xNj
+k4MjYyNTg3LC04NzU2OTgxMjcsMTU4MDUwNzkxNiwtMTkzNDI2
+OTQ0Nyw3MDcwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC
+0xMDk5Mzk5OTU1LC0xMzE4MjM4NTY2LDQ1MjQzMTc1NSwtMTI4
+OTUyNDA3M119
 -->
