@@ -567,7 +567,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 	- [ ] 核心技术学习
 - [ ] deepseek Engram架构《Conditional Memory via Scalable Lookup》
 
-- [ ] 新paper、模型跟进（SAM 3D等），lingbot
+- [ ] 新paper、模型跟进（SAM 3D等），lingbot-VLA项目主页/代码：https://github.com/Robbyant/lingbot-vla
 
 - [ ] Infographic（蚂蚁开源可视化图表）
 - [ ] 其他优秀项目（一键克隆网站(orchilds.app)，免费API汇总(github: public-apis)）
@@ -631,7 +631,7 @@ CSP-J/S获奖难度相对较低，经过1-2年的认真训练，很大一部分�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAwNDQyODYsMjA1MjE5NDM0MywtMj
+eyJoaXN0b3J5IjpbLTEyMTIzNDQxMjEsMjA1MjE5NDM0MywtMj
 A2MDMxMzU0MywxNTEzMDMwMTI5LDMzMTgwMTA3OSwxNDIxNjkz
 MzYsNzA1MTYyMTc1LDE5MDM5NDY1NDksLTExMDA4OTM1OTgsLT
 E2NzU0NjEyMTEsMTA1Nzg3NjgzNCwtMTU0Njc4OTU0MCwtMzcy
