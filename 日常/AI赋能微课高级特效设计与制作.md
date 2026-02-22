@@ -723,7 +723,7 @@ AI分析问题原因并自动完成代码修改和功能验证：
 一个完整的课堂测试系统通常需包含的基本功能有：学生登录，输入学生个人信息并提交登录后开始测试；网页作答，学生通过网页进行选择题的选项勾选、论述的文字阐述等，可提交答案或上传文件；答案和分数反馈，学生提交答案后后台返回学生的分数、题目答案解析等内容；后台数据统计，统计分析所有学生的作答情况、题目得分率等数据供教师参考；教师登录和管理，教师登录系统，查看学生作答情况，管理学生信息、管理测试信息等。
 
 3. Agent根据用户需求开发课堂测试系统
-在右侧智能体写作窗口中输入以下提示词，并通过“#”引用“测试题目.docx”
+在右侧智能体协作窗口中输入以下提示词，并通过“#”引用“测试题目.docx”
 ```
 我想要制作一个课堂测试系统网页，请为我生成详细设计方案，需要的功能如下：
 1.学生登录：输入学生个人信息（学号、姓名）登录；
@@ -1162,11 +1162,11 @@ AI协作窗口开始课堂测试系统的开发。
 ### 第二节 利用桌面智能体制作交互式网页
 ### 第三节 利用桌面智能体制作完整的课堂测试系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMzc5ODU4LDEzODc1NDYyMzksMTU3Mz
-YyMDIxMywyMDIzMDUxMjM0LDg0Njc3MDMyMSwxNzMwMTQ4NDQy
-LDE4MTIzMjQ5MywtOTA2MjUxMDk4LDIxMDEzOTQ1NzksMTE5MT
-M0MTIyMCwtMTY5ODI2MjU4NywtODc1Njk4MTI3LDE1ODA1MDc5
-MTYsLTE5MzQyNjk0NDcsNzA3MDcwMzYxLDEzNTIyODczMDEsLT
-ExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMxODIzODU2Niw0NTI0
-MzE3NTVdfQ==
+eyJoaXN0b3J5IjpbLTE4MjYxNTI0NDAsMzcyMzc5ODU4LDEzOD
+c1NDYyMzksMTU3MzYyMDIxMywyMDIzMDUxMjM0LDg0Njc3MDMy
+MSwxNzMwMTQ4NDQyLDE4MTIzMjQ5MywtOTA2MjUxMDk4LDIxMD
+EzOTQ1NzksMTE5MTM0MTIyMCwtMTY5ODI2MjU4NywtODc1Njk4
+MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcwMzYxLD
+EzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMx
+ODIzODU2Nl19
 -->
