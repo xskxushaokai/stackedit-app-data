@@ -768,12 +768,13 @@ Agent在任务运行过程中会向用户请求获取权限来安装网站开发
 Agent运行完毕后，会对任务执行情况进行总结并输出在对话框，以下列举部分Agent输出的内容：
 ```
 ### ✅ 已实现的所有功能 
-学生端功能
+### 学生端功能
 1. 学生登录 - 通过学号和姓名登录
 2. 在线答题 - 显示题目，支持选择题答题
 3. 答题倒计时 - 实时显示剩余时间，时间到自动提交
 4. 提交后查看结果 - 显示得分、正确答案和详细解析
-5. 防重复提交 - 同一学生不允许重复提交 教师端功能
+5. 防重复提交 - 同一学生不允许重复提交 
+### 教师端功能
 1. 教师登录 - 管理员密码登录（默认：admin/admin123）
 2. 学生信息管理
    - 单个添加学生
@@ -1163,7 +1164,7 @@ AI协作窗口开始课堂测试系统的开发。
 ### 第二节 利用桌面智能体制作交互式网页
 ### 第三节 利用桌面智能体制作完整的课堂测试系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDUwODc3MTgsLTE4MjYxNTI0NDAsMz
+eyJoaXN0b3J5IjpbLTEzNzkxNTM2MjQsLTE4MjYxNTI0NDAsMz
 cyMzc5ODU4LDEzODc1NDYyMzksMTU3MzYyMDIxMywyMDIzMDUx
 MjM0LDg0Njc3MDMyMSwxNzMwMTQ4NDQyLDE4MTIzMjQ5MywtOT
 A2MjUxMDk4LDIxMDEzOTQ1NzksMTE5MTM0MTIyMCwtMTY5ODI2
