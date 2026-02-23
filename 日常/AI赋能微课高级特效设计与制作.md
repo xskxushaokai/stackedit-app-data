@@ -767,7 +767,8 @@ Agent在任务运行过程中会向用户请求获取权限来安装网站开发
 
 Agent运行完毕后，会对任务执行情况进行总结并输出在对话框，以下列举部分Agent输出的内容：
 ```
-### ✅ 已实现的所有功能 学生端功能
+### ✅ 已实现的所有功能 
+学生端功能
 1. 学生登录 - 通过学号和姓名登录
 2. 在线答题 - 显示题目，支持选择题答题
 3. 答题倒计时 - 实时显示剩余时间，时间到自动提交
@@ -1162,11 +1163,11 @@ AI协作窗口开始课堂测试系统的开发。
 ### 第二节 利用桌面智能体制作交互式网页
 ### 第三节 利用桌面智能体制作完整的课堂测试系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjYxNTI0NDAsMzcyMzc5ODU4LDEzOD
-c1NDYyMzksMTU3MzYyMDIxMywyMDIzMDUxMjM0LDg0Njc3MDMy
-MSwxNzMwMTQ4NDQyLDE4MTIzMjQ5MywtOTA2MjUxMDk4LDIxMD
-EzOTQ1NzksMTE5MTM0MTIyMCwtMTY5ODI2MjU4NywtODc1Njk4
-MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0NDcsNzA3MDcwMzYxLD
-EzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5OTM5OTk1NSwtMTMx
-ODIzODU2Nl19
+eyJoaXN0b3J5IjpbLTE5NDUwODc3MTgsLTE4MjYxNTI0NDAsMz
+cyMzc5ODU4LDEzODc1NDYyMzksMTU3MzYyMDIxMywyMDIzMDUx
+MjM0LDg0Njc3MDMyMSwxNzMwMTQ4NDQyLDE4MTIzMjQ5MywtOT
+A2MjUxMDk4LDIxMDEzOTQ1NzksMTE5MTM0MTIyMCwtMTY5ODI2
+MjU4NywtODc1Njk4MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0ND
+csNzA3MDcwMzYxLDEzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5
+OTM5OTk1NV19
 -->
