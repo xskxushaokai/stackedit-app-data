@@ -806,13 +806,15 @@ node server.js
 ### 🔐 默认账号
 - 教师账号 ：admin
 - 教师密码 ：admin123
-### 📝 使用流程 教师端操作流程
+### 📝 使用流程 
+### 教师端操作流程
 1. 登录教师账号
 2. 导入或添加学生信息
 3. 导入或添加题目
 4. 设置答题时长
 5. 等待学生答题
-6. 查看统计结果 学生端操作流程
+6. 查看统计结果 
+### 学生端操作流程
 1. 使用学号和姓名登录
 2. 开始答题
 3. 选择答案
@@ -1164,11 +1166,11 @@ AI协作窗口开始课堂测试系统的开发。
 ### 第二节 利用桌面智能体制作交互式网页
 ### 第三节 利用桌面智能体制作完整的课堂测试系统
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkxNTM2MjQsLTE4MjYxNTI0NDAsMz
-cyMzc5ODU4LDEzODc1NDYyMzksMTU3MzYyMDIxMywyMDIzMDUx
-MjM0LDg0Njc3MDMyMSwxNzMwMTQ4NDQyLDE4MTIzMjQ5MywtOT
-A2MjUxMDk4LDIxMDEzOTQ1NzksMTE5MTM0MTIyMCwtMTY5ODI2
-MjU4NywtODc1Njk4MTI3LDE1ODA1MDc5MTYsLTE5MzQyNjk0ND
-csNzA3MDcwMzYxLDEzNTIyODczMDEsLTExNTIyNjQ4MiwtMTA5
-OTM5OTk1NV19
+eyJoaXN0b3J5IjpbMTM1NTQ3ODQ3MCwtMTgyNjE1MjQ0MCwzNz
+IzNzk4NTgsMTM4NzU0NjIzOSwxNTczNjIwMjEzLDIwMjMwNTEy
+MzQsODQ2NzcwMzIxLDE3MzAxNDg0NDIsMTgxMjMyNDkzLC05MD
+YyNTEwOTgsMjEwMTM5NDU3OSwxMTkxMzQxMjIwLC0xNjk4MjYy
+NTg3LC04NzU2OTgxMjcsMTU4MDUwNzkxNiwtMTkzNDI2OTQ0Ny
+w3MDcwNzAzNjEsMTM1MjI4NzMwMSwtMTE1MjI2NDgyLC0xMDk5
+Mzk5OTU1XX0=
 -->
