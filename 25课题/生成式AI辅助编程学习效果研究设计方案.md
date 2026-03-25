@@ -18,7 +18,7 @@
 
 2. 分析生成式AI使用与编程测试成绩之间的关联性
 
-3. 探索有效的结合生成式AI进行编程评价模式，为教学指导提供依据
+3. 探索有效的结合生成式AI进行编程评价的模式，为教学指导提供依据
 
   
 
@@ -275,5 +275,5 @@
 
 **适用对象**：中学信息学奥赛指导教师
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MTg3NzkyLDQ2ODYxOTg5OF19
+eyJoaXN0b3J5IjpbLTE0MjY0NjI2ODIsNDY4NjE5ODk4XX0=
 -->
