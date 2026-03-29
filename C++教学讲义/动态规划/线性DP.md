@@ -435,18 +435,9 @@ $i=2$（$c[2]=3, w[2]=3$）：
 
 
 
----
-
-## 5. 状体压缩DP
 
 
 
-## 6. 区间DP
-【参考视频】：
-https://csp.wiki/docs/CSP-J/4-DP/06
-
-
-## 7.数位统计DP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTc3MjAyMV19
+eyJoaXN0b3J5IjpbLTI4OTExMDA3OV19
 -->
