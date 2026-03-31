@@ -1,0 +1,206 @@
+
+# 背包问题
+
+常见的背包问题有以下几种：**0/1背包、完全背包、分组背包、多重背包**。
+关于背包问题建议观看B站**董晓**老师的视频学习。
+
+---
+
+## 0/1背包
+上面的 **例4**以及 第3节**滚动数组优化DP**已经详细讲解了 **0/1背包问题**。
+0/1背包是其他背包问题的基础，要牢牢掌握0/1背包问题的**二维dp数组代码** 以及 **滚动数组优化** 两种代码写法。
+
+---
+
+## 完全背包
+**完全背包** 与 **0/1背包**只有一点不同：完全背包问题中，每个物品都可以多次拿取，而 0/1背包问题中每个物品最多只能拿一次。
+
+**N** 种可选物品，第$i$ 种物品的体积为 $c_i$，价值为 $w_i$，想要装入最大容量为 **C** 的背包，要求可获得的最大价值。
+
+我们使用同样的状态表示方法：$(N+1)*(C+1)$的二维数组```dp[][]```来表示状态，```dp[i][j]```表示把前 $i$ 种物品（从第 1 个到第 $i$ 个）装入容量为 $j$ 的背包中获得的最大值。
+
+如何求```dp[i][j]```?
+
+也就是，把前$i$个物品装入容量为 $j$ 的背包中获得的最大价值是多少？我们**从最后一个物品 $i$ 入手**，可以分为两种情况：
+
+**(1). 第 $i$ 个物品的体积比背包容量 $j$ 还大，无法装入，则直接继承前 $i-1$ 个物品装入容量为 $j$ 的背包的情况即可，即 $dp[i][j]=dp[i-1][j]$ 。**
+
+**(2). 第 $i$ 个物品的体积比容量 $j$ 小，能装进背包。又可以进一步分为两种情况：装或不装第 $i$ 个物品。**
+ - a. 装第 $i$ 个物品。第 $i$ 个物品装进背包后，背包的剩余容量减少 $c[i]$，价值增加 $w[i]$ ，则背包剩余的空间 $j-c[i]$ 可以考虑继续装前 $i$ 个物品，故有 $dp[i][j]=dp[i][j-c[i]] + w[i]$ 。
+ - b. 不装第i个物品，则背包的空间 $j$ 全部用来装前 $i-1$ 个物品，有 $dp[i][j]=dp[i-1][j]$ 。
+
+取 a、b 两种情况的最大值，状态转移方程即为：
+$$dp[i][j] = max(dp[i-1][j], dp[i][j-c[i]]+w[i])$$
+
+综合(1)(2)两种情形，最终的状态转移方程为：
+$$dp[i][j] = \begin{cases} dp[i-1][j] &\text{if } c_i>j,i>0,j>0 \\ max(dp[i-1][j], dp[i][j-c[i]]+w[i]) &\text{if } c_i<=j,i>0,j>0 \end{cases}$$
+
+---
+
+## 完全背包的滚动数组优化
+需要注意的是，在0/1背包中，更新滚动数组时，我们为了保证状态转移方程结果的正确性，将内层循环（背包容量）采用从大到小的方式反向循环。那么，完全背包是否需要注意同样的问题呢？
+
+与0/1背包恰好相反，在完全背包滚动数组优化代码中，为了保障状态转移方程结果正确，**需要将内层循环（背包容量）采用从小到大的方式正向循环**。请同学们结合完全背包的状态转移方程思考原因。
+
+完全背包 **滚动数组优化** 代码如下：
+```cpp
+int dp[N];
+int solve(int n, int C){
+    for(int i = 1; i <= n; i++){
+        for(int j = c[i]; j <= C; j++) // 正向循环
+            dp[j] = max(dp[j], dp[j-c[i]] + w[i]);
+    }
+    return dp[C];
+}
+```
+
+---
+
+## 多重背包
+**特点：每种物品可以拿多件，但数量有上限。**
+
+所以，我们可以枚举每种物品拿的个数，取所有枚举的最大值即可。
+
+```cpp
+/*
+在k*c[i] <= j的条件下，
+dp[i][j] = MAX{
+				dp[i-1][j],
+				dp[i-1][j-c[i]]+v[i],
+				dp[i-1][j-2*c[i]]+2*v[i],
+				...
+				dp[i-1][j-k*c[i]]+k*v[i]
+}
+*/
+```
+
+代码如下：
+```cpp
+// n-物品种数，C-总容量，c[i]-物品体积，v[i]-物品价值，nums[i]-物品数量上限
+int solve(int C, int n){
+    for(int i=1;i<=n;i++){
+        for(int j=C;j>=c[i];j--){
+            for(int k=0;k<=num[i] && k*c[i]<=j;k++){
+                dp[j] = max(dp[j], dp[j-k*c[i]]+k*v[i]);
+            }
+        }
+    }
+    return dp[C];
+}
+```
+
+---
+
+## 背包问题汇总
+```cpp
+// 01背包：每个物品只有 1个 
+// 条件：c[i]:物品体积 ,v[i]:物品价值
+
+/*	
+状态转移方程：
+dp[i][j] = MAX{
+				dp[i-1][j],       // 不装第i物品
+				dp[i-1][j-c[i]]+v[i]     // 装第i物品
+			}
+*/
+```
+
+```cpp
+
+// 完全背包：每个物品都有无限个 
+// c[i]:物品体积 ,v[i]:物品价值
+
+// 完全背包第一种思路：讨论第i个物品，分为 一个都不装 和 至少装一个 两种情况
+/*
+dp[i][j] = MAX{
+				dp[i-1][j],       // 第i物品一个都不装 
+				dp[i][j-c[i]]+v[i]     // 第i物品先装一个 
+			}
+*/
+```
+
+```cpp
+
+// 完全背包：每个物品都有无限个
+// c[i]:物品体积 ,v[i]:物品价值
+
+// 完全背包第二种思路：讨论第i个物品，枚举其所有可能，打擂台找出最大的方案
+// 这种思路本质上还是01背包的思想（01背包讨论第i个物品，枚举装0个和装1个两种方案）
+// 第i个物品其实最多只能装 j/c[i] 个，有上限就可以枚举
+
+/*
+dp[i][j] = MAX{
+				dp[i-1][j],       // 第i物品一个都不装 
+				dp[i-1][j-c[i]]+v[i],     // 第i物品只装一个 
+				dp[i-1][j-2*c[i]]+2*v[i],  // 第i物品只装2个
+				...
+				dp[i-1][j-j/c[i]*c[i]]+j/c[i]*v[i]
+			}
+*/
+```
+
+```cpp
+
+// 多重背包：每个物品有nums[i]个,使用完全背包的第二种思路即可
+// c[i]:物品体积 ,v[i]:物品价值
+
+/*
+dp[i][j] = MAX{
+				dp[i-1][j],       // 第i物品一个都不装 
+				dp[i-1][j-c[i]]+v[i],     // 第i物品只装一个 
+				dp[i-1][j-2*c[i]]+2*v[i],  // 第i物品只装2个
+				...
+				dp[i-1][j-nums[i]*c[i]]+nums[i]*v[i]
+			}
+
+*/
+```
+
+```cpp
+
+// 混合背包
+// 背包中存在3类物品，分别为最多只能装1个、最多可装给定数量个、最多可装无限个
+// 对于混合背包问题，只要使用多重背包的思路即可，首先判断第i个物品的最大可装数量，再枚举其所有方案即可
+// c[i]:物品体积 ,v[i]:物品价值
+
+/*
+dp[i][j] = MAX{
+				dp[i-1][j],       // 第i物品一个都不装 
+				dp[i-1][j-c[i]]+v[i],     // 第i物品只装一个 
+				dp[i-1][j-2*c[i]]+2*v[i],  // 第i物品只装2个
+				...
+				dp[i-1][j-nums[i]*c[i]]+nums[i]*v[i]
+			}
+
+*/
+```
+
+
+
+
+<br><br><br>
+
+---
+【参考视频】：
+https://csp.wiki/docs/CSP-J/4-DP/05
+
+【E08【模板】背包DP 01背包——信息学竞赛算法】 https://www.bilibili.com/video/BV1kp4y1e794/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+
+【E09【模板】背包DP 完全背包】 https://www.bilibili.com/video/BV15v411y7Qz/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+
+【E10 背包DP 多重背包 二进制优化——信息学奥赛算法】 https://www.bilibili.com/video/BV1MA41177cg/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+
+【E11【模板】单调队列 滑动窗口最值——信息学竞赛算法】 https://www.bilibili.com/video/BV1H5411j7o6/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+
+【E12 单调队列 连续子序列的最大和】 https://www.bilibili.com/video/BV1m54y117uu/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+
+【E13 背包DP 多重背包 单调队列优化——信息学奥赛算法】 https://www.bilibili.com/video/BV1354y1C7SF/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+
+【E14 背包DP 混合背包】 https://www.bilibili.com/video/BV1nV41127ZU/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+
+【E15 背包DP 二维费用背包】 https://www.bilibili.com/video/BV1P54y1C7Ew/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+
+【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA4MTIwMTQxMl19
+-->
