@@ -7,7 +7,7 @@
 ---
 
 ## 0/1背包
-上面的 **例4**以及 第3节**滚动数组优化DP**已经详细讲解了 **0/1背包问题**。
+上yi'jiang的 **例4**以及 第3节**滚动数组优化DP**已经详细讲解了 **0/1背包问题**。
 0/1背包是其他背包问题的基础，要牢牢掌握0/1背包问题的**二维dp数组代码** 以及 **滚动数组优化** 两种代码写法。
 
 ---
@@ -202,5 +202,5 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTIwMTQxMl19
+eyJoaXN0b3J5IjpbLTExNTk1NjcyMjZdfQ==
 -->
