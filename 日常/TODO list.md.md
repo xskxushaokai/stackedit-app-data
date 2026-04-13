@@ -679,7 +679,7 @@ https://dgjyw.dgjy.net/info/1021/204693.htm
 - [ ] 教育部教育技术与资源发展中心（中央电化教育馆）关于开展2026年教师人工智能应用案例征集活动的通知
 https://www.ncet.edu.cn/zhuzhan/ywgzxmhd/20260318/6714.html 
 
-- [ ] 东莞市信息科技教育论文（E:\教研\教学类比赛\关于开展2026年东莞市教育教学论文征集评选活动的通知）（截止时间：2026年7月5日）
+- [ ] 东莞市信息科技教育论文（E:\教研\教学类比赛\关于开展2026年东莞市教育教学论文征集评选活动的通知）（**截止时间：2026年7月5日**）
 
 
 ---
@@ -746,11 +746,11 @@ https://www.ncet.edu.cn/zhuzhan/ywgzxmhd/20260318/6714.html
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM2NjU5NDYsLTI5Mjk1MDU5MSwtMT
-Q1MTY5NTAyMywtNzQzODE4MzE4LDE3MzE4OTQxOSw5NjU5NjEz
-MDksLTEzNTczMTAyNTksLTE3MTY5MDQzMzEsMzI2NDk0MTQ1LD
-EwNTkyOTQwMTgsLTE2MTc3MTc5ODAsLTg4Nzg0NTEzOSwtMTcx
-NzUyNDIwMiwyOTQwODQxNiwtMzY4MjUwMTc2LC04NDMxMzU2Mj
-gsMTI5NTI1NDQ3NywxNjcyMTY1NjI0LDY0ODMxMTMwMywtMTIy
-Njk3NDA4NF19
+eyJoaXN0b3J5IjpbMTEzMzE2MzkwLC0yOTI5NTA1OTEsLTE0NT
+E2OTUwMjMsLTc0MzgxODMxOCwxNzMxODk0MTksOTY1OTYxMzA5
+LC0xMzU3MzEwMjU5LC0xNzE2OTA0MzMxLDMyNjQ5NDE0NSwxMD
+U5Mjk0MDE4LC0xNjE3NzE3OTgwLC04ODc4NDUxMzksLTE3MTc1
+MjQyMDIsMjk0MDg0MTYsLTM2ODI1MDE3NiwtODQzMTM1NjI4LD
+EyOTUyNTQ0NzcsMTY3MjE2NTYyNCw2NDgzMTEzMDMsLTEyMjY5
+NzQwODRdfQ==
 -->
