@@ -698,6 +698,7 @@ https://www.ncet.edu.cn/zhuzhan/ywgzxmhd/20260318/6714.html  （**5月11日-6月
 
 - [x] 编程客观题测试平台（学生登录、账号管理、测试记录、题库管理）。
 - [ ] 待办：结合生成式AI的编程学习效果评价有效性验证（编程、科创学生《生成式AI辅助学习使用情况》调查问卷 + 定期测试成绩量化分析，生成式AI评价-成绩提升 相关性分析）。
+- [ ] 分析思路
 - [x] 生成式AI模型部署方案评估。
 - [x] 25年东莞市信息学科论文一篇《初中信息科技教学中大模型与智能体应用探索》
 - [x] 合著《AI赋能微课高级特效设计与制作》，编写第四章《AI 实践应用案例》第3节-第10节内容，收录了信息学科编程测试平台实践案例 和 排序算法动态演示案例。
@@ -749,11 +750,11 @@ https://www.ncet.edu.cn/zhuzhan/ywgzxmhd/20260318/6714.html  （**5月11日-6月
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTQ5MTY4NSwxOTEzMzM1OTUxLDE5NT
-IyMjIzNiwtODI2NDI2OTk4LC0yOTI5NTA1OTEsLTE0NTE2OTUw
-MjMsLTc0MzgxODMxOCwxNzMxODk0MTksOTY1OTYxMzA5LC0xMz
-U3MzEwMjU5LC0xNzE2OTA0MzMxLDMyNjQ5NDE0NSwxMDU5Mjk0
-MDE4LC0xNjE3NzE3OTgwLC04ODc4NDUxMzksLTE3MTc1MjQyMD
-IsMjk0MDg0MTYsLTM2ODI1MDE3NiwtODQzMTM1NjI4LDEyOTUy
-NTQ0NzddfQ==
+eyJoaXN0b3J5IjpbMzk4ODk2OTY0LC02NjU0OTE2ODUsMTkxMz
+MzNTk1MSwxOTUyMjIyMzYsLTgyNjQyNjk5OCwtMjkyOTUwNTkx
+LC0xNDUxNjk1MDIzLC03NDM4MTgzMTgsMTczMTg5NDE5LDk2NT
+k2MTMwOSwtMTM1NzMxMDI1OSwtMTcxNjkwNDMzMSwzMjY0OTQx
+NDUsMTA1OTI5NDAxOCwtMTYxNzcxNzk4MCwtODg3ODQ1MTM5LC
+0xNzE3NTI0MjAyLDI5NDA4NDE2LC0zNjgyNTAxNzYsLTg0MzEz
+NTYyOF19
 -->
