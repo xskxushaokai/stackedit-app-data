@@ -175,6 +175,8 @@ dp[i][j] = MAX{
 */
 ```
 
+---
+
 ## 多重背包 二进制优化
 ### 引入
 多重背包的朴素解法是对每种物品枚举所有可选的数量，时间复杂度为$O(m*\sum(s_i))$，$s_i$为第`i`种物品的数量。这是一个$n^2$级别的时间复杂度，所以我们考虑降低时间复杂度。
@@ -340,6 +342,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Nzc1MDMwNSw1MzE3MTMzNzUsNjUxNz
-I4ODM5LC01MzYwNzMzMjBdfQ==
+eyJoaXN0b3J5IjpbMTU4MzIzMjk1NiwtNzU3NzUwMzA1LDUzMT
+cxMzM3NSw2NTE3Mjg4MzksLTUzNjA3MzMyMF19
 -->
