@@ -213,9 +213,15 @@ dp[i][j] = MAX{
 5:10 15
 // 原第2种物品拆分后得到4个新物品
 1:3 5
-2:
+2:6 10
+4:12 20
+8:24 40
+// 原第3种物品拆分后得到2个新物品
+1:1 2
+2:2 4
 ```
 
+#
 
 
 <br><br><br>
@@ -242,6 +248,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODUwNjkzNyw2NTE3Mjg4MzksLTUzNj
-A3MzMyMF19
+eyJoaXN0b3J5IjpbNjcwMDU2MDcyLDY1MTcyODgzOSwtNTM2MD
+czMzIwXX0=
 -->
