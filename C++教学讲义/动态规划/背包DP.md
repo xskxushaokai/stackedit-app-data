@@ -282,7 +282,7 @@ int main(){
     cin >> n >> v;
 
     // int MAXN = (int)ceil(log2(5000)+1)*2000;
-    // cout << MAXN << endl;  // 28000
+    // cout << MAXN << endl;  // 28000,手动算一下二进制拆分后的物品数最大取值范围
 
     int num=1;  // 拆分后折合的物品数计数
     for(int i=1;i<=n;i++){
@@ -340,6 +340,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MzQzMTUzLDY1MTcyODgzOSwtNTM2MD
+eyJoaXN0b3J5IjpbNTMxNzEzMzc1LDY1MTcyODgzOSwtNTM2MD
 czMzIwXX0=
 -->
