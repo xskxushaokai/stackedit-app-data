@@ -191,7 +191,7 @@ dp[i][j] = MAX{
 
 本质上，二进制拆分就是将10进制数转换为2进制来表示，2进制数的**每一位就代表转换后的一个新物品**，0代表不拿该物品，1代表拿该物品，第$k$位的位权$2^k$则代表**新物品等价于$2^k$个原物品**。
 
-
+二进制优化后的时间复杂度为：$O(m*\sum(log(s_i)))$
 
 
 <br><br><br>
@@ -218,6 +218,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg2NjQ2MzEsNjUxNzI4ODM5LC01Mz
-YwNzMzMjBdfQ==
+eyJoaXN0b3J5IjpbMTg1MjM2NzI2Miw2NTE3Mjg4MzksLTUzNj
+A3MzMyMF19
 -->
