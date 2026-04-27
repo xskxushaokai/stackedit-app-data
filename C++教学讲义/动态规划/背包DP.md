@@ -224,22 +224,22 @@ dp[i][j] = MAX{
 ## 例题 T677612 逃亡的准备
 
 
-## 题目描述
+### 题目描述
 
 在《Harry Potter and the Deathly Hallows》中，Harry Potter他们一起逃亡，现 在有许多的东西要放到赫敏的包里面，但是包的大小有限，所以我们只能够在里面放入非常重要的物品，现在给出该种物品的数量、体积、价值的数值，希望你能够算出能使背包的价值最大的组合方式，并且输出这个数值，赫敏会非常地感谢你。
 
-## 输入格式
+### 输入格式
 
 第1行有2个整数，物品种数 n 和背包装载体积 v。  
 第2行到n+1行每行3个整数，为第i种物品的数量m、体积w、价值s。
 
-## 输出格式
+### 输出格式
 
 一个整数，即为能拿到的最大的物品价值总和。
 
-## 输入输出样例 #1
+### 输入输出样例 #1
 
-### 输入 #1
+#### 输入 #1
 
 ```
 2 10
@@ -248,13 +248,13 @@ dp[i][j] = MAX{
 
 ```
 
-### 输出 #1
+#### 输出 #1
 
 ```
 13
 ```
 
-## 说明/提示
+### 说明/提示
 
 【样例解释】  
 选第一种一个，第二种两个，结果为 3×1+5×2=13。
@@ -264,6 +264,56 @@ dp[i][j] = MAX{
 1≤v≤500，1≤n≤2000，1≤m≤10，1≤w≤20，1≤s≤100。  
 对于100%的数据：
 1≤v≤2000，1≤n≤2000，1≤m≤5000，1≤w≤20，1≤s≤100。
+
+
+### 参考代码(模板)
+```cpp
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+// 存放二进制拆分后物品的体积和价值
+
+int ww[28005], ss[28005];
+int f[2005];
+
+int main(){
+    int n, v, m, w, s;
+    cin >> n >> v;
+
+    // int MAXN = (int)ceil(log2(5000)+1)*2000;
+    // cout << MAXN << endl;  // 28000
+
+    int num=1;  // 拆分后折合的物品数计数
+    for(int i=1;i<=n;i++){
+        // i物品的数量、体积、价值
+        cin >> m >> w >> s;
+
+        for(int j=1;j<=m;j*=2){
+            ww[num] = j*w;  // 折合后的物品体积
+            ss[num++] = j*s;  // 折合后的物品价值
+            m -= j;    // 拆分完当前新物品后剩余待拆分的数量
+        }
+        if(s){  // 有剩余
+            ww[num] = m*w;
+            ss[num++] = m*s;
+        }
+        
+    }
+
+    num--;  // 所有物品全部拆分完后，num自加了1，故要减掉1才是拆分后实际的物品数
+
+    // 01背包
+    for(int i=1;i<=num;i++)
+        for(int j=v;j>=ww[i];j--)
+            f[j] = max(f[j], f[j-ww[i]]+ss[i]);
+
+    cout << f[v] << endl;
+    return 0;
+    
+}
+```
+
 
 
 <br><br><br>
@@ -290,6 +340,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjk3NTE0OSw2NTE3Mjg4MzksLTUzNj
-A3MzMyMF19
+eyJoaXN0b3J5IjpbMzA1MzQzMTUzLDY1MTcyODgzOSwtNTM2MD
+czMzIwXX0=
 -->
