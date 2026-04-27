@@ -183,7 +183,12 @@ dp[i][j] = MAX{
 
 假设有50个苹果，现在要取`n`个苹果`(n≤50)`，如何取？朴素的做法应该是将苹果一个一个拿出来，直到n个苹果被取出来。
 
-再假设有50个苹果和6只箱子，利用箱子进行某些预备工作，可以在每个箱子中放$2^k(k≥0)$个苹果，也就是1、2、4、8、16、19(剩余的数)，取任意n个苹果时，只要推出几只箱子就可以了。
+再假设有50个苹果和6只箱子，利用箱子进行某些预备工作，可以在每个箱子中放$2^k(k≥0)$个苹果，也就是$1、2、4、8、16、19(剩余的数)$，取任意$n$个苹果时，只要推出某几只箱子就可以了。
+
+这就是**二进制拆分思想**：
+
+将第i种物品拆分成若干件物品，每件物品的体积和价值乘以一个拆。分系数(1,21,22.--.2k-1,s;-2k+1)，就可以转化成01背包的物品求解。例如，si=12，拆分系数为1,2,4,5，转化成4件01背包的物品:(v1, w), (2v, 2w), (4v, 4w), (5v, 5w)
+
 
 
 
@@ -212,6 +217,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNDc3MzY1LDY1MTcyODgzOSwtNTM2MD
-czMzIwXX0=
+eyJoaXN0b3J5IjpbLTEwOTUxODQ1MzEsNjUxNzI4ODM5LC01Mz
+YwNzMzMjBdfQ==
 -->
