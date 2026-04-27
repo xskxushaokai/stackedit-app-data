@@ -175,6 +175,10 @@ dp[i][j] = MAX{
 */
 ```
 
+## 多重背包 二进制优化
+### 引入
+多重背包的朴素解法是枚举每种物品ke
+
 
 
 
@@ -202,5 +206,5 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjA3MzMyMF19
+eyJoaXN0b3J5IjpbMzU5MDQ0NjM3LC01MzYwNzMzMjBdfQ==
 -->
