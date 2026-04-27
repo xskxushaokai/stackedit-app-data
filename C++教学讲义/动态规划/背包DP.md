@@ -221,7 +221,49 @@ dp[i][j] = MAX{
 2:2 4
 ```
 
-#
+## 例题 T677612 逃亡的准备
+
+
+## 题目描述
+
+在《Harry Potter and the Deathly Hallows》中，Harry Potter他们一起逃亡，现 在有许多的东西要放到赫敏的包里面，但是包的大小有限，所以我们只能够在里面放入非常重要的物品，现在给出该种物品的数量、体积、价值的数值，希望你能够算出能使背包的价值最大的组合方式，并且输出这个数值，赫敏会非常地感谢你。
+
+## 输入格式
+
+第1行有2个整数，物品种数 n 和背包装载体积 v。  
+第2行到n+1行每行3个整数，为第i种物品的数量m、体积w、价值s。
+
+## 输出格式
+
+一个整数，即为能拿到的最大的物品价值总和。
+
+## 输入输出样例 #1
+
+### 输入 #1
+
+```
+2 10
+3 4 3
+2 2 5
+
+```
+
+### 输出 #1
+
+```
+13
+```
+
+## 说明/提示
+
+【样例解释】  
+选第一种一个，第二种两个，结果为 3×1+5×2=13。
+
+【数据范围】
+对于30%的数据：
+1≤v≤500，1≤n≤2000，1≤m≤10，1≤w≤20，1≤s≤100。  
+对于100%的数据：
+1≤v≤2000，1≤n≤2000，1≤m≤5000，1≤w≤20，1≤s≤100。
 
 
 <br><br><br>
@@ -248,6 +290,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMDU2MDcyLDY1MTcyODgzOSwtNTM2MD
-czMzIwXX0=
+eyJoaXN0b3J5IjpbLTIyNjk3NTE0OSw2NTE3Mjg4MzksLTUzNj
+A3MzMyMF19
 -->
