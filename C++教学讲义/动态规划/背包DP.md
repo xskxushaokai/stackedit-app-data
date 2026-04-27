@@ -193,6 +193,10 @@ dp[i][j] = MAX{
 
 二进制优化后的时间复杂度为：$O(m*\sum(log(s_i)))$
 
+所以在使用二进制拆分时，要注意手动计算拆分后新物品的最大s
+
+
+
 
 <br><br><br>
 
@@ -218,6 +222,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjM2NzI2Miw2NTE3Mjg4MzksLTUzNj
+eyJoaXN0b3J5IjpbLTk4ODA0NzcyOCw2NTE3Mjg4MzksLTUzNj
 A3MzMyMF19
 -->
