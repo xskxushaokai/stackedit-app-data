@@ -205,8 +205,15 @@ dp[i][j] = MAX{
 ```
 则二进制拆分后等效的新物品为：
 ```
-// 原第1种物品拆分后得到四个新物品，体积和价值为
-
+// 拆分系数:体积 价值
+// 原第1种物品拆分后得到4个新物品
+1:2 3
+2:4 6
+4:8 12
+5:10 15
+// 原第2种物品拆分后得到4个新物品
+1:3 5
+2:
 ```
 
 
@@ -235,6 +242,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNjM2ODQ0LDY1MTcyODgzOSwtNTM2MD
-czMzIwXX0=
+eyJoaXN0b3J5IjpbLTQwODUwNjkzNyw2NTE3Mjg4MzksLTUzNj
+A3MzMyMF19
 -->
