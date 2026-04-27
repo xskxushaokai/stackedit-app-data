@@ -187,7 +187,7 @@ dp[i][j] = MAX{
 
 这就是**二进制拆分思想**：
 
-将第`i`种物品拆分成若干件物品，每件物品的体积和价值乘以一个拆分系数$(1,2^1,2^2,...,2^{k-1},s_i-2^{k+1})$，就可以转化成01背包的物品求解。例如，$s_i=12$，拆分系数为1,2,4,5，转化成4件01背包的物品:(v1, w), (2v, 2w), (4v, 4w), (5v, 5w)
+将第`i`种物品拆分成若干件物品，每件物品的体积和价值乘以一个拆分系数$(1,2^1,2^2,...,2^{k-1},s_i-2^{k+1})$，就可以转化成01背包的物品求解。例如，$s_i=12$，拆分系数则为$1,2,4,5$，转化成 4 件0/1背包的物品:$(v, w), (2v, 2w), (4v, 4w), (5v, 5w)$
 
 
 
@@ -217,6 +217,6 @@ https://csp.wiki/docs/CSP-J/4-DP/05
 
 【E16 背包DP 分组背包】 https://www.bilibili.com/video/BV16a411w77X/?share_source=copy_web&vd_source=112561ecfd81a3ee5bf3c71dbb15e4b7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIyMTI5NzcsNjUxNzI4ODM5LC01Mz
-YwNzMzMjBdfQ==
+eyJoaXN0b3J5IjpbMTYxMzg1MTczNiw2NTE3Mjg4MzksLTUzNj
+A3MzMyMF19
 -->
