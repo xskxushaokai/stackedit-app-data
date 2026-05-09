@@ -695,6 +695,7 @@ https://www.ncet.edu.cn/zhuzhan/ywgzxmhd/20260318/6714.html  （**5月11日-6月
 	- [x] 题单功能（只有教师可以创建题单、通过题号批量添加题目），题单属性包含：题单名称、说明、题目；所有用户都可以查看每个题单下所有用户的完成情况；学生可以查看自己所在小组所有用户的题单完成情况；教师可查看所有小组的题单完成情况并支持按小组导出数据；
 	- [ ] 题目.md + 代码.cpp AI批量生成测试点
 	- [ ] AI自动导入题目，后台预留auto_import接口，专用于自动导入题目，需验证账号密码。
+	- [ ] 题目测试点生成和导入
 
 - [x] 编程客观题测试平台（学生登录、账号管理、测试记录、题库管理）。
 - [ ] 待办：结合生成式AI的编程学习效果评价有效性验证（编程、科创学生《生成式AI辅助学习使用情况》调查问卷 + 定期测试成绩量化分析，生成式AI评价-成绩提升 相关性分析）。
@@ -750,11 +751,11 @@ https://www.ncet.edu.cn/zhuzhan/ywgzxmhd/20260318/6714.html  （**5月11日-6月
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTIwNjA4NiwtMTc5MjA2Nzg3NSwxMT
-AzNTI0NDg1LC02NjU0OTE2ODUsMTkxMzMzNTk1MSwxOTUyMjIy
-MzYsLTgyNjQyNjk5OCwtMjkyOTUwNTkxLC0xNDUxNjk1MDIzLC
-03NDM4MTgzMTgsMTczMTg5NDE5LDk2NTk2MTMwOSwtMTM1NzMx
-MDI1OSwtMTcxNjkwNDMzMSwzMjY0OTQxNDUsMTA1OTI5NDAxOC
-wtMTYxNzcxNzk4MCwtODg3ODQ1MTM5LC0xNzE3NTI0MjAyLDI5
-NDA4NDE2XX0=
+eyJoaXN0b3J5IjpbMTQzNjA2NDY4MiwtOTExMjA2MDg2LC0xNz
+kyMDY3ODc1LDExMDM1MjQ0ODUsLTY2NTQ5MTY4NSwxOTEzMzM1
+OTUxLDE5NTIyMjIzNiwtODI2NDI2OTk4LC0yOTI5NTA1OTEsLT
+E0NTE2OTUwMjMsLTc0MzgxODMxOCwxNzMxODk0MTksOTY1OTYx
+MzA5LC0xMzU3MzEwMjU5LC0xNzE2OTA0MzMxLDMyNjQ5NDE0NS
+wxMDU5Mjk0MDE4LC0xNjE3NzE3OTgwLC04ODc4NDUxMzksLTE3
+MTc1MjQyMDJdfQ==
 -->
