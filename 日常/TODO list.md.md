@@ -697,6 +697,7 @@ https://www.ncet.edu.cn/zhuzhan/ywgzxmhd/20260318/6714.html  （**5月11日-6月
 	- [ ] 批量创建学生账户
 	- [x] 小组功能（教师可创建小组、添加小组成员、删除小组成员），学生可搜索小组名申请加入小组，小组教师审核后方可加入。
 	- [x] 题单功能（只有教师可以创建题单、通过题号批量添加题目），题单属性包含：题单名称、说明、题目；所有用户都可以查看每个题单下所有用户的完成情况；学生可以查看自己所在小组所有用户的题单完成情况；教师可查看所有小组的题单完成情况并支持按小组导出数据；
+	- [ ] 实时监控面板，单独一个网页，显示评测队列、在线用户，以及其他必要的统计信息
 	- [ ] 题目.md + 代码.cpp AI批量生成测试点
 	- [ ] AI自动导入题目，后台预留auto_import接口，专用于自动导入题目，需验证账号密码。
 
@@ -754,11 +755,11 @@ https://www.ncet.edu.cn/zhuzhan/ywgzxmhd/20260318/6714.html  （**5月11日-6月
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDUxODc1NywyNzgwMjIxNTUsLTkxMT
-IwNjA4NiwtMTc5MjA2Nzg3NSwxMTAzNTI0NDg1LC02NjU0OTE2
-ODUsMTkxMzMzNTk1MSwxOTUyMjIyMzYsLTgyNjQyNjk5OCwtMj
-kyOTUwNTkxLC0xNDUxNjk1MDIzLC03NDM4MTgzMTgsMTczMTg5
-NDE5LDk2NTk2MTMwOSwtMTM1NzMxMDI1OSwtMTcxNjkwNDMzMS
-wzMjY0OTQxNDUsMTA1OTI5NDAxOCwtMTYxNzcxNzk4MCwtODg3
-ODQ1MTM5XX0=
+eyJoaXN0b3J5IjpbLTE3MTE1NDkzMzksLTM1NDUxODc1NywyNz
+gwMjIxNTUsLTkxMTIwNjA4NiwtMTc5MjA2Nzg3NSwxMTAzNTI0
+NDg1LC02NjU0OTE2ODUsMTkxMzMzNTk1MSwxOTUyMjIyMzYsLT
+gyNjQyNjk5OCwtMjkyOTUwNTkxLC0xNDUxNjk1MDIzLC03NDM4
+MTgzMTgsMTczMTg5NDE5LDk2NTk2MTMwOSwtMTM1NzMxMDI1OS
+wtMTcxNjkwNDMzMSwzMjY0OTQxNDUsMTA1OTI5NDAxOCwtMTYx
+NzcxNzk4MF19
 -->
